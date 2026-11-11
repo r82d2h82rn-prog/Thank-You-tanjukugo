@@ -1,3 +1,5 @@
+> 最新の実数は [CONTENT_STATUS.md](../CONTENT_STATUS.md) と analysis/production_checkpoint.json。以下の固定件数は前の制作単位の記録を含みます。
+
 # 教材制作・調査報告
 
 2026-11-12 JST。公開リポジトリへの送信はユーザーの明示承認後に完了しました。作業中PR: https://github.com/r82d2h82rn-prog/Thank-You-tanjukugo/pull/1 。**単語3,900・熟語2,000・長文400の全量導入は未完了**です。
@@ -47,3 +49,5 @@ content/word_adoption_plan.csvに3,900語の仮採用・制作台帳を用意し
 最新追加はcontent/authoring/word_batch_20261112.tsv、content/words/drafts.json、content/word_adoption_plan.csv、analysis/word_plan_summary.json、除外一覧、取り込み・台帳生成スクリプト、検査・出典表示・進捗文書です。再開手順はdocs/CONTENT_PROGRESS.md。全量制作の指示と収録数は維持しています。
 
 承認済みSECTIONへの移行時、旧検証教材と重複して100語が200語になる問題を修正しました。新規IDを含むSECTIONは100語/50熟語の全体承認が必要です。旧SECTIONが有効カタログから外れても履歴キーは残し、新語の習得へ転用しません。同じIDを別語に変える、重複ID、番号不備、自動検査未完了も拒否する回帰検査を追加しました。現在は承認済み0なので、実際の学習対象150項目は変えていません。退役教材の履歴を専用画面で閲覧するUIは未実装です。
+
+最新の本文制作単位で500語を追加。草稿合計1,000語、LEVEL別500/300/100/100。全語に意味・品詞・IPA・独自例文・和訳・用法を付与。人手確認待ちは旧検証用込み1,150項目。正式承認0。本文制作を継続するための再開情報はdocs/AUTHORING_CHECKPOINT.md。

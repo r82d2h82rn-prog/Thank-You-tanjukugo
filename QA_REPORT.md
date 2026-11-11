@@ -1,3 +1,5 @@
+> 最新の実数は [CONTENT_STATUS.md](CONTENT_STATUS.md) と analysis/production_checkpoint.json。以下の固定件数は前の制作単位の記録を含みます。
+
 # 今回の検証結果
 
 2026-11-12 JST。前タスクの成功結果を今回の再検証結果として流用していません。

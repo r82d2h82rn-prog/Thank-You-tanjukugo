@@ -14,6 +14,7 @@ def ingest(path,root=ROOT):
  drafts=read_json(root/'content/words/drafts.json');samples=read_json(root/'src/data/entries.json')
  existing={normalized(e['english']):e for e in drafts+samples if e['kind']=='word'}
  source_map={s['id']:s for s in sources};new=[]
+ positions={(e['level'],e['section'],e['number']):e['id'] for e in drafts}
  with path.open(encoding='utf-8',newline='') as file:
   for row in csv.DictReader(file,delimiter='\t'):
    lemma=normalized(row['english']);level=int(row['level']);section=int(row['section']);number=int(row['number'])
@@ -25,6 +26,9 @@ def ingest(path,root=ROOT):
     old=existing[lemma]
     if all(old.get(k)==entry.get(k) for k in ['english','pos','pronunciation','meaning','example','translation','explanation','level','section','number']):continue
     raise ValueError('既存語の内容・IDを自動上書きしません: '+lemma)
+   position=(level,section,number)
+   if position in positions:raise ValueError('既存の教材番号を自動上書きしません: '+str(position))
+   positions[position]=entry['id']
    errors=validate_entry(entry,source_map,set(),require_approval=False)
    if errors:raise ValueError((lemma,errors))
    existing[lemma]=entry;new.append(entry)

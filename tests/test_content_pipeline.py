@@ -28,9 +28,11 @@ class PipelineTests(unittest.TestCase):
     def test_existing_data_and_new_drafts_have_unique_identity_and_complete_structure(self):
         project=pathlib.Path(__file__).resolve().parents[1]
         samples=json.loads((project/'src/data/entries.json').read_text()); drafts=json.loads((project/'content/words/drafts.json').read_text())
-        self.assertEqual(len(drafts),500); self.assertEqual(len({e['id'] for e in samples+drafts}),650)
-        self.assertEqual(len({e['english'] for e in samples+drafts if e['kind']=='word'}),600)
-        for level,section_number in [(1,1),(2,1),(2,2),(3,1),(4,1)]:
+        self.assertGreaterEqual(len(drafts),500); self.assertEqual(len({e['id'] for e in samples+drafts}),len(samples)+len(drafts))
+        self.assertEqual(len({e['english'] for e in samples+drafts if e['kind']=='word'}),100+len(drafts))
+        protected=json.loads((project/'tests/fixtures/protected_word_ids.json').read_text()); by_id={e['id']:e['english'] for e in drafts}
+        self.assertTrue(all(by_id.get(key)==value for key,value in protected.items()))
+        for level,section_number in sorted({(e['level'],e['section']) for e in drafts}):
             section=[e for e in drafts if e['level']==level and e['section']==section_number]
             self.assertEqual([e['number'] for e in section],list(range(1,101)))
             order={'動詞':0,'名詞':1,'形容詞':2,'副詞':3}
@@ -45,7 +47,8 @@ class PipelineTests(unittest.TestCase):
         for path in ['content/word_candidates.csv','content/words/drafts.json','src/data/entries.json']:
             shutil.copy(project/path,self.root/path)
         result=build_plan(self.root);rows=read_csv(self.root/'content/word_adoption_plan.csv')
-        self.assertEqual(result['proposedCounts'],[800,900,1200,1000]);self.assertEqual(result['unwrittenCounts'],[700,700,1100,900])
+        self.assertEqual(result['proposedCounts'],[800,900,1200,1000])
+        self.assertEqual([a+b for a,b in zip(result['unwrittenCounts'],result['authoredCounts'])],[800,900,1200,1000])
         self.assertEqual(len(rows),3900);self.assertEqual(len({r['id'] for r in rows}),3900)
         drafts=json.loads((project/'content/words/drafts.json').read_text());planned={r['lemma']:r for r in rows}
         self.assertTrue(all(planned[e['english']]['id']==e['id'] for e in drafts))

@@ -1,3 +1,5 @@
+> 最新の実数は [CONTENT_STATUS.md](../CONTENT_STATUS.md) と analysis/production_checkpoint.json。以下の固定件数は前の制作単位の記録を含みます。
+
 # 教材制作の引き継ぎ
 
 2026-11-12 JST。作業ブランチは `feat/full-content-production`。元は `feat/content-pipeline-and-practice-flow`、基点コミット e51d57edd430e20a053b6cea202b0e9b2a65b1e8。

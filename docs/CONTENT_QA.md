@@ -1,3 +1,5 @@
+> 最新の実数は [CONTENT_STATUS.md](../CONTENT_STATUS.md) と analysis/production_checkpoint.json。以下の固定件数は前の制作単位の記録を含みます。
+
 # 教材品質検査
 
 2026-11-12 JST。
