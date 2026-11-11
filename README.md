@@ -64,7 +64,7 @@ Premium検証スイッチは `__DEV__` のみ。本番ビルドでは表示さ�
 - 現在の接続状況は docs/NETWORK_REQUIREMENTS.md。利用条件の記録は docs/SOURCE_LICENSES.md と content/sources.json。
 - 今回の報告は docs/CONTENT_REPORT.md、詳細手順は docs/CONTENT_PROGRESS.md。開発計画は IMPLEMENTATION_PLAN.md、現状は PROGRESS.md、検査結果は QA_REPORT.md。
 - sample: src/data/entries.json、出典・状態: content/provenance.json、草稿: content/words/drafts.json、正式導入口: content/words/approved.json / content/idioms/approved.json。既存IDを別の語へ再利用しないでください。
-- 正式データの承認と出典条件を `src/content.ts` で検証し、同一IDの検証用教材だけを置き換えます。人手校閲未完了の草稿を正式教材として自動導入しません。
+- 正式データの承認と出典条件を `src/content.ts` で検証し、承認済み100語/50熟語のSECTIONを単位として検証用教材から切り替えます。同一IDの文章改訂は同じ英語・同じkindに限り、別語へのID流用を拒否します。旧教材の履歴キーは削除せず、新語へ付け替えません。人手校閲未完了の草稿を正式教材として自動導入しません。
 
 ## Vercelと公開
 
