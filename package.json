@@ -1,0 +1,29 @@
+{
+  "name": "thank-you-learning",
+  "version": "0.1.0",
+  "private": true,
+  "main": "expo/AppEntry",
+  "scripts": {
+    "start": "node scripts/expo.mjs start",
+    "web": "node scripts/expo.mjs start --web --host localhost",
+    "build:web": "node scripts/expo.mjs export --platform web",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "test:e2e": "playwright test",
+    "test:production": "node scripts/check-production.mjs"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~55.0.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-native": "^0.83.10",
+    "react-native-web": "^0.21.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/react": "~19.2.0",
+    "tsx": "^4.20.0",
+    "typescript": "~5.9.2"
+  }
+}
