@@ -25,6 +25,14 @@ node scripts/check-production.mjs
 
 E2EはPlaywrightとChromiumを使用します。クラウド環境では `/usr/bin/chromium` が利用可能です。他の環境では `playwright.config.ts` の `executablePath` をローカルのChromiumに合わせてください。本番確認スクリプトは `CHROMIUM_PATH` にも対応します。Python 3を静的ファイル配信に使います。`dist/` はWeb配布用ビルド出力です。デプロイは自動実行しません。
 
+## Vercelへの追加準備
+
+`vercel.json` にインストール `npm ci`、ビルド `npm run build:web`、出力先 `dist`、Framework Preset `Other` 相当の設定を保存しています。現在の実装は `feat/web-learning-foundation` ブランチにあり、`main` にはまだ反映していません。
+
+この環境にはVercelアカウントの認証・プロジェクト連携がありません。アカウント認証後、作業ブランチから `vercel deploy` でプレビューデプロイできます。`--prod` による本番公開は行いません。GitHub連携で追加する際は、この作業ブランチと本番ブランチの設定を確認してください。Vercelの初回ImportからのDeployは本番デプロイになり得るため、プレビューと混同しないでください。
+
+プレビューはリモート上で操作を確認するための配信であり、端末内の保存データは開発環境や別のプレビューURLから自動移行されません。Vercelへの実登録・デプロイ・有料プラン契約はまだ行っていません。
+
 ## 実装済み
 
 - 正式名称、ホワイト×ネイビーのレスポンシブホーム、LEVEL 1〜4、前回セクションへの再開。
