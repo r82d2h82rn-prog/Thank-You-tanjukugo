@@ -29,9 +29,10 @@ try {
   await page.getByRole('button', { name: 'この設定で練習を開始' }).click();
   await page.getByRole('button', { name: data[0].meaning, exact: true }).click();
   await page.getByText('✓ 正解！', { exact: true }).waitFor();
-  await page.getByRole('button', { name: '次の問題へ →', exact: true }).click();
+  await page.waitForTimeout(420);
+  await page.getByTestId('practice-card').click({ position: { x: 20, y: 20 } });
   await page.getByRole('button', { name: 'わからない', exact: true }).click();
-  await page.getByText('もう一度、覚えよう', { exact: true }).waitFor();
+  await page.getByText('？ わからない', { exact: true }).waitFor();
   const frequencies = await page.evaluate(() => window.audioFrequencies);
   for (const f of [900, 660, 880, 220, 174]) assert.ok(frequencies.includes(f), `missing sound ${f}`);
   assert.deepEqual(errors, []);

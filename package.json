@@ -10,7 +10,12 @@
     "typecheck": "tsc --noEmit",
     "test": "tsx --test tests/*.test.ts",
     "test:e2e": "playwright test",
-    "test:production": "node scripts/check-production.mjs"
+    "test:production": "node scripts/check-production.mjs",
+    "content:probe": "python3 scripts/content_pipeline.py probe",
+    "content:audit": "python3 scripts/content_pipeline.py audit",
+    "content:release-check": "python3 scripts/content_pipeline.py audit --release",
+    "content:analyze": "python3 scripts/analyze_corpus.py",
+    "test:content": "python3 -m unittest discover -s tests -p \"test_*.py\" -v"
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "2.2.0",

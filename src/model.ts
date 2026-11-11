@@ -3,14 +3,14 @@ export type Kind = 'word' | 'idiom';
 export type Level = 1 | 2 | 3 | 4;
 export interface Entry { id: string; number: number; level: Level; section: number; kind: Kind; english: string; meaning: string; pos: string; pronunciation: string; example: string; translation: string; explanation: string; acceptedAnswers: string[] }
 export interface Attempt { id: string; at: string; correct: boolean }
-export interface Mastery { streak: number; mastered: boolean; history: Attempt[] }
-export interface State { version: 1; progress: Record<string, Partial<Record<Mode, Mastery>>>; favorites: string[]; settings: { sound: boolean; speech: boolean }; lastSection?: { level: Level; kind: Kind; section: number }; permanentAwards: string[] }
+export interface Mastery { streak: number; mastered: boolean; history: Attempt[]; lastAnsweredAt?: string; lastResult?: boolean; masteredAt?: string | null }
+export interface State { version: 1; progress: Record<string, Partial<Record<Mode, Mastery>>>; favorites: string[]; settings: { sound: boolean; speech: boolean }; lastSection?: { level: Level; kind: Kind; section: number; mode?: Mode }; permanentAwards: string[] }
 export const emptyState = (): State => ({ version: 1, progress: {}, favorites: [], settings: { sound: true, speech: false }, permanentAwards: [] });
 export const mastery = (state: State, id: string, mode: Mode): Mastery => state.progress[id]?.[mode] ?? { streak: 0, mastered: false, history: [] };
 export function answer(state: State, id: string, mode: Mode, correct: boolean, at = new Date().toISOString()): State {
   const previous = mastery(state, id, mode);
   const streak = correct ? previous.streak + 1 : 0;
-  return { ...state, progress: { ...state.progress, [id]: { ...state.progress[id], [mode]: { streak, mastered: streak >= 2, history: [...previous.history, { id: `${at}-${previous.history.length}`, at, correct }] } } } };
+  return { ...state, progress: { ...state.progress, [id]: { ...state.progress[id], [mode]: { streak, mastered: streak >= 2, lastAnsweredAt: at, lastResult: correct, masteredAt: streak >= 2 ? (previous.masteredAt ?? at) : null, history: [...previous.history, { id: `${at}-${previous.history.length}`, at, correct }] } } } };
 }
 export function normalize(value: string) { return value.trim().toLowerCase(); }
 export function grade(entry: Entry, value: string) { return [entry.english, ...entry.acceptedAnswers].some(a => normalize(a) === normalize(value)); }

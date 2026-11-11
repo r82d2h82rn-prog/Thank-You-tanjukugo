@@ -1,0 +1,43 @@
+{
+  "analyzedAt": "2026-11-11T16:13:23.739423+00:00",
+  "status": "no_authorized_corpus",
+  "examCount": 0,
+  "corpusWords": 0,
+  "universityCount": 0,
+  "measuredWordTypes": 0,
+  "confirmedIdiomCount": null,
+  "universities": {},
+  "exams": [],
+  "skipped": [
+    {
+      "id": "dnc-listing",
+      "reason": "analysis permission/evidence unverified"
+    },
+    {
+      "id": "tokyo-listing",
+      "reason": "analysis permission/evidence unverified"
+    },
+    {
+      "id": "kyoto-listing",
+      "reason": "analysis permission/evidence unverified"
+    },
+    {
+      "id": "osaka-listing",
+      "reason": "analysis permission/evidence unverified"
+    },
+    {
+      "id": "waseda-listing",
+      "reason": "analysis permission/evidence unverified"
+    },
+    {
+      "id": "keio-listing",
+      "reason": "analysis permission/evidence unverified"
+    }
+  ],
+  "limitations": [
+    "原形変換は明示したforms辞書のみ。派生語は自動統合しない。",
+    "熟語検出は候補。構文・語義の人手確認が必要。",
+    "採用スコアは一般頻度・LEVEL適合が揃うまで未算出。",
+    "未取得の大学・年度を0頻度の母集団へ追加しない。"
+  ]
+}

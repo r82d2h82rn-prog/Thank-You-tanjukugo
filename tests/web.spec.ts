@@ -25,8 +25,11 @@ test('browser study flow: independent mastery, sounds, storage, search, mobile',
       if (incorrectFirst && i === 0) await page.getByRole('button', { name: 'わからない', exact: true }).click();
       else if (mode === 'choice') await page.getByRole('button', { name: data[i].meaning, exact: true }).click();
       else { await page.getByRole('textbox', { name: '英語の入力 1', exact: true }).fill(data[i].english.toUpperCase()); await page.getByRole('button', { name: '回答する', exact: true }).click(); }
-      await expect(page.getByText(i === 0 && incorrectFirst ? 'もう一度、覚えよう' : '✓ 正解！', { exact: true })).toBeVisible();
-      await page.getByRole('button', { name: i === 9 ? '結果を見る →' : '次の問題へ →', exact: true }).click();
+      await expect(page.getByText(i === 0 && incorrectFirst ? '？ わからない' : '✓ 正解！', { exact: true })).toBeVisible();
+      await expect(page.getByTestId('question-content')).toHaveCount(0);
+      await expect(page.getByRole('button', { name: /次へ|次の問題|NEXT|結果を見る/ })).toHaveCount(0);
+      await page.waitForTimeout(420);
+      await page.getByTestId('practice-card').click({ position: { x: 20, y: 20 } });
     }
     await page.getByRole('button', { name: 'セクション一覧へ' }).click();
   };
@@ -89,6 +92,76 @@ test('idiom word inputs, favorites and retained list position', async ({ page })
   for (const [i, word] of ['look', 'forward', 'to'].entries()) await page.getByRole('textbox', { name: `英語の入力 ${i + 1}`, exact: true }).fill(word);
   await page.getByRole('button', { name: '回答する', exact: true }).click();
   await expect(page.getByText('✓ 正解！', { exact: true })).toBeVisible();
-  await page.getByRole('button', { name: '結果を見る →', exact: true }).click();
+  await page.waitForTimeout(420);
+  await page.getByTestId('practice-card').click({ position: { x: 20, y: 20 } });
   await expect(page.getByRole('button', { name: '間違えた教材だけ再練習', exact: true })).toBeDisabled();
+});
+test('explanation replaces question; controls and double taps cannot skip or double save', async ({ page }) => {
+  await page.goto('/');
+  await page.getByRole('tab', { name: '設定', exact: true }).click();
+  await page.getByRole('switch', { name: 'Premium検証モード' }).click();
+  await page.getByRole('switch', { name: '英語の発音音声' }).click();
+  await page.getByRole('tab', { name: 'ホーム', exact: true }).click();
+  await page.getByRole('button', { name: 'LEVEL 1 高校入試', exact: true }).click();
+  await page.getByRole('button', { name: 'SECTION 01 · 英単語', exact: true }).click();
+  await page.getByRole('button', { name: '選択式練習を始める', exact: true }).click();
+  await page.getByRole('switch', { name: 'ランダム順' }).click();
+  await page.getByRole('button', { name: 'この設定で練習を開始' }).click();
+  await page.getByRole('button', { name: '学ぶ', exact: true }).dblclick({ delay: 30 });
+  await expect(page.getByTestId('question-content')).toHaveCount(0);
+  await expect(page.getByTestId('explanation-content')).toHaveCount(1);
+  await expect(page.getByText('✓ 正解！', { exact: true })).toBeInViewport();
+  await page.screenshot({ path: 'test-results/practice-explanation.png', fullPage: true });
+  await expect(page.getByRole('button', { name: /次へ|次の問題|NEXT/ })).toHaveCount(0);
+  await expect(page.getByText('選択式 · 1 / 10', { exact: true })).toBeVisible();
+  await page.waitForTimeout(420);
+  await page.getByRole('button', { name: '発音を聴く', exact: true }).click();
+  await page.getByRole('button', { name: '☆ お気に入り登録', exact: true }).click();
+  await expect(page.getByText('選択式 · 1 / 10', { exact: true })).toBeVisible();
+  await expect(page.getByText('保存済み', { exact: true })).toBeVisible();
+  const state = await page.evaluate(k => JSON.parse(localStorage.getItem(k)!), key);
+  expect(state.progress['word-l1-0001'].choice.history).toHaveLength(1);
+  expect(state.favorites).toContain('word-l1-0001');
+  const surface = page.getByTestId('practice-surface');
+  const bounds = await surface.boundingBox();
+  await surface.click({ position: { x: bounds!.width - 4, y: 20 } });
+  await expect(page.getByText('選択式 · 2 / 10', { exact: true })).toBeVisible();
+});
+test('wrong-item review continues after first correct answer until mastered', async ({ page }) => {
+  await page.addInitScript(() => {
+    (window as any).speechCalls = 0;
+    Object.defineProperty(window, 'speechSynthesis', { configurable: true, value: { cancel() {}, speak() { (window as any).speechCalls++; } } });
+  });
+  await page.addInitScript(k => {
+    localStorage.setItem(k, JSON.stringify({ version: 1, progress: {}, favorites: ['word-l1-0001'], settings: { sound: false, speech: true }, permanentAwards: [] }));
+  }, key);
+  // The seed is only for setup; preserve real writes on this page.
+  await page.goto('/');
+  await page.getByRole('tab', { name: '設定', exact: true }).click();
+  await page.getByRole('switch', { name: 'Premium検証モード' }).click();
+  await page.getByRole('tab', { name: 'ホーム', exact: true }).click();
+  await page.getByRole('button', { name: 'LEVEL 1 高校入試', exact: true }).click();
+  await page.getByRole('button', { name: 'SECTION 01 · 英単語', exact: true }).click();
+  await page.getByRole('button', { name: '選択式練習を始める', exact: true }).click();
+  await page.getByRole('button', { name: 'お気に入り', exact: true }).click();
+  await page.getByRole('button', { name: 'この設定で練習を開始' }).click();
+  await page.getByRole('button', { name: 'わからない', exact: true }).click();
+  await page.waitForTimeout(420); await page.getByTestId('practice-card').click({ position: { x: 20, y: 20 } });
+  await page.getByRole('button', { name: '間違えた教材だけ再練習', exact: true }).click();
+  for (let n = 0; n < 2; n++) {
+    await page.getByRole('button', { name: '学ぶ', exact: true }).click();
+    await page.waitForTimeout(420); await page.getByTestId('practice-card').click({ position: { x: 20, y: 20 } });
+    if (n === 0) await expect(page.getByRole('button', { name: '学ぶ', exact: true })).toBeVisible();
+  }
+  expect(await page.evaluate(() => (window as any).speechCalls)).toBeGreaterThanOrEqual(3);
+  await expect(page.getByText('今日の一歩、おつかれさまでした。')).toBeVisible();
+  await expect(page.getByRole('button', { name: '間違えた教材だけ再練習', exact: true })).toBeDisabled();
+});
+test('source credits distinguish unverified references from imported material', async ({ page }) => {
+  await page.goto('/');
+  await page.getByRole('tab', { name: '設定', exact: true }).click();
+  await page.getByRole('button', { name: '教材・出典・ライセンス', exact: true }).click();
+  await expect(page.getByText('教材の制作・利用条件', { exact: true })).toBeVisible();
+  await expect(page.getByText('NGSL', { exact: true })).toBeVisible();
+  await expect(page.getByText('確認済みバージョン：未確認 / 商用利用条件：未確認', { exact: true }).first()).toBeVisible();
 });

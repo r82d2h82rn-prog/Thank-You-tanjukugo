@@ -1,0 +1,85 @@
+{
+  "checkedAt": "2026-11-11T16:20:21.897993+00:00",
+  "mode": "development",
+  "approvedCounts": {
+    "word": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "idiom": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "reading": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "requiredCounts": {
+    "word": [
+      800,
+      900,
+      1200,
+      1000
+    ],
+    "idiom": [
+      300,
+      500,
+      700,
+      500
+    ],
+    "reading": [
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "remaining": {
+    "word": [
+      800,
+      900,
+      1200,
+      1000
+    ],
+    "idiom": [
+      300,
+      500,
+      700,
+      500
+    ],
+    "reading": [
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "draftCounts": {
+    "word": [
+      0,
+      100,
+      0,
+      0
+    ],
+    "idiom": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "sampleCounts": {
+    "word": 100,
+    "idiom": 50
+  },
+  "humanReviewPending": 250,
+  "issues": [],
+  "releaseReady": false
+}

@@ -1,0 +1,258 @@
+{
+  "checkedAt": "2026-11-11T16:20:22.236319+00:00",
+  "mode": "release",
+  "approvedCounts": {
+    "word": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "idiom": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "reading": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "requiredCounts": {
+    "word": [
+      800,
+      900,
+      1200,
+      1000
+    ],
+    "idiom": [
+      300,
+      500,
+      700,
+      500
+    ],
+    "reading": [
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "remaining": {
+    "word": [
+      800,
+      900,
+      1200,
+      1000
+    ],
+    "idiom": [
+      300,
+      500,
+      700,
+      500
+    ],
+    "reading": [
+      100,
+      100,
+      100,
+      100
+    ]
+  },
+  "draftCounts": {
+    "word": [
+      0,
+      100,
+      0,
+      0
+    ],
+    "idiom": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "sampleCounts": {
+    "word": 100,
+    "idiom": 50
+  },
+  "humanReviewPending": 250,
+  "issues": [
+    {
+      "id": "word",
+      "error": "release count mismatch: [0, 0, 0, 0] expected [800, 900, 1200, 1000]"
+    },
+    {
+      "id": "idiom",
+      "error": "release count mismatch: [0, 0, 0, 0] expected [300, 500, 700, 500]"
+    },
+    {
+      "id": "reading",
+      "error": "release count mismatch: [0, 0, 0, 0] expected [100, 100, 100, 100]"
+    },
+    {
+      "id": "reading-1-1",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-1-2",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-1-3",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-1-4",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-1-5",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-1-6",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-1-7",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-1-8",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-1-9",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-1-10",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-2-1",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-2-2",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-2-3",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-2-4",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-2-5",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-2-6",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-2-7",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-2-8",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-2-9",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-2-10",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-3-1",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-3-2",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-3-3",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-3-4",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-3-5",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-3-6",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-3-7",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-3-8",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-3-9",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-3-10",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-4-1",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-4-2",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-4-3",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-4-4",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-4-5",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-4-6",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-4-7",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-4-8",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-4-9",
+      "error": "reading format quota mismatch"
+    },
+    {
+      "id": "reading-4-10",
+      "error": "reading format quota mismatch"
+    }
+  ],
+  "releaseReady": false
+}
