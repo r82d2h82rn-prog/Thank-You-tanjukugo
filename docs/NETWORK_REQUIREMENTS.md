@@ -1,25 +1,11 @@
-# 教材調査に必要な接続
+# 接続調査の現状
 
-2026-11-12 JST。現在のネットワークはrestrictedで、下記11ホストはHTTPS CONNECT段階で403拒否。分析対象の公式本文は取得していない。再試行を繰り返したり、許可済みホストを中継させて回避していない。
+2026-11-12 JST。前タスクでの403は過去の観測です。今回、指定4リストの公式サイト・配布CDNへの通常HTTPS接続は成功し、ファイルを取得しました。許可先の回避、中継、TLS検証無効化は行っていません。
 
-環境設定のインターネット許可先へ、既存の許可先を保持したまま次を追加する必要がある。
+- `www.newgeneralservicelist.com` とリンク先 `static1.squarespace.com`: 語彙配布の取得成功。
+- 英検、Wiktionary、大学入試センター、東京・京都・大阪・早稲田・慶應: Web取得によって掲載入口または利用条件を確認。試験本文取得の許可を意味しません。
+- 慶應の指定旧URLは404。現行公式サイトの学部一般選抜ページに移動しました。
+- Cambridge Dictionaryの13個別URL: Web取得は403。回避せず、語義・IPA等の確認を保留しました。
+- NASA / World Bank: 今回は未使用。過去の接続結果を現在の事実確認の代わりに使いません。
 
-```text
-www.newgeneralservicelist.com
-en.wiktionary.org
-www.eiken.or.jp
-www.dnc.ac.jp
-www.u-tokyo.ac.jp
-www.kyoto-u.ac.jp
-www.osaka-u.ac.jp
-www.waseda.jp
-www.keio.ac.jp
-science.nasa.gov
-data.worldbank.org
-```
-
-NGSL/NAWL/TSL/BSLは同一ホスト。1ホストにつき1つの入口ページの接続を調べたもので、全パスの公開状態・正しいURL・年度・資料内容・バージョンを確認したものではない。証拠は analysis/source_access.json。
-
-設定ドラフトの読み取りツールは「current environment draft could not be verified」を返した。最新の保存済み許可先を確認できないため、未知の設定を置き換える更新は行っていない。自動承認レビューによる拒否ではなく、ネットワークの403と設定サービスの読み取りエラーである。
-
-追加後に `npm run content:probe` を実行して接続を確認する。到達可能になっても利用条件を確認するまで候補・本文の取り込み許可を設定しない。NGSL等の実ファイルが別のCDNや配布先にある場合、そのURLと必要なドメインを観測してから追加する。
+現在の記録は analysis/source_access.json。前回の記録は source_access_previous.json に保存。`content:probe` は入口への疎通確認で、実ファイルの版・利用条件・権利確認の代わりにはなりません。

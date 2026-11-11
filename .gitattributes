@@ -1,0 +1,5 @@
+# Preserve licensed upstream distributions exactly for SHA256 reproducibility.
+content/upstream/NGSL_1.2_stats.csv -text
+content/upstream/NAWL_1.2_alphabetized_description.txt -text
+content/upstream/TSL_1.2_stats.csv -text
+content/upstream/BSL_1.20_stats.csv -text

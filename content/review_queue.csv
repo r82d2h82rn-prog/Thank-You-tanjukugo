@@ -1,0 +1,451 @@
+id,kind,level,section,number,english,meaning,pos,pronunciation,example,translation,review_status,human_reviewed,source_ids,dictionary_check
+word-l1-0001,word,1,1,1,learn,学ぶ,動詞,lɜːrn,I learn English every day.,私は毎日英語を学びます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0002,word,1,1,2,study,勉強する,動詞,ˈstʌdi,We study after school.,私たちは放課後に勉強します。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0003,word,1,1,3,read,読む,動詞,riːd,I read a book at night.,私は夜に本を読みます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0004,word,1,1,4,write,書く,動詞,raɪt,Please write your name.,名前を書いてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0005,word,1,1,5,speak,話す,動詞,spiːk,Can you speak English?,英語を話せますか。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0006,word,1,1,6,listen,耳を傾ける,動詞,ˈlɪsən,Listen to the teacher.,先生の話を聞いてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0007,word,1,1,7,watch,じっと見る,動詞,wɑːtʃ,We watch birds in the park.,私たちは公園で鳥を観察します。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0008,word,1,1,8,see,見える,動詞,siː,I can see the moon.,月が見えます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0009,word,1,1,9,look,目を向ける,動詞,lʊk,Look at this picture.,この写真を見てください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0010,word,1,1,10,hear,聞こえる,動詞,hɪr,I can hear music.,音楽が聞こえます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0011,word,1,1,11,eat,食べる,動詞,iːt,We eat lunch at noon.,私たちは正午に昼食を食べます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0012,word,1,1,12,drink,飲む,動詞,drɪŋk,I drink water after running.,私は走った後に水を飲みます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0013,word,1,1,13,cook,料理する,動詞,kʊk,My father cooks dinner.,父が夕食を作ります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0014,word,1,1,14,make,作る,動詞,meɪk,Let's make a paper plane.,紙飛行機を作りましょう。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0015,word,1,1,15,use,使う,動詞,juːz,You can use my pen.,私のペンを使っていいですよ。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0016,word,1,1,16,open,開ける,動詞,ˈoʊpən,Please open the window.,窓を開けてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0017,word,1,1,17,close,閉める,動詞,kloʊz,Close the door quietly.,静かにドアを閉めてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0018,word,1,1,18,start,始める,動詞,stɑːrt,Let's start the lesson.,授業を始めましょう。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0019,word,1,1,19,finish,終える,動詞,ˈfɪnɪʃ,I finish work at five.,私は5時に仕事を終えます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0020,word,1,1,20,stop,止まる,動詞,stɑːp,The bus stops here.,バスはここで止まります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0021,word,1,1,21,walk,歩く,動詞,wɔːk,I walk to school.,私は歩いて学校へ行きます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0022,word,1,1,22,run,走る,動詞,rʌn,She runs in the morning.,彼女は朝に走ります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0023,word,1,1,23,swim,泳ぐ,動詞,swɪm,We swim in the pool.,私たちはプールで泳ぎます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0024,word,1,1,24,play,遊ぶ,動詞,pleɪ,Children play outside.,子どもたちは外で遊びます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0025,word,1,1,25,visit,訪れる,動詞,ˈvɪzɪt,We visit Kyoto in spring.,私たちは春に京都を訪れます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0026,word,1,1,26,live,住む,動詞,lɪv,I live near the station.,私は駅の近くに住んでいます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0027,word,1,1,27,work,働く,動詞,wɜːrk,She works at a hospital.,彼女は病院で働いています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0028,word,1,1,28,help,助ける,動詞,help,Can you help me?,手伝ってもらえますか。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0029,word,1,1,29,need,必要とする,動詞,niːd,Plants need water.,植物は水を必要とします。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0030,word,1,1,30,want,欲しいと思う,動詞,wɑːnt,I want a new bicycle.,私は新しい自転車が欲しいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0031,word,1,1,31,like,好む,動詞,laɪk,I like this song.,私はこの歌が好きです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0032,word,1,1,32,love,愛する,動詞,lʌv,They love their family.,彼らは家族を愛しています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0033,word,1,1,33,know,知っている,動詞,noʊ,Do you know her name?,彼女の名前を知っていますか。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0034,word,1,1,34,think,考える,動詞,θɪŋk,Think about your future.,自分の将来について考えてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0035,word,1,1,35,understand,理解する,動詞,ˌʌndərˈstænd,I understand the question.,私はその質問を理解しています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0036,word,1,1,36,remember,覚えている,動詞,rɪˈmembər,I remember that day.,私はその日を覚えています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0037,word,1,1,37,forget,忘れる,動詞,fərˈɡet,Don't forget your bag.,かばんを忘れないでください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0038,word,1,1,38,find,見つける,動詞,faɪnd,I found my key.,私は鍵を見つけました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0039,word,1,1,39,lose,失う,動詞,luːz,Don't lose your ticket.,切符をなくさないでください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0040,word,1,1,40,buy,買う,動詞,baɪ,I buy fruit on Sundays.,私は日曜日に果物を買います。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0041,word,1,1,41,sell,売る,動詞,sel,This shop sells bread.,この店はパンを売っています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0042,word,1,1,42,give,与える,動詞,ɡɪv,Give the dog some water.,犬に水をあげてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0043,word,1,1,43,take,持っていく,動詞,teɪk,Take an umbrella with you.,傘を持っていってください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0044,word,1,1,44,bring,持ってくる,動詞,brɪŋ,Bring your notebook tomorrow.,明日ノートを持ってきてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0045,word,1,1,45,meet,会う,動詞,miːt,Let's meet at the station.,駅で会いましょう。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0046,word,1,1,46,ask,尋ねる,動詞,æsk,Ask the teacher a question.,先生に質問してください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0047,word,1,1,47,answer,答える,動詞,ˈænsər,Please answer the question.,質問に答えてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0048,word,1,1,48,call,電話する,動詞,kɔːl,I will call you tonight.,今夜あなたに電話します。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0049,word,1,1,49,wait,待つ,動詞,weɪt,Please wait here.,ここで待ってください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0050,word,1,1,50,try,試みる,動詞,traɪ,Try again tomorrow.,明日もう一度挑戦してください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0051,word,1,1,51,book,本,名詞,bʊk,This book is interesting.,この本はおもしろいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0052,word,1,1,52,school,学校,名詞,skuːl,Our school is on a hill.,私たちの学校は丘の上にあります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0053,word,1,1,53,friend,友達,名詞,frend,My friend likes music.,私の友達は音楽が好きです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0054,word,1,1,54,family,家族,名詞,ˈfæməli,My family is small.,私の家族は少人数です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0055,word,1,1,55,city,都市,名詞,ˈsɪti,This city has many parks.,この都市には公園がたくさんあります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0056,word,1,1,56,country,国,名詞,ˈkʌntri,Japan is an island country.,日本は島国です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0057,word,1,1,57,world,世界,名詞,wɜːrld,I want to travel around the world.,私は世界を旅したいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0058,word,1,1,58,language,言語,名詞,ˈlæŋɡwɪdʒ,Language connects people.,言語は人々をつなぎます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0059,word,1,1,59,question,質問,名詞,ˈkwestʃən,That is a good question.,それはよい質問です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0060,word,1,1,60,problem,問題,名詞,ˈprɑːbləm,We solved the problem.,私たちはその問題を解決しました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0061,word,1,1,61,time,時間,名詞,taɪm,We have enough time.,私たちには十分な時間があります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0062,word,1,1,62,day,日,名詞,deɪ,Have a nice day.,よい一日を。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0063,word,1,1,63,week,週,名詞,wiːk,See you next week.,来週会いましょう。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0064,word,1,1,64,year,年,名詞,jɪr,She is ten years old.,彼女は10歳です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0065,word,1,1,65,morning,朝,名詞,ˈmɔːrnɪŋ,It is a sunny morning.,晴れた朝です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0066,word,1,1,66,night,夜,名詞,naɪt,Stars shine at night.,星は夜に輝きます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0067,word,1,1,67,water,水,名詞,ˈwɔːtər,The water is cold.,その水は冷たいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0068,word,1,1,68,food,食べ物,名詞,fuːd,We need more food.,私たちはもっと食べ物が必要です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0069,word,1,1,69,room,部屋,名詞,ruːm,This room is bright.,この部屋は明るいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0070,word,1,1,70,door,ドア,名詞,dɔːr,The door is blue.,そのドアは青いです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0071,word,1,1,71,window,窓,名詞,ˈwɪndoʊ,There is a window in my room.,私の部屋には窓があります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0072,word,1,1,72,station,駅,名詞,ˈsteɪʃən,The station is nearby.,駅は近くにあります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0073,word,1,1,73,library,図書館,名詞,ˈlaɪbreri,We study in the library.,私たちは図書館で勉強します。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0074,word,1,1,74,hospital,病院,名詞,ˈhɑːspɪtəl,There is a hospital near here.,この近くに病院があります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0075,word,1,1,75,park,公園,名詞,pɑːrk,Let's go to the park.,公園へ行きましょう。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0076,word,1,1,76,important,重要な,形容詞,ɪmˈpɔːrtənt,Sleep is important.,睡眠は重要です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0077,word,1,1,77,difficult,難しい,形容詞,ˈdɪfɪkəlt,This question is difficult.,この質問は難しいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0078,word,1,1,78,easy,簡単な,形容詞,ˈiːzi,This game is easy.,このゲームは簡単です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0079,word,1,1,79,interesting,おもしろい,形容詞,ˈɪntrəstɪŋ,History is interesting.,歴史はおもしろいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0080,word,1,1,80,beautiful,美しい,形容詞,ˈbjuːtɪfəl,The flowers are beautiful.,その花は美しいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0081,word,1,1,81,happy,幸せな,形容詞,ˈhæpi,I am happy to see you.,あなたに会えてうれしいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0082,word,1,1,82,sad,悲しい,形容詞,sæd,The story made me sad.,その話を聞いて悲しくなりました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0083,word,1,1,83,busy,忙しい,形容詞,ˈbɪzi,My mother is busy today.,母は今日忙しいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0084,word,1,1,84,free,暇な,形容詞,friː,Are you free tomorrow?,明日は暇ですか。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0085,word,1,1,85,new,新しい,形容詞,nuː,This is my new bag.,これは私の新しいかばんです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0086,word,1,1,86,old,古い,形容詞,oʊld,That bridge is old.,あの橋は古いです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0087,word,1,1,87,large,大きな,形容詞,lɑːrdʒ,They live in a large house.,彼らは大きな家に住んでいます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0088,word,1,1,88,small,小さな,形容詞,smɔːl,I have a small dog.,私は小さな犬を飼っています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0089,word,1,1,89,long,長い,形容詞,lɔːŋ,It is a long road.,それは長い道です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0090,word,1,1,90,short,短い,形容詞,ʃɔːrt,Please write a short message.,短いメッセージを書いてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0091,word,1,1,91,hot,暑い,形容詞,hɑːt,It is hot today.,今日は暑いです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0092,word,1,1,92,cold,寒い,形容詞,koʊld,It is cold outside.,外は寒いです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0093,word,1,1,93,young,若い,形容詞,jʌŋ,The young artist is talented.,その若い芸術家には才能があります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0094,word,1,1,94,kind,親切な,形容詞,kaɪnd,Our teacher is kind.,私たちの先生は親切です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0095,word,1,1,95,early,早く,副詞,ˈɜːrli,I get up early.,私は早く起きます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0096,word,1,1,96,slowly,ゆっくりと,副詞,ˈsloʊli,Please speak slowly.,ゆっくり話してください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0097,word,1,1,97,quickly,素早く,副詞,ˈkwɪkli,She finished her homework quickly.,彼女は宿題を素早く終えました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0098,word,1,1,98,always,いつも,副詞,ˈɔːlweɪz,He is always on time.,彼はいつも時間を守ります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0099,word,1,1,99,sometimes,時々,副詞,ˈsʌmtaɪmz,I sometimes walk to school.,私は時々歩いて学校へ行きます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l1-0100,word,1,1,100,together,一緒に,副詞,təˈɡeðər,Let's study together.,一緒に勉強しましょう。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0001,idiom,1,1,1,get up,起きる,熟語,ɡet ʌp,I get up at seven.,私は7時に起きます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0002,idiom,1,1,2,go to bed,寝る,熟語,ɡoʊ tə bed,I go to bed at ten.,私は10時に寝ます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0003,idiom,1,1,3,look at,〜を見る,熟語,lʊk æt,Look at the sky.,空を見てください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0004,idiom,1,1,4,listen to,〜を聴く,熟語,ˈlɪsən tə,I listen to music every day.,私は毎日音楽を聴きます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0005,idiom,1,1,5,look for,〜を探す,熟語,lʊk fər,I am looking for my pen.,私はペンを探しています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0006,idiom,1,1,6,look after,〜の世話をする,熟語,lʊk ˈæftər,She looks after her brother.,彼女は弟の世話をします。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0007,idiom,1,1,7,wait for,〜を待つ,熟語,weɪt fər,We wait for the bus.,私たちはバスを待ちます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0008,idiom,1,1,8,ask for,〜を求める,熟語,æsk fər,Ask for help if you need it.,必要なら助けを求めてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0009,idiom,1,1,9,be good at,〜が得意である,熟語,bi ɡʊd æt,She is good at tennis.,彼女はテニスが得意です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0010,idiom,1,1,10,be interested in,〜に興味がある,熟語,bi ˈɪntrəstɪd ɪn,I am interested in history.,私は歴史に興味があります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0011,idiom,1,1,11,be afraid of,〜を恐れる,熟語,bi əˈfreɪd əv,He is afraid of dogs.,彼は犬を怖がります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0012,idiom,1,1,12,be proud of,〜を誇りに思う,熟語,bi praʊd əv,I am proud of my sister.,私は姉を誇りに思います。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0013,idiom,1,1,13,be full of,〜でいっぱいである,熟語,bi fʊl əv,The box is full of books.,その箱は本でいっぱいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0014,idiom,1,1,14,be different from,〜と異なる,熟語,bi ˈdɪfrənt frəm,My idea is different from yours.,私の考えはあなたの考えと異なります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0015,idiom,1,1,15,be late for,〜に遅刻する,熟語,bi leɪt fər,Don't be late for school.,学校に遅刻しないでください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0016,idiom,1,1,16,a lot of,たくさんの,熟語,ə lɑːt əv,We have a lot of books.,私たちはたくさんの本を持っています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0017,idiom,1,1,17,a few,少数の,熟語,ə fjuː,I have a few questions.,いくつか質問があります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0018,idiom,1,1,18,a little,少量の,熟語,ə ˈlɪtəl,There is a little milk left.,牛乳が少し残っています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0019,idiom,1,1,19,at first,最初は,熟語,æt fɜːrst,"At first, I was nervous.",最初は緊張していました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0020,idiom,1,1,20,at last,ついに,熟語,æt læst,"At last, we arrived.",ついに私たちは到着しました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0021,idiom,1,1,21,at least,少なくとも,熟語,æt liːst,We need at least two hours.,少なくとも2時間必要です。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0022,idiom,1,1,22,at once,すぐに,熟語,æt wʌns,Please come here at once.,すぐにここへ来てください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0023,idiom,1,1,23,for example,例えば,熟語,fər ɪɡˈzæmpəl,"I like fruit, for example, apples.",私は果物、例えばリンゴが好きです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0024,idiom,1,1,24,in fact,実際には,熟語,ɪn fækt,"In fact, I know him well.",実際、私は彼をよく知っています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0025,idiom,1,1,25,in front of,〜の前に,熟語,ɪn frʌnt əv,There is a tree in front of my house.,家の前に木があります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0026,idiom,1,1,26,in the future,将来,熟語,ɪn ðə ˈfjuːtʃər,I want to be a doctor in the future.,私は将来医者になりたいです。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0027,idiom,1,1,27,on foot,徒歩で,熟語,ɑːn fʊt,I go to school on foot.,私は徒歩で通学します。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0028,idiom,1,1,28,on time,時間どおりに,熟語,ɑːn taɪm,The train arrived on time.,電車は時間どおりに到着しました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0029,idiom,1,1,29,by the way,ところで,熟語,baɪ ðə weɪ,"By the way, are you free today?",ところで、今日は暇ですか。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0030,idiom,1,1,30,of course,もちろん,熟語,əv kɔːrs,"Of course, you can join us.",もちろん参加できます。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0031,idiom,1,1,31,right away,直ちに,熟語,raɪt əˈweɪ,I will do it right away.,直ちにそれをやります。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0032,idiom,1,1,32,again and again,何度も,熟語,əˈɡen ænd əˈɡen,I read the story again and again.,私はその話を何度も読みました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0033,idiom,1,1,33,all over the world,世界中で,熟語,ɔːl ˈoʊvər ðə wɜːrld,People play soccer all over the world.,世界中で人々がサッカーをします。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0034,idiom,1,1,34,as soon as,〜するとすぐに,熟語,æz suːn æz,Call me as soon as you arrive.,着いたらすぐに電話してください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0035,idiom,1,1,35,as well as,〜に加えて,熟語,æz wel æz,She speaks French as well as English.,彼女は英語に加えてフランス語も話します。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0036,idiom,1,1,36,because of,〜のために,熟語,bɪˈkɔːz əv,We stayed home because of the rain.,雨のために家にいました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0037,idiom,1,1,37,instead of,〜の代わりに,熟語,ɪnˈsted əv,I drank tea instead of coffee.,コーヒーの代わりに紅茶を飲みました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0038,idiom,1,1,38,take care of,〜の面倒を見る,熟語,teɪk ker əv,Please take care of my cat.,私の猫の面倒を見てください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0039,idiom,1,1,39,take part in,〜に参加する,熟語,teɪk pɑːrt ɪn,I will take part in the race.,私はそのレースに参加します。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0040,idiom,1,1,40,turn on,〜の電源を入れる,熟語,tɜːrn ɑːn,Please turn on the light.,電気をつけてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0041,idiom,1,1,41,turn off,〜の電源を切る,熟語,tɜːrn ɔːf,Turn off the TV.,テレビを消してください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0042,idiom,1,1,42,put on,〜を身につける,熟語,pʊt ɑːn,Put on your coat.,コートを着てください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0043,idiom,1,1,43,take off,〜を脱ぐ,熟語,teɪk ɔːf,Take off your shoes here.,ここで靴を脱いでください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0044,idiom,1,1,44,give up,あきらめる,熟語,ɡɪv ʌp,Don't give up your dream.,夢をあきらめないでください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0045,idiom,1,1,45,grow up,成長する,熟語,ɡroʊ ʌp,I grew up in Tokyo.,私は東京で育ちました。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0046,idiom,1,1,46,come back,戻ってくる,熟語,kʌm bæk,Please come back soon.,すぐに戻ってきてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0047,idiom,1,1,47,find out,〜を調べて知る,熟語,faɪnd aʊt,Let's find out the answer.,答えを調べてみましょう。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0048,idiom,1,1,48,get along with,〜と仲良くする,熟語,ɡet əˈlɔːŋ wɪð,I get along with my classmates.,私はクラスメートと仲良くしています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0049,idiom,1,1,49,look forward to,〜を楽しみに待つ,熟語,lʊk ˈfɔːrwərd tə,I look forward to seeing you.,あなたに会うのを楽しみにしています。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+idiom-l1-0050,idiom,1,1,50,make sure,確かめる,熟語,meɪk ʃʊr,Make sure the door is closed.,ドアが閉まっているか確かめてください。,review_required,false,"[""original-sample-v1""]",not_fully_verified
+word-l2-0001,word,2,1,1,develop,発達させる；発展する,動詞,dɪˈveləp,Reading helps us develop new ideas.,読書は新しい考えを育む助けになります。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0002,word,2,1,2,improve,改善する；上達する,動詞,ɪmˈpruːv,Her English improved during her stay in Canada.,カナダに滞在している間に彼女の英語は上達しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0003,word,2,1,3,increase,増える；増やす,動詞,ɪnˈkriːs,The number of visitors increased this year.,今年は訪問者の数が増えました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0004,word,2,1,4,reduce,減らす,動詞,rɪˈduːs,We should reduce the amount of plastic we use.,使うプラスチックの量を減らすべきです。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0005,word,2,1,5,protect,保護する；守る,動詞,prəˈtekt,These trees protect the village from strong winds.,これらの木は村を強風から守っています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0006,word,2,1,6,prevent,防ぐ,動詞,prɪˈvent,Washing your hands can help prevent illness.,手を洗うことは病気の予防に役立ちます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0007,word,2,1,7,allow,許可する；可能にする,動詞,əˈlaʊ,The library allows students to borrow five books.,その図書館では生徒は5冊まで本を借りられます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0008,word,2,1,8,provide,提供する,動詞,prəˈvaɪd,The hotel provides breakfast for its guests.,そのホテルは宿泊客に朝食を提供します。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0009,word,2,1,9,create,創造する；作り出す,動詞,kriˈeɪt,The students created a new game for the festival.,生徒たちは祭りのために新しいゲームを作りました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0010,word,2,1,10,produce,生産する；生み出す,動詞,prəˈduːs,This farm produces enough rice for many families.,この農場は多くの家庭に十分な米を生産しています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0011,word,2,1,11,describe,描写する；説明する,動詞,dɪˈskraɪb,Can you describe the bag you lost?,なくしたかばんがどのようなものか説明できますか。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0012,word,2,1,12,explain,説明する,動詞,ɪkˈspleɪn,Please explain the rules to the new students.,新しい生徒たちに規則を説明してください。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0013,word,2,1,13,compare,比較する,動詞,kəmˈper,Compare the two maps and find the differences.,2枚の地図を比較して違いを見つけてください。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0014,word,2,1,14,choose,選ぶ,動詞,tʃuːz,You can choose a topic for your report.,レポートの話題は自分で選べます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0015,word,2,1,15,decide,決める,動詞,dɪˈsaɪd,We decided to visit the museum on Saturday.,私たちは土曜日に博物館へ行くことに決めました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0016,word,2,1,16,agree,同意する；意見が一致する,動詞,əˈɡriː,I agree with your plan to start early.,早く出発するというあなたの計画に同意します。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0017,word,2,1,17,refuse,断る；拒否する,動詞,rɪˈfjuːz,She refused to share her password.,彼女はパスワードを教えることを断りました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0018,word,2,1,18,accept,受け入れる；承諾する,動詞,əkˈsept,He accepted the invitation with a smile.,彼は笑顔で招待を受け入れました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0019,word,2,1,19,receive,受け取る,動詞,rɪˈsiːv,I received a letter from my old friend.,私は昔の友達から手紙を受け取りました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0020,word,2,1,20,achieve,達成する,動詞,əˈtʃiːv,Small daily steps can help you achieve your goal.,毎日の小さな積み重ねが目標達成に役立ちます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0021,word,2,1,21,continue,続ける；続く,動詞,kənˈtɪnjuː,The rain continued until the next morning.,雨は翌朝まで降り続きました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0022,word,2,1,22,include,含む,動詞,ɪnˈkluːd,The price includes a drink and a small salad.,その料金には飲み物と小さなサラダが含まれています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0023,word,2,1,23,require,必要とする；要求する,動詞,rɪˈkwaɪər,This job requires patience and careful planning.,この仕事には忍耐と慎重な計画が必要です。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0024,word,2,1,24,suggest,提案する；示唆する,動詞,səˈdʒest,She suggested taking a short break.,彼女は少し休憩することを提案しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0025,word,2,1,25,support,支援する；支える,動詞,səˈpɔːrt,Local shops support the children's art festival.,地元の店が子どもたちの芸術祭を支援しています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0026,word,2,1,26,depend,依存する；左右される,動詞,dɪˈpend,The date of the event depends on the weather.,行事の日程は天候によって決まります。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0027,word,2,1,27,prefer,より好む,動詞,prɪˈfɜːr,I prefer walking to taking the bus on sunny days.,晴れた日はバスに乗るより歩く方が好きです。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0028,word,2,1,28,consider,よく考える；考慮する,動詞,kənˈsɪdər,Please consider both the cost and the travel time.,費用と移動時間の両方を考慮してください。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0029,word,2,1,29,expect,予想する；期待する,動詞,ɪkˈspekt,We expect the train to arrive before noon.,私たちは電車が正午前に着くと予想しています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0030,word,2,1,30,prepare,準備する,動詞,prɪˈper,The team prepared carefully for the final match.,チームは決勝戦に向けて入念に準備しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0031,word,2,1,31,recognize,見分ける；認める,動詞,ˈrekəɡnaɪz,I recognized her voice on the phone.,電話の声で彼女だと分かりました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0032,word,2,1,32,realize,気づく；実現する,動詞,ˈriːəlaɪz,I realized that I had left my ticket at home.,私は切符を家に忘れたことに気づきました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0033,word,2,1,33,discover,発見する,動詞,dɪˈskʌvər,The children discovered a small pond behind the school.,子どもたちは学校の裏に小さな池を見つけました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0034,word,2,1,34,invent,発明する,動詞,ɪnˈvent,She invented a tool to open jars more easily.,彼女は瓶をもっと簡単に開ける道具を発明しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0035,word,2,1,35,solve,解決する；解く,動詞,sɑːlv,Working together helped us solve the problem.,協力することでその問題を解決できました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0036,word,2,1,36,manage,管理する；何とか成し遂げる,動詞,ˈmænɪdʒ,He managed to finish the report before dinner.,彼は何とか夕食前にレポートを書き終えました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0037,word,2,1,37,control,制御する；管理する,動詞,kənˈtroʊl,This button controls the speed of the fan.,このボタンで扇風機の速さを調整します。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0038,word,2,1,38,offer,申し出る；提供する,動詞,ˈɔːfər,A passenger offered her seat to an older man.,乗客の女性が高齢の男性に席を譲ろうと申し出ました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0039,word,2,1,39,avoid,避ける,動詞,əˈvɔɪd,We left early to avoid heavy traffic.,交通渋滞を避けるために早く出発しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0040,word,2,1,40,encourage,励ます；促す,動詞,ɪnˈkɜːrɪdʒ,My teacher encouraged me to enter the speech contest.,先生は私にスピーチ大会へ出るよう励ましてくれました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0041,word,2,1,41,introduce,紹介する；導入する,動詞,ˌɪntrəˈduːs,Let me introduce our new team member.,新しいチームの仲間を紹介させてください。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0042,word,2,1,42,influence,影響を与える,動詞,ˈɪnfluəns,Friends can influence the choices we make.,友達は私たちの選択に影響を与えることがあります。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0043,word,2,1,43,express,表現する,動詞,ɪkˈspres,Music helps her express her feelings.,音楽は彼女が気持ちを表す助けになります。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0044,word,2,1,44,imagine,想像する,動詞,ɪˈmædʒɪn,Imagine living in a town without cars.,車のない町に住むことを想像してください。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0045,word,2,1,45,return,戻る；返す,動詞,rɪˈtɜːrn,Please return the books by Friday.,金曜日までに本を返してください。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0046,word,2,1,46,arrive,到着する,動詞,əˈraɪv,Our bus arrived at the station five minutes early.,私たちのバスは5分早く駅に到着しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0047,word,2,1,47,remain,残る；〜のままである,動詞,rɪˈmeɪn,Only three questions remain on the list.,一覧にはあと3つの質問だけが残っています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0048,word,2,1,48,appear,現れる；〜のように見える,動詞,əˈpɪər,A bright star appeared above the mountain.,山の上に明るい星が現れました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0049,word,2,1,49,disappear,消える,動詞,ˌdɪsəˈpɪər,The island disappeared from view as the boat moved away.,船が離れるにつれて島が見えなくなりました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0050,word,2,1,50,notice,気づく,動詞,ˈnoʊtɪs,Did you notice the new sign by the gate?,門のそばの新しい看板に気づきましたか。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0051,word,2,1,51,ability,能力,名詞,əˈbɪləti,She has the ability to explain difficult ideas clearly.,彼女には難しい考えを分かりやすく説明する能力があります。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0052,word,2,1,52,activity,活動,名詞,ækˈtɪvəti,Outdoor activities are popular at our school.,私たちの学校では野外活動が人気です。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0053,word,2,1,53,advantage,利点；有利な点,名詞,ədˈvæntɪdʒ,One advantage of cycling is that it saves money.,自転車に乗る利点の1つはお金の節約になることです。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0054,word,2,1,54,advice,助言,名詞,ədˈvaɪs,My coach gave me some useful advice.,コーチは私に役立つ助言をくれました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0055,word,2,1,55,behavior,行動；振る舞い,名詞,bɪˈheɪvjər,The study examined the behavior of young birds.,その研究では若い鳥の行動を調べました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0056,word,2,1,56,challenge,難題；挑戦,名詞,ˈtʃælɪndʒ,Learning a new language can be an exciting challenge.,新しい言語を学ぶことはわくわくする挑戦になり得ます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0057,word,2,1,57,chance,機会；可能性,名詞,tʃæns,This trip gave me a chance to speak English.,この旅行で英語を話す機会が得られました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0058,word,2,1,58,community,地域社会；共同体,名詞,kəˈmjuːnəti,The whole community helped clean the river.,地域の人々がみんなで川の清掃を手伝いました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0059,word,2,1,59,culture,文化,名詞,ˈkʌltʃər,Food can teach us a lot about a country's culture.,食べ物からその国の文化について多くを学べます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0060,word,2,1,60,education,教育,名詞,ˌedʒuˈkeɪʃən,Every child should have access to education.,どの子どもも教育を受けられるべきです。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0061,word,2,1,61,environment,環境,名詞,ɪnˈvaɪrənmənt,A quiet environment helps me concentrate.,静かな環境は集中する助けになります。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0062,word,2,1,62,experience,経験；体験,名詞,ɪkˈspɪriəns,Working in the shop was a valuable experience.,その店で働くことは貴重な経験でした。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0063,word,2,1,63,information,情報,名詞,ˌɪnfərˈmeɪʃən,The website provides information about local buses.,そのウェブサイトには地域のバスの情報が載っています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0064,word,2,1,64,knowledge,知識,名詞,ˈnɑːlɪdʒ,She has a wide knowledge of local history.,彼女は地域の歴史について幅広い知識を持っています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0065,word,2,1,65,opportunity,機会,名詞,ˌɑːpərˈtuːnəti,Volunteering is an opportunity to meet new people.,ボランティア活動は新しい人と出会う機会になります。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0066,word,2,1,66,population,人口,名詞,ˌpɑːpjuˈleɪʃən,The population of the town is slowly decreasing.,その町の人口はゆっくり減っています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0067,word,2,1,67,purpose,目的,名詞,ˈpɜːrpəs,What is the purpose of this meeting?,この会議の目的は何ですか。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0068,word,2,1,68,reason,理由,名詞,ˈriːzən,There is a clear reason for the change.,その変更には明確な理由があります。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0069,word,2,1,69,research,研究；調査,名詞,ˈriːsɜːrtʃ,The students did research on water use.,生徒たちは水の使用について調査しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0070,word,2,1,70,resource,資源,名詞,ˈriːsɔːrs,Fresh water is an important natural resource.,淡水は重要な天然資源です。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0071,word,2,1,71,responsibility,責任,名詞,rɪˌspɑːnsəˈbɪləti,Taking care of a pet is a big responsibility.,ペットを世話することは大きな責任を伴います。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0072,word,2,1,72,result,結果,名詞,rɪˈzʌlt,We will discuss the results of the experiment tomorrow.,明日その実験の結果について話し合います。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0073,word,2,1,73,situation,状況,名詞,ˌsɪtʃuˈeɪʃən,The doctor explained the situation to the family.,医師は家族に状況を説明しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0074,word,2,1,74,society,社会,名詞,səˈsaɪəti,Libraries play an important role in society.,図書館は社会で重要な役割を果たしています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0075,word,2,1,75,technology,科学技術,名詞,tekˈnɑːlədʒi,New technology can change the way we communicate.,新しい科学技術は私たちの伝達方法を変えることがあります。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0076,word,2,1,76,available,利用できる；手に入る,形容詞,əˈveɪləbəl,Tickets are available at the station.,切符は駅で買えます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0077,word,2,1,77,common,よくある；共通の,形容詞,ˈkɑːmən,It is common to see bicycles near the university.,大学の近くでは自転車をよく見かけます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0078,word,2,1,78,convenient,便利な,形容詞,kənˈviːniənt,The new bus route is convenient for students.,新しいバス路線は学生に便利です。,review_required,false,"[""bsl"", ""original-draft-v2"", ""tsl""]",not_fully_verified
+word-l2-0079,word,2,1,79,dangerous,危険な,形容詞,ˈdeɪndʒərəs,Swimming in this river is dangerous after heavy rain.,大雨の後にこの川で泳ぐのは危険です。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0080,word,2,1,80,necessary,必要な,形容詞,ˈnesəseri,A warm coat is necessary in winter.,冬には暖かいコートが必要です。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0081,word,2,1,81,possible,可能な,形容詞,ˈpɑːsəbəl,Is it possible to change the meeting time?,会議の時間を変えることは可能ですか。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0082,word,2,1,82,serious,深刻な；真剣な,形容詞,ˈsɪriəs,The town faces a serious water shortage.,その町は深刻な水不足に直面しています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0083,word,2,1,83,simple,簡単な；単純な,形容詞,ˈsɪmpəl,The teacher gave us a simple explanation.,先生は分かりやすい説明をしてくれました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0084,word,2,1,84,special,特別な,形容詞,ˈspeʃəl,We prepared a special meal for our guests.,お客様のために特別な食事を用意しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0085,word,2,1,85,successful,成功した,形容詞,səkˈsesfəl,Careful planning made the event successful.,慎重な計画によって行事は成功しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0086,word,2,1,86,useful,役立つ,形容詞,ˈjuːsfəl,This map is useful when you explore the city.,この地図は街を探索するときに役立ちます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0087,word,2,1,87,various,さまざまな,形容詞,ˈveriəs,The museum displays tools from various countries.,その博物館にはさまざまな国の道具が展示されています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0088,word,2,1,88,local,地元の；地域の,形容詞,ˈloʊkəl,We bought vegetables at a local market.,私たちは地元の市場で野菜を買いました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0089,word,2,1,89,public,公共の；一般の,形容詞,ˈpʌblɪk,The city is improving its public transport.,その都市は公共交通機関を改善しています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0090,word,2,1,90,private,私的な；私有の,形容詞,ˈpraɪvət,Please do not share private information online.,個人の情報をインターネットで公開しないでください。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0091,word,2,1,91,natural,自然の,形容詞,ˈnætʃərəl,The island is famous for its natural beauty.,その島は自然の美しさで有名です。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0092,word,2,1,92,personal,個人の；個人的な,形容詞,ˈpɜːrsənəl,Everyone has a different personal goal.,誰もが異なる個人の目標を持っています。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0093,word,2,1,93,social,社会の；社交の,形容詞,ˈsoʊʃəl,The class discussed several social problems.,その授業ではいくつかの社会問題を話し合いました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0094,word,2,1,94,foreign,外国の,形容詞,ˈfɔːrən,She enjoys learning foreign languages.,彼女は外国語を学ぶのが好きです。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0095,word,2,1,95,actually,実際は,副詞,ˈæktʃuəli,The walk was actually shorter than I expected.,歩いた距離は実際には予想より短かったです。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0096,word,2,1,96,especially,特に,副詞,ɪˈspeʃəli,"I enjoy sports, especially swimming.",私はスポーツ、特に水泳を楽しんでいます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0097,word,2,1,97,probably,おそらく,副詞,ˈprɑːbəbli,It will probably rain this evening.,今夜はおそらく雨が降るでしょう。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0098,word,2,1,98,recently,最近,副詞,ˈriːsəntli,A new library opened here recently.,最近ここに新しい図書館が開館しました。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0099,word,2,1,99,usually,普段は；たいてい,副詞,ˈjuːʒuəli,I usually take the bus to school.,私は普段バスで通学します。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l2-0100,word,2,1,100,certainly,確かに；必ず,副詞,ˈsɜːrtənli,This experience will certainly help you in the future.,この経験は将来必ず役に立ちます。,review_required,false,"[""ngsl"", ""original-draft-v2""]",not_fully_verified
+word-l3-0001,word,3,1,1,examine,調べる；検査する,動詞,ɪɡˈzæmɪn,The engineer examined the bridge for signs of damage.,技術者は損傷の兆候がないか橋を調べた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0002,word,3,1,2,analyze,分析する,動詞,ˈænəlaɪz,We analyzed the survey results before changing the schedule.,私たちは日程を変更する前にアンケートの結果を分析した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0003,word,3,1,3,investigate,調査する；究明する,動詞,ɪnˈvestɪɡeɪt,Researchers are investigating why the lake is getting warmer.,研究者たちはその湖が暖かくなっている理由を調査している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0004,word,3,1,4,observe,観察する；気づく；守る,動詞,əbˈzɜːrv,Students observed how the seeds changed over two weeks.,生徒たちは2週間にわたって種子がどのように変化するかを観察した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0005,word,3,1,5,identify,特定する；見分ける,動詞,aɪˈdentɪfaɪ,The test helped us identify the source of the noise.,その検査は騒音の発生源を特定する助けとなった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0006,word,3,1,6,distinguish,区別する；見分ける,動詞,dɪˈstɪŋɡwɪʃ,It is difficult to distinguish fact from opinion in this report.,この報告では事実と意見を区別するのが難しい。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0007,word,3,1,7,establish,設立する；確立する；明らかにする,動詞,ɪˈstæblɪʃ,The experiment established a link between light and plant growth.,その実験は光と植物の成長の間の関連を明らかにした。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0008,word,3,1,8,maintain,維持する；整備する；主張する,動詞,meɪnˈteɪn,Regular practice helps musicians maintain their skills.,定期的な練習は音楽家が技能を維持する助けになる。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0009,word,3,1,9,preserve,保存する；保護する,動詞,prɪˈzɜːrv,The museum uses special lighting to preserve old photographs.,その博物館は古い写真を保存するために特殊な照明を使っている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0010,word,3,1,10,conserve,保護する；節約する,動詞,kənˈsɜːrv,The school repaired leaking taps to conserve water.,その学校は水を節約するために水漏れする蛇口を修理した。,review_required,false,"[""original-draft-v3"", ""nawl""]",not_fully_verified
+word-l3-0011,word,3,1,11,adapt,適応する；適応させる；改作する,動詞,əˈdæpt,The team adapted its plan to the colder weather.,チームは寒さが増した天候に合わせて計画を調整した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0012,word,3,1,12,adopt,採用する；養子にする,動詞,əˈdɑːpt,The library adopted a new system for lending electronic books.,その図書館は電子書籍を貸し出す新しい仕組みを採用した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0013,word,3,1,13,respond,返答する；反応する,動詞,rɪˈspɑːnd,The company responded to the complaint within a day.,その会社は1日以内にその苦情に対応した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0014,word,3,1,14,react,反応する；反発する,動詞,riˈækt,Different materials react differently to heat.,異なる材料は熱に対して異なる反応を示す。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0015,word,3,1,15,reflect,反映する；反射する；熟考する,動詞,rɪˈflekt,The new timetable reflects the needs of students who travel far.,新しい時間割は遠くから通う生徒の必要を反映している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0016,word,3,1,16,represent,代表する；表す,動詞,ˌreprɪˈzent,Each blue dot on the map represents a public drinking fountain.,地図上の青い点はそれぞれ公共の水飲み場を表している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0017,word,3,1,17,indicate,示す；指し示す,動詞,ˈɪndɪkeɪt,The arrow indicates where visitors should leave their bicycles.,その矢印は訪問者が自転車を置くべき場所を示している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0018,word,3,1,18,demonstrate,実演する；実証する,動詞,ˈdemənstreɪt,The instructor demonstrated how to use the safety equipment.,指導員は安全装置の使い方を実演した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0019,word,3,1,19,emphasize,強調する,動詞,ˈemfəsaɪz,The guide emphasized that visitors must stay on the marked path.,案内人は訪問者が印のある道から外れてはいけないことを強調した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0020,word,3,1,20,define,定義する；明確にする,動詞,dɪˈfaɪn,The report defines success as a reduction in wasted food.,その報告は成功を食品廃棄の減少と定義している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0021,word,3,1,21,determine,決定する；突き止める,動詞,dɪˈtɜːrmɪn,We need more evidence to determine what caused the failure.,失敗の原因を突き止めるには、さらに証拠が必要だ。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0022,word,3,1,22,estimate,推定する；見積もる,動詞,ˈestɪmeɪt,The builders estimated that the repairs would take three weeks.,施工業者は修理に3週間かかると見積もった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0023,word,3,1,23,assess,評価する；査定する,動詞,əˈses,The doctor assessed whether the patient could safely return home.,医師は患者が安全に自宅に戻れるかどうかを判断した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0024,word,3,1,24,evaluate,評価する；価値を判断する,動詞,ɪˈvæljueɪt,We evaluated the proposal using the same three criteria.,私たちは同じ3つの基準を用いてその提案を評価した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0025,word,3,1,25,measure,測定する；判断する,動詞,ˈmeʒər,This sensor measures how much electricity the building uses.,このセンサーは建物がどれだけ電気を使うかを測定する。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0026,word,3,1,26,predict,予測する,動詞,prɪˈdɪkt,It is hard to predict how people will use a new technology.,人々が新しい技術をどう使うかを予測するのは難しい。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0027,word,3,1,27,assume,仮定する；思い込む；引き受ける,動詞,əˈsuːm,Do not assume that everyone has access to a printer.,誰もがプリンターを使えると思い込んではいけない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0028,word,3,1,28,conclude,結論づける；終える,動詞,kənˈkluːd,The researchers concluded that more trials were necessary.,研究者たちは、さらに試行が必要だと結論づけた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0029,word,3,1,29,interpret,解釈する；通訳する,動詞,ɪnˈtɜːrprɪt,Readers may interpret the final scene in different ways.,読者は最後の場面をさまざまに解釈するかもしれない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0030,word,3,1,30,imply,暗に示す；意味する,動詞,ɪmˈplaɪ,A lower price does not necessarily imply lower quality.,価格が安いことは必ずしも品質が低いことを意味しない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0031,word,3,1,31,involve,伴う；含む；関わらせる,動詞,ɪnˈvɑːlv,The project involves interviewing people from several age groups.,その企画では複数の年齢層の人々に話を聞く必要がある。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0032,word,3,1,32,engage,従事する；関心を引く,動詞,ɪnˈɡeɪdʒ,The workshop engaged students in a discussion about local transport.,その講習会は生徒たちを地域交通についての議論に参加させた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0033,word,3,1,33,participate,参加する,動詞,pɑːrˈtɪsɪpeɪt,Residents can participate in the planning meeting online.,住民はオンラインで計画会議に参加できる。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0034,word,3,1,34,contribute,貢献する；寄付する；一因となる,動詞,kənˈtrɪbjuːt,Better lighting contributed to a safer station entrance.,照明の改善は駅の入口の安全性を高めることに役立った。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0035,word,3,1,35,affect,影響する；心を動かす,動詞,əˈfekt,A change in the bus route could affect many elderly residents.,バス路線の変更は多くの高齢の住民に影響を及ぼす可能性がある。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0036,word,3,1,36,benefit,役に立つ；恩恵を受ける,動詞,ˈbenɪfɪt,Small businesses may benefit from better public transport.,小規模な企業は公共交通の改善から恩恵を受けるかもしれない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0037,word,3,1,37,consume,消費する；消耗する,動詞,kənˈsuːm,Older refrigerators often consume more electricity than newer ones.,古い冷蔵庫は新しいものより多くの電気を消費することがよくある。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0038,word,3,1,38,distribute,配る；分配する,動詞,dɪˈstrɪbjuːt,Volunteers distributed reusable bottles to the runners.,ボランティアは走者たちに繰り返し使えるボトルを配った。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0039,word,3,1,39,replace,取り替える；取って代わる,動詞,rɪˈpleɪs,The town replaced the broken benches with stronger ones.,その町は壊れたベンチをより丈夫なものに取り替えた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0040,word,3,1,40,remove,取り除く；移す,動詞,rɪˈmuːv,Please remove your name from the public version of the document.,公開版の文書から自分の名前を削除してください。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0041,word,3,1,41,evidence,証拠；根拠,名詞,ˈevɪdəns,There is little evidence that the change improved attendance.,その変更が出席率を改善したという証拠はほとんどない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0042,word,3,1,42,theory,理論；学説,名詞,ˈθɪri,The new observations support the theory but do not prove it.,新たな観察結果はその理論を裏づけるが、それを証明するわけではない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0043,word,3,1,43,principle,原理；原則；信条,名詞,ˈprɪnsəpəl,The design follows the principle that controls should be easy to find.,その設計は操作部を見つけやすくすべきだという原則に従っている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0044,word,3,1,44,method,方法；手法,名詞,ˈmeθəd,We tested two methods of keeping the classroom cool.,私たちは教室を涼しく保つ2つの方法を試した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0045,word,3,1,45,approach,取り組み方；接近,名詞,əˈproʊtʃ,A different approach to the problem may save time.,その問題への別の取り組み方によって時間を節約できるかもしれない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0046,word,3,1,46,process,過程；工程；処理,名詞,ˈprɑːses,Students recorded each stage of the design process.,生徒たちは設計過程の各段階を記録した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0047,word,3,1,47,factor,要因；要素,名詞,ˈfæktər,Cost is only one factor in choosing a heating system.,暖房設備を選ぶ際、費用は要因の1つにすぎない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0048,word,3,1,48,effect,影響；効果；結果,名詞,ɪˈfekt,The study examined the effect of noise on concentration.,その研究は騒音が集中力に及ぼす影響を調べた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0049,word,3,1,49,consequence,結果；影響,名詞,ˈkɑːnsɪkwens,A longer waiting time was an unexpected consequence of the new rule.,待ち時間が長くなったことは、新しい規則の予想外の結果だった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0050,word,3,1,50,function,機能；役割,名詞,ˈfʌŋkʃən,The main function of this layer is to keep heat inside.,この層の主な役割は内部に熱を保つことだ。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0051,word,3,1,51,structure,構造；組織；建造物,名詞,ˈstrʌktʃər,"The essay has a clear structure, with one main idea in each paragraph.",その論文は構成が明快で、各段落に1つの中心的な考えがある。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0052,word,3,1,52,feature,特徴；特集,名詞,ˈfiːtʃər,Large windows are a useful feature of the new library.,大きな窓は新しい図書館の便利な特徴の1つだ。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0053,word,3,1,53,pattern,型；傾向；模様,名詞,ˈpætərn,The researchers noticed a similar pattern in all four cities.,研究者たちは4都市すべてで似た傾向に気づいた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0054,word,3,1,54,trend,傾向；動向,名詞,trend,The survey suggests a growing trend toward online shopping.,その調査はオンラインでの買い物が増える傾向を示唆している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0055,word,3,1,55,attitude,態度；考え方,名詞,ˈætɪtuːd,Her attitude toward mistakes changed after the workshop.,講習会の後、間違いに対する彼女の考え方は変わった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0056,word,3,1,56,awareness,認識；自覚,名詞,əˈwernəs,The campaign raised awareness of food waste.,その活動は食品廃棄への意識を高めた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0057,word,3,1,57,interaction,相互作用；交流,名詞,ˌɪntərˈækʃən,The course includes regular interaction with local artists.,その講座には地元の芸術家との定期的な交流が含まれる。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0058,word,3,1,58,relationship,関係；関連,名詞,rɪˈleɪʃənʃɪp,The chart shows the relationship between temperature and demand.,その図は気温と需要の関係を示している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0059,word,3,1,59,diversity,多様性,名詞,daɪˈvɜːrsəti,The garden supports a surprising diversity of insects.,その庭には驚くほど多様な昆虫が生息している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0060,word,3,1,60,identity,身元；自己認識；独自性,名詞,aɪˈdentəti,Language can be an important part of a community's identity.,言語は共同体の独自性の重要な一部となりうる。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0061,word,3,1,61,individual,個人；個体,名詞,ˌɪndɪˈvɪdʒuəl,The study followed each individual for six months.,その研究は各参加者を6か月間追跡した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0062,word,3,1,62,generation,世代；発生；生産,名詞,ˌdʒenəˈreɪʃən,The invention changed how the next generation listened to music.,その発明は次の世代の音楽の聴き方を変えた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0063,word,3,1,63,perspective,視点；考え方；遠近法,名詞,pərˈspektɪv,The interview gave us a different perspective on city life.,そのインタビューは都市生活について別の視点を与えてくれた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0064,word,3,1,64,concept,概念；考え,名詞,ˈkɑːnsept,The teacher introduced the concept of probability with a simple game.,先生は簡単なゲームで確率の概念を紹介した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0065,word,3,1,65,context,文脈；背景；状況,名詞,ˈkɑːntekst,The meaning of a gesture depends on its cultural context.,身ぶりの意味は文化的な背景によって変わる。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0066,word,3,1,66,issue,問題；論点；発行物,名詞,ˈɪʃuː,The council will discuss the issue of bicycle parking next week.,議会は来週、自転車駐輪の問題を話し合う。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0067,word,3,1,67,access,利用できること；接近する手段,名詞,ˈækses,All students should have access to reliable learning materials.,すべての生徒が信頼できる教材を利用できるべきだ。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0068,word,3,1,68,policy,政策；方針,名詞,ˈpɑːləsi,The school changed its policy on the use of mobile phones.,その学校は携帯電話の使用に関する方針を変更した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0069,word,3,1,69,economy,経済；節約,名詞,ɪˈkɑːnəmi,Tourism plays an important role in the island's economy.,観光はその島の経済で重要な役割を果たしている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0070,word,3,1,70,industry,産業；工業；勤勉,名詞,ˈɪndəstri,The fishing industry provides jobs in many coastal towns.,漁業は多くの沿岸の町で雇用を生み出している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0071,word,3,1,71,significant,重要な；かなりの,形容詞,sɪɡˈnɪfɪkənt,The new insulation led to a significant reduction in heating costs.,新しい断熱材によって暖房費がかなり減った。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0072,word,3,1,72,essential,不可欠な；本質的な,形容詞,ɪˈsenʃəl,Clean water is essential for the health of the community.,きれいな水は地域社会の健康に不可欠だ。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0073,word,3,1,73,relevant,関連する；適切な,形容詞,ˈreləvənt,Please include only information that is relevant to the question.,その質問に関係する情報だけを含めてください。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0074,word,3,1,74,appropriate,適切な；ふさわしい,形容詞,əˈproʊpriət,The guide helped us choose equipment appropriate for beginners.,案内人は初心者に適した装備を選ぶのを手伝ってくれた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0075,word,3,1,75,efficient,効率のよい,形容詞,ɪˈfɪʃənt,The new route is more efficient because it avoids repeated journeys.,新しい経路は同じ移動の繰り返しを避けるので、より効率がよい。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0076,word,3,1,76,effective,効果的な；有効な,形容詞,ɪˈfektɪv,A short reminder was effective in reducing missed appointments.,短い通知は予約のうっかり忘れを減らすのに効果があった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0077,word,3,1,77,accurate,正確な,形容詞,ˈækjərət,We need accurate measurements before ordering the glass.,ガラスを発注する前に正確な測定値が必要だ。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0078,word,3,1,78,reliable,信頼できる；頼りになる,形容詞,rɪˈlaɪəbəl,A reliable timetable helps passengers plan their journeys.,信頼できる時刻表は乗客が移動の計画を立てる助けになる。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0079,word,3,1,79,likely,〜しそうな；ありそうな,形容詞,ˈlaɪkli,The path is likely to become slippery after rain.,その道は雨の後に滑りやすくなりそうだ。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0080,word,3,1,80,potential,潜在的な；可能性のある,形容詞,pəˈtenʃəl,The report discusses the potential benefits of smaller classes.,その報告は少人数学級によって得られる可能性のある利点を論じている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0081,word,3,1,81,particular,特定の；特別な；好みがうるさい,形容詞,pərˈtɪkjələr,The survey focused on one particular neighborhood.,その調査はある特定の地区に焦点を当てた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0082,word,3,1,82,specific,具体的な；特定の,形容詞,spəˈsɪfɪk,Please give a specific example to support your opinion.,意見を裏づける具体例を挙げてください。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0083,word,3,1,83,complex,複雑な,形容詞,kəmˈpleks,The reasons for migration are often more complex than they first appear.,移住の理由は、最初に思われるより複雑であることが多い。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0084,word,3,1,84,obvious,明らかな；すぐ分かる,形容詞,ˈɑːbviəs,The cause of the error was not obvious at first.,誤りの原因は初めは明らかではなかった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0085,word,3,1,85,familiar,よく知っている；見覚えのある,形容詞,fəˈmɪljər,"I am familiar with the route, but I have never cycled along it.",私はその道をよく知っているが、自転車で通ったことはない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0086,word,3,1,86,similar,似ている；同様の,形容詞,ˈsɪmələr,This problem is similar to one we solved yesterday.,この問題は昨日解いた問題に似ている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0087,word,3,1,87,distinct,別個の；明確な,形容詞,dɪˈstɪŋkt,The project has two distinct aims: saving energy and improving comfort.,その企画には、省エネと快適さの向上という別個の2つの目的がある。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0088,word,3,1,88,independent,独立した；自立した,形容詞,ˌɪndɪˈpendənt,The group needs funding independent of the city budget.,その団体には市の予算に依存しない資金が必要だ。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0089,word,3,1,89,dependent,依存している；左右される,形容詞,dɪˈpendənt,Many island communities are dependent on regular ferry services.,多くの島の共同体は定期的なフェリー運航に依存している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0090,word,3,1,90,responsible,責任がある；原因である；責任感のある,形容詞,rɪˈspɑːnsəbəl,Who is responsible for checking the equipment before use?,使用前に装置を確認する責任は誰にありますか。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0091,word,3,1,91,capable,能力がある；〜できる,形容詞,ˈkeɪpəbəl,This small device is capable of storing thousands of images.,この小型装置は数千枚の画像を保存できる。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0092,word,3,1,92,aware,気づいている；認識している,形容詞,əˈwer,We were not aware that the entrance had moved.,私たちは入口が移ったことを知らなかった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0093,word,3,1,93,active,活動的な；活動中の；積極的な,形容詞,ˈæktɪv,She takes an active role in planning community events.,彼女は地域行事の企画で積極的な役割を果たしている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0094,word,3,1,94,passive,受け身の；消極的な,形容詞,ˈpæsɪv,The lesson encouraged students to question ideas instead of remaining passive.,その授業は、生徒が受け身でいるのではなく考えを問い直すよう促した。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l3-0095,word,3,1,95,sustainable,持続可能な,形容詞,səˈsteɪnəbəl,The town is seeking a sustainable way to maintain its bus service.,その町はバス運行を維持する持続可能な方法を探している。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l3-0096,word,3,1,96,therefore,それゆえ；したがって,副詞,ˈðerfɔːr,"The road was closed; therefore, we took a different route.",道路が閉鎖されていたので、私たちは別の経路を通った。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0097,word,3,1,97,however,しかしながら；どんなに〜でも,副詞,haʊˈevər,"The device is small. However, it can store a large amount of data.",その装置は小さい。しかし、大量のデータを保存できる。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0098,word,3,1,98,otherwise,そうしなければ；それ以外は,副詞,ˈʌðərwaɪz,"Keep a copy of the file; otherwise, you may lose your work.",ファイルの複製を残しなさい。そうしないと作業内容を失うかもしれない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0099,word,3,1,99,relatively,比較的,副詞,ˈrelətɪvli,The new material is relatively light compared with steel.,新しい材料は鋼鉄に比べて比較的軽い。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l3-0100,word,3,1,100,increasingly,ますます；次第に,副詞,ɪnˈkriːsɪŋli,Public libraries are becoming increasingly important as places to meet.,公共図書館は人々が集まる場所としてますます重要になっている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0001,word,4,1,1,infer,推論する；推察する,動詞,ɪnˈfɜːr,"From the empty nests, the researchers inferred that the birds had left.",空になった巣から、研究者たちは鳥が去ったと推察した。,review_required,false,"[""original-draft-v3"", ""tsl""]",not_fully_verified
+word-l4-0002,word,4,1,2,deduce,推論する；導き出す,動詞,dɪˈduːs,We deduced from the timetable that no train would arrive before noon.,私たちは時刻表から正午前に列車は来ないと推論した。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0003,word,4,1,3,speculate,推測する；思索する,動詞,ˈspekjuleɪt,"Without further evidence, we can only speculate about the cause.",さらに証拠がなければ、私たちは原因を推測することしかできない。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0004,word,4,1,4,hypothesize,仮説を立てる,動詞,haɪˈpɑːθəsaɪz,The team hypothesized that cooler nights would slow the insects' growth.,チームは夜の気温が低いと昆虫の成長が遅くなるという仮説を立てた。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0005,word,4,1,5,scrutinize,綿密に調べる；精査する,動詞,ˈskruːtənaɪz,The committee scrutinized the proposal before approving public funding.,委員会は公的資金の支出を承認する前にその提案を精査した。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0006,word,4,1,6,verify,確認する；検証する,動詞,ˈverɪfaɪ,The editor verified each quotation against the original recording.,編集者はそれぞれの引用を元の録音と照らして確認した。,review_required,false,"[""original-draft-v3"", ""bsl"", ""tsl""]",not_fully_verified
+word-l4-0007,word,4,1,7,refute,反証する；誤りを論証する,動詞,rɪˈfjuːt,A single reliable counterexample can refute a universal claim.,信頼できる反例が1つあれば、普遍的な主張を反証できる。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0008,word,4,1,8,contradict,矛盾する；反論する,動詞,ˌkɑːntrəˈdɪkt,The new measurements contradict the earlier report.,新しい測定値は以前の報告と矛盾している。,review_required,false,"[""original-draft-v3"", ""nawl"", ""tsl""]",not_fully_verified
+word-l4-0009,word,4,1,9,reconcile,両立させる；和解させる,動詞,ˈrekənsaɪl,The architect tried to reconcile the residents' wishes with the limited budget.,建築家は住民の希望を限られた予算と両立させようとした。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0010,word,4,1,10,justify,正当化する；根拠を示す,動詞,ˈdʒʌstɪfaɪ,The expected benefits do not justify the additional cost.,予想される利益は追加費用を正当化するほどではない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0011,word,4,1,11,substantiate,裏づける；実証する,動詞,səbˈstænʃieɪt,The article offered no records to substantiate its central claim.,その記事は中心的な主張を裏づける記録を何も示さなかった。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0012,word,4,1,12,assert,断言する；主張する,動詞,əˈsɜːrt,The author asserts that convenience should not be the only goal.,筆者は利便性だけを目標にすべきではないと主張している。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0013,word,4,1,13,advocate,提唱する；支持する,動詞,ˈædvəkeɪt,The group advocates improving existing housing before building new towers.,その団体は新しい高層建築を建てる前に既存住宅を改善することを提唱している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0014,word,4,1,14,acknowledge,認める；受領を知らせる,動詞,əkˈnɑːlɪdʒ,The report acknowledges that the sample was too small.,その報告は標本が小さすぎたことを認めている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0015,word,4,1,15,attribute,〜のせいにする；〜に帰する,動詞,əˈtrɪbjuːt,The team attributed the delay to a shortage of materials.,チームは遅れの原因を資材不足に帰した。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0016,word,4,1,16,constitute,構成する；〜に当たる,動詞,ˈkɑːnstɪtuːt,These interviews constitute only a small part of the evidence.,これらのインタビューは証拠のごく一部を構成するにすぎない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0017,word,4,1,17,embody,具体化する；体現する,動詞,ɪmˈbɑːdi,The design embodies the idea that repairs should be easy.,その設計は修理を容易にすべきだという考えを具体化している。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0018,word,4,1,18,entail,必然的に伴う；必要とする,動詞,ɪnˈteɪl,Moving the laboratory would entail replacing its ventilation system.,研究室の移転には換気設備の交換が必要になる。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0019,word,4,1,19,undermine,損なう；弱める,動詞,ˌʌndərˈmaɪn,Repeated errors can undermine public confidence in the data.,繰り返される誤りはそのデータに対する市民の信頼を損ないうる。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0020,word,4,1,20,reinforce,強化する；補強する,動詞,ˌriːɪnˈfɔːrs,The second experiment reinforced our confidence in the explanation.,2回目の実験はその説明に対する私たちの確信を強めた。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl"", ""tsl""]",not_fully_verified
+word-l4-0021,word,4,1,21,constrain,制約する；抑制する,動詞,kənˈstreɪn,A lack of storage space constrained the size of the collection.,保管場所の不足が収集物の規模を制約した。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0022,word,4,1,22,inhibit,妨げる；抑制する,動詞,ɪnˈhɪbɪt,Fear of making mistakes may inhibit participation in class.,間違いを恐れる気持ちは授業への参加を妨げるかもしれない。,review_required,false,"[""original-draft-v3"", ""nawl""]",not_fully_verified
+word-l4-0023,word,4,1,23,facilitate,促進する；容易にする,動詞,fəˈsɪlɪteɪt,Clear labels facilitate the safe use of unfamiliar equipment.,明確な表示は不慣れな装置を安全に使うことを容易にする。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl"", ""tsl""]",not_fully_verified
+word-l4-0024,word,4,1,24,enhance,高める；向上させる,動詞,ɪnˈhæns,Better acoustics enhanced the audience's experience of the concert.,音響の改善は聴衆のコンサート体験の質を高めた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0025,word,4,1,25,accelerate,加速する；速める,動詞,əkˈseləreɪt,The additional funding accelerated the development of the prototype.,追加資金は試作品の開発を速めた。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0026,word,4,1,26,diminish,減少する；弱める,動詞,dɪˈmɪnɪʃ,The noise gradually diminished as the crowd left the hall.,人々がホールを去るにつれて騒音は次第に小さくなった。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0027,word,4,1,27,deteriorate,悪化する；劣化する,動詞,dɪˈtɪriəreɪt,The photographs deteriorated because they were stored in a damp room.,その写真は湿った部屋に保管されていたため劣化した。,review_required,false,"[""original-draft-v3"", ""bsl"", ""tsl""]",not_fully_verified
+word-l4-0028,word,4,1,28,alleviate,和らげる；軽減する,動詞,əˈliːvieɪt,More frequent buses could alleviate overcrowding at the station.,バスの増便は駅の混雑を軽減できるかもしれない。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0029,word,4,1,29,exploit,活用する；搾取する,動詞,ɪkˈsplɔɪt,The factory was criticized for exploiting workers who had few alternatives.,その工場はほかに選択肢の少ない労働者を搾取しているとして批判された。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0030,word,4,1,30,manipulate,巧みに扱う；操作する,動詞,məˈnɪpjuleɪt,Changing the scale can manipulate how readers perceive a graph.,目盛りを変えると、読者のグラフの受け止め方を誘導できてしまう。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0031,word,4,1,31,allocate,割り当てる；配分する,動詞,ˈæləkeɪt,The council allocated more funds to maintaining existing roads.,議会は既存道路の維持により多くの資金を割り当てた。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl"", ""tsl""]",not_fully_verified
+word-l4-0032,word,4,1,32,accumulate,蓄積する；積み重ねる,動詞,əˈkjuːmjəleɪt,Small measurement errors can accumulate over a long series of calculations.,小さな測定誤差は長い一連の計算を通じて積み重なることがある。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl"", ""tsl""]",not_fully_verified
+word-l4-0033,word,4,1,33,integrate,統合する；組み込む,動詞,ˈɪntɪɡreɪt,The course integrates practical experiments with mathematical explanations.,その講座は実験と数学的な説明を統合している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0034,word,4,1,34,implement,実施する；実行する,動詞,ˈɪmplɪment,A good policy achieves little unless it is implemented effectively.,優れた政策も効果的に実施されなければ、ほとんど成果を上げない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0035,word,4,1,35,sustain,維持する；支える；被る,動詞,səˈsteɪn,The program cannot sustain its current level of spending without new funding.,その事業は新たな資金なしでは現在の支出水準を維持できない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0036,word,4,1,36,retain,保持する；保つ,動詞,rɪˈteɪn,The revised design retains the original building's central courtyard.,修正された設計は元の建物の中央の中庭を残している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0037,word,4,1,37,eliminate,取り除く；排除する,動詞,ɪˈlɪmɪneɪt,The new filter eliminates most dust particles from the air.,新しいフィルターは空気から大部分のちりの粒子を取り除く。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0038,word,4,1,38,transform,大きく変える；変容させる,動詞,trænsˈfɔːrm,The railway transformed a remote village into a busy trading center.,その鉄道は辺境の村を活気ある交易の中心地へと変えた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0039,word,4,1,39,emerge,現れる；明らかになる,動詞,ɪˈmɜːrdʒ,A different explanation emerged as the researchers examined more records.,研究者たちがさらに記録を調べるにつれ、別の説明が浮かび上がった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0040,word,4,1,40,persist,続く；固執する,動詞,pərˈsɪst,The problem persisted even after the damaged part was replaced.,損傷した部品を交換しても問題は続いた。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0041,word,4,1,41,assumption,仮定；思い込み,名詞,əˈsʌmpʃən,The estimate rests on the assumption that demand will remain stable.,その見積もりは需要が安定したままであるという仮定に基づいている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0042,word,4,1,42,implication,影響；含意,名詞,ˌɪmplɪˈkeɪʃən,The finding has important implications for the design of public spaces.,その発見は公共空間の設計に重要な示唆を与える。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0043,word,4,1,43,incentive,動機；奨励策,名詞,ɪnˈsentɪv,Lower fares may provide an incentive to use public transport.,運賃の引き下げは公共交通を利用する動機になるかもしれない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0044,word,4,1,44,constraint,制約；制限,名詞,kənˈstreɪnt,Time constraints forced the team to simplify the experiment.,時間的な制約により、チームは実験を簡略化せざるをえなかった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0045,word,4,1,45,consensus,合意；意見の一致,名詞,kənˈsensəs,The committee reached a consensus on the need for further research.,委員会は追加調査の必要性について合意に達した。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0046,word,4,1,46,controversy,論争；意見の対立,名詞,ˈkɑːntrəvɜːrsi,The plan to close the local hospital caused considerable controversy.,地域の病院を閉鎖する計画は大きな論争を引き起こした。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0047,word,4,1,47,paradox,逆説；一見矛盾した事態,名詞,ˈpærədɑːks,It is a paradox that having more choices can sometimes make decisions harder.,選択肢が増えるとかえって決定が難しくなることがあるのは逆説的だ。,review_required,false,"[""original-draft-v3"", ""nawl""]",not_fully_verified
+word-l4-0048,word,4,1,48,dilemma,板挟み；難しい選択,名詞,dɪˈlemə,The town faces a dilemma: attract more visitors or protect its quiet streets.,その町は訪問者を増やすか静かな通りを守るかという難しい選択に直面している。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0049,word,4,1,49,bias,偏り；先入観,名詞,ˈbaɪəs,The survey may contain bias because it excluded people without internet access.,ネットを使えない人々を除外したため、その調査には偏りがあるかもしれない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0050,word,4,1,50,insight,洞察；深い理解,名詞,ˈɪnsaɪt,The interviews provided insight into how families choose where to live.,そのインタビューは家族が住む場所をどう選ぶかを理解する手がかりを与えた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0051,word,4,1,51,framework,枠組み；骨組み,名詞,ˈfreɪmwɜːrk,The agreement provides a framework for sharing data between institutions.,その協定は機関の間でデータを共有するための枠組みを提供する。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0052,word,4,1,52,mechanism,仕組み；機構,名詞,ˈmekənɪzəm,The study explores the mechanism by which the material stores heat.,その研究はその材料が熱を蓄える仕組みを探究している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0053,word,4,1,53,phenomenon,現象；事象,名詞,fəˈnɑːmɪnən,The same phenomenon has been observed in several unrelated species.,同じ現象が系統の異なる複数の種で観察されている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0054,word,4,1,54,hypothesis,仮説,名詞,haɪˈpɑːθəsɪs,The experiment was designed to test a hypothesis about memory.,その実験は記憶に関する仮説を検証するために設計された。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0055,word,4,1,55,criterion,基準；判断尺度,名詞,kraɪˈtɪriən,Safety is the most important criterion for selecting the material.,その材料を選ぶうえで、安全性が最も重要な基準だ。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0056,word,4,1,56,proportion,割合；比率；釣り合い,名詞,prəˈpɔːrʃən,A growing proportion of the budget is spent on maintenance.,予算のうち維持管理に使われる割合が増えている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0057,word,4,1,57,priority,優先事項；優先権,名詞,praɪˈɔːrəti,Improving access for wheelchair users became a priority in the redesign.,設計の見直しでは車椅子利用者の利用しやすさの改善が優先事項となった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0058,word,4,1,58,autonomy,自律；自治；自主性,名詞,ɔːˈtɑːnəmi,The school gives teachers considerable autonomy in choosing classroom activities.,その学校は授業活動の選択において教師に大きな裁量を与えている。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0059,word,4,1,59,credibility,信頼性；信用,名詞,ˌkredəˈbɪləti,Publishing the full method improved the credibility of the study.,方法をすべて公表したことで、その研究の信頼性が高まった。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0060,word,4,1,60,accountability,説明責任；結果に責任を負うこと,名詞,əˌkaʊntəˈbɪləti,Clear records strengthen accountability for the use of public funds.,明確な記録は公的資金の使用に関する説明責任を強める。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0061,word,4,1,61,inequality,不平等；格差,名詞,ˌɪnɪˈkwɑːləti,The report examines inequality in access to higher education.,その報告は高等教育を受ける機会の格差を調べている。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0062,word,4,1,62,sustainability,持続可能性,名詞,səˌsteɪnəˈbɪləti,The long-term sustainability of the program depends on stable funding.,その事業の長期的な持続可能性は安定した資金に左右される。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0063,word,4,1,63,innovation,革新；新しい工夫,名詞,ˌɪnəˈveɪʃən,Innovation can involve improving an existing process rather than inventing a product.,革新には製品の発明ではなく既存の工程の改善が含まれることもある。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0064,word,4,1,64,infrastructure,社会基盤；基盤設備,名詞,ˈɪnfrəstrʌktʃər,Reliable digital infrastructure is essential for remote communities.,信頼できるデジタル基盤は遠隔地の共同体に不可欠だ。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0065,word,4,1,65,heritage,遺産；受け継いだ文化,名詞,ˈherɪtɪdʒ,The project records local songs as part of the region's cultural heritage.,その企画は地域の文化遺産の一部として土地の歌を記録している。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0066,word,4,1,66,convention,慣習；大会；条約,名詞,kənˈvenʃən,The writer challenged the convention that a story must have a clear ending.,その作家は物語には明確な結末が必要だという慣習に異議を唱えた。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0067,word,4,1,67,perception,知覚；認識；捉え方,名詞,pərˈsepʃən,Personal experience can shape our perception of risk.,個人的な経験は危険に対する私たちの捉え方を形づくりうる。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0068,word,4,1,68,cognition,認知；知的な働き,名詞,kɑːɡˈnɪʃən,The course introduces research on language and cognition.,その講座は言語と認知に関する研究を紹介する。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0069,word,4,1,69,interpretation,解釈；解説,名詞,ɪnˌtɜːrprɪˈteɪʃən,Her interpretation of the poem emphasizes the speaker's uncertainty.,彼女の詩の解釈は語り手の不確かさを重視している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0070,word,4,1,70,justification,正当な理由；正当化,名詞,ˌdʒʌstɪfɪˈkeɪʃən,The report provides no clear justification for excluding those records.,その報告はそれらの記録を除外する明確な理由を示していない。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0071,word,4,1,71,ambiguous,曖昧な；複数に解釈できる,形容詞,æmˈbɪɡjuəs,The instructions were ambiguous about whether late entries would be accepted.,その説明では締切後の応募を受け付けるかどうかが曖昧だった。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0072,word,4,1,72,arbitrary,恣意的な；根拠のない；任意の,形容詞,ˈɑːrbɪtreri,An arbitrary age limit may exclude people with relevant experience.,根拠のない年齢制限は関連する経験のある人を排除しかねない。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0073,word,4,1,73,coherent,筋の通った；まとまりのある,形容詞,koʊˈhɪrənt,The essay connects its examples into a coherent argument.,その論文は具体例を結びつけて筋の通った議論にしている。,review_required,false,"[""original-draft-v3"", ""nawl""]",not_fully_verified
+word-l4-0074,word,4,1,74,consistent,一貫した；矛盾しない,形容詞,kənˈsɪstənt,The findings are consistent with the earlier measurements.,その調査結果は以前の測定値と矛盾しない。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0075,word,4,1,75,explicit,明示的な；明確な,形容詞,ɪkˈsplɪsɪt,The form requires explicit permission before any image is published.,その書式では画像を公開する前に明示的な許可を求めている。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0076,word,4,1,76,implicit,暗黙の；内在する,形容詞,ɪmˈplɪsɪt,The argument contains an implicit assumption that everyone has spare time.,その議論には誰もが自由な時間を持つという暗黙の仮定がある。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0077,word,4,1,77,empirical,経験的な；実証的な,形容詞,ɪmˈpɪrɪkəl,The proposal needs empirical support from observations or experiments.,その提案には観察や実験による実証的な裏づけが必要だ。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0078,word,4,1,78,theoretical,理論的な；理論上の,形容詞,ˌθiːəˈretɪkəl,The theoretical model makes assumptions that may not hold in practice.,その理論モデルは実際には成り立たないかもしれない仮定を置いている。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0079,word,4,1,79,inherent,本来備わった；内在する,形容詞,ɪnˈhɪrənt,The report discusses risks inherent in storing all records in one place.,その報告は全記録を1か所に保管することに内在する危険を論じている。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0080,word,4,1,80,inevitable,避けられない；必然的な,形容詞,ɪnˈevɪtəbəl,Some delay was inevitable after the main road was damaged.,幹線道路が損傷した後は、ある程度の遅れは避けられなかった。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0081,word,4,1,81,plausible,もっともらしい；ありそうな,形容詞,ˈplɔːzəbəl,"The explanation is plausible, but it still needs to be tested.",その説明はもっともらしいが、まだ検証する必要がある。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl"", ""tsl""]",not_fully_verified
+word-l4-0082,word,4,1,82,feasible,実行可能な,形容詞,ˈfiːzəbəl,The plan is technically feasible but too expensive for the town.,その計画は技術的には実行可能だが、町にとって費用が高すぎる。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0083,word,4,1,83,valid,妥当な；有効な,形容詞,ˈvælɪd,The comparison is valid only if both groups faced similar conditions.,その比較は両集団が似た条件に置かれていた場合にのみ妥当だ。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl"", ""tsl""]",not_fully_verified
+word-l4-0084,word,4,1,84,vulnerable,傷つきやすい；影響を受けやすい,形容詞,ˈvʌlnərəbəl,Coastal roads are vulnerable to damage from severe storms.,沿岸の道路は激しい嵐による損傷を受けやすい。,review_required,false,"[""original-draft-v3"", ""bsl""]",not_fully_verified
+word-l4-0085,word,4,1,85,resilient,回復力のある；立ち直る力のある,形容詞,rɪˈzɪliənt,A resilient transport network offers alternatives when one route fails.,回復力のある交通網は1つの経路が使えなくなったときに代替手段を用意する。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0086,word,4,1,86,substantial,かなりの；相当な；実質的な,形容詞,səbˈstænʃəl,The repairs required a substantial investment of time and money.,その修理には相当な時間と費用の投入が必要だった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0087,word,4,1,87,subtle,微妙な；巧妙な；気づきにくい,形容詞,ˈsʌtəl,A subtle change in wording altered the meaning of the question.,言い回しの微妙な変化が質問の意味を変えた。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0088,word,4,1,88,profound,深い；重大な,形容詞,prəˈfaʊnd,The discovery had a profound effect on how scientists viewed the ocean.,その発見は科学者たちの海に対する見方に大きな影響を与えた。,review_required,false,"[""original-draft-v3"", ""nawl""]",not_fully_verified
+word-l4-0089,word,4,1,89,prevalent,広く見られる；普及した,形容詞,ˈprevələnt,This view was prevalent among the writers of that period.,この見方はその時代の作家たちの間で広く見られた。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0090,word,4,1,90,conventional,従来の；慣習的な,形容詞,kənˈvenʃənəl,The new method uses less water than conventional methods.,新しい方法は従来の方法より少ない水で済む。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0091,word,4,1,91,contemporary,現代の；同時代の,形容詞,kənˈtempəreri,The exhibition compares the painter's work with contemporary accounts of the city.,その展示は画家の作品をその都市についての同時代の記述と比較している。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0092,word,4,1,92,compatible,両立できる；互換性のある,形容詞,kəmˈpætəbəl,The new software must be compatible with the school's existing computers.,新しいソフトは学校の既存のコンピューターで使える必要がある。,review_required,false,"[""original-draft-v3"", ""bsl"", ""tsl""]",not_fully_verified
+word-l4-0093,word,4,1,93,diverse,多様な；さまざまな,形容詞,daɪˈvɜːrs,The project brought together people with diverse experiences.,その企画は多様な経験を持つ人々を集めた。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0094,word,4,1,94,objective,客観的な,形容詞,əbˈdʒektɪv,The reviewers used shared criteria to make the assessment more objective.,評価者たちは評価をより客観的にするために共通の基準を使った。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0095,word,4,1,95,subjective,主観的な,形容詞,səbˈdʒektɪv,"Judgments of beauty are often subjective, even when people share a culture.",文化を共有する人々の間でも、美しさの判断は主観的であることが多い。,review_required,false,"[""original-draft-v3"", ""bsl"", ""nawl""]",not_fully_verified
+word-l4-0096,word,4,1,96,consequently,その結果；したがって,副詞,ˈkɑːnsɪkwentli,"The supplier closed unexpectedly; consequently, production stopped for a week.",供給業者が突然閉鎖した。その結果、生産は1週間止まった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0097,word,4,1,97,nevertheless,それにもかかわらず,副詞,ˌnevərðəˈles,"The evidence was incomplete. Nevertheless, the finding deserved further study.",証拠は不十分だった。それでもその発見はさらに研究する価値があった。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0098,word,4,1,98,furthermore,さらに；そのうえ,副詞,ˌfɜːrðərˈmɔːr,"The route is shorter. Furthermore, it avoids the steep hill.",その経路はより短い。さらに、急な坂を避けられる。,review_required,false,"[""original-draft-v3"", ""ngsl""]",not_fully_verified
+word-l4-0099,word,4,1,99,conversely,逆に；反対に,副詞,ˈkɑːnvɜːrsli,"A wider road may encourage driving; conversely, a safer cycle path may encourage cycling.",広い道路は車の利用を促すかもしれない。逆に、安全性の高い自転車道は自転車の利用を促すかもしれない。,review_required,false,"[""original-draft-v3""]",pending
+word-l4-0100,word,4,1,100,predominantly,主に；大部分は,副詞,prɪˈdɑːmɪnəntli,The district was predominantly agricultural before the railway arrived.,鉄道が来る前、その地域は主に農業地帯だった。,review_required,false,"[""original-draft-v3"", ""nawl""]",not_fully_verified

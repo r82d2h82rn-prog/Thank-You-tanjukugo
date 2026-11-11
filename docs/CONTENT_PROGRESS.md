@@ -1,19 +1,28 @@
-# 教材工程の再開手順
+# 教材制作の引き継ぎ
 
-集計と件数: ../CONTENT_STATUS.md。最優先の外部前提: NETWORK_REQUIREMENTS.md。
+2026-11-12 JST。作業ブランチは `feat/full-content-production`。元は `feat/content-pipeline-and-practice-flow`、基点コミット e51d57edd430e20a053b6cea202b0e9b2a65b1e8。
 
-1. `git checkout feat/content-pipeline-and-practice-flow` を使う。既存チェックアウトで作業し、別worktreeを自動作成しない。
-2. `npm ci`、`npm run typecheck`、`npm test`、`npm run test:content`、`npm run content:audit` を実行。
-3. ネットワーク設定変更後に `npm run content:probe`。現在の接続失敗記録を、資料を調査済みという意味で使わない。
-4. 公式の利用条件を確認し、content/sources.json の根拠、版、許可範囲を更新。内容の未確認状態で許可フラグをgrantedに書き換えない。
-5. 利用可能なリストを `lemma,rank`（またはword,rank）のUTF-8 CSVに正規化し、`python3 scripts/content_pipeline.py import-candidates PATH --source ngsl --kind word` で取り込む。複数ソースの順位・由来を保持し、同一ソース内で競合する順位は拒否する。訳文・例文・音声の権利は別に確認する。
-6. 入試本文は許諾がある場合だけ分析用のローカル領域に置く。analysis/private/ はGit除外。分析資料ごとの年度・大学・学部・方式・科目・URL・許諾根拠・SHA256を exam_sources.csv に記録。掲載入口の行を実際の試験として数えない。
-7. `npm run content:analyze`。実データがないとno_authorized_corpusと空の単語頻度を出力する。現在の0試験を分析済みと報告しない。合成テストの大学名・英文はtests内だけで使い、実績に含めない。
-8. 草稿100語をレビューし、公式情報の裏付けを付ける。採用リストを増やして独自例文等を制作。IDの再利用は禁止。部分的な正式データを入れるとSECTION不完全が検出されるので、校閲と承認はSECTION単位で揃える。
-9. 正式データは content/words/approved.json と content/idioms/approved.json に保存。アプリはsource条件と承認状態を検証し、同一ID・同一英語の検証教材を正式教材に置き換える。異なる語へのID流用を拒否。
-10. 長文は content/readings/approved.json のスキーマに従い制作。長文画面との接続は未実装なので、データ検査成功だけで利用可能と報告しない。
-11. `npm run content:audit` と `npm run content:release-check` を分けて実行。QA_REPORT.md、CONTENT_STATUS.md、PROGRESS.md を実数で更新し、検証済みの単位をコミットしてGitHubに記録する。
+## 現在まで
 
-原形変換は analysis/lemma_forms.json に明示されたもののみ。developとdevelopmentを同一化しない。熟語検出は活用・最大3語の挿入を許す候補検出であり、句境界や意味の妥当性を自動確定するものではない。人手確認前は熟語の確定頻度をnullに維持する。
+- 公式4リストの配布バイト列・版・出所・著作者表示・SHA256・文字コードを保存。公式由来5,619候補を取得し、重複963候補の複数ソース情報を保持。
+- NGSL/TSL/BSLは実配布の順位、NAWLは957見出しのみ。NAWLにアルファベット順位を設定しない。BSLの説明1,700語と実ファイル1,744語の差は未解決。
+- 既存100単語草稿の掲載を照合。新規LEVEL 3/4各100語を独自制作。草稿合計300語、検証用150項目、校閲待ち計450項目。
+- 6入試入口・利用条件を確認。第三者英文を含む利用範囲が未確定のため、本文取得・分析は0。入口の行に年度があっても試験分析数に含めない。
+- 学習用検証教材150項目と既存履歴は維持。設定の出典画面を実際の調査状況・ライセンス表示に更新。
 
-分析スコアの暫定仕様は30%正規化入試頻度・25%大学年度の広がり・25%一般/学術重要度・20%LEVEL適合。現段階では後半2指標の根拠が不足し、総合スコアを算出していない。実測と推定を別フィールドで維持する。
+## 再開手順
+
+1. 最新の `feat/full-content-production` を取得し既存チェックアウトで作業。SPEC.md と docs/CONTENT_SPEC.md が仕様の正本。別worktreeは不要。
+2. `npm ci`。`npm run typecheck` / `npm test` / `npm run test:content` / `npm run content:audit`。通常チェックと公開判定を混同しない。
+3. 必要な場合だけ `npm run content:import-official`。保存済み配布物をハッシュ照合して再現するオフライン処理で、再実行しても候補の編集判断・件数は変わらない。元ファイルを変更する場合は、現行の公式リンクとライセンスを再確認しmanifestを明示更新。
+4. docs/SOURCE_LICENSES.md の未解決事項を確認。語義・例文・IPAの辞書確認は未完了。公式未掲載の新規13語は analysis/dictionary_checks.csv。403だったCambridgeの確認を成功扱いしない。
+5. content/review_queue.csv の450項目を校閲。レビュー結果の正本は各JSONのcontentメタデータ。CSVはレビュー用一覧で、単にtrueを書いても実際の確認を済ませたことにはしない。
+6. 最優先で単語候補の採否・LEVELを審査し、残る3,500語分相当の本文制作を進める。ただし検証用100語がすべて最終採用されるとは限らない。収録目標・SECTION数は変更しない。難しい専門語や基本義で埋めない。
+7. 公式リスト由来の候補集合はCC BY-SA 4.0を維持。製品教材への継承範囲・表示・配布形態を確認し、原文の例文や定義をコピーせず独自制作する。
+8. 人手確認が済んだSECTION単位を approved.json に移す。既存IDを他語へ流用しない。検証用の置換は同じID・同じ英語・同じkindのみ。試験実装は別工程のままで、教材導入だけで連携済みと報告しない。
+9. 入試は各資料について分析利用範囲と第三者部分を特定し、必要手続き・担当者を確認。許諾前に本文をダウンロードしない。許可済みの英文だけ analysis/private/ に置き、exam_sources.csv に実年度・学部・方式・URL・根拠・ハッシュを設定。本文はGitに含めない。
+10. `npm run content:analyze`。no_authorized_corpusなら頻度は未検証を維持。原形表は analysis/lemma_forms.json に明示したもののみ。developmentをdevelopに統合しない。熟語検出は候補で人手確認前の確定頻度をnullに保つ。
+11. 単語の後に熟語2,000（50個×40SECTION）、長文400（各LEVEL10形式×10題）を制作する。長文画面・色分け描画は未実装で、データ検査成功だけでは演習可能と報告しない。
+12. `content:audit` と `content:release-check` を区別。全量・校閲・権利が揃うまで後者は失敗する。CONTENT_STATUS.md、docs/CONTENT_REPORT.md、QA_REPORT.md、進捗・再開手順を実数で更新し、変更をGitHubへコミットする。
+
+現時点の最終不足は正式承認済み基準で3,900語・2,000熟語・400長文。人手未確認の草稿は残数から引きません。

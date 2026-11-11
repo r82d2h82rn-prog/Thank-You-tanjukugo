@@ -1,57 +1,84 @@
 {
   "www.newgeneralservicelist.com": {
-    "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.065608+00:00"
+    "status": "lists_downloaded_license_verified",
+    "checkedAt": "2026-11-11T22:28:34.384195+00:00",
+    "observedVia": "urllib_https_and_web_retrieval",
+    "sourceIds": [
+      "ngsl",
+      "nawl",
+      "tsl",
+      "bsl"
+    ]
   },
   "en.wiktionary.org": {
-    "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.068913+00:00"
+    "status": "landing_reviewed",
+    "checkedAt": "2026-11-11T22:28:34.384195+00:00",
+    "observedVia": "web_retrieval",
+    "sourceIds": [
+      "wiktionary"
+    ]
   },
   "www.eiken.or.jp": {
-    "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.072004+00:00"
+    "status": "landing_reviewed",
+    "checkedAt": "2026-11-11T22:28:34.384195+00:00",
+    "observedVia": "web_retrieval",
+    "sourceIds": [
+      "eiken"
+    ]
   },
   "www.dnc.ac.jp": {
-    "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.074949+00:00"
+    "status": "landing_reviewed",
+    "checkedAt": "2026-11-11T22:28:34.384195+00:00",
+    "observedVia": "web_retrieval",
+    "sourceIds": [
+      "dnc"
+    ]
   },
   "www.u-tokyo.ac.jp": {
-    "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.078095+00:00"
+    "status": "landing_reviewed",
+    "checkedAt": "2026-11-11T22:28:34.384195+00:00",
+    "observedVia": "web_retrieval",
+    "sourceIds": [
+      "tokyo"
+    ]
   },
   "www.kyoto-u.ac.jp": {
-    "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.081132+00:00"
+    "status": "landing_reviewed",
+    "checkedAt": "2026-11-11T22:28:34.384195+00:00",
+    "observedVia": "web_retrieval",
+    "sourceIds": [
+      "kyoto"
+    ]
   },
   "www.osaka-u.ac.jp": {
-    "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.083913+00:00"
+    "status": "landing_reviewed",
+    "checkedAt": "2026-11-11T22:28:34.384195+00:00",
+    "observedVia": "web_retrieval",
+    "sourceIds": [
+      "osaka"
+    ]
   },
   "www.waseda.jp": {
-    "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.086504+00:00"
+    "status": "landing_reviewed",
+    "checkedAt": "2026-11-11T22:28:34.384195+00:00",
+    "observedVia": "web_retrieval",
+    "sourceIds": [
+      "waseda"
+    ]
   },
   "www.keio.ac.jp": {
-    "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.090070+00:00"
+    "status": "landing_reviewed",
+    "checkedAt": "2026-11-11T22:28:34.384195+00:00",
+    "observedVia": "web_retrieval",
+    "sourceIds": [
+      "keio"
+    ],
+    "notes": "指定旧URLは404。現行公式ページを確認。"
   },
-  "science.nasa.gov": {
+  "dictionary.cambridge.org": {
     "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.093608+00:00"
-  },
-  "data.worldbank.org": {
-    "status": "access_failed",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
-    "checkedAt": "2026-11-11T16:04:38.097116+00:00"
+    "httpStatus": 403,
+    "checkedAt": "2026-11-11T22:28:34.384195+00:00",
+    "notes": "13語の個別ページの閲覧を試みたが取得できず。辞書確認済みとはしない。"
   }
 }

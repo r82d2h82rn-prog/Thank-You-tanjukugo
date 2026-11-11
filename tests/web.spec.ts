@@ -163,5 +163,8 @@ test('source credits distinguish unverified references from imported material', 
   await page.getByRole('button', { name: '教材・出典・ライセンス', exact: true }).click();
   await expect(page.getByText('教材の制作・利用条件', { exact: true })).toBeVisible();
   await expect(page.getByText('NGSL', { exact: true })).toBeVisible();
+  await expect(page.getByText('確認済みバージョン：1.2 / 商用利用条件：記録あり', { exact: true })).toHaveCount(4);
+  await expect(page.getByText(/重複をまとめて5,619語の候補/)).toBeVisible();
+  await expect(page.getByRole('link', { name: 'https://creativecommons.org/licenses/by-sa/4.0/', exact: true })).toBeVisible();
   await expect(page.getByText('確認済みバージョン：未確認 / 商用利用条件：未確認', { exact: true }).first()).toBeVisible();
 });

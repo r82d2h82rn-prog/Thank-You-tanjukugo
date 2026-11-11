@@ -7,7 +7,7 @@ React Native + Expo + TypeScript の英語学習アプリ。完成版を段階�
 Node.js 22以上 / npm。検証環境は Node 24.22.1、Expo SDK 55、React 19.2、React Native 0.83.10。教材ツールと本番スモークテストにPython 3を使用します。
 
 ```bash
-cd /workspace/Thank-You-tanjukugo
+cd Thank-You-tanjukugo
 npm ci
 npm run web
 ```
@@ -19,6 +19,7 @@ npm run typecheck
 npm test
 npm run test:content
 npm run test:e2e
+npm run content:import-official
 npm run content:audit
 npm run content:analyze
 npm run build:web
@@ -43,7 +44,7 @@ E2EはChromium `/usr/bin/chromium` を使用します。他環境ではplaywrigh
 - AsyncStorage（WebはlocalStorage）保存、書き込みの直列化、保存失敗と再試行、破損/未知バージョンの保護。保存キー・version:1・既存150個のIDは維持。
 - 教材の出典・版・利用条件・検証状態・人手校閲の有無を管理。設定画面から出典/未確認事項を確認可能。
 - 公式リスト候補の権利確認付き取り込み、正規化・複数ソース順位保持、許諾済みローカル入試資料の分析、正式教材の検証・取り込み口と全量ゲート。
-- 新規100語の独自草稿を制作。構造検査済み、**人手校閲・公式照合は未実施。アプリには未収録。** 詳細は CONTENT_STATUS.md。
+- 独自単語草稿300語（LEVEL 2/3/4各100）を制作。新規追加200語。構造検査済み、**人手校閲は未実施。アプリには未収録。** 公式リスト見出しの照合は本文・発音の検証と区別。詳細は CONTENT_STATUS.md。
 
 Premium検証スイッチは `__DEV__` のみ。本番ビルドでは表示されず、購入処理もありません。OFFや更新で記述式履歴を削除しません。通常練習の中断時は回答済みの結果を保存します。試験の仮状態・巻き戻しとは異なり、試験自体が未実装です。
 
@@ -55,10 +56,10 @@ Premium検証スイッチは `__DEV__` のみ。本番ビルドでは表示さ�
 
 ## 教材と分析の再開
 
-- 現在アプリ内で利用できる検証用教材150件、別管理の追加単語草稿100語。正式承認済みは0件です。目標は3,900語・2,000熟語・400長文のままです。
-- 指定公式サイトはネットワークの403で取得できません。公式候補取得0語、分析0試験/0大学/0語。NGSL等の掲載順位・入試頻度・ライセンスを架空に補っていません。
-- 必要な許可先は docs/NETWORK_REQUIREMENTS.md。利用条件の記録は docs/SOURCE_LICENSES.md と content/sources.json。
-- 詳細手順は docs/CONTENT_PROGRESS.md。開発計画は IMPLEMENTATION_PLAN.md、現状は PROGRESS.md、検査結果は QA_REPORT.md。
+- 現在アプリ内で利用できる検証用教材150件、別管理の単語草稿300語。正式承認済みは0件です。目標は3,900語・2,000熟語・400長文のままです。
+- 公式4リストを取得し、重複統合後5,619候補を保存。配布ファイルのSHA256・版・文字コード・ライセンスを記録。NAWL順位は未取得、BSLは説明の1,700語と実データ1,744語に差があります。6入試入口・利用条件は確認、本文分析は利用範囲未確定により0試験/0大学/0語。
+- 現在の接続状況は docs/NETWORK_REQUIREMENTS.md。利用条件の記録は docs/SOURCE_LICENSES.md と content/sources.json。
+- 今回の報告は docs/CONTENT_REPORT.md、詳細手順は docs/CONTENT_PROGRESS.md。開発計画は IMPLEMENTATION_PLAN.md、現状は PROGRESS.md、検査結果は QA_REPORT.md。
 - sample: src/data/entries.json、出典・状態: content/provenance.json、草稿: content/words/drafts.json、正式導入口: content/words/approved.json / content/idioms/approved.json。既存IDを別の語へ再利用しないでください。
 - 正式データの承認と出典条件を `src/content.ts` で検証し、同一IDの検証用教材だけを置き換えます。人手校閲未完了の草稿を正式教材として自動導入しません。
 
