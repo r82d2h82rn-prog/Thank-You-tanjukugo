@@ -3,6 +3,8 @@ sys.path.insert(0,str(pathlib.Path(__file__).resolve().parents[1]/'scripts'))
 from content_pipeline import audit, import_candidates, validate_reading, validate_provenance, validate_entry, write_json, write_csv, read_csv
 from analyze_corpus import analyze, phrase_hits, tokens
 from import_official_lists import parse_list, ingest
+from import_authored_words import ingest as ingest_authored
+from build_word_plan import build as build_plan
 class PipelineTests(unittest.TestCase):
     def setUp(self):
         self.tmp=tempfile.TemporaryDirectory(); self.addCleanup(self.tmp.cleanup); self.root=pathlib.Path(self.tmp.name)
@@ -26,10 +28,10 @@ class PipelineTests(unittest.TestCase):
     def test_existing_data_and_new_drafts_have_unique_identity_and_complete_structure(self):
         project=pathlib.Path(__file__).resolve().parents[1]
         samples=json.loads((project/'src/data/entries.json').read_text()); drafts=json.loads((project/'content/words/drafts.json').read_text())
-        self.assertEqual(len(drafts),300); self.assertEqual(len({e['id'] for e in samples+drafts}),450)
-        self.assertEqual(len({e['english'] for e in samples+drafts if e['kind']=='word'}),400)
-        for level in [2,3,4]:
-            section=[e for e in drafts if e['level']==level]
+        self.assertEqual(len(drafts),500); self.assertEqual(len({e['id'] for e in samples+drafts}),650)
+        self.assertEqual(len({e['english'] for e in samples+drafts if e['kind']=='word'}),600)
+        for level,section_number in [(1,1),(2,1),(2,2),(3,1),(4,1)]:
+            section=[e for e in drafts if e['level']==level and e['section']==section_number]
             self.assertEqual([e['number'] for e in section],list(range(1,101)))
             order={'動詞':0,'名詞':1,'形容詞':2,'副詞':3}
             self.assertEqual([order[e['pos']] for e in section], sorted(order[e['pos']] for e in section))
@@ -37,6 +39,31 @@ class PipelineTests(unittest.TestCase):
         for entry in drafts:
             self.assertEqual(validate_entry(entry,sources,seen,require_approval=False),[])
             self.assertFalse(entry['content']['humanReviewed']); self.assertFalse(entry['content']['productionApproved']); self.assertIsNone(entry['content']['examFrequency'])
+    def test_full_word_plan_is_only_a_proposal_and_preserves_authored_ids(self):
+        import shutil
+        project=pathlib.Path(__file__).resolve().parents[1]
+        for path in ['content/word_candidates.csv','content/words/drafts.json','src/data/entries.json']:
+            shutil.copy(project/path,self.root/path)
+        result=build_plan(self.root);rows=read_csv(self.root/'content/word_adoption_plan.csv')
+        self.assertEqual(result['proposedCounts'],[800,900,1200,1000]);self.assertEqual(result['unwrittenCounts'],[700,700,1100,900])
+        self.assertEqual(len(rows),3900);self.assertEqual(len({r['id'] for r in rows}),3900)
+        drafts=json.loads((project/'content/words/drafts.json').read_text());planned={r['lemma']:r for r in rows}
+        self.assertTrue(all(planned[e['english']]['id']==e['id'] for e in drafts))
+        self.assertTrue(all(r['production_approved']=='false' and r['human_reviewed']=='false' and not r['exam_frequency'] for r in rows))
+        self.assertNotIn('apple',planned);self.assertNotIn('be',planned);self.assertNotIn('have',planned)
+        self.assertEqual(json.loads((self.root/'content/words/approved.json').read_text()),[])
+    def test_reimporting_authored_words_does_not_duplicate_or_overwrite_them(self):
+        import shutil
+        project=pathlib.Path(__file__).resolve().parents[1]
+        for path in ['content/word_candidates.csv','content/words/drafts.json','src/data/entries.json','content/sources.json']:
+            shutil.copy(project/path,self.root/path)
+        before=(self.root/'content/words/drafts.json').read_bytes()
+        result=ingest_authored(project/'content/authoring/word_batch_20261112.tsv',self.root)
+        self.assertEqual(result['added'],0);self.assertEqual(before,(self.root/'content/words/drafts.json').read_bytes())
+        text=(project/'content/authoring/word_batch_20261112.tsv').read_text().replace('We enjoyed watching the boats return to the harbor.','Changed existing text.')
+        (self.root/'changed.tsv').write_text(text)
+        with self.assertRaises(ValueError):ingest_authored(self.root/'changed.tsv',self.root)
+        self.assertEqual(before,(self.root/'content/words/drafts.json').read_bytes())
     def test_unknown_permission_rejects_candidate_import(self):
         self.source['candidateExtraction']='unknown'; write_json(self.root/'content/sources.json',[self.source]); (self.root/'input.csv').write_text('lemma,rank\ndevelop,1\n')
         with self.assertRaises(ValueError): import_candidates(self.root/'input.csv','fixture','word',self.root)

@@ -417,5 +417,29 @@
     "availableDataTypes": [
       "独自教材"
     ]
+  },
+  {
+    "id": "original-draft-v4",
+    "name": "追加の高校入試・高校標準語彙草稿",
+    "url": null,
+    "observedVersion": "1",
+    "purpose": "draft",
+    "accessStatus": "local",
+    "checkedAt": "2026-11-11T22:26:04.127852+00:00",
+    "license": null,
+    "termsUrl": null,
+    "licenseEvidence": null,
+    "commercialUse": "review_required",
+    "candidateExtraction": "granted",
+    "analysisPermission": "not_applicable",
+    "redistribution": "review_required",
+    "attribution": "本プロジェクトで独自執筆。意味・IPA・例文・和訳・用法説明は人手校閲待ち。",
+    "shareAlike": null,
+    "notes": "独自制作200語。品詞・意味・発音・例文・和訳・用法を整備。人手校閲・採否・最終LEVELは未確認。",
+    "publisher": "本プロジェクト",
+    "retrievedAt": null,
+    "availableDataTypes": [
+      "独自教材"
+    ]
   }
 ]

@@ -2,12 +2,14 @@ import React from 'react';
 import { Linking, StyleSheet, Text, View } from 'react-native';
 import sources from '../../content/sources.json';
 import imported from '../../analysis/official_import.json';
+import audit from '../../analysis/content_audit.json';
+const draftWordCount = audit.draftCounts.word.reduce((total, count) => total + count, 0);
 const link = (url: string) => <Text accessibilityRole="link" selectable style={s.url} onPress={() => { void Linking.openURL(url).catch(() => {}); }}>{url}</Text>;
 export function SourceCredits() {
   return <View style={{ gap: 16 }}>
     <Text style={s.heading}>教材の制作・利用条件</Text>
     <Text style={s.text}>現在利用できる150項目は初期試作品の独自検証教材です。正式教材として人による校閲・利用条件の最終確認が済んだものではありません。</Text>
-    <Text style={s.text}>NGSL・NAWL・TSL・BSLの公式配布版から、重複をまとめて{imported.uniqueOfficialCandidates.toLocaleString()}語の候補を取得しました。候補の取得数は正式な収録数ではありません。独自の単語草稿300語は校閲待ちです。大学入試の英文頻度は未検証です。</Text>
+    <Text style={s.text}>NGSL・NAWL・TSL・BSLの公式配布版から、重複をまとめて{imported.uniqueOfficialCandidates.toLocaleString()}語の候補を取得しました。候補の取得数は正式な収録数ではありません。独自の単語草稿{draftWordCount}語は校閲待ちです。大学入試の英文頻度は未検証です。</Text>
     <Text style={s.text}>公式語彙リストと、それを小文字化・重複統合した候補一覧はCC BY-SA 4.0の条件に従います。各教材の日本語訳・例文・解説は独自に制作しています。出典元との公式な提携・推薦を示すものではありません。</Text>
     {link('https://creativecommons.org/licenses/by-sa/4.0/')}
     {sources.map(source => <View key={source.id} style={s.card}>
