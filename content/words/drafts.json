@@ -118108,6 +118108,4466 @@
     }
   },
   {
+    "english": "socialize",
+    "pos": "動詞",
+    "pronunciation": "/ˈsoʊʃəlaɪz/",
+    "meaning": "人と交流する；社会に適応させる",
+    "example": "The club gives new students a chance to socialize.",
+    "translation": "その部は新入生に人と交流する機会を与えている。",
+    "explanation": "socialize withで「〜と交流する」。他動詞では社会の規範を身に付けさせる意味もある。",
+    "id": "word-c-eaba78c3f208",
+    "level": 3,
+    "section": 8,
+    "number": 1,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "nawl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "nawl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "assimilate",
+    "pos": "動詞",
+    "pronunciation": "/əˈsɪməleɪt/",
+    "meaning": "吸収する；同化する",
+    "example": "She needed time to assimilate the new information.",
+    "translation": "彼女には新しい情報を吸収する時間が必要だった。",
+    "explanation": "知識を理解して取り込むこと。集団や文化への同化にも使う。",
+    "id": "word-c-633c0eb3ec6c",
+    "level": 3,
+    "section": 8,
+    "number": 2,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "accustom",
+    "pos": "動詞",
+    "pronunciation": "/əˈkʌstəm/",
+    "meaning": "慣れさせる",
+    "example": "He accustomed himself to working at night.",
+    "translation": "彼は夜働くことに慣れた。",
+    "explanation": "accustom oneself toのtoは前置詞で、動名詞を続けられる。",
+    "id": "word-c-f42e528e3a41",
+    "level": 3,
+    "section": 8,
+    "number": 3,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "tsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "tsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "familiarize",
+    "pos": "動詞",
+    "pronunciation": "/fəˈmɪliəraɪz/",
+    "meaning": "よく知らせる；慣れさせる",
+    "example": "Please familiarize yourself with the safety procedures.",
+    "translation": "安全手順をよく理解しておいてください。",
+    "explanation": "familiarize oneself withで「〜をよく知っておく」。",
+    "id": "word-c-70033c217f25",
+    "level": 3,
+    "section": 8,
+    "number": 4,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "tsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "tsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "alienate",
+    "pos": "動詞",
+    "pronunciation": "/ˈeɪliəneɪt/",
+    "meaning": "疎外する；反感を抱かせる",
+    "example": "The sudden fee increase alienated many customers.",
+    "translation": "突然の値上げは多くの客の反感を招いた。",
+    "explanation": "支持していた人の気持ちを離れさせる場合にも使う。",
+    "id": "word-c-f87d507a0353",
+    "level": 3,
+    "section": 8,
+    "number": 5,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "isolate",
+    "pos": "動詞",
+    "pronunciation": "/ˈaɪsəleɪt/",
+    "meaning": "孤立させる；分離する",
+    "example": "Heavy snow isolated the mountain village.",
+    "translation": "大雪によって山村は孤立した。",
+    "explanation": "isolate A from Bで「AをBから切り離す」。",
+    "id": "word-c-014aadadffad",
+    "level": 3,
+    "section": 8,
+    "number": 6,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "ngsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "ngsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "segregate",
+    "pos": "動詞",
+    "pronunciation": "/ˈseɡrɪɡeɪt/",
+    "meaning": "隔離する；分離する",
+    "example": "The law once segregated students by race.",
+    "translation": "その法律はかつて生徒を人種で分離していた。",
+    "explanation": "人種などによって集団を分ける行為について使う。",
+    "id": "word-c-25879a767795",
+    "level": 3,
+    "section": 8,
+    "number": 7,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "stereotype",
+    "pos": "動詞",
+    "pronunciation": "/ˈsteriətaɪp/",
+    "meaning": "固定観念で見る",
+    "example": "It is unfair to stereotype people by their age.",
+    "translation": "年齢で人を固定観念に当てはめるのは不公平だ。",
+    "explanation": "集団の全員に同じ特徴があると決め付けること。名詞用法もある。",
+    "id": "word-c-28fcc4572ac6",
+    "level": 3,
+    "section": 8,
+    "number": 8,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "nawl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "nawl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "stigmatize",
+    "pos": "動詞",
+    "pronunciation": "/ˈstɪɡmətaɪz/",
+    "meaning": "汚名を着せる；偏見の対象にする",
+    "example": "Such labels can stigmatize children who need support.",
+    "translation": "そのようなレッテルは支援の必要な子供を偏見の対象にしかねない。",
+    "explanation": "好ましくないとされる属性を理由に社会的評価を下げる。",
+    "id": "word-c-962555801d78",
+    "level": 3,
+    "section": 8,
+    "number": 9,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "intimidate",
+    "pos": "動詞",
+    "pronunciation": "/ɪnˈtɪmɪdeɪt/",
+    "meaning": "威圧する；怖がらせる",
+    "example": "The large audience did not intimidate the speaker.",
+    "translation": "大勢の聴衆にもその話し手はひるまなかった。",
+    "explanation": "恐怖や自信の喪失によって行動を抑えさせる。",
+    "id": "word-c-ffa53c9adaff",
+    "level": 3,
+    "section": 8,
+    "number": 10,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "bully",
+    "pos": "動詞",
+    "pronunciation": "/ˈbʊli/",
+    "meaning": "いじめる；脅して従わせる",
+    "example": "No one should be bullied for speaking differently.",
+    "translation": "話し方が違うからといって誰もいじめられるべきではない。",
+    "explanation": "力関係を利用して相手を繰り返し苦しめる。名詞では「いじめる人」。",
+    "id": "word-c-ff907b30acdf",
+    "level": 3,
+    "section": 8,
+    "number": 11,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "harass",
+    "pos": "動詞",
+    "pronunciation": "/həˈræs/",
+    "meaning": "嫌がらせをする；悩ませる",
+    "example": "Several workers reported being harassed online.",
+    "translation": "数人の労働者がネット上で嫌がらせを受けたと報告した。",
+    "explanation": "相手を困らせる言動を繰り返すこと。職場での嫌がらせにも使う。",
+    "id": "word-c-6bc972d6725a",
+    "level": 3,
+    "section": 8,
+    "number": 12,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "deceive",
+    "pos": "動詞",
+    "pronunciation": "/dɪˈsiːv/",
+    "meaning": "だます",
+    "example": "The advertisement deceived buyers about the total cost.",
+    "translation": "その広告は総費用について購入者をだました。",
+    "explanation": "deceive someone into doingで「だまして〜させる」。",
+    "id": "word-c-4f2224ca4f08",
+    "level": 3,
+    "section": 8,
+    "number": 13,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "nawl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "nawl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "cheat",
+    "pos": "動詞",
+    "pronunciation": "/tʃiːt/",
+    "meaning": "不正をする；だます",
+    "example": "He was caught cheating during the examination.",
+    "translation": "彼は試験中に不正をしているところを見つかった。",
+    "explanation": "試験のカンニングや勝負での不正を表す。cheat on an examともいう。",
+    "id": "word-c-3a1b45d4778c",
+    "level": 3,
+    "section": 8,
+    "number": 14,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "nawl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "nawl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "betray",
+    "pos": "動詞",
+    "pronunciation": "/bɪˈtreɪ/",
+    "meaning": "裏切る；うっかり示す",
+    "example": "A slight tremor in her voice betrayed her anxiety.",
+    "translation": "声のわずかな震えが彼女の不安をうっかり表していた。",
+    "explanation": "信頼を裏切る意味のほか、隠した感情を露呈する意味がある。",
+    "id": "word-c-3fff1513949c",
+    "level": 3,
+    "section": 8,
+    "number": 15,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "sympathize",
+    "pos": "動詞",
+    "pronunciation": "/ˈsɪmpəθaɪz/",
+    "meaning": "同情する；共感する",
+    "example": "I sympathize with your concerns about the changes.",
+    "translation": "変更に対するあなたの懸念はよく分かります。",
+    "explanation": "sympathize withで他人の苦しみや意見に理解を示す。",
+    "id": "word-c-44933ef4d191",
+    "level": 3,
+    "section": 8,
+    "number": 16,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "empathize",
+    "pos": "動詞",
+    "pronunciation": "/ˈempəθaɪz/",
+    "meaning": "感情を理解し共感する",
+    "example": "Listening carefully helps us empathize with others.",
+    "translation": "注意深く聞くことは他人の気持ちに共感する助けになる。",
+    "explanation": "empathize withで相手の立場に立って気持ちを理解する。",
+    "id": "word-c-ce7eb475767a",
+    "level": 3,
+    "section": 8,
+    "number": 17,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "console",
+    "pos": "動詞",
+    "pronunciation": "/kənˈsoʊl/",
+    "meaning": "慰める",
+    "example": "She tried to console her friend after the defeat.",
+    "translation": "敗北の後、彼女は友人を慰めようとした。",
+    "explanation": "悲しむ人を慰める動詞。機器の操作盤を表す名詞とは強勢が異なる。",
+    "id": "word-c-93d8874c8c86",
+    "level": 3,
+    "section": 8,
+    "number": 18,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "reassure",
+    "pos": "動詞",
+    "pronunciation": "/ˌriːəˈʃʊr/",
+    "meaning": "安心させる",
+    "example": "The engineer reassured residents that the bridge was safe.",
+    "translation": "技師は橋が安全だと住民を安心させた。",
+    "explanation": "reassure someone that ...で不安を取り除く内容を伝える。",
+    "id": "word-c-81c0d8e4cdce",
+    "level": 3,
+    "section": 8,
+    "number": 19,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "tsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "tsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "tolerate",
+    "pos": "動詞",
+    "pronunciation": "/ˈtɑːləreɪt/",
+    "meaning": "容認する；耐える",
+    "example": "The school will not tolerate violence against students.",
+    "translation": "学校は生徒に対する暴力を容認しない。",
+    "explanation": "好ましくない行為を許す意味と、不快な状態に耐える意味がある。",
+    "id": "word-c-3913e8d04d35",
+    "level": 3,
+    "section": 8,
+    "number": 20,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "accommodate",
+    "pos": "動詞",
+    "pronunciation": "/əˈkɑːmədeɪt/",
+    "meaning": "収容する；対応する",
+    "example": "The library changed its hours to accommodate working adults.",
+    "translation": "図書館は働く大人に対応するため開館時間を変えた。",
+    "explanation": "人を収容するほか、必要や要望に合わせて調整することも表す。",
+    "id": "word-c-87b477dbf620",
+    "level": 3,
+    "section": 8,
+    "number": 21,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "tsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "tsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "mediate",
+    "pos": "動詞",
+    "pronunciation": "/ˈmiːdieɪt/",
+    "meaning": "仲介する；調停する",
+    "example": "A neutral expert mediated between the two groups.",
+    "translation": "中立の専門家が二つの集団の間を調停した。",
+    "explanation": "mediate between A and Bで対立する両者の間に入る。",
+    "id": "word-c-a61fa7f2e880",
+    "level": 3,
+    "section": 8,
+    "number": 22,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "nawl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "nawl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "retaliate",
+    "pos": "動詞",
+    "pronunciation": "/rɪˈtælieɪt/",
+    "meaning": "報復する",
+    "example": "The country threatened to retaliate with higher tariffs.",
+    "translation": "その国は関税を引き上げて報復すると警告した。",
+    "explanation": "retaliate againstで報復の相手、withで報復の手段を示す。",
+    "id": "word-c-0ac2ccebd9f4",
+    "level": 3,
+    "section": 8,
+    "number": 23,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "imitate",
+    "pos": "動詞",
+    "pronunciation": "/ˈɪmɪteɪt/",
+    "meaning": "まねる；模倣する",
+    "example": "Young children often imitate the gestures of adults.",
+    "translation": "幼い子供はよく大人の身ぶりをまねる。",
+    "explanation": "行動や形を意識的に同じように再現する。",
+    "id": "word-c-003c443ef278",
+    "level": 3,
+    "section": 8,
+    "number": 24,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "mimic",
+    "pos": "動詞",
+    "pronunciation": "/ˈmɪmɪk/",
+    "meaning": "まねる；似た働きをする",
+    "example": "The device mimics the movement of a human hand.",
+    "translation": "その装置は人間の手の動きをまねる。",
+    "explanation": "声や動作の物まねに加え、機能を似せる技術にも使う。",
+    "id": "word-c-692e51978c0e",
+    "level": 3,
+    "section": 8,
+    "number": 25,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "socialization",
+    "pos": "名詞",
+    "pronunciation": "/ˌsoʊʃələˈzeɪʃn/",
+    "meaning": "社会化；人との交流",
+    "example": "Play contributes to children's socialization.",
+    "translation": "遊びは子供の社会化に役立つ。",
+    "explanation": "社会の規範や他者との関わり方を学ぶ過程を指す。",
+    "id": "word-c-8cfbe2a41413",
+    "level": 3,
+    "section": 8,
+    "number": 26,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "assimilation",
+    "pos": "名詞",
+    "pronunciation": "/əˌsɪməˈleɪʃn/",
+    "meaning": "同化；吸収",
+    "example": "The essay questions whether assimilation requires abandoning traditions.",
+    "translation": "その論文は同化に伝統を捨てる必要があるかを問うている。",
+    "explanation": "文化への同化や知識の吸収を表す。文脈で対象を判断する。",
+    "id": "word-c-2312b01419b0",
+    "level": 3,
+    "section": 8,
+    "number": 27,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "alienation",
+    "pos": "名詞",
+    "pronunciation": "/ˌeɪliəˈneɪʃn/",
+    "meaning": "疎外感；疎外",
+    "example": "Long periods without contact increased his sense of alienation.",
+    "translation": "長期間人と接しなかったことで彼の疎外感は強まった。",
+    "explanation": "a sense of alienationで集団に属していないと感じる気持ち。",
+    "id": "word-c-d88ed6a0ee76",
+    "level": 3,
+    "section": 8,
+    "number": 28,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "isolation",
+    "pos": "名詞",
+    "pronunciation": "/ˌaɪsəˈleɪʃn/",
+    "meaning": "孤立；隔離",
+    "example": "Remote workers may experience social isolation.",
+    "translation": "遠隔勤務者は社会的孤立を経験することがある。",
+    "explanation": "in isolationで「孤立して」や「他と切り離して」。",
+    "id": "word-c-3624d3181d5c",
+    "level": 3,
+    "section": 8,
+    "number": 29,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "segregation",
+    "pos": "名詞",
+    "pronunciation": "/ˌseɡrɪˈɡeɪʃn/",
+    "meaning": "隔離；分離政策",
+    "example": "The exhibition explains the history of racial segregation.",
+    "translation": "その展示は人種隔離の歴史を説明している。",
+    "explanation": "racial segregationで人種を理由とする集団の分離。",
+    "id": "word-c-c9299285d6a4",
+    "level": 3,
+    "section": 8,
+    "number": 30,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "prejudice",
+    "pos": "名詞",
+    "pronunciation": "/ˈpredʒədɪs/",
+    "meaning": "偏見；先入観",
+    "example": "Personal contact can challenge prejudice against unfamiliar groups.",
+    "translation": "人と直接接することで未知の集団への偏見を問い直せる。",
+    "explanation": "prejudice againstで特定の対象に対する不公平な先入観を示す。",
+    "id": "word-c-14a62b33decf",
+    "level": 3,
+    "section": 8,
+    "number": 31,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "nawl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "nawl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "stigma",
+    "pos": "名詞",
+    "pronunciation": "/ˈstɪɡmə/",
+    "meaning": "汚名；社会的な偏見",
+    "example": "The campaign aims to reduce the stigma surrounding mental illness.",
+    "translation": "その運動は精神疾患を取り巻く社会的偏見を減らすことを目指す。",
+    "explanation": "ある属性を恥とみなす社会的評価。単なる個人的な不満とは異なる。",
+    "id": "word-c-b58b6f015d4e",
+    "level": 3,
+    "section": 8,
+    "number": 32,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "intimidation",
+    "pos": "名詞",
+    "pronunciation": "/ɪnˌtɪmɪˈdeɪʃn/",
+    "meaning": "威圧；脅迫",
+    "example": "Witnesses must be protected from intimidation.",
+    "translation": "証人は威圧から守られなければならない。",
+    "explanation": "恐怖を与えて相手の行動を変えさせること。",
+    "id": "word-c-e37054d615c6",
+    "level": 3,
+    "section": 8,
+    "number": 33,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "harassment",
+    "pos": "名詞",
+    "pronunciation": "/həˈræsmənt/",
+    "meaning": "嫌がらせ",
+    "example": "The company introduced a system for reporting harassment.",
+    "translation": "会社は嫌がらせを報告する制度を導入した。",
+    "explanation": "通常は不可算名詞。職場やオンラインなどでの反復的な迷惑行為。",
+    "id": "word-c-48394c56e395",
+    "level": 3,
+    "section": 8,
+    "number": 34,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "deception",
+    "pos": "名詞",
+    "pronunciation": "/dɪˈsepʃn/",
+    "meaning": "欺き；詐欺的行為",
+    "example": "The plan depended on deception rather than open negotiation.",
+    "translation": "その計画は公開の交渉ではなく欺きに頼っていた。",
+    "explanation": "他人に誤ったことを信じさせる行為。動詞はdeceive。",
+    "id": "word-c-f335963305b4",
+    "level": 3,
+    "section": 8,
+    "number": 35,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "betrayal",
+    "pos": "名詞",
+    "pronunciation": "/bɪˈtreɪəl/",
+    "meaning": "裏切り",
+    "example": "Publishing the private letter felt like a betrayal of trust.",
+    "translation": "私信の公開は信頼への裏切りのように感じられた。",
+    "explanation": "a betrayal of trustで「信頼を裏切る行為」。",
+    "id": "word-c-eaa22de66e34",
+    "level": 3,
+    "section": 8,
+    "number": 36,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "empathy",
+    "pos": "名詞",
+    "pronunciation": "/ˈempəθi/",
+    "meaning": "共感；感情移入",
+    "example": "Fiction can encourage empathy for people with different lives.",
+    "translation": "小説は異なる人生を送る人への共感を促すことがある。",
+    "explanation": "相手の立場から感情や経験を理解する能力。",
+    "id": "word-c-1bb41bab9678",
+    "level": 3,
+    "section": 8,
+    "number": 37,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "compassion",
+    "pos": "名詞",
+    "pronunciation": "/kəmˈpæʃn/",
+    "meaning": "思いやり；深い同情",
+    "example": "The volunteers treated every visitor with compassion.",
+    "translation": "ボランティアたちは訪問者全員に思いやりをもって接した。",
+    "explanation": "他人の苦しみを理解し、助けたいと感じる気持ち。",
+    "id": "word-c-b260e1abb566",
+    "level": 3,
+    "section": 8,
+    "number": 38,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "tolerance",
+    "pos": "名詞",
+    "pronunciation": "/ˈtɑːlərəns/",
+    "meaning": "寛容；耐性",
+    "example": "The discussion emphasized tolerance of different beliefs.",
+    "translation": "その討論は異なる信念への寛容を重視した。",
+    "explanation": "意見の違いを受け入れる態度。医学などでは耐性も意味する。",
+    "id": "word-c-41e1e73d5586",
+    "level": 3,
+    "section": 8,
+    "number": 39,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "nawl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "nawl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "solidarity",
+    "pos": "名詞",
+    "pronunciation": "/ˌsɑːlɪˈdærəti/",
+    "meaning": "連帯；団結",
+    "example": "Residents showed solidarity by rebuilding the hall together.",
+    "translation": "住民は共に会館を再建することで連帯を示した。",
+    "explanation": "共通の目的や困難をもつ人々が支え合うこと。",
+    "id": "word-c-7e25fb62e096",
+    "level": 3,
+    "section": 8,
+    "number": 40,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "cohesion",
+    "pos": "名詞",
+    "pronunciation": "/koʊˈhiːʒn/",
+    "meaning": "結束；まとまり",
+    "example": "Shared activities can strengthen group cohesion.",
+    "translation": "共同の活動は集団の結束を強めうる。",
+    "explanation": "社会や集団がまとまる力。文章内の結び付きにも使う。",
+    "id": "word-c-b4c4e9d47f49",
+    "level": 3,
+    "section": 8,
+    "number": 41,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "conformity",
+    "pos": "名詞",
+    "pronunciation": "/kənˈfɔːrməti/",
+    "meaning": "同調；順守",
+    "example": "The writer argues that excessive conformity limits creativity.",
+    "translation": "その作家は過度な同調が創造性を制限すると主張する。",
+    "explanation": "周囲の規範や期待に合わせること。動詞はconform。",
+    "id": "word-c-a78ef0a05a15",
+    "level": 3,
+    "section": 8,
+    "number": 42,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "obedience",
+    "pos": "名詞",
+    "pronunciation": "/oʊˈbiːdiəns/",
+    "meaning": "服従；従順",
+    "example": "The study examined obedience to authority.",
+    "translation": "その研究は権威への服従を調べた。",
+    "explanation": "obedience toで誰や何に従うかを示す。",
+    "id": "word-c-2337a51926e1",
+    "level": 3,
+    "section": 8,
+    "number": 43,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "aggression",
+    "pos": "名詞",
+    "pronunciation": "/əˈɡreʃn/",
+    "meaning": "攻撃性；侵略",
+    "example": "The researchers measured aggression through observed behavior.",
+    "translation": "研究者たちは観察した行動を通じて攻撃性を測定した。",
+    "explanation": "個人の攻撃的行動にも、国家の侵略行為にも使う。",
+    "id": "word-c-9b5e95e8dae8",
+    "level": 3,
+    "section": 8,
+    "number": 44,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "hostility",
+    "pos": "名詞",
+    "pronunciation": "/hɑːˈstɪləti/",
+    "meaning": "敵意；反感",
+    "example": "The proposal met with hostility from local residents.",
+    "translation": "その提案は地元住民の反感を買った。",
+    "explanation": "hostility towardで「〜への敵意」。複数形で戦闘行為も表す。",
+    "id": "word-c-a3e55073268c",
+    "level": 3,
+    "section": 8,
+    "number": 45,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "resentment",
+    "pos": "名詞",
+    "pronunciation": "/rɪˈzentmənt/",
+    "meaning": "憤り；恨み",
+    "example": "Unequal treatment caused resentment among the workers.",
+    "translation": "不平等な扱いが労働者の間に憤りを生んだ。",
+    "explanation": "不公平だと感じる扱いに対する長く残る怒り。",
+    "id": "word-c-6e84719647b1",
+    "level": 3,
+    "section": 8,
+    "number": 46,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "envy",
+    "pos": "名詞",
+    "pronunciation": "/ˈenvi/",
+    "meaning": "うらやましさ；羨望",
+    "example": "He felt envy at his friend's freedom to travel.",
+    "translation": "彼は自由に旅行できる友人をうらやましく思った。",
+    "explanation": "他人が持つ物や立場を自分も欲しいと思う感情。動詞用法もある。",
+    "id": "word-c-fc91368f2036",
+    "level": 3,
+    "section": 8,
+    "number": 47,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "jealousy",
+    "pos": "名詞",
+    "pronunciation": "/ˈdʒeləsi/",
+    "meaning": "嫉妬",
+    "example": "Jealousy damaged the friendship between the two musicians.",
+    "translation": "嫉妬が二人の音楽家の友情を損なった。",
+    "explanation": "相手の成功への嫉妬や、愛情を失うことへの不安を表す。",
+    "id": "word-c-5a245672087c",
+    "level": 3,
+    "section": 8,
+    "number": 48,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "frustration",
+    "pos": "名詞",
+    "pronunciation": "/frʌˈstreɪʃn/",
+    "meaning": "いら立ち；挫折感",
+    "example": "Repeated technical failures led to growing frustration.",
+    "translation": "技術的な失敗が続き、いら立ちが募った。",
+    "explanation": "望む結果が得られないために生じる不満。",
+    "id": "word-c-1748ba31e262",
+    "level": 3,
+    "section": 8,
+    "number": 49,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "loneliness",
+    "pos": "名詞",
+    "pronunciation": "/ˈloʊnlinəs/",
+    "meaning": "孤独感；寂しさ",
+    "example": "Frequent messages did not remove her loneliness.",
+    "translation": "頻繁なメッセージも彼女の孤独感を取り除かなかった。",
+    "explanation": "主観的な寂しさを表し、一人でいるという状況だけを指すのではない。",
+    "id": "word-c-e3c5950a6938",
+    "level": 3,
+    "section": 8,
+    "number": 50,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "solitude",
+    "pos": "名詞",
+    "pronunciation": "/ˈsɑːlətuːd/",
+    "meaning": "独りでいること；独居",
+    "example": "The poet valued the solitude of early mornings.",
+    "translation": "その詩人は早朝に独りで過ごす時間を大切にした。",
+    "explanation": "独りの状態を表す。好んで得る静かな時間にも使える。",
+    "id": "word-c-00bddb36a62f",
+    "level": 3,
+    "section": 8,
+    "number": 51,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "attachment",
+    "pos": "名詞",
+    "pronunciation": "/əˈtætʃmənt/",
+    "meaning": "愛着；添付ファイル",
+    "example": "She has a strong attachment to her hometown.",
+    "translation": "彼女は故郷に強い愛着を抱いている。",
+    "explanation": "attachment toで愛着の対象を示す。メールの添付ファイルの意味もある。",
+    "id": "word-c-602a5e69c302",
+    "level": 3,
+    "section": 8,
+    "number": 52,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "ngsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "ngsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "intimacy",
+    "pos": "名詞",
+    "pronunciation": "/ˈɪntɪməsi/",
+    "meaning": "親密さ",
+    "example": "Their letters reveal a growing intimacy.",
+    "translation": "二人の手紙から親密さが増していく様子が分かる。",
+    "explanation": "他人と感情や私的なことを共有する近い関係。",
+    "id": "word-c-a427b3cbc38e",
+    "level": 3,
+    "section": 8,
+    "number": 53,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "affection",
+    "pos": "名詞",
+    "pronunciation": "/əˈfekʃn/",
+    "meaning": "愛情；親愛の気持ち",
+    "example": "He spoke of his former teacher with affection.",
+    "translation": "彼はかつての先生について親愛の情を込めて話した。",
+    "explanation": "affection forで愛情の対象を表す。affectの「影響」と混同しない。",
+    "id": "word-c-14c67414e0df",
+    "level": 3,
+    "section": 8,
+    "number": 54,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "devotion",
+    "pos": "名詞",
+    "pronunciation": "/dɪˈvoʊʃn/",
+    "meaning": "献身；深い愛情",
+    "example": "Her devotion to teaching inspired younger colleagues.",
+    "translation": "教えることへの彼女の献身が若い同僚を奮い立たせた。",
+    "explanation": "devotion toの後ろには名詞や動名詞を置く。",
+    "id": "word-c-67acf560e238",
+    "level": 3,
+    "section": 8,
+    "number": 55,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "loyalty",
+    "pos": "名詞",
+    "pronunciation": "/ˈlɔɪəlti/",
+    "meaning": "忠誠；誠実な支持",
+    "example": "The company struggled to maintain customer loyalty.",
+    "translation": "会社は顧客からの継続的な支持を維持するのに苦労した。",
+    "explanation": "人や組織への変わらない支持。loyalty toで対象を示す。",
+    "id": "word-c-e931aac0a6a7",
+    "level": 3,
+    "section": 8,
+    "number": 56,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "tsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "tsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "integrity",
+    "pos": "名詞",
+    "pronunciation": "/ɪnˈteɡrəti/",
+    "meaning": "誠実さ；完全性",
+    "example": "Researchers must protect the integrity of their data.",
+    "translation": "研究者はデータの完全性を守らなければならない。",
+    "explanation": "人については道徳的な誠実さ、物やデータについては損なわれていない状態。",
+    "id": "word-c-78587c41ed99",
+    "level": 3,
+    "section": 8,
+    "number": 57,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "dignity",
+    "pos": "名詞",
+    "pronunciation": "/ˈdɪɡnəti/",
+    "meaning": "尊厳；威厳",
+    "example": "Every patient deserves to be treated with dignity.",
+    "translation": "どの患者も尊厳をもって扱われるべきだ。",
+    "explanation": "人として尊重される価値。落ち着いた威厳も意味する。",
+    "id": "word-c-dcddf1ef3dad",
+    "level": 3,
+    "section": 8,
+    "number": 58,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "reputation",
+    "pos": "名詞",
+    "pronunciation": "/ˌrepjuˈteɪʃn/",
+    "meaning": "評判；名声",
+    "example": "The restaurant earned a reputation for careful service.",
+    "translation": "その店は丁寧な接客で評判になった。",
+    "explanation": "a reputation forで何によって知られるかを示す。",
+    "id": "word-c-556ec7485db6",
+    "level": 3,
+    "section": 8,
+    "number": 59,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "ngsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "ngsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "prestige",
+    "pos": "名詞",
+    "pronunciation": "/preˈstiːʒ/",
+    "meaning": "名声；社会的威信",
+    "example": "Some applicants were attracted by the university's prestige.",
+    "translation": "一部の志願者はその大学の名声に引かれた。",
+    "explanation": "高い評価に基づく敬意や地位。通常は不可算名詞。",
+    "id": "word-c-8bd2cdbe092f",
+    "level": 3,
+    "section": 8,
+    "number": 60,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "hierarchy",
+    "pos": "名詞",
+    "pronunciation": "/ˈhaɪərɑːrki/",
+    "meaning": "階層制度；序列",
+    "example": "The organization replaced its rigid hierarchy with smaller teams.",
+    "translation": "その組織は厳格な階層制度を小規模なチームに置き換えた。",
+    "explanation": "権限や重要度によって段階を設けた仕組み。",
+    "id": "word-c-ff88bf240651",
+    "level": 3,
+    "section": 8,
+    "number": 61,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "nawl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "nawl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "peer",
+    "pos": "名詞",
+    "pronunciation": "/pɪr/",
+    "meaning": "同輩；同等の立場の人",
+    "example": "Teenagers may be influenced by pressure from their peers.",
+    "translation": "十代の若者は同輩からの圧力に影響されることがある。",
+    "explanation": "同年齢・同程度の地位の人。peer pressureで「同調圧力」。",
+    "id": "word-c-2ffc1d06387e",
+    "level": 3,
+    "section": 8,
+    "number": 62,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "ngsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "ngsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "acquaintance",
+    "pos": "名詞",
+    "pronunciation": "/əˈkweɪntəns/",
+    "meaning": "知人；面識",
+    "example": "An acquaintance introduced me to the local reading group.",
+    "translation": "知人が私を地元の読書会に紹介してくれた。",
+    "explanation": "友人ほど親しくない知り合い。不可算では知識や面識を表す。",
+    "id": "word-c-195fc281cbc4",
+    "level": 3,
+    "section": 8,
+    "number": 63,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "sibling",
+    "pos": "名詞",
+    "pronunciation": "/ˈsɪblɪŋ/",
+    "meaning": "きょうだい",
+    "example": "The study compared the sleep habits of siblings.",
+    "translation": "その研究はきょうだいの睡眠習慣を比較した。",
+    "explanation": "兄弟姉妹の性別や年長・年少を指定しない語。",
+    "id": "word-c-7d10de8554ed",
+    "level": 3,
+    "section": 8,
+    "number": 64,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "spouse",
+    "pos": "名詞",
+    "pronunciation": "/spaʊs/",
+    "meaning": "配偶者",
+    "example": "Employees may include a spouse in the insurance plan.",
+    "translation": "従業員は保険プランの対象に配偶者を含めることができる。",
+    "explanation": "夫または妻を性別を指定せずに表す、やや改まった語。",
+    "id": "word-c-815fbec040e3",
+    "level": 3,
+    "section": 8,
+    "number": 65,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "tsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "tsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "ancestor",
+    "pos": "名詞",
+    "pronunciation": "/ˈænsestər/",
+    "meaning": "祖先；先祖",
+    "example": "The museum displays tools used by our ancestors.",
+    "translation": "博物館には私たちの祖先が使った道具が展示されている。",
+    "explanation": "複数形で先祖全体を指すことが多い。対義的な語はdescendant。",
+    "id": "word-c-d490151378f5",
+    "level": 3,
+    "section": 8,
+    "number": 66,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "nawl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "nawl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "descendant",
+    "pos": "名詞",
+    "pronunciation": "/dɪˈsendənt/",
+    "meaning": "子孫",
+    "example": "Descendants of the original settlers still live on the island.",
+    "translation": "最初の入植者の子孫が今もその島で暮らしている。",
+    "explanation": "descendant ofで誰の子孫かを示す。",
+    "id": "word-c-ae8783437e5a",
+    "level": 3,
+    "section": 8,
+    "number": 67,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "kinship",
+    "pos": "名詞",
+    "pronunciation": "/ˈkɪnʃɪp/",
+    "meaning": "血縁関係；親近感",
+    "example": "Shared experiences created a sense of kinship between them.",
+    "translation": "共通の経験が二人の間に親近感を生んだ。",
+    "explanation": "血縁関係のほか、似た経験や考えに基づくつながりも指す。",
+    "id": "word-c-517d44570506",
+    "level": 3,
+    "section": 8,
+    "number": 68,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "upbringing",
+    "pos": "名詞",
+    "pronunciation": "/ˈʌpbrɪŋɪŋ/",
+    "meaning": "育てられ方；養育環境",
+    "example": "Her upbringing encouraged her to ask difficult questions.",
+    "translation": "彼女は難しい質問をするよう促される環境で育った。",
+    "explanation": "子供の頃に家庭などで受けた教育やしつけ。",
+    "id": "word-c-d703a1c4d8d8",
+    "level": 3,
+    "section": 8,
+    "number": 69,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "adolescence",
+    "pos": "名詞",
+    "pronunciation": "/ˌædəˈlesns/",
+    "meaning": "思春期；青年期",
+    "example": "Friendships often change during adolescence.",
+    "translation": "思春期には友情関係が変化することが多い。",
+    "explanation": "子供から大人への移行期。個人差があるため年齢を一律に決めない。",
+    "id": "word-c-bba397637be8",
+    "level": 3,
+    "section": 8,
+    "number": 70,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "adulthood",
+    "pos": "名詞",
+    "pronunciation": "/əˈdʌlthʊd/",
+    "meaning": "成人期；大人であること",
+    "example": "Habits formed in childhood can continue into adulthood.",
+    "translation": "子供の頃に身に付いた習慣は成人期まで続くことがある。",
+    "explanation": "into adulthoodで「成人期に入っても」。",
+    "id": "word-c-40c60b29201b",
+    "level": 3,
+    "section": 8,
+    "number": 71,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "maturity",
+    "pos": "名詞",
+    "pronunciation": "/məˈtʃʊrəti/",
+    "meaning": "成熟；円熟",
+    "example": "The job requires emotional maturity as well as technical skill.",
+    "translation": "その仕事には技術的技能だけでなく感情面の成熟も必要だ。",
+    "explanation": "十分に発達した状態。人の判断力や作物などについて使う。",
+    "id": "word-c-ec7314f5a9c2",
+    "level": 3,
+    "section": 8,
+    "number": 72,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "individuality",
+    "pos": "名詞",
+    "pronunciation": "/ˌɪndɪˌvɪdʒuˈæləti/",
+    "meaning": "個性；独自性",
+    "example": "The school encourages students to express their individuality.",
+    "translation": "その学校は生徒が個性を表現することを奨励している。",
+    "explanation": "他の人と異なる、その人ならではの特徴。",
+    "id": "word-c-2dbec6979f8b",
+    "level": 3,
+    "section": 8,
+    "number": 73,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "temperament",
+    "pos": "名詞",
+    "pronunciation": "/ˈtemprəmənt/",
+    "meaning": "気質；気性",
+    "example": "The two siblings have very different temperaments.",
+    "translation": "そのきょうだいは気質が大きく異なる。",
+    "explanation": "感情の表し方や反応に見られる、その人の基本的な性質。",
+    "id": "word-c-7cccee777651",
+    "level": 3,
+    "section": 8,
+    "number": 74,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "disposition",
+    "pos": "名詞",
+    "pronunciation": "/ˌdɪspəˈzɪʃn/",
+    "meaning": "気質；傾向；配置",
+    "example": "Her cheerful disposition helped the team through difficult days.",
+    "translation": "彼女の陽気な気質が困難な日々を乗り切るチームの助けとなった。",
+    "explanation": "人については生来の気質や行動の傾向。物については配置も意味する。",
+    "id": "word-c-665c08c04775",
+    "level": 3,
+    "section": 8,
+    "number": 75,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "sociable",
+    "pos": "形容詞",
+    "pronunciation": "/ˈsoʊʃəbl/",
+    "meaning": "社交的な",
+    "example": "The new student was sociable and quickly made friends.",
+    "translation": "その新入生は社交的で、すぐに友人ができた。",
+    "explanation": "他の人と話したり一緒に過ごしたりすることを好む。",
+    "id": "word-c-2817c11b7b27",
+    "level": 3,
+    "section": 8,
+    "number": 76,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "solitary",
+    "pos": "形容詞",
+    "pronunciation": "/ˈsɑːləteri/",
+    "meaning": "独りの；単独の",
+    "example": "Reading is often a solitary activity.",
+    "translation": "読書は独りでする活動であることが多い。",
+    "explanation": "一人で行うことや他から離れていることを示す。",
+    "id": "word-c-7fe62ade181e",
+    "level": 3,
+    "section": 8,
+    "number": 77,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "inclusive",
+    "pos": "形容詞",
+    "pronunciation": "/ɪnˈkluːsɪv/",
+    "meaning": "包摂的な；すべてを含む",
+    "example": "The planners wanted an inclusive space for all residents.",
+    "translation": "計画担当者はすべての住民を受け入れる空間を求めた。",
+    "explanation": "異なる立場や能力の人を排除せず参加させる。",
+    "id": "word-c-1b5541ff45ff",
+    "level": 3,
+    "section": 8,
+    "number": 78,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "tsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "tsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "exclusive",
+    "pos": "形容詞",
+    "pronunciation": "/ɪkˈskluːsɪv/",
+    "meaning": "限定された；排他的な",
+    "example": "Members receive exclusive access to the archive.",
+    "translation": "会員には資料保管庫への限定アクセスが与えられる。",
+    "explanation": "特定の人だけに認められること。exclusive ofで「〜を除いて」。",
+    "id": "word-c-433cd7fc8060",
+    "level": 3,
+    "section": 8,
+    "number": 79,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "tsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "tsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "impartial",
+    "pos": "形容詞",
+    "pronunciation": "/ɪmˈpɑːrʃl/",
+    "meaning": "公平な；偏りのない",
+    "example": "An impartial judge must consider evidence from both sides.",
+    "translation": "公平な裁判官は双方の証拠を検討しなければならない。",
+    "explanation": "一方をひいきせず判断する態度。",
+    "id": "word-c-4462fafe715a",
+    "level": 3,
+    "section": 8,
+    "number": 80,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "discriminatory",
+    "pos": "形容詞",
+    "pronunciation": "/dɪˈskrɪmɪnətɔːri/",
+    "meaning": "差別的な",
+    "example": "The court rejected the discriminatory hiring policy.",
+    "translation": "裁判所はその差別的な採用方針を退けた。",
+    "explanation": "属性などを理由に人々を不公平に扱うことを表す。",
+    "id": "word-c-86f9adc7edf0",
+    "level": 3,
+    "section": 8,
+    "number": 81,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "compassionate",
+    "pos": "形容詞",
+    "pronunciation": "/kəmˈpæʃənət/",
+    "meaning": "思いやりのある",
+    "example": "A compassionate response helped the family feel less alone.",
+    "translation": "思いやりのある対応で、その家族の孤独感は和らいだ。",
+    "explanation": "苦しむ人を理解し助けようとする態度。",
+    "id": "word-c-22ed0a6501b8",
+    "level": 3,
+    "section": 8,
+    "number": 82,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "tolerant",
+    "pos": "形容詞",
+    "pronunciation": "/ˈtɑːlərənt/",
+    "meaning": "寛容な；耐性のある",
+    "example": "The community became more tolerant of different lifestyles.",
+    "translation": "地域社会は異なる生活様式により寛容になった。",
+    "explanation": "tolerant ofで受け入れる対象や耐えられる対象を示す。",
+    "id": "word-c-ed80ec951eb5",
+    "level": 3,
+    "section": 8,
+    "number": 83,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "hostile",
+    "pos": "形容詞",
+    "pronunciation": "/ˈhɑːstl/",
+    "meaning": "敵意のある；厳しい",
+    "example": "The travelers faced a hostile climate in the desert.",
+    "translation": "旅行者たちは砂漠の厳しい気候に直面した。",
+    "explanation": "人の敵意に加え、生存に不向きな環境にも使う。",
+    "id": "word-c-8f383ccddc6f",
+    "level": 3,
+    "section": 8,
+    "number": 84,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "aggressive",
+    "pos": "形容詞",
+    "pronunciation": "/əˈɡresɪv/",
+    "meaning": "攻撃的な；積極果敢な",
+    "example": "Aggressive behavior made cooperation difficult.",
+    "translation": "攻撃的な行動が協力を難しくした。",
+    "explanation": "行動や戦略の積極性を表す場合もあるので文脈で判断する。",
+    "id": "word-c-42eddc67a744",
+    "level": 3,
+    "section": 8,
+    "number": 85,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "ngsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "ngsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "assertive",
+    "pos": "形容詞",
+    "pronunciation": "/əˈsɜːrtɪv/",
+    "meaning": "自分の意見をはっきり述べる",
+    "example": "She learned to be assertive without insulting others.",
+    "translation": "彼女は人を侮辱せずに自分の意見をはっきり述べることを学んだ。",
+    "explanation": "相手を攻撃せず、自分の必要や意見を自信をもって示す。",
+    "id": "word-c-cefcfaad87c3",
+    "level": 3,
+    "section": 8,
+    "number": 86,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "submissive",
+    "pos": "形容詞",
+    "pronunciation": "/səbˈmɪsɪv/",
+    "meaning": "服従的な；従順な",
+    "example": "The character appears submissive but privately questions the rules.",
+    "translation": "その登場人物は従順に見えるが、内心では規則を疑っている。",
+    "explanation": "他人の権威や意志に抵抗せず従う様子。",
+    "id": "word-c-70cf87f8064d",
+    "level": 3,
+    "section": 8,
+    "number": 87,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "obedient",
+    "pos": "形容詞",
+    "pronunciation": "/oʊˈbiːdiənt/",
+    "meaning": "従順な；言うことを聞く",
+    "example": "The trainer rewarded the obedient dog.",
+    "translation": "訓練士は指示に従った犬に褒美を与えた。",
+    "explanation": "obedient toで従う相手や規則を示せる。",
+    "id": "word-c-57e5f2fe0142",
+    "level": 3,
+    "section": 8,
+    "number": 88,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "defiant",
+    "pos": "形容詞",
+    "pronunciation": "/dɪˈfaɪənt/",
+    "meaning": "反抗的な；挑戦的な",
+    "example": "The protesters remained defiant despite the threats.",
+    "translation": "抗議者たちは脅しにも屈せず反抗的な姿勢を保った。",
+    "explanation": "権威や圧力に公然と従わない態度。",
+    "id": "word-c-1cc9ffadf620",
+    "level": 3,
+    "section": 8,
+    "number": 89,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "rebellious",
+    "pos": "形容詞",
+    "pronunciation": "/rɪˈbeljəs/",
+    "meaning": "反抗的な；反乱を起こす",
+    "example": "Her rebellious attitude challenged established customs.",
+    "translation": "彼女の反抗的な姿勢は既存の慣習に挑んだ。",
+    "explanation": "規則や慣習、権力に逆らうことを好む様子。",
+    "id": "word-c-19496d8c35f4",
+    "level": 3,
+    "section": 8,
+    "number": 90,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "loyal",
+    "pos": "形容詞",
+    "pronunciation": "/ˈlɔɪəl/",
+    "meaning": "忠実な；誠実な",
+    "example": "He remained loyal to his friends during the dispute.",
+    "translation": "争いの間も彼は友人に忠実であり続けた。",
+    "explanation": "loyal toで支持や忠誠の対象を示す。",
+    "id": "word-c-cc03f402b0ec",
+    "level": 3,
+    "section": 8,
+    "number": 91,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "tsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "tsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "trustworthy",
+    "pos": "形容詞",
+    "pronunciation": "/ˈtrʌstwɜːrði/",
+    "meaning": "信頼できる",
+    "example": "The report relies on information from trustworthy sources.",
+    "translation": "その報告書は信頼できる情報源からの情報に基づく。",
+    "explanation": "正直で責任を果たすため、信頼に値すること。",
+    "id": "word-c-ff3dbd163436",
+    "level": 3,
+    "section": 8,
+    "number": 92,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "deceptive",
+    "pos": "形容詞",
+    "pronunciation": "/dɪˈseptɪv/",
+    "meaning": "人を惑わす；見かけと違う",
+    "example": "The calm surface of the water was deceptive.",
+    "translation": "水面の穏やかな見かけは実際の状態とは違っていた。",
+    "explanation": "実際と異なる印象を与えること。意図的な欺きとは限らない。",
+    "id": "word-c-6373dcfb6a9b",
+    "level": 3,
+    "section": 8,
+    "number": 93,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "interpersonal",
+    "pos": "形容詞",
+    "pronunciation": "/ˌɪntərˈpɜːrsənl/",
+    "meaning": "対人関係の",
+    "example": "The course develops interpersonal skills through group work.",
+    "translation": "その講座はグループ活動を通じて対人関係の技能を育てる。",
+    "explanation": "interpersonal skillsで人と円滑にやり取りする能力。",
+    "id": "word-c-479f4f37f624",
+    "level": 3,
+    "section": 8,
+    "number": 94,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "communal",
+    "pos": "形容詞",
+    "pronunciation": "/kəˈmjuːnl/",
+    "meaning": "共同の；地域社会の",
+    "example": "The building has a communal kitchen on the first floor.",
+    "translation": "その建物の1階には共同の台所がある。",
+    "explanation": "集団の成員が共有したり利用したりすること。",
+    "id": "word-c-147f0afae313",
+    "level": 3,
+    "section": 8,
+    "number": 95,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "socially",
+    "pos": "副詞",
+    "pronunciation": "/ˈsoʊʃəli/",
+    "meaning": "社会的に；社交の場で",
+    "example": "Public libraries can support socially isolated residents.",
+    "translation": "公立図書館は社会的に孤立した住民を支援できる。",
+    "explanation": "社会関係や社会全体に関する面を示す。",
+    "id": "word-c-fdd830a755c3",
+    "level": 3,
+    "section": 8,
+    "number": 96,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl",
+        "nawl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "nawl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "mutually",
+    "pos": "副詞",
+    "pronunciation": "/ˈmjuːtʃuəli/",
+    "meaning": "相互に；共通して",
+    "example": "The two organizations agreed on a mutually beneficial plan.",
+    "translation": "二つの団体は双方に利益のある計画に合意した。",
+    "explanation": "mutually beneficialで「互いに有益な」。",
+    "id": "word-c-bc7049d1d909",
+    "level": 3,
+    "section": 8,
+    "number": 97,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "bsl"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "bsl",
+          "fields": [
+            "english",
+            "candidateSelection"
+          ]
+        },
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "voluntarily",
+    "pos": "副詞",
+    "pronunciation": "/ˌvɑːlənˈterəli/",
+    "meaning": "自発的に；任意で",
+    "example": "Participants shared their experiences voluntarily.",
+    "translation": "参加者たちは自発的に経験を語った。",
+    "explanation": "強制されず自分の意志で行うことを表す。",
+    "id": "word-c-2042d44c7ec4",
+    "level": 3,
+    "section": 8,
+    "number": 98,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "reluctantly",
+    "pos": "副詞",
+    "pronunciation": "/rɪˈlʌktəntli/",
+    "meaning": "しぶしぶ；不本意ながら",
+    "example": "He reluctantly agreed to postpone the trip.",
+    "translation": "彼はしぶしぶ旅行の延期に同意した。",
+    "explanation": "気が進まないまま行動する様子。",
+    "id": "word-c-c0b80682ae15",
+    "level": 3,
+    "section": 8,
+    "number": 99,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "unanimously",
+    "pos": "副詞",
+    "pronunciation": "/juˈnænɪməsli/",
+    "meaning": "全会一致で",
+    "example": "The committee unanimously approved the proposal.",
+    "translation": "委員会は全会一致でその提案を承認した。",
+    "explanation": "全員が同じ意見や投票結果を示すこと。",
+    "id": "word-c-8141d32a63df",
+    "level": 3,
+    "section": 8,
+    "number": 100,
+    "kind": "word",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "examFrequency": null,
+      "selectionReason": "高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL 3。入試頻度は未検証。",
+      "productionApproved": false,
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "meaning",
+            "pos",
+            "pronunciation",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
     "id": "word-l4-0001",
     "level": 4,
     "section": 1,

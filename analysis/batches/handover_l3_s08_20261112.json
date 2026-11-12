@@ -1,0 +1,50 @@
+{
+  "baselineCommit": "eaf6e063c7fb48040036a733cd4f484ada4815ce",
+  "baselineDrafts": 2500,
+  "preservedDrafts": 2500,
+  "addedDrafts": 100,
+  "totalDrafts": 2600,
+  "levels": [
+    800,
+    900,
+    800,
+    100
+  ],
+  "baselineItemsSha256": "34250ad52964a5df0056e584d9c1c858044f9d2180b1a2823b6f623932d55fd0",
+  "currentItemsSha256": "48229c0e0d33c73d5d3568d2c1ea20d1e7596963e5b365d70e5474a0b16eeb78",
+  "protectedFilesUnchanged": [
+    "src/data/entries.json",
+    "content/provenance.json",
+    "content/words/approved.json",
+    "content/idioms/approved.json",
+    "content/readings/approved.json"
+  ],
+  "existingItemsUnchanged": true,
+  "batchId": "words_l3_s08_20261112",
+  "startingCommit": "b8f97367b122d81b5cf348a43856c784aad7e170",
+  "addedInThisBatch": 100,
+  "batchFile": "content/authoring/words_l3_s08.tsv",
+  "validation": {
+    "requiredFields": "passed",
+    "uniqueWordIdsAndHeadwordsAndExamples": "passed",
+    "sectionNumbers": "1..100 contiguous",
+    "posCounts": {
+      "動詞": 25,
+      "名詞": 50,
+      "形容詞": 20,
+      "副詞": 5
+    },
+    "pythonTests": {
+      "passed": 15,
+      "failed": 0
+    },
+    "editorialReview": "pending",
+    "productionApproved": false
+  },
+  "investigation": {
+    "libraryMatchingFilesFound": 0,
+    "libraryRecentFilesChecked": 10,
+    "previous1500WordReport": "present in git history; superseded by 2500 actually saved drafts at start",
+    "priorUnpushed2800Report": "not recovered in this workspace or GitHub branches; not counted"
+  }
+}
