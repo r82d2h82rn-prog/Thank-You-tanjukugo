@@ -17,7 +17,9 @@
     "content:audit": "python3 scripts/content_pipeline.py audit",
     "content:release-check": "python3 scripts/content_pipeline.py audit --release",
     "content:analyze": "python3 scripts/analyze_corpus.py",
-    "test:content": "python3 -m unittest discover -s tests -p \"test_*.py\" -v"
+    "test:content": "python3 -m unittest discover -s tests -p \"test_*.py\" -v",
+    "content:reading-batch": "python3 scripts/build_advanced_readings.py",
+    "content:reading-quality": "python3 scripts/reading_quality.py"
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "2.2.0",
