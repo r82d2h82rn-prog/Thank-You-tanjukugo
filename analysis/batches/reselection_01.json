@@ -1,0 +1,15 @@
+{
+  "batch": 1,
+  "newWords": 100,
+  "validatedCumulativeNewWords": 100,
+  "originalDrafts": 2600,
+  "originalDraftSha256": "d54dd2c1ecff0fe360a678742e540af54b9bf7e0794520f1627e3fb96491dc40",
+  "checks": [
+    "100 rows",
+    "required fields",
+    "unique against original drafts and samples",
+    "valid stable IDs and provenance"
+  ],
+  "selectionApplied": false,
+  "humanReviewed": false
+}
