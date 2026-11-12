@@ -40,7 +40,7 @@ test('browser study flow: independent mastery, sounds, storage, search, mobile',
   };
   await run('choice'); await run('choice');
   const saved = async () => {
-    await expect(page.getByText('保存済み', { exact: true })).toBeVisible();
+    await expect(page.getByText(/^保存済み(?: · .*)?$/)).toBeVisible();
     return page.evaluate(k => JSON.parse(localStorage.getItem(k)!), key);
   };
   let state = await saved(); expect(state.progress[data[0].id].choice.mastered).toBe(true); expect(state.progress[data[0].id].written).toBeUndefined();
@@ -123,7 +123,7 @@ test('explanation replaces question; controls and double taps cannot skip or dou
   await page.getByRole('button', { name: '発音を聴く', exact: true }).click();
   await page.getByRole('button', { name: '☆ お気に入り登録', exact: true }).click();
   await expect(page.getByText('選択式 · 1 / 10', { exact: true })).toBeVisible();
-  await expect(page.getByText('保存済み', { exact: true })).toBeVisible();
+  await expect(page.getByText('保存済み · 時間制限なし', { exact: true })).toBeVisible();
   const state = await page.evaluate(k => JSON.parse(localStorage.getItem(k)!), key);
   expect(state.progress['word-l1-0001'].choice.history).toHaveLength(1);
   expect(state.favorites).toContain('word-l1-0001');

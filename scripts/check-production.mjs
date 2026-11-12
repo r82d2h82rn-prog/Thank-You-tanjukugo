@@ -1,7 +1,6 @@
 import { spawn } from 'node:child_process';
 import { chromium } from '@playwright/test';
 import assert from 'node:assert/strict';
-import data from '../src/data/entries.json' with { type: 'json' };
 import drafts from '../content/words/drafts.json' with { type: 'json' };
 import additions from '../content/words/reselected_additions.json' with { type: 'json' };
 import selection from '../content/words/selection.json' with { type: 'json' };
@@ -34,16 +33,14 @@ try {
   await page.getByRole('button', { name: '選択式練習を始める', exact: true }).click();
   await page.getByRole('switch', { name: 'ランダム順' }).click();
   await page.getByRole('button', { name: 'この設定で練習を開始' }).click();
-  await page.getByRole('button', { name: data[0].meaning, exact: true }).click();
+  const first = trialWords.find(entry => entry.level === 1 && entry.section === 1 && entry.number === 1);
+  await page.getByRole('button', { name: first.meaning, exact: true }).click();
   await page.getByText('✓ 正解！', { exact: true }).waitFor();
   await page.waitForTimeout(420);
   await page.getByTestId('practice-card').click({ position: { x: 20, y: 20 } });
   await page.getByRole('button', { name: 'わからない', exact: true }).click();
   await page.getByText('？ わからない', { exact: true }).waitFor();
   await page.getByRole('tab', { name: 'ホーム', exact: true }).click();
-  await page.getByRole('button', { name: `制作済み単語${trialWords.length.toLocaleString()}語で練習する`, exact: true }).click();
-  await page.getByText('制作済み単語を試用中', { exact: true }).waitFor();
-  await page.getByRole('button', { name: '← 戻る', exact: true }).click();
   await page.getByRole('button', { name: 'LEVEL 3 高校上級・大学受験中級', exact: true }).click();
   await page.getByRole('button', { name: 'SECTION 08 · 英単語', exact: true }).click();
   await page.getByRole('button', { name: '選択式練習を始める', exact: true }).click();
@@ -53,13 +50,14 @@ try {
   const draft = trialWords.find(entry => entry.level === 3 && entry.section === 8 && entry.number === 1);
   await page.getByRole('button', { name: draft.meaning, exact: true }).click();
   await page.getByText('✓ 正解！', { exact: true }).waitFor();
-  await page.getByText('保存済み', { exact: true }).waitFor();
+  await page.getByText(/^保存済み(?: · .*)?$/).waitFor();
   const saved = await page.evaluate(() => JSON.parse(localStorage.getItem('thank-you.learning.v1')));
-  assert.equal(saved.progress[data[0].id].choice.history.length, 1);
+  assert.equal(saved.progress[first.id].choice.history.length, 1);
   assert.equal(saved.progress[draft.id].choice.history.length, 1);
   assert.equal(saved.lastSection.catalog, 'draft');
   await page.reload();
-  await page.getByText('制作済み単語を試用中', { exact: true }).waitFor();
+  await page.getByText('今日も、英語を自分の力に。').waitFor();
+  assert.equal(await page.getByText(/制作済み|検討済み|校閲前|草稿|試用中/).count(), 0);
   await page.getByRole('button', { name: '前回の学習を再開 →', exact: true }).click();
   await page.getByRole('button', { name: draft.english + ' の詳細', exact: true }).waitFor();
   await page.setViewportSize({ width: 390, height: 844 });
@@ -67,5 +65,5 @@ try {
   const frequencies = await page.evaluate(() => window.audioFrequencies);
   for (const f of [900, 660, 880, 220, 174]) assert.ok(frequencies.includes(f), `missing sound ${f}`);
   assert.deepEqual(errors, []);
-  console.log('PASS production: developer mode absent; real Web Audio tap/correct/wrong oscillator graphs; draft practice and sample history persist; mobile width fits; browser runtime has no errors.');
+  console.log('PASS production: developer mode absent; real Web Audio tap/correct/wrong oscillator graphs; full-catalog practice history persists; mobile width fits; browser runtime has no errors.');
 } finally { await browser?.close(); server.kill(); }
