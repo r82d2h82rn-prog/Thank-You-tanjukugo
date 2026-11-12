@@ -26446,5 +26446,3962 @@
         }
       ]
     }
+  },
+  {
+    "id": "reading-l2-f05-01",
+    "level": 2,
+    "format": 5,
+    "title": "紙の切符に残った記憶",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "For a family history project, Anika sorted a box of old train tickets. She planned to arrange them by date and copy the destinations into a spreadsheet. Her grandfather watched quietly until she reached a damaged ticket with almost no readable print. Anika placed it in a pile of items she thought could be discarded.",
+        "translation": "家族史でアニカは古い切符を日付順に表へ写し、文字が消えた一枚を廃棄候補にした。"
+      },
+      {
+        "id": "p2",
+        "english": "Her grandfather asked to keep it. He explained that he had carried it on the journey when he first met her grandmother. He remembered the rain, the delayed train, and a conversation about a borrowed umbrella. This changed Anika's understanding of the collection. Its value did not depend only on the information still visible on paper.",
+        "translation": "祖父は祖母と初めて会った旅の切符だから残したがり、雨や遅延、借りた傘の会話を語った。それで彼女の理解が変わり、価値は紙面情報だけでなかった。"
+      },
+      {
+        "id": "p3",
+        "english": "She began recording short memories beside the ticket details. Where a story was uncertain, she marked it as uncertain rather than silently filling the gap. The spreadsheet remained useful for dates and places, while audio notes preserved another kind of connection. Anika learned that organizing family materials required deciding which questions mattered, and that a damaged object could still open a conversation no perfectly printed copy could replace.",
+        "translation": "切符の情報に短い記憶を添え、不確かな話は穴埋めせず明示した。表は日付場所、音声は別のつながりを保存。整理には大切な問いの選択が必要で、傷んだ物でも完璧な印刷では置き換えられない会話を開くと学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Thisが指す内容は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "表を全て捨てたこと",
+            "explanation": "表は使用継続。"
+          },
+          {
+            "id": "b",
+            "text": "全切符が新品だったこと",
+            "explanation": "古い切符。"
+          },
+          {
+            "id": "c",
+            "text": "祖母が切符を印刷したこと",
+            "explanation": "印刷者の話でない。"
+          },
+          {
+            "id": "d",
+            "text": "祖父が切符に結びつく記憶を語ったこと",
+            "explanation": "直前の祖父の説明を受ける。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "直前の祖父の説明を受ける。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "He remembered the rain"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "不確かな話の扱いは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "勝手に補う",
+            "explanation": "補わない。"
+          },
+          {
+            "id": "b",
+            "text": "必ず消す",
+            "explanation": "不確実さも残す。"
+          },
+          {
+            "id": "c",
+            "text": "不確かと記録",
+            "explanation": "資料の誠実な記録。"
+          },
+          {
+            "id": "d",
+            "text": "確実と偽る",
+            "explanation": "偽らない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "資料の誠実な記録。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "marked it as uncertain"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "表の有用性は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "切符の新品化",
+            "explanation": "物を直さない。"
+          },
+          {
+            "id": "b",
+            "text": "日付や場所の整理",
+            "explanation": "役割分担をした。"
+          },
+          {
+            "id": "c",
+            "text": "記憶全ての完全代替",
+            "explanation": "記憶は音声補足。"
+          },
+          {
+            "id": "d",
+            "text": "祖父の声の再現だけ",
+            "explanation": "声は音声。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "役割分担をした。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "useful for dates and places"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "Its value did not depend only on the information still visible on paper.",
+        "start": 263,
+        "end": 335,
+        "translation": "価値は紙に残る可視情報だけに依存しなかった。",
+        "explanation": "onlyを含む部分否定。still visible on paperがinformationを修飾する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Its value",
+            "start": 263,
+            "end": 272
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not depend",
+            "start": 273,
+            "end": 287
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "only on the information still visible on paper",
+            "start": 288,
+            "end": 334
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 179,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "discard",
+        "meaning": "捨てる"
+      },
+      {
+        "english": "uncertain",
+        "meaning": "不確かな"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f05-02",
+    "level": 2,
+    "format": 5,
+    "title": "二つの試験管のラベル",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "In a school laboratory, pairs of students prepared solutions for an experiment. The teacher asked them to label each container before beginning. Ben thought he could remember which solution was which and planned to add labels afterward. The liquids looked different at first, but became almost identical after mixing with water.",
+        "translation": "実験の容器へ事前表示を求められたベンは記憶できると後回しにした。最初違って見えた液は希釈後ほぼ同じになった。"
+      },
+      {
+        "id": "p2",
+        "english": "When his partner returned from collecting equipment, she could not tell which container to use. Ben was confident in his memory, yet the teacher stopped them from continuing. A procedure that depended on one person's recollection could not be checked reliably by someone else. That was the weakness the labeling rule was meant to prevent.",
+        "translation": "器具を取って戻る相方には区別できず、教師が止めた。一人の記憶頼みは他人が確実に検証できず、それこそ表示規則が防ぐ弱点だった。"
+      },
+      {
+        "id": "p3",
+        "english": "The pair restarted with clearly marked containers and wrote down each step as they completed it. The lesson did not show that memory was always useless. It showed why shared work needed evidence that remained available when a person was absent or unsure. In their report, the students explained both the experimental result and the change in their method. They recognized that a record was part of doing the work, not merely something added later to make a report look complete.",
+        "translation": "ラベル付きで再開し完了ごとに記録した。記憶全否定でなく、不在や不確かな時も他者が使える証拠が共同作業に必要だった。報告に結果と方法変更の両方を書き、記録は後付けの体裁でなく作業の一部と理解した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Thatが指す弱点は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "水が最初からないこと",
+            "explanation": "水で混ぜた。"
+          },
+          {
+            "id": "b",
+            "text": "器具を全く使わないこと",
+            "explanation": "器具を集めた。"
+          },
+          {
+            "id": "c",
+            "text": "一人の記憶頼みで他者が検証できないこと",
+            "explanation": "直前のprocedureの問題を受ける。"
+          },
+          {
+            "id": "d",
+            "text": "ラベルが大きすぎること",
+            "explanation": "大きさの問題ではない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "直前のprocedureの問題を受ける。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "depended on one person's recollection"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "混合後の液の外観は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "透明容器が消える",
+            "explanation": "容器消失なし。"
+          },
+          {
+            "id": "b",
+            "text": "ほぼ同じ",
+            "explanation": "後付け記憶の危険。"
+          },
+          {
+            "id": "c",
+            "text": "常に明確に別",
+            "explanation": "似た。"
+          },
+          {
+            "id": "d",
+            "text": "全て固体",
+            "explanation": "液体のまま。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "後付け記憶の危険。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "almost identical"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "記録についての結論は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "作業自体の一部",
+            "explanation": "検証可能性を支える。"
+          },
+          {
+            "id": "b",
+            "text": "後で見栄えのためだけ",
+            "explanation": "体裁だけでない。"
+          },
+          {
+            "id": "c",
+            "text": "記憶があれば必ず不要",
+            "explanation": "記憶だけでは不足。"
+          },
+          {
+            "id": "d",
+            "text": "共同作業を禁止するもの",
+            "explanation": "共同作業を助ける。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "検証可能性を支える。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "part of doing the work"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "A procedure that depended on one person's recollection could not be checked reliably by someone else.",
+        "start": 175,
+        "end": 276,
+        "translation": "一人の記憶に依存する手順は他人が確実には検証できなかった。",
+        "explanation": "that節がprocedureを修飾し、主節は助動詞付き受動態。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A procedure that depended on one person's recollection",
+            "start": 175,
+            "end": 229
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "could not be checked",
+            "start": 230,
+            "end": 250
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "reliably by someone else",
+            "start": 251,
+            "end": 275
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 187,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "recollection",
+        "meaning": "記憶"
+      },
+      {
+        "english": "reliably",
+        "meaning": "確実に"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f05-03",
+    "level": 2,
+    "format": 5,
+    "title": "夕食の写真を選ぶ時",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A student journalist photographed meals served at a community dinner. She wanted the article to show how volunteers welcomed people who lived alone. One picture showed a visitor smiling beside a beautifully arranged plate, and the editor thought it would make an excellent cover image.",
+        "translation": "学生記者は独居者を迎える食事会を撮り、笑顔と美しい皿を表紙候補にした。"
+      },
+      {
+        "id": "p2",
+        "english": "Before publishing, the journalist checked the visitor's permission. He agreed to appear, but asked her not to describe him only as a lonely person receiving help. He had also spent the afternoon carrying tables and hoped to volunteer regularly. That request made the journalist reconsider her article. The photograph was genuine, but the proposed story gave him only one role.",
+        "translation": "許可を確かめると本人は掲載可でも孤独な支援受領者だけとしないでと求めた。午後は机も運び継続奉仕を望んでいた。その要望で記者は考え直し、写真は本物でも物語が役を一つにしていた。"
+      },
+      {
+        "id": "p3",
+        "english": "She interviewed several participants about what they contributed as well as what they received. The final article still described the dinner's support, while showing visitors as people with skills, relationships, and choices. The journalist learned that a sympathetic intention did not guarantee a complete portrayal. Respect could require making room for the person's own account, even when it complicated the simple message a writer had initially planned to communicate.",
+        "translation": "受け取る物と貢献の双方を聞き、支援と技能・関係・選択を併記した。好意的意図でも完全な描写とは限らず、単純な伝言を複雑にしても本人の説明の余地を作るのが敬意と学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "That requestの内容は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "表紙を料理だけに限定",
+            "explanation": "皿だけの要求でない。"
+          },
+          {
+            "id": "b",
+            "text": "支援を受ける孤独な人だけとして描かない",
+            "explanation": "本人の複数の役割を示す要望。"
+          },
+          {
+            "id": "c",
+            "text": "写真の全削除",
+            "explanation": "掲載自体は許可。"
+          },
+          {
+            "id": "d",
+            "text": "全員の実名公開",
+            "explanation": "全実名でない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "本人の複数の役割を示す要望。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "not to describe him only as a lonely person"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "本人がした貢献は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "机を運んだ",
+            "explanation": "準備の手伝い。"
+          },
+          {
+            "id": "b",
+            "text": "写真を全て撮った",
+            "explanation": "撮影は記者。"
+          },
+          {
+            "id": "c",
+            "text": "記事を印刷した",
+            "explanation": "印刷者でない。"
+          },
+          {
+            "id": "d",
+            "text": "全料理を一人で作った",
+            "explanation": "一人調理とはない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "準備の手伝い。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "carrying tables"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "記者が学んだことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "事実写真なら文章は何でもよい",
+            "explanation": "役割の偏りがある。"
+          },
+          {
+            "id": "b",
+            "text": "本人の説明は不要",
+            "explanation": "本人が重要。"
+          },
+          {
+            "id": "c",
+            "text": "単純な話を必ず優先",
+            "explanation": "複雑さを許す。"
+          },
+          {
+            "id": "d",
+            "text": "善意だけで完全な描写は保証されない",
+            "explanation": "本人の声を反映。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "本人の声を反映。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "did not guarantee a complete portrayal"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The photograph was genuine, but the proposed story gave him only one role.",
+        "start": 302,
+        "end": 376,
+        "translation": "写真は本物だが予定の物語は彼に一つの役しか与えなかった。",
+        "explanation": "写真の真実性と説明の偏りをbutで区別。gave him one roleは二重目的語。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The photograph",
+            "start": 302,
+            "end": 316
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was",
+            "start": 317,
+            "end": 320
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "genuine",
+            "start": 321,
+            "end": 328
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "the proposed story gave him only one role",
+            "start": 334,
+            "end": 375
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 174,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "portrayal",
+        "meaning": "描写"
+      },
+      {
+        "english": "sympathetic",
+        "meaning": "思いやりのある"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f05-04",
+    "level": 2,
+    "format": 5,
+    "title": "届く速さの違う手紙",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "For an exhibition about communication, a class compared postcards with instant messages. Students first listed obvious differences such as delivery time, length, and cost. Most expected to conclude that the faster method was always more useful. Their interviews complicated that expectation.",
+        "translation": "通信展示で葉書と即時メッセージの時間・長さ・費用を比べ、速い方が常に便利と予想したが聞き取りは複雑にした。"
+      },
+      {
+        "id": "p2",
+        "english": "One traveler sent postcards because choosing a picture and finding a postbox made her notice the place more carefully. A grandfather kept a card showing his grandson's changing handwriting. Another interviewee depended on instant messages to arrange work and contact family during unexpected delays. These served purposes that a postcard could not easily replace.",
+        "translation": "旅人は絵やポスト探しで場所に注意し、祖父は孫の筆跡変化を保存し、別の人は仕事や遅延連絡に即時文を必要とした。こうした用途は葉書で代えにくかった。"
+      },
+      {
+        "id": "p3",
+        "english": "The class arranged the exhibition around situations rather than a contest between old and new. Visitors were invited to ask what each method allowed people to do and what effort it required. The students did not deny the convenience of speed. They learned that convenience was one value among several, and that communication could be shaped by the actions involved in preparing a message as well as by the words that eventually reached its reader.",
+        "translation": "新旧勝負でなく状況別に展示し、可能な行為と必要な労力を問うた。速さの便利は否定せず価値の一つとし、届く語だけでなく準備行為も通信を形作ると学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Theseが指すものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "仕事の調整や遅延時の家族連絡",
+            "explanation": "直前の即時文の用途を受ける。"
+          },
+          {
+            "id": "b",
+            "text": "絵選びとポスト探し",
+            "explanation": "葉書側の用途。"
+          },
+          {
+            "id": "c",
+            "text": "筆跡の保存だけ",
+            "explanation": "祖父の用途。"
+          },
+          {
+            "id": "d",
+            "text": "展示用の写真",
+            "explanation": "展示写真ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "直前の即時文の用途を受ける。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "arrange work and contact family"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "旅人が葉書を選ぶ理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "必ず即着する",
+            "explanation": "配達に時間。"
+          },
+          {
+            "id": "b",
+            "text": "費用が常にゼロ",
+            "explanation": "無料とはない。"
+          },
+          {
+            "id": "c",
+            "text": "筆跡が毎回同じ",
+            "explanation": "筆跡の話でない。"
+          },
+          {
+            "id": "d",
+            "text": "準備行為で場所によく気づく",
+            "explanation": "活動自体の価値。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "活動自体の価値。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "notice the place more carefully"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "展示の並べ方は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "速い順のみ",
+            "explanation": "速度限定でない。"
+          },
+          {
+            "id": "b",
+            "text": "費用順のみ",
+            "explanation": "費用限定でない。"
+          },
+          {
+            "id": "c",
+            "text": "用途や状況別",
+            "explanation": "複数価値を比較。"
+          },
+          {
+            "id": "d",
+            "text": "新旧の勝敗だけ",
+            "explanation": "勝負でない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "複数価値を比較。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "around situations"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "These served purposes that a postcard could not easily replace.",
+        "start": 300,
+        "end": 363,
+        "translation": "それらは葉書では簡単に代えられない目的を果たした。",
+        "explanation": "that節がpurposesを修飾し、Theseは即時連絡の用途を指す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "These",
+            "start": 300,
+            "end": 305
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "served",
+            "start": 306,
+            "end": 312
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "purposes that a postcard could not easily replace",
+            "start": 313,
+            "end": 362
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 170,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "eventually",
+        "meaning": "最終的に"
+      },
+      {
+        "english": "convenience",
+        "meaning": "便利さ"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f05-05",
+    "level": 2,
+    "format": 5,
+    "title": "水族館の質問カード",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A small aquarium gave school groups a worksheet asking them to copy the names of ten fish. Students completed it quickly, but guides noticed that many moved past the tanks without watching the animals for long. The worksheet rewarded finding labels more than observing behavior.",
+        "translation": "水族館の十種名を写す用紙はすぐ完成しても観察せず通り過ぎ、ラベル探しを報いた。"
+      },
+      {
+        "id": "p2",
+        "english": "A guide proposed replacing some name questions with prompts such as What changes when two fish approach each other? Teachers worried that answers would be less easy to mark. The guide agreed, but argued that observation involved describing what happened, including uncertainty, rather than simply finding a correct word. This required a different way of discussing students' work.",
+        "translation": "ガイドは二匹が近づく時の変化などに一部変更を提案し、採点しにくい懸念に同意しつつ不確かさを含む行動記述が観察と述べた。それには評価の話し合い方を変える必要があった。"
+      },
+      {
+        "id": "p3",
+        "english": "During a trial visit, pupils compared descriptions and checked whether another person had seen the same event. Some disagreed, then returned to watch again. The aquarium kept a few identification questions, while adding space for drawings and cautious explanations. The new sheet did not make factual knowledge unnecessary. It connected names with attention, and gave students a reason to remain with an animal long enough to notice something they had not expected.",
+        "translation": "試行では記述を比較し異論があれば再観察した。名前問題も残し絵と慎重な説明欄を追加。知識を不要にせず名前と注意を結び、予期しないものを見るまで留まる理由を与えた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Thisが指す内容は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "正解語だけ写すこと",
+            "explanation": "旧方法との違い。"
+          },
+          {
+            "id": "b",
+            "text": "魚名を全廃すること",
+            "explanation": "一部残す。"
+          },
+          {
+            "id": "c",
+            "text": "全員同じ絵を描くこと",
+            "explanation": "同一絵でない。"
+          },
+          {
+            "id": "d",
+            "text": "観察を不確かさも含む記述として扱うこと",
+            "explanation": "直前の観察観を受ける。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "直前の観察観を受ける。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "describing what happened, including uncertainty"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "最初の用紙が促したことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "異論の検証",
+            "explanation": "後の改善。"
+          },
+          {
+            "id": "b",
+            "text": "自由な仮説だけ",
+            "explanation": "正解語探しだった。"
+          },
+          {
+            "id": "c",
+            "text": "ラベル探し",
+            "explanation": "名前写しが中心。"
+          },
+          {
+            "id": "d",
+            "text": "長い行動観察",
+            "explanation": "短く通過した。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "名前写しが中心。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "finding labels"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "新方式で不一致の時は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "魚を移動",
+            "explanation": "魚を動かさない。"
+          },
+          {
+            "id": "b",
+            "text": "戻って再観察",
+            "explanation": "証拠を確かめた。"
+          },
+          {
+            "id": "c",
+            "text": "必ず教師答えを写す",
+            "explanation": "写すだけでない。"
+          },
+          {
+            "id": "d",
+            "text": "用紙を全廃",
+            "explanation": "用紙は維持。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "証拠を確かめた。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "returned to watch again"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "The worksheet rewarded finding labels more than observing behavior.",
+        "start": 211,
+        "end": 278,
+        "translation": "用紙は行動観察よりラベル探しを促した。",
+        "explanation": "二つの動名詞句をmore thanで比較する。rewardはここでは評価し促す意味。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The worksheet",
+            "start": 211,
+            "end": 224
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "rewarded",
+            "start": 225,
+            "end": 233
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "finding labels more than observing behavior",
+            "start": 234,
+            "end": 277
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 175,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "prompt",
+        "meaning": "考えを促す問い"
+      },
+      {
+        "english": "cautious",
+        "meaning": "慎重な"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f05-06",
+    "level": 2,
+    "format": 5,
+    "title": "二種類の時間の地図",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A history class built a timeline of a town's industrial development. The first version used only factory opening dates and changes in production. It looked precise, but a visiting resident asked where the lives of workers appeared. Her family remembered a closure not mainly as a falling number, but as a year of moving homes and changing schools.",
+        "translation": "町の工業史年表は開業と生産だけで精密に見えたが、住民は労働者の生活がないと指摘。閉鎖は数字減より転居転校の年だった。"
+      },
+      {
+        "id": "p2",
+        "english": "The class collected interviews and placed short personal accounts beneath the official dates. These did not replace the statistics. They showed how changes measured at the town level could be experienced within households. Two people sometimes remembered the same year differently because their families had occupied different positions in the industry.",
+        "translation": "個人の短い証言を公式日付の下に置いた。それらは統計の代替でなく家庭での経験を示し、同年も業界の立場で記憶が違った。"
+      },
+      {
+        "id": "p3",
+        "english": "Students labeled memories as interviews and kept the statistical sources separate, so readers could understand what each type of evidence supported. The revised timeline became more complex, but also more informative. Its lesson was not that numbers were cold and stories were always true. Different records answered different questions, and comparing them helped the class avoid reducing a community's history either to a table of figures or to a single person's experience.",
+        "translation": "証言と統計出典を分け、何を支える証拠か明確にした。複雑でも豊かになり、数は冷たく物語は必ず真実という二分でなく、違う問いに答える資料を比べ、数字表か一人の経験への還元を避けた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Theseが指すものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "閉鎖された建物全て",
+            "explanation": "物ではない。"
+          },
+          {
+            "id": "b",
+            "text": "教師の採点表",
+            "explanation": "採点でない。"
+          },
+          {
+            "id": "c",
+            "text": "年表に加えた短い個人の証言",
+            "explanation": "直前のpersonal accountsを受ける。"
+          },
+          {
+            "id": "d",
+            "text": "工場生産の数値だけ",
+            "explanation": "統計とは別。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "直前のpersonal accountsを受ける。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "short personal accounts"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "証言の扱いは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "必ず統計より正確と断定",
+            "explanation": "優劣を固定しない。"
+          },
+          {
+            "id": "b",
+            "text": "統計と出典を区別",
+            "explanation": "支持する内容を区別した。"
+          },
+          {
+            "id": "c",
+            "text": "統計を全削除",
+            "explanation": "置換しない。"
+          },
+          {
+            "id": "d",
+            "text": "全員同じ記憶と断定",
+            "explanation": "違いもある。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "支持する内容を区別した。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "kept the statistical sources separate"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "年表の改善点は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "異なる資料で異なる問いを見る",
+            "explanation": "両視点を比較。"
+          },
+          {
+            "id": "b",
+            "text": "一人の体験に全史を限定",
+            "explanation": "単一へ還元しない。"
+          },
+          {
+            "id": "c",
+            "text": "数字を全否定",
+            "explanation": "数にも価値。"
+          },
+          {
+            "id": "d",
+            "text": "精密な日付を全廃",
+            "explanation": "日付は残る。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "両視点を比較。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "Different records answered different questions"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "These did not replace the statistics.",
+        "start": 94,
+        "end": 131,
+        "translation": "それらの証言は統計を置き換えなかった。",
+        "explanation": "Theseは追加した個人の証言。否定過去の動詞は原形replace。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "These",
+            "start": 94,
+            "end": 99
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not replace",
+            "start": 100,
+            "end": 115
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the statistics",
+            "start": 116,
+            "end": 130
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 181,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "account",
+        "meaning": "証言・記述"
+      },
+      {
+        "english": "reduce to",
+        "meaning": "〜だけに還元する"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f05-07",
+    "level": 2,
+    "format": 5,
+    "title": "借りた言葉で紹介する町",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "An exchange student, Leo, wrote a guide to his host town. He borrowed phrases from tourist brochures, describing it as a hidden jewel with unforgettable charm. His teacher asked him to imagine that the town's name had been removed. Could a reader still recognize the place?",
+        "translation": "留学生レオは観光冊子の「隠れた宝石」「忘れられない魅力」を借り町案内を書いた。教師が町名なしでも分かるか問うた。"
+      },
+      {
+        "id": "p2",
+        "english": "Leo realized that many of the phrases could describe almost any attractive town. They expressed enthusiasm without showing what he had actually noticed. This led him to revise the opening. He described the sound of a bakery shutter at dawn, the steep path behind the library, and the way neighbors moved chairs into the shade in the afternoon.",
+        "translation": "どの美しい町にも使え、熱意だけで観察がないと気づき書き直した。夜明けのパン屋の戸、図書館裏の坂、午後に椅子を日陰へ動かす近隣住民を描いた。"
+      },
+      {
+        "id": "p3",
+        "english": "The guide still contained practical facts about transport and opening times. Personal observations did not replace accurate information; they gave it a particular voice. Leo also checked details with residents rather than treating his short visit as complete knowledge. He learned that writing vividly did not require adding larger claims. Often it meant choosing precise things he could explain and allowing readers to form a picture from them, while being honest about the limits of his own experience.",
+        "translation": "交通と時刻の正確な情報は残し、観察は代替でなく固有の声を与えた。短期滞在を全知とせず住民に確認し、鮮明さは大げさな主張でなく説明できる具体を選び経験の限界にも誠実にすることと学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Thisが指す内容は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "住民全員が反対したこと",
+            "explanation": "全員反対ではない。"
+          },
+          {
+            "id": "b",
+            "text": "表現が汎用的で実観察を示さないと気づいたこと",
+            "explanation": "直前の自己認識が改訂を促す。"
+          },
+          {
+            "id": "c",
+            "text": "案内の完成印刷",
+            "explanation": "未印刷。"
+          },
+          {
+            "id": "d",
+            "text": "町名を永久に失ったこと",
+            "explanation": "教師の仮定。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "直前の自己認識が改訂を促す。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "without showing what he had actually noticed"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "改訂で足したものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "本人の具体的観察",
+            "explanation": "固有性を高めた。"
+          },
+          {
+            "id": "b",
+            "text": "より大げさな美辞だけ",
+            "explanation": "大主張不要。"
+          },
+          {
+            "id": "c",
+            "text": "全店の順位",
+            "explanation": "順位なし。"
+          },
+          {
+            "id": "d",
+            "text": "住民の私情報全て",
+            "explanation": "私情報公開でない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "固有性を高めた。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "a bakery shutter at dawn"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "実用情報は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "全て削除",
+            "explanation": "残す。"
+          },
+          {
+            "id": "b",
+            "text": "観察で完全代替",
+            "explanation": "置換しない。"
+          },
+          {
+            "id": "c",
+            "text": "確認不要と断定",
+            "explanation": "住民へ確認。"
+          },
+          {
+            "id": "d",
+            "text": "残して正確さも確認",
+            "explanation": "観察と事実を併用。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "観察と事実を併用。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "did not replace accurate information"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "They expressed enthusiasm without showing what he had actually noticed.",
+        "start": 81,
+        "end": 152,
+        "translation": "借りた表現は熱意を示しても実際の気づきを示さなかった。",
+        "explanation": "what節はshowingの目的語で、気づいたものを表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 81,
+            "end": 85
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "expressed",
+            "start": 86,
+            "end": 95
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "enthusiasm",
+            "start": 96,
+            "end": 106
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "without showing what he had actually noticed",
+            "start": 107,
+            "end": 151
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 182,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "vividly",
+        "meaning": "鮮明に"
+      },
+      {
+        "english": "precise",
+        "meaning": "具体的で正確な"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f05-08",
+    "level": 2,
+    "format": 5,
+    "title": "展望台の待ち時間",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A mountain visitor center displayed the estimated waiting time for a small observation tower. The estimate was based on how many people had entered during the previous hour. On ordinary days it was reasonably useful, but one afternoon a school group arrived just after a long quiet period. The screen still showed a short wait.",
+        "translation": "山の展望塔の待ち時間は前一時間の入場数で推定し通常有用だったが、静かな時間直後に学校団体が来ても短い表示だった。"
+      },
+      {
+        "id": "p2",
+        "english": "Visitors complained when the actual queue moved much more slowly. A staff member explained that the estimate reflected recent conditions rather than a promise about what would happen next. That distinction was not obvious from the original display. People had interpreted the precise-looking number as a guarantee.",
+        "translation": "実際は遅いと苦情が出て、職員は近況の推定で将来の約束でないと説明した。その区別が表示から分からず精密な数字を保証と受け取られた。"
+      },
+      {
+        "id": "p3",
+        "english": "The center added a time stamp and a brief explanation, while staff updated the estimate manually when a large group arrived. Visitors could also see the queue from the entrance. The number remained helpful, but was now one source of information among several. The center learned that presenting uncertainty did not necessarily make a service less trustworthy. It could help people use an estimate appropriately, especially when the conditions behind it were changing faster than the calculation could respond.",
+        "translation": "時刻印と説明、団体到着時の手動更新、入口から見える列を併用。数字は複数情報の一つになり、不確実さを示すのは必ずしも信用低下でなく、計算より条件変化が速い時の適切な利用を助けると学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "That distinctionが指す違いは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "最近の条件からの推定と将来の保証",
+            "explanation": "直前のestimateとpromiseの区別。"
+          },
+          {
+            "id": "b",
+            "text": "塔と山の高さ",
+            "explanation": "高さでない。"
+          },
+          {
+            "id": "c",
+            "text": "団体と個人の料金",
+            "explanation": "料金でない。"
+          },
+          {
+            "id": "d",
+            "text": "入口と出口の色",
+            "explanation": "色でない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "直前のestimateとpromiseの区別。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "rather than a promise"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "表示が外れた事情は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "塔が必ず故障",
+            "explanation": "故障ではない。"
+          },
+          {
+            "id": "b",
+            "text": "入場者が全て消えた",
+            "explanation": "増えた。"
+          },
+          {
+            "id": "c",
+            "text": "時計が一つもない",
+            "explanation": "時刻印は追加。"
+          },
+          {
+            "id": "d",
+            "text": "閑散時間直後の団体到着",
+            "explanation": "最近の数に変化が反映されない。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "最近の数に変化が反映されない。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "a school group arrived"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "追加したものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "推定の完全廃止",
+            "explanation": "数は有用。"
+          },
+          {
+            "id": "b",
+            "text": "列を見ることの禁止",
+            "explanation": "列も見せる。"
+          },
+          {
+            "id": "c",
+            "text": "時刻印と説明や手動更新",
+            "explanation": "使い方を明確化。"
+          },
+          {
+            "id": "d",
+            "text": "必ず正しいとする宣言",
+            "explanation": "保証しない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "使い方を明確化。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "a time stamp"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "People had interpreted the precise-looking number as a guarantee.",
+        "start": 249,
+        "end": 314,
+        "translation": "人々は精密に見える数字を保証と解釈していた。",
+        "explanation": "interpret A as BはAをBと解釈する。precise-lookingは正確そうに見える。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "People",
+            "start": 249,
+            "end": 255
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had interpreted",
+            "start": 256,
+            "end": 271
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the precise-looking number",
+            "start": 272,
+            "end": 298
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "as a guarantee",
+            "start": 299,
+            "end": 313
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 181,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "estimate",
+        "meaning": "推定"
+      },
+      {
+        "english": "guarantee",
+        "meaning": "保証"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f05-09",
+    "level": 2,
+    "format": 5,
+    "title": "共同菜園の二つの成功",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Two groups joined a community garden in spring. One wanted to produce as many vegetables as possible, while the other hoped to give beginners a relaxed place to learn. When the organizers compared harvest weights at the end of summer, the second group seemed less successful. Its members had planted fewer rows and spent more time explaining tasks to new volunteers.",
+        "translation": "二班の一方は多収、他方は初心者の安心した学びを目的にした。夏の収穫重量だけでは後者が劣って見え、列を少なくし説明時間を多く使っていた。"
+      },
+      {
+        "id": "p2",
+        "english": "A gardener asked whether the comparison matched the groups' aims. The first group had achieved a strong harvest. The second had helped several people become confident enough to return regularly. Both deserved attention, but they were not the same result. Measuring only weight had made one achievement much easier to see.",
+        "translation": "園芸家は比較が目的に合うか尋ねた。前者は豊作、後者は継続参加の自信を育て、両方注目に値しても同じ結果ではない。重量だけでは一方のみ見えた。"
+      },
+      {
+        "id": "p3",
+        "english": "The final report included harvest totals, participation records, and comments about learning. It did not declare every method equally good regardless of results. Instead, it connected evaluation to the goals each group had chosen. The garden also discussed where the goals overlapped, such as reducing wasted crops. Members learned that comparing projects fairly could require more careful questions than simply placing their numbers in the same column.",
+        "translation": "報告は収穫、参加、学びの声を含め、何でも同価値とせず選んだ目標に評価を結んだ。廃棄削減など共通目標も話し、同じ列に数を並べる以上の問いが公平比較に必要と学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Bothが指すものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "二つの同じ重量",
+            "explanation": "同じ結果でない。"
+          },
+          {
+            "id": "b",
+            "text": "全員の試験点",
+            "explanation": "試験でない。"
+          },
+          {
+            "id": "c",
+            "text": "廃棄した作物だけ",
+            "explanation": "廃棄だけでない。"
+          },
+          {
+            "id": "d",
+            "text": "豊かな収穫と参加者の自信の成長",
+            "explanation": "直前の二つの成果。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "直前の二つの成果。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "confident enough to return regularly"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "重量のみの比較の問題は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "初心者を全員排除",
+            "explanation": "初心者歓迎。"
+          },
+          {
+            "id": "b",
+            "text": "第一班が収穫ゼロ",
+            "explanation": "豊作だった。"
+          },
+          {
+            "id": "c",
+            "text": "異なる目標の成果を見落とす",
+            "explanation": "学びの成果が見えにくい。"
+          },
+          {
+            "id": "d",
+            "text": "収量を全く測れない",
+            "explanation": "収量は測った。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "学びの成果が見えにくい。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "one achievement much easier to see"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "改訂評価の方針は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "目標を一度も聞かない",
+            "explanation": "目的を考える。"
+          },
+          {
+            "id": "b",
+            "text": "選んだ目標に評価を対応",
+            "explanation": "多面的だが無評価ではない。"
+          },
+          {
+            "id": "c",
+            "text": "結果に関係なく全方法同価値",
+            "explanation": "全同価値とはしない。"
+          },
+          {
+            "id": "d",
+            "text": "重量を全廃",
+            "explanation": "重量も残す。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "多面的だが無評価ではない。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "goals each group had chosen"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The second had helped several people become confident enough to return regularly.",
+        "start": 113,
+        "end": 194,
+        "translation": "後者は何人かが定期的に戻る自信を持つのを助けた。",
+        "explanation": "help 人 動詞原形。形容詞enough toで〜するほど十分という意味。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The second",
+            "start": 113,
+            "end": 123
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had helped",
+            "start": 124,
+            "end": 134
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "several people",
+            "start": 135,
+            "end": 149
+          },
+          {
+            "id": "n4",
+            "role": "phrase",
+            "text": "become confident enough to return regularly",
+            "start": 150,
+            "end": 193
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 179,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "evaluation",
+        "meaning": "評価"
+      },
+      {
+        "english": "overlap",
+        "meaning": "重なり合う"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f05-10",
+    "level": 2,
+    "format": 5,
+    "title": "台本を離れた案内人",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A museum trainee memorized a detailed speech about an old fishing boat. During her first tour, she delivered it smoothly and finished at the planned time. Yet several visitors seemed distracted. One child kept pointing at a small repaired patch near the boat's side, but the trainee continued with the next memorized paragraph.",
+        "translation": "研修案内人は漁船説明を暗唱し時刻通り終えたが客は散漫で、子が修理跡を指しても次段落へ進んだ。"
+      },
+      {
+        "id": "p2",
+        "english": "Afterward, an experienced guide asked what the visitors had been curious about. The trainee realized that she had treated questions as interruptions to a performance rather than clues about what people wanted to understand. This became the focus of her next practice. She prepared the main facts carefully, but left space to respond to observations.",
+        "translation": "先輩に何を知りたがったか聞かれ、問いを関心の手がかりでなく上演の妨害と扱ったと気づき、それを次の練習の焦点にした。事実は準備しつつ観察へ応答する余地を残した。"
+      },
+      {
+        "id": "p3",
+        "english": "On the following tour, a question about the patch led to a discussion of repairs and the boat's long working life. The trainee still needed knowledge and structure; improvisation did not mean inventing answers. When uncertain, she promised to check. She learned that a useful tour was not simply a speech delivered in front of people. It was an encounter in which the guide's preparation and the audience's attention shaped the route together.",
+        "translation": "次回は補修箇所から長い稼働の話へ進んだ。即興は捏造でなく知識と構成も要り、不明なら確認を約束した。案内は一方的演説でなく準備と聴衆の注意で道筋を共に作る出会いと学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Thisが指す改善課題は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "修理跡を隠す",
+            "explanation": "隠さない。"
+          },
+          {
+            "id": "b",
+            "text": "知識を全て捨てる",
+            "explanation": "準備は継続。"
+          },
+          {
+            "id": "c",
+            "text": "質問を関心の手がかりとして応答する",
+            "explanation": "前文の反省を受ける。"
+          },
+          {
+            "id": "d",
+            "text": "暗唱だけを完璧に反復",
+            "explanation": "暗唱偏重を修正。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "前文の反省を受ける。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "clues about what people wanted to understand"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "次回の話題の入口は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "館の建築費だけ",
+            "explanation": "費用でない。"
+          },
+          {
+            "id": "b",
+            "text": "船の補修箇所",
+            "explanation": "観察から議論を展開。"
+          },
+          {
+            "id": "c",
+            "text": "漁師の全収入",
+            "explanation": "収入でない。"
+          },
+          {
+            "id": "d",
+            "text": "客の順位",
+            "explanation": "順位でない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "観察から議論を展開。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "a question about the patch"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "不明な問いへの態度は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "調べると約束",
+            "explanation": "即興にも正確さが必要。"
+          },
+          {
+            "id": "b",
+            "text": "即興で捏造",
+            "explanation": "捏造しない。"
+          },
+          {
+            "id": "c",
+            "text": "必ず無視",
+            "explanation": "応答する。"
+          },
+          {
+            "id": "d",
+            "text": "質問を禁止",
+            "explanation": "質問歓迎。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "即興にも正確さが必要。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "she promised to check"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "improvisation did not mean inventing answers.",
+        "start": 165,
+        "end": 210,
+        "translation": "即興は答えを作り上げることを意味しなかった。",
+        "explanation": "本文中は小文字開始の節として使われる。meanの目的語は動名詞句。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "improvisation",
+            "start": 165,
+            "end": 178
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not mean",
+            "start": 179,
+            "end": 191
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "inventing answers",
+            "start": 192,
+            "end": 209
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 181,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "improvisation",
+        "meaning": "即興"
+      },
+      {
+        "english": "encounter",
+        "meaning": "出会い"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f06-01",
+    "level": 2,
+    "format": 6,
+    "title": "開演前の指揮台",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A student orchestra invited a retired conductor to its rehearsal. The players expected a speech about famous performances, but he spent the first ten minutes listening to the group tune. He then asked the youngest violinist which instrument she was following. She pointed to the piano because its notes were easiest to hear.",
+        "translation": "引退指揮者を迎えた学生楽団は名演の話を期待したが、彼は調弦を聴き最年少奏者がピアノを頼ると知った。"
+      },
+      {
+        "id": "p2",
+        "english": "The conductor moved her chair closer to the other strings and asked the section to play without the piano. At first, the sound was uncertain. The students began turning toward one another, adjusting as they listened. After several attempts, their entrances became more confident even though nobody had played louder. The conductor asked the pianist to join again, and the balance improved.",
+        "translation": "弦の近くに椅子を移しピアノなしで弾かせると初めは不安定でも互いを向いて調整し、大音量にせず入りが確かになった。ピアノを戻すと均衡も改善。"
+      },
+      {
+        "id": "p3",
+        "english": "At the end, he spoke briefly about learning to hear a neighbor before trying to impress an audience. The violinist later wrote that the visit had changed where she directed her attention during practice. She had expected expertise to arrive as a long explanation from the front of the room. Instead, a small change in position had helped the group notice a relationship it had previously allowed the piano to cover.",
+        "translation": "観客に見せる前に隣を聴くと短く話した。奏者は練習の注意先が変わり、前方からの長い専門解説を予想したのに小さな位置変更でピアノに隠れた関係を発見したと記した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "指揮者が位置を変えた意図として最も妥当なのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "最年少者を罰する",
+            "explanation": "罰ではない。"
+          },
+          {
+            "id": "b",
+            "text": "全員に大音量を命じる",
+            "explanation": "音量は上げない。"
+          },
+          {
+            "id": "c",
+            "text": "弦同士の聴き合いへ注意を向ける",
+            "explanation": "ピアノなしで相互調整した結果が根拠。"
+          },
+          {
+            "id": "d",
+            "text": "ピアノを楽団から永久排除",
+            "explanation": "後で戻す。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "ピアノなしで相互調整した結果が根拠。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "adjusting as they listened"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "改善したものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "観客数だけ",
+            "explanation": "観客数でない。"
+          },
+          {
+            "id": "b",
+            "text": "音量を増やさず入りと均衡",
+            "explanation": "相互の聴取で改善。"
+          },
+          {
+            "id": "c",
+            "text": "全員の身長",
+            "explanation": "身長でない。"
+          },
+          {
+            "id": "d",
+            "text": "説明の長さだけ",
+            "explanation": "短い説明。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "相互の聴取で改善。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "nobody had played louder"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "奏者の予想との違いは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "位置変更で関係を発見した",
+            "explanation": "体験による専門性。"
+          },
+          {
+            "id": "b",
+            "text": "長時間講義だけだった",
+            "explanation": "長い話ではない。"
+          },
+          {
+            "id": "c",
+            "text": "楽器を新調した",
+            "explanation": "新調なし。"
+          },
+          {
+            "id": "d",
+            "text": "練習を中止した",
+            "explanation": "演奏継続。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "体験による専門性。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "a small change in position"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "She had expected expertise to arrive as a long explanation from the front of the room.",
+        "start": 204,
+        "end": 290,
+        "translation": "専門性は部屋の前からの長い説明として来ると思っていた。",
+        "explanation": "expect O to 動詞でOが〜することを予想する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 204,
+            "end": 207
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had expected",
+            "start": 208,
+            "end": 220
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "expertise",
+            "start": 221,
+            "end": 230
+          },
+          {
+            "id": "n4",
+            "role": "phrase",
+            "text": "to arrive as a long explanation from the front of the room",
+            "start": 231,
+            "end": 289
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 186,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "expertise",
+        "meaning": "専門性"
+      },
+      {
+        "english": "conductor",
+        "meaning": "指揮者"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f06-02",
+    "level": 2,
+    "format": 6,
+    "title": "返された赤いマフラー",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Every winter, a cafe displayed a basket of scarves near the door for customers who needed one. The owner, Lena, never asked people to explain why they took a scarf. A regular customer complained that some people might take one even if they could afford their own. Lena listened but left the basket where it was.",
+        "translation": "カフェのレナは必要な客用マフラー籠を毎冬置き理由を聞かなかった。余裕があって取る人もいるとの苦情にも籠を残した。"
+      },
+      {
+        "id": "p2",
+        "english": "One evening, a woman returned a red scarf carefully washed and folded. She said it had helped her during a sudden cold week while she was waiting for her first salary after moving to town. She also brought two scarves she no longer used. Lena thanked her and put them in the basket without telling other customers her story.",
+        "translation": "ある女性が洗って畳んだ赤い一本を返し、転居後初給料待ちの寒い週に助かったと話し、自分の二本も寄せた。店主は他客に話を広めず礼を言った。"
+      },
+      {
+        "id": "p3",
+        "english": "The following day, Lena added a small sign saying that giving, borrowing, and keeping were all possible. She did not promise that nobody would ever misuse the service. Yet she continued to avoid a procedure that required people to prove difficulty at the counter. Her choice suggested that keeping assistance easy to approach mattered to her, even when complete control over every use was impossible.",
+        "translation": "翌日、寄付・借用・受取すべて可の札を足した。悪用ゼロを約束せず、窓口で困難の証明を求めない方針を続けた。全管理が無理でも近づきやすい支援を大事にする選択だった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "レナの重視する価値として読み取れるのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "他人の話を宣伝に使う",
+            "explanation": "話を広めない。"
+          },
+          {
+            "id": "b",
+            "text": "支援へ近づく時の負担を小さくする",
+            "explanation": "証明手続きを避けた点から推論。"
+          },
+          {
+            "id": "c",
+            "text": "全利用者の所得を公開",
+            "explanation": "所得公開しない。"
+          },
+          {
+            "id": "d",
+            "text": "悪用を必ずゼロにする保証",
+            "explanation": "保証していない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "証明手続きを避けた点から推論。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "prove difficulty at the counter"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "女性が持参したものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "返却品と不要になった二本",
+            "explanation": "支援を循環させた例。"
+          },
+          {
+            "id": "b",
+            "text": "給料全額",
+            "explanation": "全額ではない。"
+          },
+          {
+            "id": "c",
+            "text": "苦情書だけ",
+            "explanation": "苦情でない。"
+          },
+          {
+            "id": "d",
+            "text": "購入証明だけ",
+            "explanation": "証明条件なし。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "支援を循環させた例。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "two scarves she no longer used"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "札の内容は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "借用だけ強制",
+            "explanation": "借用だけでない。"
+          },
+          {
+            "id": "b",
+            "text": "返却時に所得証明",
+            "explanation": "証明なし。"
+          },
+          {
+            "id": "c",
+            "text": "購入者限定",
+            "explanation": "購入条件なし。"
+          },
+          {
+            "id": "d",
+            "text": "寄付・借用・受取いずれも可",
+            "explanation": "利用の柔軟さを明記。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "利用の柔軟さを明記。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "giving, borrowing, and keeping"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Lena listened but left the basket where it was.",
+        "start": 264,
+        "end": 311,
+        "translation": "レナは話を聞いたが籠を元の場所に残した。",
+        "explanation": "butの後で主語を共有。where it wasは籠があった場所を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Lena",
+            "start": 264,
+            "end": 268
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "listened",
+            "start": 269,
+            "end": 277
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "left the basket where it was",
+            "start": 282,
+            "end": 310
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 180,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "procedure",
+        "meaning": "手順"
+      },
+      {
+        "english": "assistance",
+        "meaning": "支援"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f06-03",
+    "level": 2,
+    "format": 6,
+    "title": "仕上げを待つ机",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "At a furniture workshop, an apprentice named Jin finished a small table earlier than expected. He proudly told his supervisor that it was ready for delivery. She ran her hand along the underside and asked him to imagine a customer lifting it while moving house. A rough edge could catch a finger even though it was invisible from above.",
+        "translation": "家具見習いジンは机を早く仕上げ納品可と誇ったが、上司は裏の粗い縁を触り転居時に持ち上げる指に引っ掛かると指摘した。"
+      },
+      {
+        "id": "p2",
+        "english": "Jin returned the table to the bench and carefully smoothed the hidden surface. The supervisor did not suggest polishing every unseen part for appearance. She asked him to think about how an object would be touched, carried, cleaned, and repaired throughout its life. The view shown in a sales photograph represented only one moment.",
+        "translation": "磨き直した。見えない全てを装飾で磨けというのでなく、持つ・清掃・修理など一生の使い方を考えるよう求めた。広告写真は一瞬でしかない。"
+      },
+      {
+        "id": "p3",
+        "english": "Weeks later, Jin designed a removable panel on another piece so its fittings could be reached easily. He included this feature in his explanation to the customer, though it did not make the object look more impressive. His supervisor smiled when she saw the design. Jin had begun treating the user's future experience as part of the work, rather than ending his responsibility at the moment a product looked finished.",
+        "translation": "数週後に別家具へ金具に届く着脱板を設け、外観が派手にならなくても客へ説明した。上司は笑顔を見せ、見た目の完成で責任を終えず利用者の将来体験も仕事に含め始めたと示された。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "上司が後の設計を喜んだ理由として最も妥当なのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "ジンが将来の使用や修理を考えた",
+            "explanation": "着脱板で金具へ届く点が根拠。"
+          },
+          {
+            "id": "b",
+            "text": "外観だけを派手にした",
+            "explanation": "外観は派手にならない。"
+          },
+          {
+            "id": "c",
+            "text": "納品日を全て無視した",
+            "explanation": "納期無視でない。"
+          },
+          {
+            "id": "d",
+            "text": "隠れた部分を一律に装飾した",
+            "explanation": "全装飾を求めない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "着脱板で金具へ届く点が根拠。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "fittings could be reached easily"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "初めの机の問題は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "上面の派手な色",
+            "explanation": "色でない。"
+          },
+          {
+            "id": "b",
+            "text": "脚が全くない",
+            "explanation": "脚なしではない。"
+          },
+          {
+            "id": "c",
+            "text": "写真が一枚もない",
+            "explanation": "写真の有無でない。"
+          },
+          {
+            "id": "d",
+            "text": "裏の粗い縁",
+            "explanation": "運ぶ時の接触に問題。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "運ぶ時の接触に問題。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "A rough edge could catch a finger"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "写真の限界は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "全修理手順を示す",
+            "explanation": "修理全体でない。"
+          },
+          {
+            "id": "b",
+            "text": "物を運べなくする",
+            "explanation": "運搬を妨げる物でない。"
+          },
+          {
+            "id": "c",
+            "text": "使用の一瞬しか示さない",
+            "explanation": "全生涯体験ではない。"
+          },
+          {
+            "id": "d",
+            "text": "必ず虚偽",
+            "explanation": "必ず嘘ではない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "全生涯体験ではない。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "only one moment"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The view shown in a sales photograph represented only one moment.",
+        "start": 267,
+        "end": 332,
+        "translation": "販売写真に示す見え方は一瞬しか表していなかった。",
+        "explanation": "shownはviewを修飾する過去分詞。onlyが範囲を限定する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The view shown in a sales photograph",
+            "start": 267,
+            "end": 303
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "represented",
+            "start": 304,
+            "end": 315
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "only one moment",
+            "start": 316,
+            "end": 331
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 183,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "apprentice",
+        "meaning": "見習い"
+      },
+      {
+        "english": "fitting",
+        "meaning": "金具"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f06-04",
+    "level": 2,
+    "format": 6,
+    "title": "入口に置かれた小さな模型",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A university held a public exhibition of architecture projects. Visitors usually looked at the drawings briefly, then moved to the next table. At one display, a student placed a small model beside a plan for a community hall. Several walls could be lifted out, and the roof was attached with a simple hinge.",
+        "translation": "建築展示では図面を短く見て通過する客が多かった。一人の学生は可動壁と蝶番屋根の公民館模型を添えた。"
+      },
+      {
+        "id": "p2",
+        "english": "A visitor asked whether the removable parts meant the model was unfinished. The student invited her to move one wall and notice how the main passage changed. Soon other visitors were trying different arrangements and asking where people would sit or wait. The drawing itself had not changed, but the conversations around it became longer and more specific.",
+        "translation": "未完成かと問われ壁を動かし通路の変化を試してもらうと、客は配置や待つ場所を具体的に話し始めた。図自体は同じでも対話が長くなった。"
+      },
+      {
+        "id": "p3",
+        "english": "Later, a judge watched two children testing whether a wheelchair figure could move between tables. The student listened and wrote down a question about a narrow corner. She did not put the model away after the judging ended. When her classmates began packing their polished displays, hers still had several visitors gathered around it, discussing a route that had not appeared in her original presentation.",
+        "translation": "審査員は子二人が車椅子人形を通すのを見た。学生は狭い角の問いを記し、審査後も模型を残した。他班が片付ける時も元の発表になかった経路を客が囲んで議論していた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "可動部分の役割として最も妥当なのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "未完成を隠す装飾",
+            "explanation": "隠す目的でない。"
+          },
+          {
+            "id": "b",
+            "text": "全配置が正しいという証明",
+            "explanation": "正解保証でない。"
+          },
+          {
+            "id": "c",
+            "text": "審査員だけが触る道具",
+            "explanation": "子も使う。"
+          },
+          {
+            "id": "d",
+            "text": "客が案を試し疑問を見つける助け",
+            "explanation": "客が移動を試して具体的な問いが出た。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "客が移動を試して具体的な問いが出た。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "trying different arrangements"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "学生の態度から分かることは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "模型をすぐ隠す",
+            "explanation": "出し続けた。"
+          },
+          {
+            "id": "b",
+            "text": "全問題を解決済みと宣言",
+            "explanation": "解決済みとしない。"
+          },
+          {
+            "id": "c",
+            "text": "客の発見を検討材料にしている",
+            "explanation": "狭い角の問いをメモした。"
+          },
+          {
+            "id": "d",
+            "text": "完成案への質問を禁じる",
+            "explanation": "問いを聞く。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "狭い角の問いをメモした。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "wrote down a question"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "図面だけの時と変わったことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "通路が実物で完成",
+            "explanation": "模型の試験。"
+          },
+          {
+            "id": "b",
+            "text": "会話が長く具体的",
+            "explanation": "模型が対話を変えた。"
+          },
+          {
+            "id": "c",
+            "text": "図面が自動で修正",
+            "explanation": "図は同じ。"
+          },
+          {
+            "id": "d",
+            "text": "来場者が全員帰る",
+            "explanation": "集まった。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "模型が対話を変えた。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "longer and more specific"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The drawing itself had not changed, but the conversations around it became longer and more specific.",
+        "start": 256,
+        "end": 356,
+        "translation": "図自体は変わらないが周囲の会話は長く具体的になった。",
+        "explanation": "butで物の不変と対話の変化を対比。itはdrawingを受ける。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The drawing itself",
+            "start": 256,
+            "end": 274
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had not changed",
+            "start": 275,
+            "end": 290
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "the conversations around it became longer and more specific",
+            "start": 296,
+            "end": 355
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 176,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "hinge",
+        "meaning": "蝶番"
+      },
+      {
+        "english": "arrangement",
+        "meaning": "配置"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f06-05",
+    "level": 2,
+    "format": 6,
+    "title": "二枚の寄せ書き",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "At the end of a sports season, a coach received two cards. The first was signed by every player and contained a printed message thanking him for a successful year. The second came from a player who had spent most matches on the bench. Its handwriting was uneven, and one sentence had been crossed out.",
+        "translation": "季末の監督は全員署名の印刷カードと、控え選手の不揃いな手書きカードを受けた。"
+      },
+      {
+        "id": "p2",
+        "english": "The player described a rainy practice when the coach had stayed late to help him understand a difficult movement. He wrote that nobody in the audience had seen that afternoon, but it had made him want to keep playing. The coach read the card twice before putting it in his bag.",
+        "translation": "後者は雨の練習で遅くまで動きを教わり、観客に見えない午後が継続の意欲を与えたと書いた。監督は二度読んだ。"
+      },
+      {
+        "id": "p3",
+        "english": "During the team's final meeting, the coach praised the players who had scored important points. He also mentioned improvement that did not appear in match results. He did not read the second card aloud or identify its writer. After the meeting, he asked the club to leave some practice time for individual questions next season. When arranging his desk that evening, he placed both cards where he could see them rather than choosing only the more polished one to display.",
+        "translation": "最終会で得点者も試合に出ない改善も褒めたがカードや名は公開しなかった。次季の個人質問時間を頼み、夜の机へきれいな方だけでなく両カードを置いた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "個人質問時間を求めた理由として最も自然なのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "手書きを一切禁止したい",
+            "explanation": "禁止しない。"
+          },
+          {
+            "id": "b",
+            "text": "控え選手を全て退部させる",
+            "explanation": "退部させない。"
+          },
+          {
+            "id": "c",
+            "text": "目立たない指導も選手に意味があると再認識",
+            "explanation": "カードと次季の行動を結ぶ推論。"
+          },
+          {
+            "id": "d",
+            "text": "全員が得点王になった証明",
+            "explanation": "全員得点王でない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "カードと次季の行動を結ぶ推論。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "individual questions next season"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "カードを読み上げなかったことから最も自然な解釈は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "書き手を罰した",
+            "explanation": "罰でない。"
+          },
+          {
+            "id": "b",
+            "text": "個人的な内容の扱いに配慮した",
+            "explanation": "名も出さず指導には反映。"
+          },
+          {
+            "id": "c",
+            "text": "内容を理解できなかったと確定",
+            "explanation": "理解不能とはない。"
+          },
+          {
+            "id": "d",
+            "text": "受領していない",
+            "explanation": "受け取った。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "名も出さず指導には反映。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "did not read the second card aloud"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "二枚の扱いは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "両方を見える所へ",
+            "explanation": "価値を一方に限定しない。"
+          },
+          {
+            "id": "b",
+            "text": "手書きだけ廃棄",
+            "explanation": "捨てない。"
+          },
+          {
+            "id": "c",
+            "text": "印刷だけ廃棄",
+            "explanation": "両方残す。"
+          },
+          {
+            "id": "d",
+            "text": "全て選手へ返す",
+            "explanation": "返却なし。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "価値を一方に限定しない。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "placed both cards"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The coach read the card twice before putting it in his bag.",
+        "start": 218,
+        "end": 277,
+        "translation": "監督は鞄に入れる前に二度カードを読んだ。",
+        "explanation": "readは過去形。beforeの後はputtingという動名詞。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The coach",
+            "start": 218,
+            "end": 227
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "read",
+            "start": 228,
+            "end": 232
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the card",
+            "start": 233,
+            "end": 241
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "twice before putting it in his bag",
+            "start": 242,
+            "end": 276
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 186,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "polished",
+        "meaning": "整った"
+      },
+      {
+        "english": "identify",
+        "meaning": "誰かを明かす"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f06-06",
+    "level": 2,
+    "format": 6,
+    "title": "店の前にある水の皿",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A visitor photographing a quiet shopping street noticed a shallow dish of water outside a closed bakery. Beside it stood a chair with one damaged leg. She thought the scene would illustrate a story about shops being abandoned. Before sending the picture to her editor, she returned the following morning to ask a neighbor about the building.",
+        "translation": "静かな商店街の閉店パン屋前に水皿と脚の傷んだ椅子を見た写真家は衰退の記事を考えた。送信前に翌朝近隣へ聞いた。"
+      },
+      {
+        "id": "p2",
+        "english": "The neighbor explained that the bakery opened only in the afternoon. Its owner put water out for birds before going to buy ingredients. The chair was waiting for a repair volunteer who visited the street every Thursday. While they talked, a delivery van stopped and the owner came around the corner carrying a bag of flour.",
+        "translation": "店は午後開き、店主は仕入れ前に鳥の水を置き、椅子は木曜の修理有志待ちだった。配達車が来て店主も粉を持って現れた。"
+      },
+      {
+        "id": "p3",
+        "english": "The visitor kept the photograph, but changed the article she planned to write. She asked the owner about the street's daily rhythms and photographed several shops at different times. At her desk that night, the original image still looked quiet and worn. It had not become false, but the meaning she was ready to attach to it had changed after she learned what happened beyond the instant the camera recorded.",
+        "translation": "写真は残して記事を変え一日のリズムを聞き別時刻の店も撮った。元画像は静かで古びたままだが、瞬間の外を知ることで付す意味が変わった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "元写真から衰退を断定できない理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "全近隣が転居した",
+            "explanation": "転居の話でない。"
+          },
+          {
+            "id": "b",
+            "text": "一時の見た目に別の日常事情がある",
+            "explanation": "時間外の文脈が意味を変える。"
+          },
+          {
+            "id": "c",
+            "text": "写真が加工だと判明",
+            "explanation": "加工ではない。"
+          },
+          {
+            "id": "d",
+            "text": "店が存在しない",
+            "explanation": "店は営業。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "時間外の文脈が意味を変える。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "opened only in the afternoon"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "椅子の状態の理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "修理有志を待っていた",
+            "explanation": "聞き取りの説明。"
+          },
+          {
+            "id": "b",
+            "text": "永久放置と確定",
+            "explanation": "放棄と限らない。"
+          },
+          {
+            "id": "c",
+            "text": "販売禁止の証拠",
+            "explanation": "販売禁止でない。"
+          },
+          {
+            "id": "d",
+            "text": "閉店命令の印",
+            "explanation": "閉店命令でない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "聞き取りの説明。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "waiting for a repair volunteer"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "写真家の行動は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "写真を必ず破棄",
+            "explanation": "写真は残す。"
+          },
+          {
+            "id": "b",
+            "text": "元の断定を維持",
+            "explanation": "断定を修正。"
+          },
+          {
+            "id": "c",
+            "text": "質問をやめる",
+            "explanation": "聞き取りを増やす。"
+          },
+          {
+            "id": "d",
+            "text": "文脈を調べ記事を変更",
+            "explanation": "追加情報で判断を改めた。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "追加情報で判断を改めた。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "changed the article"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "It had not become false, but the meaning she was ready to attach to it had changed",
+        "start": 255,
+        "end": 337,
+        "translation": "写真が偽になったのでなく付そうとした意味が変わった。",
+        "explanation": "meaningを後ろの節が修飾する。事実画像と解釈を区別。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "It",
+            "start": 255,
+            "end": 257
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had not become",
+            "start": 258,
+            "end": 272
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "false",
+            "start": 273,
+            "end": 278
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "the meaning she was ready to attach to it had changed",
+            "start": 284,
+            "end": 337
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 183,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "abandoned",
+        "meaning": "放棄された"
+      },
+      {
+        "english": "rhythm",
+        "meaning": "繰り返しの流れ"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f06-07",
+    "level": 2,
+    "format": 6,
+    "title": "発表の最後の一問",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A student called Amir presented a model for collecting rainwater at school. His slides showed calculations and a neat drawing of a tank. Most questions concerned capacity and cost, and he answered them confidently. Near the end, a caretaker asked who would inspect the system during school holidays.",
+        "translation": "アミールの学校雨水回収案は容量と費用に自信を持って答えたが、管理人の休暇中の点検担当に止まった。"
+      },
+      {
+        "id": "p2",
+        "english": "Amir paused, then wrote the question on a blank slide. He explained that his group had calculated water use during term but had not planned for weeks when nobody attended classes. Rather than inventing a quick answer, he asked whether he could speak with the caretaker after the session. Several audience members began suggesting practical points that the original presentation had not covered.",
+        "translation": "空スライドへ問いを書き、学期中の利用しか計算せず無授業週を未計画と認め、即答を捏造せず後で相談を頼んだ。聴衆からも実用上の提案が出た。"
+      },
+      {
+        "id": "p3",
+        "english": "A week later, Amir's revised proposal included an inspection schedule and a smaller trial version. He thanked the caretaker in a note beneath the diagram. His teacher kept both versions as examples for the next class. At the final review, Amir said the question he had been least prepared to answer had become one of the most useful parts of the project.",
+        "translation": "一週後に点検予定と小試行案を足し図下で感謝した。教師は両版を後輩用に保存。最も準備不足の問いが最も有用な一つになったと彼は語った。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "アミールの姿勢として最も適切なのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "不明点を認め他者の知識を取り込む",
+            "explanation": "相談と改訂が根拠。"
+          },
+          {
+            "id": "b",
+            "text": "全質問を攻撃と決める",
+            "explanation": "攻撃視しない。"
+          },
+          {
+            "id": "c",
+            "text": "未調査でも断言",
+            "explanation": "捏造しない。"
+          },
+          {
+            "id": "d",
+            "text": "元案を一切変えない",
+            "explanation": "改訂する。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "相談と改訂が根拠。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "Rather than inventing a quick answer"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "管理人の問いが示した抜けは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "容量の数字が一つもない",
+            "explanation": "計算はある。"
+          },
+          {
+            "id": "b",
+            "text": "費用質問を一度も聞かない",
+            "explanation": "費用も答えた。"
+          },
+          {
+            "id": "c",
+            "text": "タンク図が存在しない",
+            "explanation": "図はある。"
+          },
+          {
+            "id": "d",
+            "text": "休暇中の維持管理",
+            "explanation": "期間外を未計画。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "期間外を未計画。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "during school holidays"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "教師が両版を保存した意図として自然なのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "改訂を隠す",
+            "explanation": "両方示す。"
+          },
+          {
+            "id": "b",
+            "text": "全案を完成と保証",
+            "explanation": "保証ではない。"
+          },
+          {
+            "id": "c",
+            "text": "問いから案が改善する過程を示す",
+            "explanation": "比較で学習過程が見える。"
+          },
+          {
+            "id": "d",
+            "text": "元案だけを罰する",
+            "explanation": "罰でない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "比較で学習過程が見える。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "examples for the next class"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "His teacher kept both versions as examples for the next class.",
+        "start": 155,
+        "end": 217,
+        "translation": "教師は次のクラスへの例として両版を保存した。",
+        "explanation": "keep A as BでAをBとして保管する。bothは二つとも。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "His teacher",
+            "start": 155,
+            "end": 166
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "kept",
+            "start": 167,
+            "end": 171
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "both versions",
+            "start": 172,
+            "end": 185
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "as examples for the next class",
+            "start": 186,
+            "end": 216
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 173,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "capacity",
+        "meaning": "容量"
+      },
+      {
+        "english": "caretaker",
+        "meaning": "施設管理人"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f06-08",
+    "level": 2,
+    "format": 6,
+    "title": "二位の記録表",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A school runner finished second in a local race. Friends expected him to be disappointed because he had won the previous year. After crossing the line, however, he asked his coach for the times recorded at each kilometer rather than looking at the medal table.",
+        "translation": "前年優勝の走者が二位でも、失望より一キロごとの時刻を求めた。"
+      },
+      {
+        "id": "p2",
+        "english": "During training, he had been trying to avoid starting too quickly. In the earlier race, he had led for most of the course but slowed sharply near the end. This time, a faster opponent won, yet his own final kilometer was stronger and his total time was lower. The coach showed him the figures, and he smiled before congratulating the winner.",
+        "translation": "速すぎる出足を直す練習をしており、以前は終盤減速したが今回は速い相手に負けても最後の一キロと自己総時間が改善した。数字を見て笑い勝者を祝った。"
+      },
+      {
+        "id": "p3",
+        "english": "At school, he wrote a short report explaining what he still wanted to improve. He included his position but placed the pace chart beside it. The report did not argue that winning was meaningless. It showed the different questions answered by a ranking and by a record of personal performance. When a younger runner asked whether second place meant failure, he invited her to look at the whole chart before deciding what the result could teach him.",
+        "translation": "報告に順位とペース表を並べ残課題も書いた。勝利を無意味とせず順位と自己記録は答える問いが違うと示し、二位は失敗かと聞く後輩へ表全体を見て何を学べるか考えようと勧めた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "笑顔の理由として最も妥当なのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "二位を一位と勘違い",
+            "explanation": "順位を知る。"
+          },
+          {
+            "id": "b",
+            "text": "相手の失格が確定",
+            "explanation": "失格なし。"
+          },
+          {
+            "id": "c",
+            "text": "順位が発表されない",
+            "explanation": "順位を報告。"
+          },
+          {
+            "id": "d",
+            "text": "練習した配分と自己記録が改善",
+            "explanation": "数値と練習目標が根拠。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "数値と練習目標が根拠。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "his total time was lower"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "以前の課題は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "一キロも走れない",
+            "explanation": "完走した。"
+          },
+          {
+            "id": "b",
+            "text": "計時を一度もしない",
+            "explanation": "過去記録もある。"
+          },
+          {
+            "id": "c",
+            "text": "速く出すぎ終盤に減速",
+            "explanation": "配分の問題。"
+          },
+          {
+            "id": "d",
+            "text": "全区間を歩く",
+            "explanation": "歩行でない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "配分の問題。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "slowed sharply near the end"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "報告の見方は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "二位は必ず失敗",
+            "explanation": "全表を見る。"
+          },
+          {
+            "id": "b",
+            "text": "順位と自己成績の両方を見る",
+            "explanation": "異なる尺度を補完。"
+          },
+          {
+            "id": "c",
+            "text": "順位は完全に無意味",
+            "explanation": "勝利も意味がある。"
+          },
+          {
+            "id": "d",
+            "text": "自己改善だけで勝者を否定",
+            "explanation": "勝者を祝う。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "異なる尺度を補完。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "different questions answered by a ranking"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "The report did not argue that winning was meaningless.",
+        "start": 141,
+        "end": 195,
+        "translation": "報告は勝つことが無意味とは主張しなかった。",
+        "explanation": "that節中の動名詞winningが主語。主張の範囲を限定する否定。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The report",
+            "start": 141,
+            "end": 151
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not argue",
+            "start": 152,
+            "end": 165
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "winning was meaningless",
+            "start": 171,
+            "end": 194
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 183,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "pace",
+        "meaning": "走る速さの配分"
+      },
+      {
+        "english": "ranking",
+        "meaning": "順位"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f06-09",
+    "level": 2,
+    "format": 6,
+    "title": "本に挟まれた二色のメモ",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A translator worked on a children's story with a student assistant. The assistant marked difficult words in yellow and cultural references in blue. She expected the translator to replace every marked item with a simpler expression. Instead, some yellow words disappeared while several blue passages grew longer.",
+        "translation": "翻訳助手は難語を黄、文化事項を青で示し全て易語へ替えると予想したが、消える黄も伸びる青もあった。"
+      },
+      {
+        "id": "p2",
+        "english": "The translator asked what a reader needed in order to follow the scene. One unfamiliar food name could remain because its role was clear from the characters' actions. A short reference to a seasonal custom needed explanation because it affected why the child refused an invitation. Keeping all unfamiliar terms would be confusing, but removing them all would also change the story.",
+        "translation": "読者が場面を追うのに何が必要か問われ、行動で役割が分かる料理名は残し、招待拒否の理由になる習慣は説明した。全未知を残しても削っても問題だった。"
+      },
+      {
+        "id": "p3",
+        "english": "During their next meeting, the assistant brought questions about the purpose of each detail rather than a list of words she wanted deleted. The translator invited her to compare two possible versions of a paragraph. Both were readable, yet they guided attention differently. The assistant began to see translation as a series of reasoned choices about meaning and effect, not simply a process of replacing difficult words with easy ones until nothing unfamiliar remained.",
+        "translation": "次会は削除単語一覧でなく細部の目的を問い、二版を比べると読みやすくても注意の導きが違った。翻訳は未知がなくなるまで単純化するのでなく意味と効果について理由ある選択を重ねることと理解した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "青い箇所が長くなった理由として妥当なのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "習慣が物語と無関係",
+            "explanation": "理由に関係。"
+          },
+          {
+            "id": "b",
+            "text": "助手の印を全て無視",
+            "explanation": "印を検討した。"
+          },
+          {
+            "id": "c",
+            "text": "行動の理由に必要な文化背景を説明",
+            "explanation": "招待拒否の理解に必要。"
+          },
+          {
+            "id": "d",
+            "text": "翻訳者が全語を倍にする規則",
+            "explanation": "一律規則でない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "招待拒否の理解に必要。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "why the child refused an invitation"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "食物名を残せた理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "削除禁止の法律",
+            "explanation": "法律でない。"
+          },
+          {
+            "id": "b",
+            "text": "行動から役割が分かる",
+            "explanation": "文脈が支える。"
+          },
+          {
+            "id": "c",
+            "text": "全読者が必ず知る",
+            "explanation": "全員既知とはない。"
+          },
+          {
+            "id": "d",
+            "text": "料理が実在しない",
+            "explanation": "実在判断でない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "文脈が支える。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "its role was clear"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "助手の次の質問の変化は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "細部の目的を問う",
+            "explanation": "選択理由へ関心が移る。"
+          },
+          {
+            "id": "b",
+            "text": "全難語削除のみ",
+            "explanation": "削除一辺倒でない。"
+          },
+          {
+            "id": "c",
+            "text": "一切質問しない",
+            "explanation": "質問する。"
+          },
+          {
+            "id": "d",
+            "text": "二版は常に同効果と断定",
+            "explanation": "効果が違う。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "選択理由へ関心が移る。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "the purpose of each detail"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "Both were readable, yet they guided attention differently.",
+        "start": 216,
+        "end": 274,
+        "translation": "どちらも読みやすかったが注意の導き方は違った。",
+        "explanation": "Bothは二つの訳。yetで共通点の後に差を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Both",
+            "start": 216,
+            "end": 220
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "were",
+            "start": 221,
+            "end": 225
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "readable",
+            "start": 226,
+            "end": 234
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "they guided attention differently",
+            "start": 240,
+            "end": 273
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 183,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "reference",
+        "meaning": "言及"
+      },
+      {
+        "english": "reasoned",
+        "meaning": "理由に基づく"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l2-f06-10",
+    "level": 2,
+    "format": 6,
+    "title": "客の帰った食卓",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A teenager named Fumi invited a new classmate to dinner. She prepared a meal she thought everyone enjoyed, then noticed that her guest left one dish almost untouched. Fumi began apologizing and offering to cook something else. The guest shook her head and explained that she was enjoying the evening.",
+        "translation": "フミは新級友を夕食へ招き、一皿がほぼ残ると料理を替えようと謝ったが相手は楽しいと答えた。"
+      },
+      {
+        "id": "p2",
+        "english": "Later, while helping clear the table, the classmate mentioned that she usually ate smaller portions before an early sports practice. She asked how Fumi had made another dish and wrote down its ingredients. Before leaving, she suggested inviting Fumi to her own home the following week.",
+        "translation": "片付け時、早朝の運動前は少量が普通と話し、別料理の作り方をメモし翌週自宅へ招いた。"
+      },
+      {
+        "id": "p3",
+        "english": "Fumi still wanted to make future guests comfortable, but stopped treating an unfinished plate as a complete judgment on her cooking. The next time she hosted a meal, she served smaller initial portions and let people ask for more. She also asked about preferences beforehand without requiring anyone to explain private reasons. Her friendship with the classmate continued through several shared meals, some with different foods and all with conversations that mattered more than whether every dish disappeared at exactly the same rate.",
+        "translation": "残皿を調理への全評価とせず、次は少量から追加できるようにし、私的理由を求めず事前に好みを聞いた。違う料理でも友情は続き、減る速さより会話が大事な食事を重ねた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "客の行動全体から最も自然に考えられることは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "全皿が必ず嫌い",
+            "explanation": "別皿に関心。"
+          },
+          {
+            "id": "b",
+            "text": "残した一皿だけで不満とは判断できない",
+            "explanation": "作り方への関心と招待が手がかり。"
+          },
+          {
+            "id": "c",
+            "text": "料理も交友も全て拒否",
+            "explanation": "交友継続。"
+          },
+          {
+            "id": "d",
+            "text": "次の招待は絶対に嘘",
+            "explanation": "虚偽根拠なし。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "作り方への関心と招待が手がかり。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "suggested inviting Fumi"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "残す事情として出たものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "早朝の運動前は少量",
+            "explanation": "本人の習慣の説明。"
+          },
+          {
+            "id": "b",
+            "text": "必ず食材が傷む",
+            "explanation": "傷みの話でない。"
+          },
+          {
+            "id": "c",
+            "text": "全料理が同じ味",
+            "explanation": "同味でない。"
+          },
+          {
+            "id": "d",
+            "text": "皿が小さすぎる",
+            "explanation": "皿寸法でない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "本人の習慣の説明。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "smaller portions before an early sports practice"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "次の接客の工夫は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "全員完食を強制",
+            "explanation": "強制しない。"
+          },
+          {
+            "id": "b",
+            "text": "私的理由を公開",
+            "explanation": "理由を要求しない。"
+          },
+          {
+            "id": "c",
+            "text": "謝罪だけを繰り返す",
+            "explanation": "方法を変えた。"
+          },
+          {
+            "id": "d",
+            "text": "少量から追加でき好みを先に聞く",
+            "explanation": "選びやすさを用意。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "選びやすさを用意。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "let people ask for more"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "She also asked about preferences beforehand without requiring anyone to explain private reasons.",
+        "start": 231,
+        "end": 327,
+        "translation": "私的理由の説明を求めず好みを前もって尋ねた。",
+        "explanation": "require 人 to 動詞。without＋動名詞で付随しない行動を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 231,
+            "end": 234
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "asked",
+            "start": 240,
+            "end": 245
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "about preferences beforehand without requiring anyone to explain private reasons",
+            "start": 246,
+            "end": 326
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 179,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "portion",
+        "meaning": "一人分の量"
+      },
+      {
+        "english": "preference",
+        "meaning": "好み"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l2-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級を目安とする160〜320語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l2-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
   }
 ]
