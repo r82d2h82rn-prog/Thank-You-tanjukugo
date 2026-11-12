@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-11-12T09:53:37.755225+00:00",
+  "file": "content/readings/l1_f02.json",
+  "format": 2,
+  "count": 2,
+  "wordCounts": [
+    162,
+    161
+  ],
+  "questions": 6,
+  "sha256": "0d06fd4110402dace3bae163ede545953a6d6d37f8fa645dfcfe6cce95609dff",
+  "checks": [
+    "150-250 words",
+    "at most 10 original passages per format; quota checked on completion",
+    "four unique options per question",
+    "answer evidence occurs verbatim",
+    "syntax spans match original characters"
+  ],
+  "humanReviewed": false
+}

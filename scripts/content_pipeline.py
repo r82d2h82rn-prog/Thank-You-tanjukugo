@@ -147,6 +147,18 @@ def audit(root=ROOT, release=False):
         for entry in drafts:
             issues.extend({'id':entry.get('id'),'error':error} for error in validate_entry(entry,sources,draft_seen,require_approval=False))
             draft_review+=not entry.get('content',{}).get('humanReviewed',False)
+    reading_path=root/'content/readings/drafts.json'
+    reading_drafts=read_json(reading_path) if reading_path.exists() else []
+    draft_counts['reading']=[sum(p.get('level')==l for p in reading_drafts) for l in range(1,5)]
+    for entry in reading_drafts:
+        errors=validate_reading(entry)+validate_provenance(entry.get('content',{}),sources,False)
+        if entry.get('id') in draft_seen:errors.append('duplicate draft reading id')
+        draft_seen.add(entry.get('id'))
+        label=('reading',normalized(' '.join(p.get('english','') for p in entry.get('paragraphs',[]))))
+        if label in labels:errors.append('duplicate reading text')
+        labels.add(label)
+        issues.extend({'id':entry.get('id'),'error':error} for error in errors)
+        draft_review+=not entry.get('content',{}).get('humanReviewed',False)
     samples=read_json(root/'src/data/entries.json'); metadata=read_json(root/'content/provenance.json')
     for e in samples:
         if e['id'] not in metadata: issues.append({'id':e['id'],'error':'sample provenance missing'})

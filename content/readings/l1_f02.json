@@ -1,0 +1,412 @@
+[
+  {
+    "id": "reading-l1-f02-01",
+    "level": 1,
+    "format": 2,
+    "title": "駅の青い矢印",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Students at Lake School helped visitors during a town festival. Their job was to show people the way from the station to the concert field. They prepared a long written guide in English. When they tested it with two visitors, the visitors stopped several times to read it. One said that the sentences were easy but that reading while carrying bags was difficult.",
+        "translation": "レイク校の生徒は町の祭りで来訪者を案内した。駅から演奏会場まで道を示す仕事だった。英語で長い案内を作ったが、来訪者二人に試すと何度も止まって読んだ。一人は文は簡単でも、荷物を持って読むのは難しいと言った。"
+      },
+      {
+        "id": "p2",
+        "english": "The students changed their plan. They put blue arrows on boards at each corner. A short guide at the station told visitors to follow the arrows. They chose blue [1] the festival's other signs were red and yellow. The different color helped people recognize the right route quickly. Volunteers checked each board every hour.",
+        "translation": "生徒は計画を変え、各角の板に青い矢印を付けた。駅の短い案内は矢印をたどるよう伝えた。祭りの他の標識が赤と黄だったので青を選んだ。色の違いで正しい道をすぐ見分けられた。ボランティアは毎時板を確認した。"
+      },
+      {
+        "id": "p3",
+        "english": "At the end of the festival, the students counted fewer questions about directions than expected. They did not throw away the written guide. It was still useful for people who wanted details before leaving the station. The arrows and the guide worked together, serving different needs.",
+        "translation": "祭りの終わりには、道を尋ねる質問が予想より少なかった。文章の案内は捨てなかった。駅を出る前に詳細を知りたい人にはまだ役立った。矢印と文章は違う需要に応えて補い合った。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "空所[1]に入る語は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "although",
+            "explanation": "逆の内容ではない。"
+          },
+          {
+            "id": "b",
+            "text": "until",
+            "explanation": "期限を述べていない。"
+          },
+          {
+            "id": "c",
+            "text": "because",
+            "explanation": "青を選んだ理由を続ける。"
+          },
+          {
+            "id": "d",
+            "text": "unless",
+            "explanation": "除外条件ではない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "青を選んだ理由を続ける。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "the festival's other signs were red and yellow"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "最初の案内の問題は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "It contained no sentences.",
+            "explanation": "長い文章の案内だった。"
+          },
+          {
+            "id": "b",
+            "text": "It was difficult to read while carrying bags.",
+            "explanation": "荷物を持って読むのが困難。"
+          },
+          {
+            "id": "c",
+            "text": "It used unknown languages only.",
+            "explanation": "英文自体は簡単だった。"
+          },
+          {
+            "id": "d",
+            "text": "It showed the wrong station.",
+            "explanation": "駅を間違えた記述はない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "荷物を持って読むのが困難。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "reading while carrying bags was difficult"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "文章の案内は最後にどうなった？",
+        "options": [
+          {
+            "id": "a",
+            "text": "It was kept for people needing details.",
+            "explanation": "詳細を知りたい人用に残した。"
+          },
+          {
+            "id": "b",
+            "text": "It was burned before the concert.",
+            "explanation": "焼却していない。"
+          },
+          {
+            "id": "c",
+            "text": "It replaced every arrow.",
+            "explanation": "矢印と併用した。"
+          },
+          {
+            "id": "d",
+            "text": "It was sold as a ticket.",
+            "explanation": "切符ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "詳細を知りたい人用に残した。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "It was still useful for people who wanted details"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "Volunteers checked each board every hour.",
+        "start": 282,
+        "end": 323,
+        "translation": "ボランティアは毎時、各板を確認した。",
+        "explanation": "eachの後ろは単数形board。every hourは確認の頻度を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Volunteers",
+            "start": 282,
+            "end": 292
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "checked",
+            "start": 293,
+            "end": 300
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "each board",
+            "start": 301,
+            "end": 311
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "every hour",
+            "start": 312,
+            "end": 322
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 162,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "arrows",
+        "meaning": "矢印"
+      },
+      {
+        "english": "recognize",
+        "meaning": "見分ける"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f02-02",
+    "level": 1,
+    "format": 2,
+    "title": "二人分のレシピ",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Hana wanted to cook dinner for her family of four. She found a soup recipe for two people in a library book. At first, she planned to double every number. Before shopping, she showed the plan to her uncle, who enjoyed cooking. He said that this was a good starting point, but some things needed attention. A larger pot could lose water at a different speed, and vegetables did not all have the same size.",
+        "translation": "ハナは四人家族の夕食を作りたかった。図書館の本で二人分のスープを見つけ、初めは数を全て二倍にするつもりだった。買い物前に料理好きの叔父に見せると、出発点としてはよいが注意も必要と言われた。大きな鍋では水の減り方が違い、野菜の大きさも一定ではなかった。"
+      },
+      {
+        "id": "p2",
+        "english": "Hana measured the main ingredients, but she added salt [1], tasting the soup after each small amount. She also cut the potatoes into similar pieces so that they would become soft together. While the soup cooked, she wrote short notes beside the recipe rather than changing the original numbers in the book.",
+        "translation": "ハナは主な材料を量ったが、塩は少しずつ加え、そのたびに味見した。ジャガイモも同じくらいに切り、同時に柔らかくなるようにした。調理中は本の元の数値を直さず、レシピの横に短いメモを書いた。"
+      },
+      {
+        "id": "p3",
+        "english": "Dinner was ready a little later than planned. Everyone enjoyed it, and Hana saved her notes for the next time. She learned that a recipe can guide a cook without making every decision for them.",
+        "translation": "夕食は予定より少し遅れてできた。皆が楽しみ、ハナは次回用にメモを残した。レシピは案内になるが、料理する人の判断を全て代行するわけではないと学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "空所[1]に最も合う語は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "carelessly",
+            "explanation": "慎重に味見している。"
+          },
+          {
+            "id": "b",
+            "text": "gradually",
+            "explanation": "少量ずつ加え味を確かめた。"
+          },
+          {
+            "id": "c",
+            "text": "secretly",
+            "explanation": "秘密にしたのではない。"
+          },
+          {
+            "id": "d",
+            "text": "never",
+            "explanation": "実際に塩を加えている。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "少量ずつ加え味を確かめた。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "tasting the soup after each small amount"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "ジャガイモを同じくらいに切った理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "To let the pieces soften together.",
+            "explanation": "同じ頃に柔らかくするため。"
+          },
+          {
+            "id": "b",
+            "text": "To make them different colors.",
+            "explanation": "色の調整ではない。"
+          },
+          {
+            "id": "c",
+            "text": "To avoid using any pot.",
+            "explanation": "鍋を使っている。"
+          },
+          {
+            "id": "d",
+            "text": "To hide them from her family.",
+            "explanation": "隠すためではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "同じ頃に柔らかくするため。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "so that they would become soft together"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "本の数値はどうした？",
+        "options": [
+          {
+            "id": "a",
+            "text": "She removed every page.",
+            "explanation": "ページを取っていない。"
+          },
+          {
+            "id": "b",
+            "text": "She doubled them permanently in the book.",
+            "explanation": "本の元の数字は直していない。"
+          },
+          {
+            "id": "c",
+            "text": "She asked the library to close.",
+            "explanation": "閉館を頼んでいない。"
+          },
+          {
+            "id": "d",
+            "text": "She left them unchanged and made notes.",
+            "explanation": "元の数値を変えずメモした。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "元の数値を変えずメモした。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "rather than changing the original numbers in the book"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "Hana saved her notes for the next time.",
+        "start": 71,
+        "end": 110,
+        "translation": "ハナは次回のためメモを保存した。",
+        "explanation": "saveは取っておくという意味。for以下は保存の目的を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Hana",
+            "start": 71,
+            "end": 75
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "saved",
+            "start": 76,
+            "end": 81
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "her notes",
+            "start": 82,
+            "end": 91
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "for the next time",
+            "start": 92,
+            "end": 109
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 161,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "ingredients",
+        "meaning": "材料"
+      },
+      {
+        "english": "gradually",
+        "meaning": "徐々に"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  }
+]

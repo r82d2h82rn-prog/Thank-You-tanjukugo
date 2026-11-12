@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2026-11-12T09:53:37.758428+00:00",
+  "level": 1,
+  "authoredPassages": 12,
+  "countsByFormat": [
+    10,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "totalQuestions": 36,
+  "totalWords": 1913,
+  "complete": false,
+  "humanReviewed": false,
+  "productionApproved": false,
+  "batches": [
+    "content/readings/l1_f01.json",
+    "content/readings/l1_f02.json"
+  ]
+}

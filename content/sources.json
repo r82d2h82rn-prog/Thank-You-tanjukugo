@@ -513,5 +513,29 @@
     "availableDataTypes": [
       "独自教材"
     ]
+  },
+  {
+    "id": "original-reading-l1-v1",
+    "name": "LEVEL1 独自執筆の長文・設問・和訳・構文",
+    "url": null,
+    "observedVersion": "1",
+    "purpose": "draft",
+    "accessStatus": "local",
+    "checkedAt": "2026-11-12T09:46:54.811751+00:00",
+    "license": null,
+    "termsUrl": null,
+    "licenseEvidence": null,
+    "commercialUse": "review_required",
+    "candidateExtraction": "granted",
+    "analysisPermission": "not_applicable",
+    "redistribution": "review_required",
+    "attribution": "本プロジェクトで独自執筆。意味・IPA・例文・和訳・用法説明は人手校閲待ち。",
+    "shareAlike": null,
+    "notes": "本プロジェクトで独自執筆した読解教材。語数・構造・解答根拠・構文位置を検査。自然さ・難易度・解答一意性は人手校閲待ち。",
+    "publisher": "本プロジェクト",
+    "retrievedAt": null,
+    "availableDataTypes": [
+      "独自教材"
+    ]
   }
 ]
