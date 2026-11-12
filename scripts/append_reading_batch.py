@@ -16,6 +16,12 @@ for title,en,jp,qs,syn,vocab,*extra in batch:
   questions.append([prompt,opts,why,[next(i+1 for i,p in enumerate(paras) if quote in p[0]),quote]])
  sentence,parts,translation,explanation=syn
  if not any(sentence in p[0] for p in paras) and any(sentence.rstrip('.') in p[0] for p in paras):sentence=sentence.rstrip('.')
+ if not any(sentence in p[0] for p in paras):
+  matches=[p[0] for p in paras if p[0].casefold().count(sentence.casefold())==1];assert len(matches)==1,(title,sentence)
+  start=matches[0].casefold().index(sentence.casefold());sentence=matches[0][start:start+len(sentence)]
+ for part in parts:
+  if part[1] not in sentence and sentence.casefold().count(part[1].casefold())==1:
+   start=sentence.casefold().index(part[1].casefold());part[1]=sentence[start:start+len(part[1])]
  record=dict(title=title,paragraphs=paras,questions=questions,syntax=[next(i+1 for i,p in enumerate(paras) if sentence in p[0]),sentence,parts,translation,explanation],vocabulary=vocab,**ext)
  count=len(re.findall(r"[A-Za-z]+(?:['-][A-Za-z]+)*",en));assert 160<=count<=320,(title,count)
  records.append(record)

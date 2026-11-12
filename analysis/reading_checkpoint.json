@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-12T14:35:10.485265+00:00",
-  "authoredPassages": 160,
-  "totalQuestions": 480,
-  "totalWords": 27021,
+  "updatedAt": "2026-11-12T14:44:32.725436+00:00",
+  "authoredPassages": 180,
+  "totalQuestions": 540,
+  "totalWords": 30585,
   "levels": {
     "1": {
       "authoredPassages": 100,
@@ -23,7 +23,7 @@
       "complete": true
     },
     "2": {
-      "authoredPassages": 60,
+      "authoredPassages": 80,
       "countsByFormat": [
         10,
         10,
@@ -31,13 +31,13 @@
         10,
         10,
         10,
-        0,
-        0,
+        10,
+        10,
         0,
         0
       ],
-      "totalQuestions": 180,
-      "totalWords": 10679,
+      "totalQuestions": 240,
+      "totalWords": 14243,
       "complete": false
     }
   },
@@ -60,6 +60,8 @@
     "content/readings/l2_f03.json",
     "content/readings/l2_f04.json",
     "content/readings/l2_f05.json",
-    "content/readings/l2_f06.json"
+    "content/readings/l2_f06.json",
+    "content/readings/l2_f07.json",
+    "content/readings/l2_f08.json"
   ]
 }
