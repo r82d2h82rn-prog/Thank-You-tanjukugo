@@ -8,7 +8,7 @@ def ingest(path,root=ROOT):
  sid='original-draft-v4'
  if sid not in source_ids:
   template=next(s for s in sources if s['id']=='original-draft-v3').copy()
-  template.update(id=sid,name='追加の高校入試・高校標準語彙草稿',notes='独自制作200語。品詞・意味・発音・例文・和訳・用法を整備。人手校閲・採否・最終LEVELは未確認。')
+  template.update(id=sid,name='追加の高校・大学入試向け語彙草稿',notes='content/authoringの独自執筆バッチ。品詞・意味・発音・例文・和訳・用法を整備。件数は進捗JSONから計測。人手校閲・採否・最終LEVELは未確認。')
   sources.append(template)
  candidates=read_csv(root/'content/word_candidates.csv');by_lemma={r['lemma']:r for r in candidates}
  drafts=read_json(root/'content/words/drafts.json');samples=read_json(root/'src/data/entries.json')
@@ -19,7 +19,7 @@ def ingest(path,root=ROOT):
   for row in csv.DictReader(file,delimiter='\t'):
    lemma=normalized(row['english']);level=int(row['level']);section=int(row['section']);number=int(row['number'])
    official=sorted(set(json.loads(by_lemma.get(lemma,{}).get('source_ranks') or '{}'))&{'ngsl','nawl','tsl','bsl'})
-   metadata=dict(sourceIds=[sid]+official,contentVersion=1,qualityStatus='review_required',autoChecked=True,humanReviewed=False,examFrequency=None,selectionReason=f'高校入試〜高校標準の用法を重視した独自選定。暫定LEVEL {level}。入試頻度は未検証。',productionApproved=False,sourceUsage=[dict(sourceId=s,fields=['english','candidateSelection']) for s in official]+[dict(sourceId=sid,fields=['meaning','pos','pronunciation','example','translation','explanation','proposedLevel'])])
+   metadata=dict(sourceIds=[sid]+official,contentVersion=1,qualityStatus='review_required',autoChecked=True,humanReviewed=False,examFrequency=None,selectionReason=f'高校・大学入試につながる用法と学習上の価値を重視した独自選定。暫定LEVEL {level}。入試頻度は未検証。',productionApproved=False,sourceUsage=[dict(sourceId=s,fields=['english','candidateSelection']) for s in official]+[dict(sourceId=sid,fields=['meaning','pos','pronunciation','example','translation','explanation','proposedLevel'])])
    entry={k:row[k] for k in ['english','pos','pronunciation','meaning','example','translation','explanation']}
    entry.update(id='word-c-'+hashlib.sha256(lemma.encode()).hexdigest()[:12],level=level,section=section,number=number,kind='word',acceptedAnswers=[],content=metadata)
    if lemma in existing:

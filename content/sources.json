@@ -420,7 +420,7 @@
   },
   {
     "id": "original-draft-v4",
-    "name": "追加の独自語彙教材草稿",
+    "name": "追加の高校・大学入試向け語彙草稿",
     "url": null,
     "observedVersion": "1",
     "purpose": "draft",
@@ -435,7 +435,7 @@
     "redistribution": "review_required",
     "attribution": "本プロジェクトで独自執筆。意味・IPA・例文・和訳・用法説明は人手校閲待ち。",
     "shareAlike": null,
-    "notes": "意味・品詞・発音・独自例文・和訳・用法を各語に制作。累計件数は監査JSONで管理。人手校閲・採否・最終LEVELは未確認。",
+    "notes": "content/authoringの独自執筆バッチ。品詞・意味・発音・例文・和訳・用法を整備。件数は進捗JSONから計測。人手校閲・採否・最終LEVELは未確認。",
     "publisher": "本プロジェクト",
     "retrievedAt": null,
     "availableDataTypes": [
