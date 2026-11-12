@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-11T22:26:04.322619+00:00",
+  "existingDrafts": 100,
+  "newDrafts": 200,
+  "newOfficialMatches": 187,
+  "newOfficialUnmatched": [
+    "deduce",
+    "hypothesize",
+    "scrutinize",
+    "refute",
+    "substantiate",
+    "alleviate",
+    "criterion",
+    "heritage",
+    "cognition",
+    "ambiguous",
+    "resilient",
+    "prevalent",
+    "conversely"
+  ],
+  "existingIdsPreserved": true,
+  "notes": [
+    "候補・暫定LEVELであり採用確定ではない。",
+    "同綴異品詞・上級語義・自然さ・発音は人手確認が必要。"
+  ]
+}

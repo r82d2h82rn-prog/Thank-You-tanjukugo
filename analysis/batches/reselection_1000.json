@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-11-12T06:05:53.135886+00:00",
+  "cumulativeNewWords": 1000,
+  "newByLevel": {
+    "4": 500,
+    "3": 500
+  },
+  "legacyDrafts": 2600,
+  "legacySha256": "d54dd2c1ecff0fe360a678742e540af54b9bf7e0794520f1627e3fb96491dc40",
+  "checks": [
+    "complete batches of 100",
+    "nonempty meaning/IPA/example/translation/explanation",
+    "unique headwords and IDs against legacy/sample/all new batches",
+    "valid provenance; no editorial approval granted"
+  ],
+  "humanReviewed": false
+}

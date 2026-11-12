@@ -1,0 +1,601 @@
+id,kind,level,section,number,english,meaning,pos,pronunciation,example,translation,review_status,human_reviewed,source_ids,dictionary_check
+word-c-be385d45dcaf,word,3,1,21,cite,引用する；例として挙げる,動詞,/saɪt/,The report cites several studies on sleep.,報告書は睡眠に関する研究をいくつか引用している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0e617009b3fe,word,3,1,22,strengthen,強める；強くなる,動詞,/ˈstreŋθn/,The findings strengthened their argument for reform.,その調査結果は改革を求める彼らの主張を強めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-15719127b3dd,word,3,1,23,maximize,最大限にする,動詞,/ˈmæksɪmaɪz/,The schedule was designed to maximize access to the library.,その日程は図書館の利用機会を最大限にするために設計された。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-25508c0d59c3,word,3,1,24,elevate,高める；持ち上げる,動詞,/ˈelɪveɪt/,The discovery elevated the importance of the research.,その発見によって研究の重要性が高まった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-040f521d2c01,word,3,1,25,refrain,控える；慎む,動詞,/rɪˈfreɪn/,Please refrain from using flash photography inside the gallery.,展示室内ではフラッシュ撮影を控えてください。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3d8e1cf7b793,word,3,1,26,distort,ゆがめる；曲解する,動詞,/dɪˈstɔːrt/,Removing the final sentence distorted the author's argument.,最後の文を除いたことで著者の主張がゆがめられた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-897f489f33f6,word,3,1,27,penetrate,入り込む；貫通する,動詞,/ˈpenətreɪt/,Sunlight barely penetrated the dense forest.,日光は密集した森の中にほとんど届かなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-93ce248b8b9c,word,3,1,28,vanish,消える；姿を消す,動詞,/ˈvænɪʃ/,The opportunity vanished when the deadline passed.,期限が過ぎると、その機会は失われた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d4536f255583,word,3,1,29,mount,増す；取り付ける；開始する,動詞,/maʊnt/,Pressure mounted as the deadline approached.,期限が迫るにつれて圧力が増した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a6de7a8b9e94,word,3,1,30,worsen,悪化させる；悪化する,動詞,/ˈwɜːrsn/,The shortage worsened during the winter.,不足は冬の間に悪化した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-109fa9f54c84,word,3,1,31,discard,捨てる；退ける,動詞,/dɪsˈkɑːrd/,The researchers discarded unreliable measurements.,研究者は信頼できない測定値を除いた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ac455671cf7f,word,3,1,53,circumstance,事情；状況,名詞,/ˈsɜːrkəmstæns/,The decision depends on individual circumstances.,決定は個々の事情によって異なる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e0cf52185d52,word,3,1,54,burden,負担；重荷,名詞,/ˈbɜːrdn/,High rent places a burden on young workers.,高い家賃は若い労働者の負担となる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bd8c171b30dd,word,3,1,55,emphasis,強調；重点,名詞,/ˈemfəsɪs/,The course places emphasis on practical communication.,その講座は実践的な意思疎通を重視する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-81dd6b775afc,word,3,1,56,journal,学術誌；日誌,名詞,/ˈdʒɜːrnl/,The findings appeared in a medical journal.,その発見は医学誌に掲載された。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b1e79532d5b9,word,3,1,57,stability,安定；安定性,名詞,/stəˈbɪləti/,Reliable energy supplies support economic stability.,確実なエネルギー供給は経済の安定を支える。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3f662004cb46,word,3,1,58,publication,出版；刊行物；公表,名詞,/ˌpʌblɪˈkeɪʃn/,The publication of the results prompted further research.,結果の公表がさらなる研究を促した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-171aac72c04f,word,3,1,59,illusion,錯覚；幻想,名詞,/ɪˈluːʒn/,The mirrors create an illusion of greater space.,鏡は空間がより広いという錯覚を生む。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8adb0ce65bdb,word,3,1,60,stimulus,刺激；促進要因,名詞,/ˈstɪmjələs/,Participants reacted to a visual stimulus.,参加者は視覚的な刺激に反応した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3371305232c8,word,3,1,61,virtue,美徳；長所,名詞,/ˈvɜːrtʃuː/,Honesty is widely regarded as a virtue.,正直さは広く美徳と考えられている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8975c9b4ea06,word,3,1,62,percentage,割合；百分率,名詞,/pərˈsentɪdʒ/,A higher percentage of residents supported the plan.,より高い割合の住民が計画を支持した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1a1d1484d3cb,word,3,1,63,politics,政治；政治活動,名詞,/ˈpɑːlətɪks/,Local politics affects transport decisions.,地域の政治は交通に関する決定に影響する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-abe678684890,word,3,1,64,examination,検査；試験；精査,名詞,/ɪɡˌzæmɪˈneɪʃn/,Closer examination revealed several defects.,詳しい検査で複数の欠陥が見つかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f44ceb062e35,word,3,1,65,analyst,分析者；アナリスト,名詞,/ˈænəlɪst/,An analyst compared the regional data.,分析者が地域別データを比較した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-db5d7a5252dd,word,3,1,66,deficiency,欠乏；不足；欠陥,名詞,/dɪˈfɪʃnsi/,The symptoms may indicate a vitamin deficiency.,症状はビタミン不足を示すかもしれない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ee03fb050595,word,3,1,67,tumor,腫瘍,名詞,/ˈtuːmər/,The scan revealed a small tumor.,検査画像で小さな腫瘍が見つかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-349b7b806910,word,3,1,68,terminology,専門用語；用語体系,名詞,/ˌtɜːrmɪˈnɑːlədʒi/,The guide explains basic medical terminology.,手引きは基本的な医学用語を説明する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0b349c79e44d,word,3,1,69,transportation,輸送；交通機関,名詞,/ˌtrænspərˈteɪʃn/,Public transportation connects the outer districts.,公共交通機関は周辺地区を結ぶ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c7c5c1d70c5d,word,3,1,70,artifact,人工遺物；加工物,名詞,/ˈɑːrtɪfækt/,The artifact reveals ancient trade connections.,遺物は古代の交易関係を明らかにする。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-578756ca4aa1,word,3,1,71,literacy,読み書き能力；活用能力,名詞,/ˈlɪtərəsi/,Digital literacy is increasingly important.,デジタル活用能力はますます重要だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-18b263dcdea6,word,3,1,86,considerable,かなりの,形容詞,/kənˈsɪdərəbl/,The work demands considerable patience.,その仕事にはかなりの忍耐が必要だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a9fd07856242,word,3,1,87,universal,普遍的な；万人共通の,形容詞,/ˌjuːnɪˈvɜːrsl/,The policy seeks universal access to education.,政策は誰もが教育を受けられることを目指す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d42ef1497900,word,3,1,88,visible,目に見える,形容詞,/ˈvɪzəbl/,The changes produced visible improvements.,変更は目に見える改善をもたらした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9923e7741b8d,word,3,1,89,competent,有能な；十分な能力がある,形容詞,/ˈkɑːmpɪtənt/,A competent technician checked the system.,十分な技能を持つ技師がシステムを点検した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-704b7acbacf9,word,3,1,90,infinite,無限の,形容詞,/ˈɪnfɪnət/,The material cannot be reused an infinite number of times.,その素材を無限に再利用することはできない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9a714950f984,word,3,1,91,optimal,最適な,形容詞,/ˈɑːptɪməl/,The optimal temperature depends on the material.,最適な温度は材料によって異なる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2053dbbf6ec7,word,3,1,92,static,静的な；変化しない,形容詞,/ˈstætɪk/,The model assumes a static population.,モデルは人口が変化しないと仮定する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7f0c68cb87de,word,3,1,93,cautious,慎重な,形容詞,/ˈkɔːʃəs/,Investors remained cautious about the forecast.,投資家は予測に慎重な姿勢を保った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f2de1346d707,word,3,1,94,reluctant,気が進まない,形容詞,/rɪˈlʌktənt/,She was reluctant to abandon the plan.,彼女は計画を断念する気になれなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-57e1f047b30b,word,3,1,95,steady,着実な；安定した,形容詞,/ˈstedi/,The figures show steady growth.,数値は着実な成長を示す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a36670b856d6,word,3,1,100,respectively,それぞれ順に,副詞,/rɪˈspektɪvli/,"The two samples weighed five and eight grams, respectively.",二つの試料の重さはそれぞれ5グラムと8グラムだった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3492ad65d05a,word,3,2,20,grant,与える；認める,動詞,/ɡrænt/,The court granted permission to appeal.,裁判所は上訴の許可を与えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9bf86920ceaf,word,3,2,21,characterize,特徴づける；性質を述べる,動詞,/ˈkærəktəraɪz/,Rapid change characterized the early years of the industry.,急速な変化がその産業の初期を特徴づけていた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b5c0ec655092,word,3,2,22,allege,申し立てる；主張する,動詞,/əˈledʒ/,The workers alleged that their wages had been withheld.,労働者たちは賃金が支払われなかったと申し立てた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5879a0f59f72,word,3,2,23,minimize,最小限にする；軽く扱う,動詞,/ˈmɪnɪmaɪz/,Careful planning helped minimize waste.,慎重な計画は廃棄物を最小限にする助けとなった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8a1eed22144c,word,3,2,24,embed,埋め込む；根付かせる,動詞,/ɪmˈbed/,The chip is embedded in a thin plastic card.,そのチップは薄いプラスチックのカードに埋め込まれている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d17bd922ea9d,word,3,2,25,sacrifice,犠牲にする；ささげる,動詞,/ˈsækrɪfaɪs/,She refused to sacrifice accuracy for speed.,彼女は速さのために正確さを犠牲にすることを拒んだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-83180b745cbf,word,3,2,26,disguise,隠す；変装させる,動詞,/dɪsˈɡaɪz/,He could not disguise his surprise at the result.,彼は結果への驚きを隠せなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9dd7dd220929,word,3,2,27,pledge,誓約する；約束する,動詞,/pledʒ/,The company pledged to reduce packaging waste.,会社は包装ごみを減らすと約束した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3e66ba098b37,word,3,2,28,weaken,弱める；弱まる,動詞,/ˈwiːkən/,The new evidence weakened the original explanation.,新しい証拠によって元の説明の説得力が弱まった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7baef513d86b,word,3,2,29,refine,洗練する；精製する,動詞,/rɪˈfaɪn/,Further testing helped refine the design.,追加試験は設計をさらに改善するのに役立った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7e4353d9a9b2,word,3,2,30,wreck,ひどく壊す；台無しにする,動詞,/rek/,The storm wrecked several fishing boats.,嵐は数隻の漁船を大破させた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e7e11072fe72,word,3,2,31,expel,追放する；排出する,動詞,/ɪkˈspel/,The device expels warm air through a vent.,装置は通気口から暖気を排出する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-34d6231c09aa,word,3,2,53,crisis,危機,名詞,/ˈkraɪsɪs/,The drought caused a serious food crisis.,干ばつは深刻な食料危機を引き起こした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b40356e6d1c6,word,3,2,54,exposure,さらされること；接触,名詞,/ɪkˈspoʊʒər/,Regular exposure to a language supports learning.,言語に定期的に触れることは学習を助ける。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-df71fb0bd94c,word,3,2,55,agenda,議題一覧；行動方針,名詞,/əˈdʒendə/,Climate policy is high on the meeting's agenda.,気候政策は会議の重要な議題である。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6c5a6990038d,word,3,2,56,measurement,測定；測定値,名詞,/ˈmeʒərmənt/,The instrument produces precise measurements of pressure.,その器具は圧力の精密な測定値を出す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b3c903c9c4a4,word,3,2,57,narrative,物語；語り；説明の筋道,名詞,/ˈnærətɪv/,The museum offers a narrative of the town's development.,博物館は町の発展を一つの筋道に沿って説明する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c3a3091b9d32,word,3,2,58,coverage,報道；対象範囲,名詞,/ˈkʌvərɪdʒ/,The event received extensive media coverage.,その行事はメディアで広く報道された。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-fd7bdeae6375,word,3,2,59,analogy,類推；たとえ,名詞,/əˈnælədʒi/,The teacher used an analogy to explain electric circuits.,教師は電気回路を説明するのにたとえを使った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-595f053100ff,word,3,2,60,sensation,感覚；大評判,名詞,/senˈseɪʃn/,He felt a strange sensation in his fingertips.,彼は指先に奇妙な感覚を覚えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f45b59736bd9,word,3,2,61,transparency,透明性；公開性,名詞,/trænsˈpærənsi/,The policy increased transparency in public spending.,その政策は公金支出の透明性を高めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-59cd793c05f0,word,3,2,62,decade,10年間,名詞,/ˈdekeɪd/,The population changed over the past decade.,人口は過去10年間で変化した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-512afb6c7631,word,3,2,63,administration,運営；行政；政権,名詞,/ədˌmɪnɪˈstreɪʃn/,The new administration changed housing policy.,新政権は住宅政策を変えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bf37c7c20871,word,3,2,64,sequence,順序；連続,名詞,/ˈsiːkwəns/,The sequence of events remains uncertain.,出来事の順序は依然不明だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-233c3c2c5962,word,3,2,65,adviser,助言者；顧問,名詞,/ədˈvaɪzər/,A policy adviser explained the options.,政策顧問が選択肢を説明した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-daf81fe9648c,word,3,2,66,dose,服用量；一回分,名詞,/doʊs/,The study compared two doses of the medicine.,研究はその薬の二種類の用量を比較した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ad12f62c45fc,word,3,2,67,trauma,心的外傷；外傷,名詞,/ˈtrɔːmə/,The program supports people recovering from trauma.,事業は心的外傷から回復する人を支える。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2863229379aa,word,3,2,68,thesis,学位論文；主張,名詞,/ˈθiːsɪs/,Her thesis examines urban transport policy.,彼女の学位論文は都市交通政策を調べる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ab97542e73d2,word,3,2,69,aviation,航空；航空産業,名詞,/ˌeɪviˈeɪʃn/,Aviation accounts for part of global emissions.,航空は世界の排出量の一部を占める。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e020bdf56879,word,3,2,70,assembly,集会；組み立て,名詞,/əˈsembli/,The instructions explain the assembly of the frame.,説明書は枠の組み立てを説明する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-429bf78dbd9b,word,3,2,71,merit,長所；価値,名詞,/ˈmerɪt/,The proposal has considerable merit.,提案にはかなりの価値がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-020dae383219,word,3,2,86,competitive,競争力のある；競争の激しい,形容詞,/kəmˈpetətɪv/,Small firms need competitive products.,小企業には競争力のある製品が必要だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-163d817fe8a8,word,3,2,87,psychological,心理的な,形容詞,/ˌsaɪkəˈlɑːdʒɪkl/,The disaster had lasting psychological effects.,災害は長く続く心理的影響をもたらした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7471bdb1765a,word,3,2,88,keen,熱心な；鋭い,形容詞,/kiːn/,She is keen to study engineering.,彼女は工学を学びたがっている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6929adae851d,word,3,2,89,conditional,条件付きの,形容詞,/kənˈdɪʃənl/,The offer is conditional on approval.,申し出は承認を条件としている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e2411f906450,word,3,2,90,influential,影響力のある,形容詞,/ˌɪnfluˈenʃl/,The book became highly influential.,その本は非常に大きな影響力を持つようになった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0e7546ed1840,word,3,2,91,preliminary,予備的な；準備の,形容詞,/prɪˈlɪmɪneri/,Preliminary results suggest a possible improvement.,予備的な結果は改善の可能性を示唆する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-50f5f1b46dea,word,3,2,92,straightforward,分かりやすい；率直な,形容詞,/ˌstreɪtˈfɔːrwərd/,The instructions are straightforward.,指示は分かりやすい。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-58e1b987bcf8,word,3,2,93,compelling,説得力のある；強く引き付ける,形容詞,/kəmˈpelɪŋ/,The report presents compelling evidence.,報告書は説得力のある証拠を示す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5009a047a11f,word,3,2,94,apt,適切な；〜しがちな,形容詞,/æpt/,The comparison is particularly apt.,その比較は特に適切だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-342c8c61e679,word,3,2,95,underlying,根底にある,形容詞,/ˌʌndərˈlaɪɪŋ/,The study examines the underlying causes.,研究は根底にある原因を調べる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0616fd22bc9c,word,3,2,100,literally,文字どおりに,副詞,/ˈlɪtərəli/,The sentence should not be interpreted literally.,その文を文字どおりに解釈すべきではない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d164ad30cd61,word,3,3,20,reform,改革する；改善する,動詞,/rɪˈfɔːrm/,The committee plans to reform the examination system.,委員会は試験制度の改革を計画している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ccd69193910d,word,3,3,21,specialize,専門とする；特化する,動詞,/ˈspeʃəlaɪz/,The laboratory specializes in testing recycled materials.,その研究所は再生材料の試験を専門としている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-84e0c3d153f9,word,3,3,22,neglect,怠る；放置する,動詞,/nɪˈɡlekt/,The report neglected to mention the cost of maintenance.,その報告書は維持費に言及するのを怠った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-887270d0cbc5,word,3,3,23,render,〜の状態にする；表現する,動詞,/ˈrendər/,The damage rendered the equipment unusable.,損傷によってその設備は使用不能になった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-179151bcc554,word,3,3,24,compel,強いる；余儀なくさせる,動詞,/kəmˈpel/,The evidence compelled the committee to reconsider its decision.,その証拠によって委員会は決定の再考を余儀なくされた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1470df58d9ef,word,3,3,25,displace,立ち退かせる；取って代わる,動詞,/dɪsˈpleɪs/,The flood displaced hundreds of families.,洪水で何百もの家族が住む場所を追われた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-99d79cff2cb3,word,3,3,26,disclose,明らかにする；開示する,動詞,/dɪsˈkloʊz/,The researchers disclosed how the study was funded.,研究者たちは研究の資金がどのように調達されたかを開示した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1e42f42ba2a2,word,3,3,27,prevail,広く行き渡る；勝る,動詞,/prɪˈveɪl/,A more cautious attitude eventually prevailed.,最終的には、より慎重な姿勢が優勢になった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d2454c4d8a16,word,3,3,28,withhold,与えずにおく；差し控える,動詞,/wɪðˈhoʊld/,The agency withheld personal details from the public report.,その機関は公開報告書に個人情報を載せなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-313fac0832f7,word,3,3,29,seize,つかむ；差し押さえる,動詞,/siːz/,She seized the opportunity to present her work.,彼女は研究を発表する機会を逃さずつかんだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-934cc00aea95,word,3,3,30,adhere,守る；付着する,動詞,/ədˈhɪr/,All staff must adhere to the guidelines.,職員全員が指針を守らなければならない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9d5d7fcf3aa3,word,3,3,53,sector,部門；分野,名詞,/ˈsektər/,Employment grew in the service sector.,サービス部門の雇用が増えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-70dd37c11434,word,3,3,54,transition,移行；転換,名詞,/trænˈzɪʃn/,The transition to renewable energy takes time.,再生可能エネルギーへの移行には時間がかかる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-181fdd46fc4a,word,3,3,55,origin,起源；出身,名詞,/ˈɔːrɪdʒɪn/,The researchers examined the origin of the custom.,研究者たちはその慣習の起源を調べた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-76b1ee582dbd,word,3,3,56,passion,情熱；熱中する対象,名詞,/ˈpæʃn/,Her passion for engineering began in childhood.,工学への彼女の情熱は幼少期に始まった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c5fd94b8c335,word,3,3,57,liability,法的責任；負担；負債,名詞,/ˌlaɪəˈbɪləti/,The contract limits the supplier's liability for delays.,契約は遅延に対する供給者の責任を制限している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-69f02b772af1,word,3,3,58,demonstration,実演；証明；デモ行進,名詞,/ˌdemənˈstreɪʃn/,The teacher gave a demonstration of the technique.,教師はその技術を実演した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-065d74f27665,word,3,3,59,metaphor,隠喩；比喩,名詞,/ˈmetəfɔːr/,The writer uses a journey as a metaphor for learning.,作家は学習の比喩として旅を用いている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-982055e51c25,word,3,3,60,trait,特徴；特性,名詞,/treɪt/,Patience is a useful trait in a researcher.,忍耐強さは研究者に役立つ特性だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d54eb7dce184,word,3,3,61,curriculum,教育課程；カリキュラム,名詞,/kəˈrɪkjələm/,The curriculum includes practical engineering projects.,教育課程には実践的な工学の課題が含まれる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-df2fc6e9c627,word,3,3,62,favor,好意；支持；親切な行為,名詞,/ˈfeɪvər/,Most members voted in favor of the proposal.,大半の委員が提案に賛成票を投じた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e62377847bbe,word,3,3,63,estate,土地・財産；住宅団地,名詞,/ɪˈsteɪt/,The estate includes farmland and woodland.,その土地には農地と森林が含まれる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d68e3ec2d5ff,word,3,3,64,premise,前提,名詞,/ˈpremɪs/,The conclusion rests on a questionable premise.,結論は疑わしい前提に基づく。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4087b6426d9a,word,3,3,65,consultant,相談役；専門顧問,名詞,/kənˈsʌltənt/,The school hired an environmental consultant.,学校は環境の専門顧問を雇った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a4ce996f70c5,word,3,3,66,epidemic,流行；伝染病の大流行,名詞,/ˌepɪˈdemɪk/,The epidemic placed pressure on hospitals.,流行は病院に負担をかけた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-de9feaea8b66,word,3,3,67,gender,ジェンダー；社会的な性,名詞,/ˈdʒendər/,The survey examined gender differences in employment.,調査は雇用におけるジェンダーによる違いを調べた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f552935eea2a,word,3,3,68,scholarship,奨学金；学術研究,名詞,/ˈskɑːlərʃɪp/,The scholarship covers part of her tuition.,奨学金は彼女の授業料の一部を賄う。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8bd0f4bb7d22,word,3,3,69,tourism,観光；観光業,名詞,/ˈtʊrɪzəm/,Tourism supports many local businesses.,観光業は多くの地元企業を支える。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f95dac581e9b,word,3,3,70,availability,利用可能性；入手しやすさ,名詞,/əˌveɪləˈbɪləti/,The service improves the availability of fresh food.,サービスは生鮮食品の入手しやすさを高める。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-83e01dda3eb5,word,3,3,71,portion,一部；分け前,名詞,/ˈpɔːrʃn/,A large portion of the budget supports research.,予算の大きな部分が研究を支える。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-26dd7517f5ec,word,3,3,86,crucial,極めて重要な,形容詞,/ˈkruːʃl/,Early evidence played a crucial role.,初期の証拠が極めて重要な役割を果たした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d0d092b83d4a,word,3,3,87,intense,強烈な；激しい,形容詞,/ɪnˈtens/,The proposal sparked intense debate.,提案は激しい議論を引き起こした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b035184778e0,word,3,3,88,presidential,大統領の,形容詞,/ˌprezɪˈdenʃl/,The presidential election drew record turnout.,大統領選挙の投票率は過去最高だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ca08c3f17da9,word,3,3,89,contradictory,矛盾した,形容詞,/ˌkɑːntrəˈdɪktəri/,The witnesses gave contradictory accounts.,証人たちは矛盾する説明をした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1a20f6d5510e,word,3,3,90,integral,不可欠な；一体を成す,形容詞,/ˈɪntɪɡrəl/,Feedback is an integral part of learning.,フィードバックは学習に不可欠な一部だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-db1946d32afb,word,3,3,91,primitive,原始的な；単純な,形容詞,/ˈprɪmətɪv/,The device uses a primitive control system.,装置は単純な制御システムを使っている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-fc4d6c9e874c,word,3,3,92,superior,優れた；上位の,形容詞,/suːˈpɪriər/,The revised design is superior to the original.,改訂設計は元のものより優れている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-171cd9969103,word,3,3,93,decisive,決定的な；決断力のある,形容詞,/dɪˈsaɪsɪv/,The final test provided decisive evidence.,最終試験は決定的な証拠をもたらした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5e1cf42878df,word,3,3,94,bound,きっと〜する；〜行きの,形容詞,/baʊnd/,The proposal is bound to attract attention.,提案は必ず注目を集めるだろう。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-fb224067545c,word,3,3,95,prospective,将来の；見込みのある,形容詞,/prəˈspektɪv/,Prospective students visited the campus.,入学を検討する学生がキャンパスを訪れた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-cd288d089e5a,word,3,3,100,barely,かろうじて；ほとんど〜ない,副詞,/ˈberli/,The signal was barely detectable.,信号はかろうじて検出できる程度だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ecd3fad7a4d3,word,3,4,20,shift,移す；変わる,動詞,/ʃɪft/,Public attention shifted from prices to employment.,世間の関心は物価から雇用へ移った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-59f0db478528,word,3,4,21,forecast,予測する,動詞,/ˈfɔːrkæst/,Analysts forecast a gradual increase in demand.,分析者たちは需要の緩やかな増加を予測している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-683259feabbf,word,3,4,22,trigger,引き起こす,動詞,/ˈtrɪɡər/,The announcement triggered a debate about privacy.,その発表はプライバシーについての議論を引き起こした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d5393b48316f,word,3,4,23,resemble,似ている,動詞,/rɪˈzembl/,The pattern resembles the one found in earlier experiments.,その模様は以前の実験で見られたものに似ている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b31ef75d8a60,word,3,4,24,concede,認める；譲歩する,動詞,/kənˈsiːd/,She conceded that the proposal had several weaknesses.,彼女は提案にいくつか弱点があることを認めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6cae1452b5d0,word,3,4,25,abolish,廃止する,動詞,/əˈbɑːlɪʃ/,The university abolished the old application fee.,大学は従来の出願手数料を廃止した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-16e601ed6c84,word,3,4,26,distress,苦しめる；悲しませる,動詞,/dɪˈstres/,The loss of the old trees distressed many residents.,古い木々が失われたことは多くの住民を悲しませた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-dd2d82002e7c,word,3,4,27,recede,後退する；弱まる,動詞,/rɪˈsiːd/,Residents returned home after the floodwater receded.,洪水の水が引いた後、住民は家に戻った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e424ec88ff49,word,3,4,28,descend,下りる；下降する,動詞,/dɪˈsend/,The path descends steeply toward the river.,その小道は川に向かって急に下っている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2f3c3e5cf3c6,word,3,4,29,shed,落とす；放つ,動詞,/ʃed/,The findings shed light on the process.,調査結果はその過程の解明に役立った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-34659fd61a72,word,3,4,30,bloom,開花する；栄える,動詞,/bluːm/,The trees bloom earlier in warmer years.,暖かい年には木々が早く開花する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-180b988a36f6,word,3,4,53,executive,経営幹部；行政の執行者,名詞,/ɪɡˈzekjətɪv/,An executive explained the company's new strategy.,経営幹部が会社の新戦略を説明した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-931534c0c145,word,3,4,54,boundary,境界；限界,名詞,/ˈbaʊndri/,The river forms a natural boundary between the regions.,川が地域の間の自然な境界となっている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c35a9a90c0f9,word,3,4,55,criticism,批判；批評,名詞,/ˈkrɪtɪsɪzəm/,The policy attracted criticism for its high cost.,その政策は費用の高さで批判を受けた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b172744548c9,word,3,4,56,deficit,赤字；不足,名詞,/ˈdefɪsɪt/,The town reduced its budget deficit.,町は財政赤字を減らした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-03ce8b95eb32,word,3,4,57,guideline,指針；目安,名詞,/ˈɡaɪdlaɪn/,The guidelines explain how to store the data safely.,その指針はデータを安全に保存する方法を説明している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-167f448f11f3,word,3,4,58,expansion,拡大；拡張,名詞,/ɪkˈspænʃn/,The expansion of rail services increased access to jobs.,鉄道サービスの拡大で仕事へのアクセスが向上した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b50b9b3a4505,word,3,4,59,myth,神話；根拠のない通念,名詞,/mɪθ/,The study challenges the myth that talent alone determines success.,研究は才能だけで成功が決まるという通念を問い直す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2b3bcb2b7d1d,word,3,4,60,expertise,専門知識；専門技能,名詞,/ˌekspɜːrˈtiːz/,The project requires expertise in water management.,その計画には水管理の専門知識が必要だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6f61f46c23a6,word,3,4,61,impact,影響；衝撃,名詞,/ˈɪmpækt/,The policy had a lasting impact on education.,その政策は教育に長期的な影響を与えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e6b88623f720,word,3,4,62,strength,強さ；長所,名詞,/streŋθ/,Clarity is the main strength of the argument.,明快さが議論の主な長所だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-692e4e5decff,word,3,4,63,minimum,最小限；最低値,名詞,/ˈmɪnɪməm/,The design keeps energy loss to a minimum.,設計はエネルギー損失を最小限に抑える。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f1c562eae32f,word,3,4,64,fault,欠点；責任；断層,名詞,/fɔːlt/,The engineer identified a fault in the wiring.,技師は配線の欠陥を特定した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-604c00db87b2,word,3,4,65,historian,歴史家；歴史学者,名詞,/hɪˈstɔːriən/,A historian studied the original records.,歴史学者が原資料を調べた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1e44a1c45388,word,3,4,66,fever,発熱；熱狂,名詞,/ˈfiːvər/,She developed a fever during the night.,彼女は夜の間に発熱した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f1d6a553546a,word,3,4,67,pregnancy,妊娠,名詞,/ˈpreɡnənsi/,The service provides support during pregnancy.,サービスは妊娠中の支援を行う。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a2bca9949a55,word,3,4,68,undergraduate,学部学生,名詞,/ˌʌndərˈɡrædʒuət/,The course is open to all undergraduates.,講座はすべての学部学生に開かれている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9ecfc652f6b0,word,3,4,69,immigration,移住；入国管理,名詞,/ˌɪmɪˈɡreɪʃn/,Immigration changed the city's population.,移住が都市の人口構成を変えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6b15713240e8,word,3,4,70,civilization,文明,名詞,/ˌsɪvələˈzeɪʃn/,The river supported an early civilization.,川は初期の文明を支えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-68fcfd9b4d77,word,3,4,71,pursuit,追求；追跡,名詞,/pərˈsuːt/,The pursuit of knowledge requires patience.,知識の追求には忍耐が必要だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-39ca0c269f8b,word,3,4,86,vital,不可欠な；生命の,形容詞,/ˈvaɪtl/,Trust is vital to successful cooperation.,信頼は協力の成功に不可欠だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ff298e4c4f97,word,3,4,87,concrete,具体的な,形容詞,/ˈkɑːŋkriːt/,Give a concrete example of the problem.,問題の具体例を挙げてください。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1bb0b3a466ce,word,3,4,88,agricultural,農業の,形容詞,/ˌæɡrɪˈkʌltʃərəl/,Drought reduced agricultural production.,干ばつで農業生産が減少した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-112d85721372,word,3,4,89,contrary,反対の,形容詞,/ˈkɑːntreri/,The findings were contrary to expectations.,調査結果は予想に反していた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6745418a4852,word,3,4,90,intensive,集中的な,形容詞,/ɪnˈtensɪv/,She completed an intensive language course.,彼女は集中的な語学講座を修了した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c0071d0b9fd9,word,3,4,91,problematic,問題のある,形容詞,/ˌprɑːbləˈmætɪk/,The assumption proved problematic.,その仮定には問題があることが分かった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-21e2db94d100,word,3,4,92,symbolic,象徴的な,形容詞,/sɪmˈbɑːlɪk/,The bridge has symbolic importance for the town.,橋は町にとって象徴的な重要性を持つ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6f5657b70de5,word,3,4,93,deficient,不足した；欠けた,形容詞,/dɪˈfɪʃnt/,The soil is deficient in nitrogen.,土壌は窒素が不足している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e7fbe4df6577,word,3,4,94,concise,簡潔な,形容詞,/kənˈsaɪs/,The report gives a concise explanation.,報告書は簡潔な説明を与える。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6cf2c255b068,word,3,4,95,defensive,防御の；自己弁護的な,形容詞,/dɪˈfensɪv/,He became defensive when questioned.,質問されると彼は自己弁護的になった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-215695de89b1,word,3,4,99,moreover,そのうえ；さらに,副詞,/mɔːrˈoʊvər/,"The method is simple; moreover, it is inexpensive.",方法は簡単で、そのうえ安価だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b6b5932edf45,word,3,4,100,solely,もっぱら；ただ〜だけで,副詞,/ˈsoʊlli/,The judgment should not rest solely on cost.,判断を費用だけに基づかせるべきではない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b252d4eb5acf,word,3,5,20,construct,建設する；組み立てる,動詞,/kənˈstrʌkt/,Students constructed an argument from the available evidence.,生徒たちは利用できる証拠から議論を組み立てた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-352c00e4c686,word,3,5,21,venture,思い切って進む；あえて行う,動詞,/ˈventʃər/,Few researchers ventured beyond the accepted theory.,定説の枠をあえて超える研究者は少なかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-218a50ed2bfb,word,3,5,22,sanction,認可する；制裁を科す,動詞,/ˈsæŋkʃn/,The board sanctioned the use of the new equipment.,理事会は新しい設備の使用を認可した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f9b45c37c456,word,3,5,23,reconstruct,再建する；再現する,動詞,/ˌriːkənˈstrʌkt/,Historians reconstructed the event from several diaries.,歴史家たちは複数の日記からその出来事を再現した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-60777af12ea0,word,3,5,24,endorse,支持する；承認する,動詞,/ɪnˈdɔːrs/,Several researchers endorsed the call for open data.,数人の研究者がデータ公開を求める意見を支持した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4728b0c37dc8,word,3,5,25,convey,伝える；運ぶ,動詞,/kənˈveɪ/,A simple diagram can convey a complex idea clearly.,簡単な図は複雑な考えを明確に伝えられる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-17c3a324486b,word,3,5,26,foster,育む；促進する,動詞,/ˈfɑːstər/,The workshop fosters cooperation between different departments.,その講習会は異なる部署間の協力を育む。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a83a31320d92,word,3,5,27,resume,再開する,動詞,/rɪˈzuːm/,The students resumed the experiment after replacing the sensor.,生徒たちはセンサーを交換して実験を再開した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2ea802eeb448,word,3,5,28,ascend,上る；上昇する,動詞,/əˈsend/,The balloon ascended above the clouds.,気球は雲の上へ上昇した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-104359a9c414,word,3,5,29,signify,意味する；示す,動詞,/ˈsɪɡnɪfaɪ/,The symbol signifies a possible danger.,記号は危険の可能性を示す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d265d1416b14,word,3,5,30,boast,自慢する；誇る,動詞,/boʊst/,The museum boasts an impressive collection.,博物館は見事な収集品を誇る。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-cd892494455f,word,3,5,53,scheme,計画；制度；たくらみ,名詞,/skiːm/,The city introduced a bicycle-sharing scheme.,市は自転車の共同利用制度を導入した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4dbaa586691a,word,3,5,54,disorder,障害；無秩序,名詞,/dɪsˈɔːrdər/,The treatment targets a common sleep disorder.,その治療は一般的な睡眠障害を対象としている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8698fb89e125,word,3,5,55,significance,重要性；意味,名詞,/sɪɡˈnɪfɪkəns/,The discovery has considerable historical significance.,その発見には大きな歴史的重要性がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b66ecab57861,word,3,5,56,compensation,補償；報酬,名詞,/ˌkɑːmpenˈseɪʃn/,Passengers received compensation for the cancellation.,乗客は運休に対する補償を受けた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-01b8016fdce4,word,3,5,57,ownership,所有；所有権,名詞,/ˈoʊnərʃɪp/,The reform changed land ownership in the region.,その改革は地域の土地所有のあり方を変えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3fcbbfa259f1,word,3,5,58,involvement,関与；参加,名詞,/ɪnˈvɑːlvmənt/,Community involvement shaped the final design.,地域住民の参加が最終設計を形作った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7920fdeff9c5,word,3,5,59,ritual,儀式；決まった習慣,名詞,/ˈrɪtʃuəl/,Preparing tea became a comforting daily ritual.,お茶を入れることは心安らぐ毎日の習慣になった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-456cf73c569b,word,3,5,60,contradiction,矛盾；反論,名詞,/ˌkɑːntrəˈdɪkʃn/,There is a contradiction between the two statements.,二つの発言の間に矛盾がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a569b9b2250f,word,3,5,61,threat,脅威；脅し,名詞,/θret/,Habitat loss is a threat to wildlife.,生息地の喪失は野生生物への脅威だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9f80a5e14017,word,3,5,62,intelligence,知能；情報,名詞,/ɪnˈtelɪdʒəns/,The task measures aspects of human intelligence.,課題は人間の知能の側面を測る。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8a64ff09886c,word,3,5,63,maximum,最大限；最高値,名詞,/ˈmæksɪməm/,The temperature reached its maximum at noon.,温度は正午に最高値に達した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-db113508c7cb,word,3,5,64,critic,批評家；批判者,名詞,/ˈkrɪtɪk/,Critics questioned the cost of the project.,批判者たちは事業費を問題視した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d133a66dd576,word,3,5,65,veteran,経験豊かな人；退役軍人,名詞,/ˈvetərən/,A veteran of the industry led the discussion.,業界の熟練者が議論を率いた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d296add506bb,word,3,5,66,disability,障害,名詞,/ˌdɪsəˈbɪləti/,The design improves access for people with disabilities.,設計は障害のある人の利用しやすさを高める。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f054cfcb3f1c,word,3,5,67,psychology,心理学；心理,名詞,/saɪˈkɑːlədʒi/,The course introduces the psychology of learning.,講座は学習の心理学を紹介する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3dbd9cd5e1fb,word,3,5,68,faculty,学部；教員団；能力,名詞,/ˈfækəlti/,The faculty reviewed the examination policy.,教員団は試験方針を見直した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5a3bcbcef5b4,word,3,5,69,attendance,出席；参加人数,名詞,/əˈtendəns/,Attendance increased after the schedule changed.,日程変更後に参加人数が増えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5c8ed2c5b63d,word,3,5,70,competence,能力；適性,名詞,/ˈkɑːmpɪtəns/,The task assesses practical competence.,課題は実践的な能力を評価する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5f161c914988,word,3,5,71,scope,範囲；余地,名詞,/skoʊp/,The question lies beyond the scope of this study.,その問いは本研究の範囲外だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9e9ef157670b,word,3,5,86,extensive,広範囲の；大規模な,形容詞,/ɪkˈstensɪv/,The plan requires extensive consultation.,計画には広範囲の協議が必要だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-35d3ec98be74,word,3,5,87,mere,ほんの；単なる,形容詞,/mɪr/,The repair took a mere five minutes.,修理はほんの5分で済んだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-669c3696c4bf,word,3,5,88,racial,人種の,形容詞,/ˈreɪʃl/,The report examines racial inequality.,報告書は人種間の不平等を調べている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c3ccedf562d9,word,3,5,89,crude,粗雑な；未加工の,形容詞,/kruːd/,They built a crude model from cardboard.,彼らは段ボールで粗い模型を作った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-94e6f02a5aca,word,3,5,90,intermediate,中間の；中級の,形容詞,/ˌɪntərˈmiːdiət/,The text is suitable for intermediate learners.,その文章は中級の学習者に適している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b7c03e34b89e,word,3,5,91,progressive,進歩的な；徐々に進む,形容詞,/prəˈɡresɪv/,The disease causes progressive muscle weakness.,その病気は筋力を徐々に低下させる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b3cc0475bb78,word,3,5,92,synthetic,合成の；人工の,形容詞,/sɪnˈθetɪk/,The fabric contains synthetic fibers.,その布には合成繊維が含まれる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-447f7f5c325e,word,3,5,93,delicate,繊細な；慎重さを要する,形容詞,/ˈdelɪkət/,The dispute requires delicate negotiation.,争いには慎重な交渉が必要だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-cc73c906e945,word,3,5,94,equivalent,同等の,形容詞,/ɪˈkwɪvələnt/,The two methods produce equivalent results.,二つの方法で同等の結果が出る。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-952be7cef846,word,3,5,95,offensive,不快な；攻撃の,形容詞,/əˈfensɪv/,The article contained offensive remarks.,記事には不快な発言が含まれていた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-44a53f8fca87,word,3,5,99,hence,それゆえ；今から〜後,副詞,/hens/,"The data are incomplete, hence the uncertainty.",データが不完全なので不確実さがある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-337752635b11,word,3,5,100,inevitably,必然的に,副詞,/ɪnˈevɪtəbli/,The change inevitably affects other departments.,変更は必然的に他部署にも影響する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1ffcd59e7328,word,3,6,20,remark,述べる；言及する,動詞,/rɪˈmɑːrk/,She remarked that the results were unexpected.,彼女は結果が予想外だったと述べた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c59e6d672501,word,3,6,21,correspond,一致する；相当する；文通する,動詞,/ˌkɔːrəˈspɑːnd/,The numbers correspond to the labels on the diagram.,その番号は図のラベルに対応している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-15385eb4bd7f,word,3,6,22,comprise,〜から成る；含む,動詞,/kəmˈpraɪz/,"The collection comprises letters, photographs, and maps.",その収集品は手紙、写真、地図から成る。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e918187b4d19,word,3,6,23,standardize,標準化する；統一する,動詞,/ˈstændərdaɪz/,The study standardized the instructions given to participants.,その研究では参加者に与える指示を統一した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4eac0cdd1fd7,word,3,6,24,exert,行使する；及ぼす,動詞,/ɪɡˈzɜːrt/,Large firms exert considerable influence on the market.,大企業は市場にかなりの影響力を及ぼしている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2a15ed74fb2c,word,3,6,25,convict,有罪とする,動詞,/kənˈvɪkt/,The man was convicted of fraud.,その男性は詐欺で有罪とされた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6c5bcc35ba84,word,3,6,26,grieve,深く悲しむ；悲しませる,動詞,/ɡriːv/,The family needed time to grieve after their loss.,家族には大切な人を失った悲しみを受け止める時間が必要だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-34f54b279dd0,word,3,6,27,revive,復活させる；回復する,動詞,/rɪˈvaɪv/,The festival helped revive interest in local crafts.,祭りは地域の工芸への関心をよみがえらせる助けとなった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5da66250adca,word,3,6,28,attain,達成する；到達する,動詞,/əˈteɪn/,Few models attain this level of accuracy.,この精度に達するモデルは少ない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-756e1aca491f,word,3,6,29,sow,種をまく；引き起こす,動詞,/soʊ/,The announcement sowed doubt among investors.,発表は投資家の間に疑念を生んだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ca4264faf597,word,3,6,30,boost,押し上げる；促進する,動詞,/buːst/,The grant boosted local research activity.,助成金が地域の研究活動を促進した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0b7b13bc416f,word,3,6,53,legislation,法律；立法,名詞,/ˌledʒɪsˈleɪʃn/,The legislation aims to protect personal data.,その法律は個人データの保護を目指している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2bd8b7b0d83e,word,3,6,54,foundation,基礎；財団；設立,名詞,/faʊnˈdeɪʃn/,Trust is the foundation of their partnership.,信頼が両者の協力関係の基礎である。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-eb0b9c61cefd,word,3,6,55,charity,慈善；慈善団体,名詞,/ˈtʃærəti/,The charity provides temporary housing for families.,その慈善団体は家族に仮住まいを提供する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-edfc47701c05,word,3,6,56,equation,方程式；関連する状況,名詞,/ɪˈkweɪʒn/,The equation describes how the temperature changes.,その方程式は温度の変化の仕方を記述する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9fff2d310ad6,word,3,6,57,complexity,複雑さ,名詞,/kəmˈpleksəti/,The diagram reveals the complexity of the network.,その図はネットワークの複雑さを明らかにする。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3eb95cbef266,word,3,6,58,formation,形成；編成,名詞,/fɔːrˈmeɪʃn/,The chapter explains the formation of new habits.,その章は新しい習慣の形成を説明している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f2ff83860a4d,word,3,6,59,domain,領域；分野,名詞,/doʊˈmeɪn/,The discovery belongs to the domain of medical research.,その発見は医学研究の領域に属する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-14654bf2b773,word,3,6,60,correspondence,一致；対応；通信,名詞,/ˌkɔːrəˈspɑːndəns/,The archive preserves the author's private correspondence.,資料庫は著者の私的な書簡を保存している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a7b4dc56dac9,word,3,6,61,contribution,貢献；寄付,名詞,/ˌkɑːntrɪˈbjuːʃn/,Her contribution to the project was substantial.,計画への彼女の貢献は大きかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5944ae849448,word,3,6,62,vision,視力；展望,名詞,/ˈvɪʒn/,The report outlines a vision for cleaner transport.,報告書は環境負荷の少ない交通への展望を描く。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0ab37c8e4a2e,word,3,6,63,unemployment,失業；失業率,名詞,/ˌʌnɪmˈplɔɪmənt/,The region experienced rising unemployment.,地域では失業が増加した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ace72b3572c1,word,3,6,64,specialist,専門家,名詞,/ˈspeʃəlɪst/,A water-quality specialist examined the samples.,水質の専門家が試料を調べた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-353e5d16112c,word,3,6,65,immigrant,移民,名詞,/ˈɪmɪɡrənt/,The city offers language classes for immigrants.,市は移民向けに語学講座を開く。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4064e6a9a434,word,3,6,66,fatigue,疲労,名詞,/fəˈtiːɡ/,Long working hours can cause severe fatigue.,長時間労働はひどい疲労を引き起こしうる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-dc5945e7f9b7,word,3,6,67,psychologist,心理学者；心理専門職,名詞,/saɪˈkɑːlədʒɪst/,A psychologist helped design the survey.,心理学者が調査の設計を助けた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9c6d86c43933,word,3,6,68,tuition,授業料；指導,名詞,/tuˈɪʃn/,Rising tuition has increased student debt.,授業料の上昇が学生の借金を増やした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9377b038eaec,word,3,6,69,mobility,移動能力；流動性,名詞,/moʊˈbɪləti/,The service improves mobility for older residents.,サービスは高齢住民の移動のしやすさを高める。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c1cb74e23f5f,word,3,6,70,diplomacy,外交；交渉の手腕,名詞,/dɪˈploʊməsi/,Diplomacy helped prevent further conflict.,外交はさらなる紛争を防ぐ助けになった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-03dd65bf2241,word,3,6,71,supplement,補足；補助食品,名詞,/ˈsʌplɪmənt/,The guide is a supplement to the textbook.,手引きは教科書の補足資料だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-909c272051bb,word,3,6,86,radical,根本的な；急進的な,形容詞,/ˈrædɪkl/,The results demand a radical rethink.,結果は根本的な再考を求めている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-188aa6ae3ca8,word,3,6,87,controversial,論争を招く,形容詞,/ˌkɑːntrəˈvɜːrʃl/,The controversial law divided public opinion.,その法律は論争を招き世論を二分した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-39f4bf4ed1ac,word,3,6,88,adverse,悪影響を及ぼす；不利な,形容詞,/ædˈvɜːrs/,The drug may have adverse effects.,薬には有害な作用があるかもしれない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-73c76d56fd40,word,3,6,89,dynamic,動的な；活力のある,形容詞,/daɪˈnæmɪk/,The model describes a dynamic system.,モデルは動的なシステムを記述する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3c8acf667613,word,3,6,90,irrelevant,無関係な,形容詞,/ɪˈreləvənt/,Personal appearance is irrelevant to this judgment.,外見はこの判断に関係がない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e0cd61d0340f,word,3,6,91,prominent,著名な；目立つ,形容詞,/ˈprɑːmɪnənt/,A prominent researcher led the investigation.,著名な研究者が調査を率いた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-04651cd5fa4e,word,3,6,92,toxic,有毒な,形容詞,/ˈtɑːksɪk/,The factory must safely store toxic waste.,工場は有毒廃棄物を安全に保管しなければならない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5d3082f6a1fd,word,3,6,93,desperate,必死の；絶望的な,形容詞,/ˈdespərət/,The village was desperate for clean water.,村は清潔な水を切実に必要としていた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-07f33781121e,word,3,6,94,immense,莫大な；巨大な,形容詞,/ɪˈmens/,The project required immense effort.,計画には莫大な労力が必要だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d4d6cb99915d,word,3,6,95,exotic,異国風の；珍しい,形容詞,/ɪɡˈzɑːtɪk/,The exhibition includes exotic plant species.,展示には珍しい外国産の植物種が含まれる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e43c3a238333,word,3,6,99,thereby,それによって,副詞,/ˌðerˈbaɪ/,"The coating reduces friction, thereby saving energy.",塗膜は摩擦を減らし、それによって省エネルギーとなる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d9343d0a0097,word,3,6,100,potentially,潜在的に；可能性として,副詞,/pəˈtenʃəli/,The material is potentially useful.,その素材は役立つ可能性がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8bbcba42d48d,word,3,7,20,yield,生み出す；譲る,動詞,/jiːld/,The investigation yielded no clear explanation.,その調査から明確な説明は得られなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-81466ee3cd6c,word,3,7,21,rid,取り除く；解放する,動詞,/rɪd/,The town hopes to rid the river of floating waste.,町は川から浮遊ごみを取り除きたいと考えている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b396cacce7ea,word,3,7,22,situate,位置づける；設置する,動詞,/ˈsɪtʃueɪt/,The author situates the dispute in its historical context.,著者はその争いを歴史的文脈の中に位置づけている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-91e776f8a587,word,3,7,23,unify,統一する；一体化する,動詞,/ˈjuːnɪfaɪ/,The reform unified several separate application systems.,その改革は別々だった申請制度を統一した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-199c48140d2b,word,3,7,24,confront,直面する；立ち向かう,動詞,/kənˈfrʌnt/,The city must confront the problem of aging infrastructure.,市は社会基盤の老朽化という問題に立ち向かわなければならない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2a6f294bbedd,word,3,7,25,complicate,複雑にする,動詞,/ˈkɑːmplɪkeɪt/,Conflicting regulations complicated the repair work.,矛盾する規制が修繕作業を複雑にした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-cd88bef0d173,word,3,7,26,hinder,妨げる,動詞,/ˈhɪndər/,Poor lighting hindered the workers' progress.,照明の悪さが作業員たちの作業の進行を妨げた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-66b490dd6005,word,3,7,27,shrink,縮む；減少する,動詞,/ʃrɪŋk/,The working-age population is expected to shrink.,生産年齢人口は減少すると予想されている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2de1585bf8d4,word,3,7,28,cease,やめる；終わる,動詞,/siːs/,The factory ceased operating last year.,工場は昨年操業をやめた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2815cb02b95b,word,3,7,29,summon,呼び出す；奮い起こす,動詞,/ˈsʌmən/,She summoned the courage to ask a question.,彼女は質問する勇気を奮い起こした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-15a5a49734b7,word,3,7,30,clash,衝突する；食い違う,動詞,/klæʃ/,The new rules clash with existing regulations.,新しい規則は既存の規制と矛盾する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-267d294ad2fe,word,3,7,53,provision,提供；規定,名詞,/prəˈvɪʒn/,The contract includes a provision for early cancellation.,契約には早期解約に関する規定がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-48eb632fe16a,word,3,7,54,dimension,側面；寸法；次元,名詞,/daɪˈmenʃn/,The debate has an important ethical dimension.,その議論には重要な倫理的側面がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ffa2b8b37132,word,3,7,55,privilege,特権；光栄,名詞,/ˈprɪvəlɪdʒ/,Access to clean water should not be a privilege.,清潔な水の利用が特権であってはならない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4af009dcd561,word,3,7,56,therapy,治療；療法,名詞,/ˈθerəpi/,The study compared two forms of speech therapy.,その研究は二種類の言語療法を比較した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c3211e4cc78d,word,3,7,57,adjustment,調整；適応,名詞,/əˈdʒʌstmənt/,A small adjustment improved the machine's performance.,わずかな調整が機械の性能を改善した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a33ba161ede2,word,3,7,58,establishment,設立；施設；支配層,名詞,/ɪˈstæblɪʃmənt/,The establishment of the reserve protected the forest.,保護区の設立によって森は守られた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-caa79af4db67,word,3,7,59,duration,継続時間；期間,名詞,/dʊˈreɪʃn/,Participants recorded the duration of each journey.,参加者は各移動の所要時間を記録した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4194b692f578,word,3,7,60,objection,反対；異議,名詞,/əbˈdʒekʃn/,Nobody raised an objection to the revised schedule.,改訂日程に異議を唱える人はいなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6195048f9ca4,word,3,7,61,consideration,考慮；配慮,名詞,/kənˌsɪdəˈreɪʃn/,Cost is an important consideration.,費用は重要な考慮事項だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-00d89c6761d9,word,3,7,62,impression,印象；感じ,名詞,/ɪmˈpreʃn/,The presentation left a strong impression.,発表は強い印象を残した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a38bcf73d352,word,3,7,63,achievement,達成；業績,名詞,/əˈtʃiːvmənt/,The bridge was a major engineering achievement.,その橋は工学上の大きな業績だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7e414e6ac41a,word,3,7,64,episode,出来事；一回分,名詞,/ˈepɪsoʊd/,The diary records an unusual episode.,日記には珍しい出来事が記されている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f0c913ecf113,word,3,7,65,refugee,難民,名詞,/ˌrefjuˈdʒiː/,The charity provides legal advice to refugees.,慈善団体は難民に法律相談を提供する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9a63ccce91a1,word,3,7,66,hormone,ホルモン,名詞,/ˈhɔːrmoʊn/,The hormone helps regulate growth.,そのホルモンは成長の調節に役立つ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ba29297b6c4f,word,3,7,67,legend,伝説；図の凡例,名詞,/ˈledʒənd/,The map's legend explains each symbol.,地図の凡例は各記号を説明する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6bc636ff0103,word,3,7,68,lecture,講義；講演,名詞,/ˈlektʃər/,The lecture challenged familiar assumptions.,講義はよくある思い込みを問い直した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-57ffcc28d4b9,word,3,7,69,utility,有用性；公共事業,名詞,/juːˈtɪləti/,The study questions the utility of the measure.,研究はその対策の有用性を疑問視する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2104e56ef446,word,3,7,70,exception,例外,名詞,/ɪkˈsepʃn/,The rule applies without exception.,規則は例外なく適用される。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a5790b06f63b,word,3,7,71,unity,結束；一体性,名詞,/ˈjuːnəti/,The crisis strengthened a sense of unity.,危機は一体感を強めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-cb7cb8fb038e,word,3,7,86,subsequent,その後の,形容詞,/ˈsʌbsɪkwənt/,Subsequent studies confirmed the pattern.,その後の研究はその傾向を確認した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9abeba97a0ce,word,3,7,87,institutional,制度上の；組織の,形容詞,/ˌɪnstɪˈtuːʃənl/,Institutional barriers can limit participation.,制度上の障壁は参加を制限しうる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b80ad2e9ee18,word,3,7,88,adjacent,隣接した,形容詞,/əˈdʒeɪsnt/,The park is adjacent to the station.,公園は駅に隣接している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f06c64ed51a5,word,3,7,89,elementary,初歩的な；基本の,形容詞,/ˌelɪˈmentri/,The argument contains an elementary error.,議論には初歩的な誤りがある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3ad0ec5b9dd0,word,3,7,90,legitimate,正当な；合法の,形容詞,/lɪˈdʒɪtɪmət/,Residents raised legitimate concerns about noise.,住民は騒音について正当な懸念を示した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c39cfd639660,word,3,7,91,resistant,耐性のある；抵抗する,形容詞,/rɪˈzɪstənt/,The coating is resistant to moisture.,その塗膜は湿気に強い。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1977d46c03fe,word,3,7,92,viable,実行可能な；生存可能な,形容詞,/ˈvaɪəbl/,The proposal offers a viable alternative.,提案は実行可能な代替案を示す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2ac76c88949b,word,3,7,93,distinctive,独特の；特徴的な,形容詞,/dɪˈstɪŋktɪv/,The artist developed a distinctive style.,その芸術家は独特の作風を築いた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e6d7ddd8f414,word,3,7,94,intact,損なわれていない,形容詞,/ɪnˈtækt/,The original records remained intact.,原記録は損なわれずに残った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8748cb435202,word,3,7,95,glorious,見事な；栄光ある,形容詞,/ˈɡlɔːriəs/,The team celebrated a glorious victory.,チームは輝かしい勝利を祝った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-faa94f91ef29,word,3,7,99,namely,すなわち,副詞,/ˈneɪmli/,"One factor matters most, namely reliability.",最も重要な要因は一つ、すなわち信頼性だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e5f754ff8557,word,3,7,100,essentially,本質的に；基本的には,副詞,/ɪˈsenʃəli/,The two explanations are essentially the same.,二つの説明は本質的に同じだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2483f281f155,word,3,8,20,devote,ささげる；充てる,動詞,/dɪˈvoʊt/,She devotes an hour each day to reading scientific articles.,彼女は毎日1時間を科学記事の読書に充てている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ff9a0c76596a,word,3,8,21,counsel,助言する；相談に乗る,動詞,/ˈkaʊnsl/,The adviser counseled students on their career choices.,助言担当者は生徒の進路選択の相談に乗った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f516e6c26493,word,3,8,22,suspend,一時停止する；つるす,動詞,/səˈspend/,The service was suspended while engineers checked the cables.,技師がケーブルを点検する間、運行は一時停止された。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7bfc303b6d92,word,3,8,23,utilize,活用する；利用する,動詞,/ˈjuːtəlaɪz/,The center utilizes unused rooms for evening classes.,その施設は使われていない部屋を夜間講座に活用している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-51ef2ad77766,word,3,8,24,contend,主張する；対処する,動詞,/kənˈtend/,The author contends that the policy increased inequality.,著者はその政策が不平等を拡大したと主張する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-93bc5d02dc2a,word,3,8,25,collapse,崩れる；破綻する,動詞,/kəˈlæps/,The negotiations collapsed after weeks of discussion.,数週間の協議の末に交渉は決裂した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7d21b3384028,word,3,8,26,linger,長く残る；ぐずぐずする,動詞,/ˈlɪŋɡər/,Doubts lingered even after the report was published.,報告書の公表後も疑念は残った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3388452318b2,word,3,8,27,soar,急上昇する；高く舞う,動詞,/sɔːr/,Demand for home delivery soared during the cold spell.,寒波の間、宅配の需要が急増した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ff0bf81e8aaf,word,3,8,28,coincide,同時に起こる；一致する,動詞,/ˌkoʊɪnˈsaɪd/,The festival coincides with the school holiday.,祭りは学校の休暇と時期が重なる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b9b29640175f,word,3,8,29,testify,証言する；証明する,動詞,/ˈtestɪfaɪ/,Several witnesses testified at the hearing.,数人の証人が審理で証言した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4151dc4c6362,word,3,8,30,cling,しがみつく；固執する,動詞,/klɪŋ/,They clung to the hope of returning home.,彼らは帰郷への希望を抱き続けた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0b514913789f,word,3,8,53,association,協会；関連,名詞,/əˌsoʊsiˈeɪʃn/,The study found an association between sleep and memory.,研究は睡眠と記憶の関連を見いだした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-77f4c0b60ee9,word,3,8,54,intervention,介入；仲裁,名詞,/ˌɪntərˈvenʃn/,Early intervention may prevent further difficulties.,早期の介入がさらなる困難を防ぐことがある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-38a5be91af79,word,3,8,55,capability,能力；機能,名詞,/ˌkeɪpəˈbɪləti/,The new system has better translation capabilities.,新しいシステムにはより優れた翻訳機能がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-27a0113e9ce8,word,3,8,56,fortune,財産；運,名詞,/ˈfɔːrtʃən/,The repairs cost the owner a fortune.,修繕には所有者にとって莫大な費用がかかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bc5ece60fff8,word,3,8,57,preference,好み；優先,名詞,/ˈprefrəns/,The survey asked about preferences for public transport.,調査は公共交通機関についての好みを尋ねた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b6451cc6dd81,word,3,8,58,necessity,必要性；必需品,名詞,/nəˈsesəti/,The storm highlighted the necessity of reliable warnings.,嵐は信頼できる警報の必要性を浮き彫りにした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3fe1406a8254,word,3,8,59,interval,間隔；合間,名詞,/ˈɪntərvl/,Measurements were taken at regular intervals.,測定は一定の間隔で行われた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5363303936b0,word,3,8,60,occurrence,発生；出来事,名詞,/əˈkɜːrəns/,Such delays are a rare occurrence.,そのような遅延はめったに起きない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6cbdfcf83679,word,3,8,61,technique,技法；手法,名詞,/tekˈniːk/,The technique reduces measurement errors.,その手法は測定誤差を減らす。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ceb00a91525d,word,3,8,62,mission,使命；任務,名詞,/ˈmɪʃn/,The center's mission is to widen educational access.,施設の使命は教育の機会を広げることだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bfa1102f63af,word,3,8,63,assistance,援助；補助,名詞,/əˈsɪstəns/,Residents requested assistance with repairs.,住民は修繕の援助を求めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-49eaab7e75d9,word,3,8,64,era,時代；紀元,名詞,/ˈɪrə/,The discovery marked the beginning of a new era.,発見は新時代の始まりを画した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-98c4e5a5e476,word,3,8,65,opponent,対戦相手；反対者,名詞,/əˈpoʊnənt/,Opponents demanded a more detailed assessment.,反対者はより詳しい評価を求めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-db7304319ed7,word,3,8,66,insect,昆虫,名詞,/ˈɪnsekt/,Many plants depend on insects for pollination.,多くの植物は受粉を昆虫に依存する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8f10a68d54a8,word,3,8,67,manuscript,原稿；写本,名詞,/ˈmænjuskrɪpt/,The editor returned the manuscript with comments.,編集者は意見を添えて原稿を返した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b246cf89fe82,word,3,8,68,seminar,ゼミ；研究会,名詞,/ˈsemɪnɑːr/,The seminar encouraged detailed discussion.,ゼミは詳しい議論を促した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-47360b8c5f58,word,3,8,69,adventure,冒険；冒険的な経験,名詞,/ədˈventʃər/,The journey became an unexpected adventure.,旅は思いがけない冒険となった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ad2a542c84c7,word,3,8,70,fabric,織物；構造,名詞,/ˈfæbrɪk/,The closure weakened the social fabric of the town.,閉鎖は町の社会的なつながりを弱めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-018fd478959f,word,3,8,86,adequate,十分な；適切な,形容詞,/ˈædɪkwət/,The shelter lacks adequate ventilation.,避難所には十分な換気がない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3b637864e75a,word,3,8,87,functional,機能する；機能上の,形容詞,/ˈfʌŋkʃənl/,The old equipment is still functional.,その古い設備は今も機能する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e8dce61dc1fa,word,3,8,88,bilingual,二言語を使う,形容詞,/ˌbaɪˈlɪŋɡwəl/,The library offers bilingual story sessions.,図書館は二言語による読み聞かせを行う。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1a80b0691b69,word,3,8,89,elite,選り抜きの；精鋭の,形容詞,/eɪˈliːt/,The camp trains elite young athletes.,合宿は精鋭の若い選手を育成する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6001162b99d3,word,3,8,90,liable,責任がある；〜しがちな,形容詞,/ˈlaɪəbl/,The supplier is liable for defective goods.,供給者は欠陥品に責任を負う。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-412f0bdbca40,word,3,8,91,revolutionary,革命的な,形容詞,/ˌrevəˈluːʃəneri/,The invention introduced a revolutionary method.,発明は革命的な方法をもたらした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d811aa2ea4fe,word,3,8,92,widespread,広範囲に及ぶ,形容詞,/ˈwaɪdspred/,The outage caused widespread disruption.,停電は広範囲に混乱をもたらした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-150f7f1e560b,word,3,8,93,drastic,抜本的な；思い切った,形容詞,/ˈdræstɪk/,The shortage forced drastic changes.,不足によって抜本的な変更が必要になった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-979a3a5fbffb,word,3,8,94,sole,唯一の,形容詞,/soʊl/,She was the sole author of the report.,彼女は報告書の唯一の著者だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ab8268fee7bc,word,3,8,95,harmonious,調和した,形容詞,/hɑːrˈmoʊniəs/,The design creates a harmonious balance.,設計は調和の取れた均衡を生む。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-14b917e231e6,word,3,8,99,likewise,同様に,副詞,/ˈlaɪkwaɪz/,The second group likewise showed improvement.,第2の集団も同様に改善を示した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ca6a4b53ba26,word,3,8,100,remarkably,驚くほど,副詞,/rɪˈmɑːrkəbli/,The system remained remarkably stable.,システムは驚くほど安定していた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bd4b5d65b6a2,word,3,9,20,incorporate,組み入れる；取り込む,動詞,/ɪnˈkɔːrpəreɪt/,The revised plan incorporates suggestions from residents.,改訂計画は住民の提案を取り入れている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-40df7df8c9ad,word,3,9,21,accomplish,成し遂げる,動詞,/əˈkɑːmplɪʃ/,The team accomplished its main goal within a year.,チームは1年以内に主な目標を達成した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c5c8a5d68cdc,word,3,9,22,induce,引き起こす；誘導する,動詞,/ɪnˈduːs/,The treatment can induce temporary changes in appetite.,その治療は一時的な食欲の変化を引き起こすことがある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-354f190a9506,word,3,9,23,depict,描写する；描く,動詞,/dɪˈpɪkt/,The novel depicts life in a rapidly changing city.,その小説は急速に変化する都市の生活を描いている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-dd2638abd6cd,word,3,9,24,suppress,抑える；弾圧する,動詞,/səˈpres/,He tried to suppress his disappointment during the meeting.,彼は会議中に失望を抑えようとした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ad1a64057f9a,word,3,9,25,split,分ける；割れる,動詞,/splɪt/,The proposal split the committee into two groups.,その提案によって委員会は二つの集団に分かれた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-65cc63a4e10e,word,3,9,26,lure,誘い込む；引き付ける,動詞,/lʊr/,Low prices lured shoppers into the new store.,安い価格が買い物客を新しい店へ引き付けた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e75eb6e2d3fb,word,3,9,27,surrender,降伏する；手放す,動詞,/səˈrendər/,The company refused to surrender control of the project.,会社はその事業の主導権を手放すことを拒んだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f6b004418a32,word,3,9,28,confide,打ち明ける,動詞,/kənˈfaɪd/,She confided her concerns to a friend.,彼女は懸念を友人に打ち明けた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-eafe895eb811,word,3,9,29,trace,たどる；突き止める,動詞,/treɪs/,Researchers traced the problem to a faulty sensor.,研究者は原因が故障したセンサーだと突き止めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b33f0f602057,word,3,9,30,confess,告白する；認める,動詞,/kənˈfes/,He confessed that he had misread the data.,彼はデータを読み違えたと認めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9f17469d178f,word,3,9,53,opposition,反対；野党,名詞,/ˌɑːpəˈzɪʃn/,The proposal faced strong opposition from residents.,その提案は住民の強い反対に直面した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d43c8bd5797a,word,3,9,54,discipline,規律；学問分野,名詞,/ˈdɪsəplɪn/,The project brings together several academic disciplines.,その計画は複数の学問分野を結び付ける。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f0dc3075f012,word,3,9,55,barrier,障壁；防護壁,名詞,/ˈbæriər/,Cost remains a barrier to higher education.,費用が依然として高等教育への障壁となっている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e3f48726b892,word,3,9,56,scholar,学者；奨学生,名詞,/ˈskɑːlər/,A visiting scholar spoke about ancient trade.,客員研究者が古代の交易について話した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-74a11fdc7152,word,3,9,57,intention,意図；つもり,名詞,/ɪnˈtenʃn/,She had no intention of leaving the project.,彼女にその計画を離れるつもりはなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f7d11e18f3d1,word,3,9,58,likelihood,可能性；見込み,名詞,/ˈlaɪklihʊd/,The changes reduce the likelihood of error.,変更によって誤りが起きる可能性が下がる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d0854ad1c7e2,word,3,9,59,intensity,強度；激しさ,名詞,/ɪnˈtensəti/,The intensity of the light decreased with distance.,光の強度は距離とともに低下した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d651dabf895b,word,3,9,60,stance,立場；姿勢,名詞,/stæns/,The council changed its stance on road expansion.,議会は道路拡張に関する立場を変えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d7ac1d220e6a,word,3,9,61,reality,現実；実態,名詞,/riˈæləti/,The report reflects the reality of rural life.,報告書は農村生活の実態を反映する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-02195b8e9896,word,3,9,62,phase,段階；局面,名詞,/feɪz/,The project entered its final phase.,計画は最終段階に入った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c1cda2636282,word,3,9,63,proof,証拠；証明,名詞,/pruːf/,The claim requires stronger proof.,主張にはより強い証拠が必要だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9cae07a2e9ce,word,3,9,64,crew,乗組員；作業班,名詞,/kruː/,The rescue crew worked through the night.,救助班は夜通し活動した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1db147fa22ab,word,3,9,65,rival,競争相手,名詞,/ˈraɪvl/,The two firms became major rivals.,二社は主要な競争相手になった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8e5457251d6d,word,3,9,66,pesticide,農薬；殺虫剤,名詞,/ˈpestɪsaɪd/,The farmer reduced pesticide use.,農家は農薬の使用を減らした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-fcd9bd43bf8c,word,3,9,67,quotation,引用；見積もり,名詞,/kwoʊˈteɪʃn/,The essay begins with a short quotation.,論文は短い引用で始まる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ce7a7c10b0df,word,3,9,68,assignment,課題；割り当て,名詞,/əˈsaɪnmənt/,The assignment requires comparison of two sources.,課題は二つの資料の比較を求める。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3f52a423f8eb,word,3,9,69,agriculture,農業,名詞,/ˈæɡrɪkʌltʃər/,Agriculture depends on reliable water supplies.,農業は安定した水供給に依存する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2c0f0f4581aa,word,3,9,70,fraction,わずかな部分；分数,名詞,/ˈfrækʃn/,The repair cost a fraction of replacement.,修理費は交換費用のほんの一部だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4994ad9e4f40,word,3,9,86,comprehensive,包括的な,形容詞,/ˌkɑːmprɪˈhensɪv/,The team published a comprehensive review.,チームは包括的な総説を発表した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-adf0d3f5f1ad,word,3,9,87,structural,構造上の,形容詞,/ˈstrʌktʃərəl/,The building has serious structural damage.,建物には深刻な構造上の損傷がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b6e4acc0d584,word,3,9,88,bizarre,奇妙な；風変わりな,形容詞,/bɪˈzɑːr/,The machine produced a bizarre sound.,機械は奇妙な音を出した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2a683592454e,word,3,9,89,ethical,倫理的な,形容詞,/ˈeθɪkl/,The study raises difficult ethical questions.,研究は難しい倫理上の問題を提起する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a703788f8320,word,3,9,90,minimal,ごくわずかな；最小限の,形容詞,/ˈmɪnɪməl/,The change had minimal impact.,その変更の影響はごくわずかだった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c0f7c0be2df7,word,3,9,91,selective,選択的な；えり好みする,形容詞,/sɪˈlektɪv/,The account gives a selective view of history.,その説明は歴史の一部を選んだ見方を示す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-03e2c07ec321,word,3,9,92,abrupt,突然の；ぶっきらぼうな,形容詞,/əˈbrʌpt/,The interview came to an abrupt end.,面接は突然終わった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2f47e627c6b9,word,3,9,93,excessive,過度の,形容詞,/ɪkˈsesɪv/,Excessive noise interfered with the measurements.,過度の騒音が測定を妨げた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-85555b7bc5e6,word,3,9,94,tremendous,非常に大きな,形容詞,/trəˈmendəs/,The volunteers made a tremendous contribution.,ボランティアは非常に大きな貢献をした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8042c6d16511,word,3,9,95,indispensable,不可欠な,形容詞,/ˌɪndɪˈspensəbl/,Reliable records are indispensable to research.,信頼できる記録は研究に不可欠だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-52ba4fd8c77f,word,3,9,99,nonetheless,それにもかかわらず,副詞,/ˌnʌnðəˈles/,"The task was difficult; nonetheless, they continued.",課題は難しかったが、それでも彼らは続けた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6a3dd6bd578f,word,3,9,100,thoroughly,徹底的に；十分に,副詞,/ˈθɜːroʊli/,Check the equipment thoroughly before use.,使用前に装置を徹底的に点検してください。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c26f22db83dc,word,3,10,20,withdraw,引き出す；撤回する；退く,動詞,/wɪðˈdrɔː/,The company withdrew its offer after the inspection.,会社は検査後に申し出を撤回した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d232f6a3a44c,word,3,10,21,dedicate,ささげる；専念させる,動詞,/ˈdedɪkeɪt/,He dedicated his career to improving public education.,彼は公教育の改善に職業人生をささげた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d4b1e0f3f3f7,word,3,10,22,initiate,開始する；着手する,動詞,/ɪˈnɪʃieɪt/,The council initiated a review of local transport.,議会は地域交通の見直しを開始した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c64bc36dfe56,word,3,10,23,confine,限定する；閉じ込める,動詞,/kənˈfaɪn/,The discussion was confined to the financial effects.,議論は経済面の影響に限定された。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5b091bdd8553,word,3,10,24,provoke,引き起こす；挑発する,動詞,/prəˈvoʊk/,The decision provoked strong criticism from residents.,その決定は住民からの強い批判を引き起こした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-dc058f85f568,word,3,10,25,strive,懸命に努力する,動詞,/straɪv/,The team strives to make the service accessible to everyone.,チームは誰もがサービスを利用できるよう懸命に努力している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-99507470e0a5,word,3,10,26,mourn,悼む；深く悲しむ,動詞,/mɔːrn/,People gathered to mourn the victims of the disaster.,人々は災害の犠牲者を悼むために集まった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-36603efb55eb,word,3,10,27,swell,膨らむ；増大する,動詞,/swel/,The crowd swelled as more buses arrived.,さらにバスが到着するにつれて群衆は大きくなった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f7e45b6c390a,word,3,10,28,enclose,同封する；囲む,動詞,/ɪnˈkloʊz/,Please enclose a copy of the receipt.,領収書の写しを同封してください。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a9368b0df8f4,word,3,10,29,uphold,支持する；維持する,動詞,/ʌpˈhoʊld/,The court upheld the original decision.,裁判所は元の判断を支持した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-cdb2e0d0f873,word,3,10,30,crash,衝突する；機能停止する,動詞,/kræʃ/,The program crashed before saving the file.,ファイルを保存する前にプログラムが停止した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-acc42ad04ad2,word,3,10,53,welfare,福祉；幸福；健康,名詞,/ˈwelfer/,The organization works to improve animal welfare.,その団体は動物福祉の向上に取り組んでいる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0d45f5fd462b,word,3,10,54,core,核心；中心部,名詞,/kɔːr/,Public trust lies at the core of the issue.,国民の信頼が問題の核心にある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4c3200fefd8b,word,3,10,55,tendency,傾向,名詞,/ˈtendənsi/,People have a tendency to remember unusual events.,人には珍しい出来事を覚える傾向がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8589c63b0943,word,3,10,56,maintenance,維持；保守,名詞,/ˈmeɪntənəns/,Regular maintenance extends the life of the equipment.,定期的な保守は設備の寿命を延ばす。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a75c433ab2ae,word,3,10,57,settlement,解決；和解；集落,名詞,/ˈsetlmənt/,Both sides welcomed the settlement of the dispute.,双方は紛争の解決を歓迎した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e4b818620394,word,3,10,58,morality,道徳；道徳性,名詞,/məˈræləti/,The debate concerns the morality of the decision.,その議論は決定の道徳性に関わっている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d490624d0f21,word,3,10,59,impulse,衝動；刺激,名詞,/ˈɪmpʌls/,She resisted the impulse to interrupt.,彼女は口を挟みたい衝動を抑えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e17abe0e23f5,word,3,10,60,motive,動機；理由,名詞,/ˈmoʊtɪv/,The investigators could not establish a clear motive.,調査担当者は明確な動機を特定できなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-dff0669b4df4,word,3,10,61,presence,存在；出席,名詞,/ˈprezns/,The test detected the presence of lead.,検査は鉛の存在を検出した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-139d14b61cae,word,3,10,62,religion,宗教；信仰,名詞,/rɪˈlɪdʒən/,The course explores the role of religion in society.,講座は社会での宗教の役割を探る。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-50cb3d000873,word,3,10,63,talent,才能；才能のある人,名詞,/ˈtælənt/,The program supports young scientific talent.,事業は若い科学分野の人材を支援する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-41c95f34ba8f,word,3,10,64,prisoner,囚人；捕虜,名詞,/ˈprɪznər/,The organization campaigns for prisoners' rights.,その団体は囚人の権利を求めて活動する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-72f89f8432e3,word,3,10,65,offense,違反；犯罪；侮辱,名詞,/əˈfens/,The law treats dumping as a serious offense.,法律は不法投棄を重大な違反とする。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-eb23298dffb8,word,3,10,66,prey,獲物；被害者,名詞,/preɪ/,The bird watches for prey from a branch.,鳥は枝から獲物を見張る。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-694018943365,word,3,10,67,dialog,対話；会話,名詞,/ˈdaɪəlɔːɡ/,The meeting opened a dialog between the groups.,会合は集団間の対話のきっかけとなった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ee510d1a07ac,word,3,10,68,workshop,講習会；作業場,名詞,/ˈwɜːrkʃɑːp/,The workshop teaches practical repair skills.,講習会では実践的な修理技能を教える。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-80db4218688d,word,3,10,69,alliance,同盟；提携,名詞,/əˈlaɪəns/,The groups formed an alliance for reform.,諸団体は改革のために連携した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1620c063e92e,word,3,10,70,globalization,グローバル化,名詞,/ˌɡloʊbələˈzeɪʃn/,Globalization has changed patterns of employment.,グローバル化は雇用のあり方を変えてきた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7b476727faf3,word,3,10,85,additional,追加の,形容詞,/əˈdɪʃənl/,The survey requires additional funding.,調査には追加の資金が必要だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4f9a8fab481f,word,3,10,86,ethnic,民族の,形容詞,/ˈeθnɪk/,The town contains diverse ethnic communities.,町には多様な民族の共同体がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f7496f1fc973,word,3,10,87,continuous,途切れない；連続的な,形容詞,/kənˈtɪnjuəs/,The device records continuous changes in pressure.,装置は圧力の連続的変化を記録する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-16b8bf238bac,word,3,10,88,colonial,植民地の,形容詞,/kəˈloʊniəl/,The museum examines colonial history.,博物館は植民地の歴史を扱う。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d4f568b800c6,word,3,10,89,finite,有限の,形容詞,/ˈfaɪnaɪt/,Natural resources are finite.,天然資源は有限である。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7e2372f4115c,word,3,10,90,neutral,中立の；中性の,形容詞,/ˈnuːtrəl/,The mediator remained neutral throughout the dispute.,仲裁者は争いの間ずっと中立を保った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6e3f4aedbb36,word,3,10,91,sensory,感覚の,形容詞,/ˈsensəri/,The exhibit offers several sensory experiences.,展示ではさまざまな感覚体験ができる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5caab99c7830,word,3,10,92,absurd,ばかげた；不合理な,形容詞,/əbˈsɜːrd/,The explanation seemed absurd to the audience.,その説明は聴衆に不合理に思えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-14930a90c71a,word,3,10,93,exceptional,例外的な；並外れた,形容詞,/ɪkˈsepʃənl/,The team showed exceptional patience.,チームは並外れた忍耐を示した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ade5f219811f,word,3,10,94,worthwhile,価値のある,形容詞,/ˌwɜːrθˈwaɪl/,The additional effort proved worthwhile.,追加の努力には価値があった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-860df3df27fb,word,3,10,95,invaluable,非常に貴重な,形容詞,/ɪnˈvæljuəbl/,The advice proved invaluable.,助言は非常に貴重だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ce72530a8547,word,3,10,99,subsequently,その後,副詞,/ˈsʌbsɪkwəntli/,The results were subsequently confirmed.,結果はその後確認された。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5d6d9986d16d,word,3,10,100,accordingly,それに応じて；したがって,副詞,/əˈkɔːrdɪŋli/,"Demand fell, and production was adjusted accordingly.",需要が下がり、生産はそれに応じて調整された。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-dc602477f692,word,3,11,20,underlie,根底にある,動詞,/ˌʌndərˈlaɪ/,Economic concerns underlie much of the debate.,経済面の懸念が議論の多くの根底にある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1caece2e3bd1,word,3,11,21,compromise,妥協する；損なう,動詞,/ˈkɑːmprəmaɪz/,We should not compromise safety to reduce costs.,費用を減らすために安全を損なうべきではない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e6f2ad814692,word,3,11,22,inject,注射する；注入する,動詞,/ɪnˈdʒekt/,The government injected extra funds into the project.,政府はその事業に追加の資金を投入した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-735b841b230d,word,3,11,23,correlate,相関する；関連づける,動詞,/ˈkɔːrəleɪt/,The researchers examined whether noise levels correlate with stress.,研究者たちは騒音の程度がストレスと相関するかを調べた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bddddaecb8f7,word,3,11,24,resent,憤る；不快に思う,動詞,/rɪˈzent/,She resented being excluded from the discussion.,彼女は議論から除外されたことを不快に思った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-315393e57668,word,3,11,25,delight,大いに喜ばせる,動詞,/dɪˈlaɪt/,The unexpected visit delighted the children.,思いがけない訪問に子供たちは大喜びした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-303197632307,word,3,11,26,overlook,見落とす；見渡せる,動詞,/ˌoʊvərˈlʊk/,The analysis overlooked differences between age groups.,その分析は年齢集団間の違いを見落とした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2081cc0de301,word,3,11,27,thrust,強く押す；突き出す,動詞,/θrʌst/,He thrust the letter into his coat pocket.,彼は手紙をコートのポケットに押し込んだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a04e52d895fe,word,3,11,28,evoke,呼び起こす,動詞,/ɪˈvoʊk/,The photograph evoked memories of childhood.,写真は幼少期の記憶を呼び起こした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-80c3675033fd,word,3,11,29,violate,違反する；侵害する,動詞,/ˈvaɪəleɪt/,The policy may violate privacy rights.,その方針はプライバシーの権利を侵害しかねない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-261770848983,word,3,11,30,creep,忍び寄る；ゆっくり進む,動詞,/kriːp/,Costs crept upward throughout the project.,費用は計画の間じわじわ上昇した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d84afde29cdd,word,3,11,53,poverty,貧困；不足,名詞,/ˈpɑːvərti/,Access to education can help reduce poverty.,教育の利用機会は貧困の削減に役立ちうる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-063fe4bf3633,word,3,11,54,initiative,新たな取り組み；主導権,名詞,/ɪˈnɪʃətɪv/,The initiative encourages schools to share resources.,その取り組みは学校間の資源共有を促す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4032ee403877,word,3,11,55,survival,生存；存続,名詞,/sərˈvaɪvl/,Cooperation was essential to the group's survival.,協力は集団の生存に不可欠だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8b616aa60af2,word,3,11,56,possession,所有；所有物,名詞,/pəˈzeʃn/,The document remained in the family's possession.,その文書は一家の所有のままだった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-819b60bb250f,word,3,11,57,variation,変動；違い；変種,名詞,/ˌveriˈeɪʃn/,The figures show seasonal variation in demand.,数値は需要の季節変動を示している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b40a48df0d98,word,3,11,58,ethics,倫理；倫理学,名詞,/ˈeθɪks/,Research ethics requires respect for participants.,研究倫理は参加者への敬意を求める。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-26e59d6a3c92,word,3,11,59,instinct,本能；直感,名詞,/ˈɪnstɪŋkt/,Some birds build nests largely by instinct.,一部の鳥は主に本能によって巣を作る。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7d4e02d31a7e,word,3,11,60,realm,領域；分野,名詞,/relm/,The question moves beyond the realm of science.,その問いは科学の領域を超える。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-89b91df19d9d,word,3,11,61,background,背景；経歴,名詞,/ˈbækɡraʊnd/,The essay explains the historical background.,論文は歴史的背景を説明する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-46401dc068e7,word,3,11,62,reduction,削減；減少,名詞,/rɪˈdʌkʃn/,The changes led to a reduction in waste.,変更は廃棄物の削減につながった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d41918347145,word,3,11,63,incident,出来事；事件,名詞,/ˈɪnsɪdənt/,The incident prompted a safety review.,その出来事を受けて安全性の見直しが行われた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a4c7815e0ca1,word,3,11,64,terrorist,テロリスト,名詞,/ˈterərɪst/,The report examines methods used by terrorists.,報告書はテロリストが使う手段を調べる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-fc00eb484b58,word,3,11,65,surgery,外科手術；外科,名詞,/ˈsɜːrdʒəri/,He returned to work after surgery.,彼は手術後に仕事へ戻った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3c6a8279d628,word,3,11,66,specimen,標本；試料,名詞,/ˈspesɪmən/,The specimen was carefully labeled.,標本には注意深くラベルが付けられた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9d96e17fd46e,word,3,11,67,clause,節；条項,名詞,/klɔːz/,The contract contains a confidentiality clause.,契約には秘密保持条項がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ba8850dcf4bd,word,3,11,68,questionnaire,質問票；アンケート用紙,名詞,/ˌkwestʃəˈner/,The questionnaire contains ten items.,質問票には10項目ある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8c0b602c4a07,word,3,11,69,amendment,修正；改正条項,名詞,/əˈmendmənt/,The amendment changed the voting procedure.,改正条項は投票手続きを変えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1db76b4d7051,word,3,11,70,humanity,人類；人間性,名詞,/hjuˈmænəti/,The discovery may benefit all of humanity.,発見は全人類の利益になるかもしれない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b74e6b8e7391,word,3,11,85,federal,連邦の,形容詞,/ˈfedərəl/,Federal law sets minimum safety standards.,連邦法は最低限の安全基準を定める。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-98569e7e9080,word,3,11,86,clinical,臨床の,形容詞,/ˈklɪnɪkl/,Clinical trials require careful monitoring.,臨床試験には慎重な監視が必要だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c59ddd3f7ba6,word,3,11,87,abstract,抽象的な,形容詞,/ˈæbstrækt/,Children gradually understand abstract concepts.,子供は徐々に抽象的な概念を理解する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8751a3fcac50,word,3,11,88,comparable,同程度の；比較できる,形容詞,/ˈkɑːmpərəbl/,The two methods produced comparable results.,二つの方法で同程度の結果が出た。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-319e2ba078f5,word,3,11,89,identical,全く同じ,形容詞,/aɪˈdentɪkl/,The samples were stored under identical conditions.,試料は全く同じ条件で保存された。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d3a61c684446,word,3,11,90,noble,高潔な；立派な,形容詞,/ˈnoʊbl/,Helping others is a noble aim.,他人を助けることは立派な目標だ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5fd35d093d8d,word,3,11,91,simultaneous,同時の,形容詞,/ˌsaɪmlˈteɪniəs/,The system allows simultaneous access by several users.,システムは複数利用者の同時アクセスを可能にする。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-343600e3385c,word,3,11,92,authentic,本物の；真正の,形容詞,/ɔːˈθentɪk/,Experts confirmed that the letter was authentic.,専門家は手紙が本物だと確認した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3576f2205122,word,3,11,93,favorable,好意的な；有利な,形容詞,/ˈfeɪvərəbl/,The proposal received a favorable response.,提案は好意的な反応を得た。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f9d37c23fcc0,word,3,11,94,urgent,緊急の；差し迫った,形容詞,/ˈɜːrdʒənt/,The community faces an urgent need for housing.,地域は住宅の差し迫った必要に直面する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e45c0ca14614,word,3,11,95,sophisticated,高度な；洗練された,形容詞,/səˈfɪstɪkeɪtɪd/,The laboratory uses sophisticated imaging tools.,研究室は高度な画像装置を使う。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ec7adc73ce69,word,3,11,99,primarily,主として,副詞,/praɪˈmerəli/,The service primarily supports rural residents.,サービスは主として農村の住民を支える。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6c52e4d5ff0d,word,3,11,100,alternatively,別の方法として,副詞,/ɔːlˈtɜːrnətɪvli/,"You can apply online; alternatively, send a letter.",オンラインで申請するか、別の方法として手紙を送れる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-60f7e0d37e17,word,3,12,20,pose,引き起こす；提起する,動詞,/poʊz/,The shortage poses a serious threat to food supplies.,その不足は食料供給への深刻な脅威となる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3962ce683c81,word,3,12,21,embrace,受け入れる；抱き締める,動詞,/ɪmˈbreɪs/,The school embraced a new approach to assessment.,学校は新しい評価方法を積極的に受け入れた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1e22560cee2c,word,3,12,22,insert,挿入する,動詞,/ɪnˈsɜːrt/,Insert a short explanation after the first paragraph.,第1段落の後に短い説明を挿入してください。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e036eb64fdb9,word,3,12,23,degrade,劣化させる；低下する,動詞,/dɪˈɡreɪd/,Repeated washing can degrade the material.,洗濯を繰り返すとその素材が劣化することがある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-70f31781c0a0,word,3,12,24,cherish,大切にする；心に抱く,動詞,/ˈtʃerɪʃ/,He cherishes the letters his grandmother wrote.,彼は祖母が書いた手紙を大切にしている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ab99e5c4c300,word,3,12,25,condemn,非難する；宣告する,動詞,/kənˈdem/,The organization condemned the attack on civilians.,その団体は民間人への攻撃を非難した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0e4fe0f9cec4,word,3,12,26,overwhelm,圧倒する；打ちのめす,動詞,/ˌoʊvərˈwelm/,The number of applications overwhelmed the small office.,申請件数の多さが小さな事務所の処理能力を超えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a0a2a7470c13,word,3,12,27,tremble,震える,動詞,/ˈtrembl/,Her hands trembled as she opened the envelope.,封筒を開けるとき彼女の手は震えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-622128caf9c8,word,3,12,28,incline,傾ける；〜する気にさせる,動詞,/ɪnˈklaɪn/,The evidence inclines me to accept her explanation.,証拠を見ると彼女の説明を受け入れたくなる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bba00b1891af,word,3,12,29,worship,崇拝する,動詞,/ˈwɜːrʃɪp/,The community worships at an old temple.,共同体は古い寺院で礼拝する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e7684586cdf7,word,3,12,30,despair,絶望する,動詞,/dɪˈsper/,They began to despair of finding a solution.,彼らは解決策が見つからないと絶望し始めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0487c249731a,word,3,12,52,procedure,手順；手続き,名詞,/prəˈsiːdʒər/,Follow the procedure shown on the screen.,画面に示された手順に従ってください。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-739bf484f7f1,word,3,12,53,wealth,富；豊富な量,名詞,/welθ/,The archive contains a wealth of historical information.,その資料庫には豊富な歴史情報がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2331eb33ce2c,word,3,12,54,philosophy,哲学；基本理念,名詞,/fəˈlɑːsəfi/,The company's philosophy emphasizes long-term trust.,会社の基本理念は長期的な信頼を重視する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4ca303a3bf7d,word,3,12,55,architecture,建築；構造,名詞,/ˈɑːrkɪtektʃər/,The city is known for its modern architecture.,その都市は現代建築で知られている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9507b2daa041,word,3,12,56,destruction,破壊,名詞,/dɪˈstrʌkʃn/,The road caused the destruction of nearby habitats.,道路は近隣の生息地の破壊を引き起こした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a8ad1f5f2bb3,word,3,12,57,representation,代表；表現,名詞,/ˌreprɪzenˈteɪʃn/,The diagram is a simplified representation of the process.,図はその過程を単純化して表現したものだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e435b8219f44,word,3,12,58,ideology,思想体系；イデオロギー,名詞,/ˌaɪdiˈɑːlədʒi/,Political ideology influenced the interpretation of the event.,政治思想がその出来事の解釈に影響した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-003a7a99f8dc,word,3,12,59,consciousness,意識；認識,名詞,/ˈkɑːnʃəsnəs/,The campaign raised public consciousness of food waste.,その運動は食品廃棄に対する社会の意識を高めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-092bd8646cf5,word,3,12,60,essence,本質；真髄,名詞,/ˈesns/,The summary captures the essence of the argument.,その要約は議論の本質を捉えている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1b0b7e51ee5d,word,3,12,61,defense,防御；擁護,名詞,/dɪˈfens/,The lawyer spoke in defense of her client.,弁護士は依頼人を擁護して発言した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5d08b02d678f,word,3,12,62,complaint,苦情；不満,名詞,/kəmˈpleɪnt/,The council received complaints about noise.,議会は騒音について苦情を受けた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a945a02a044c,word,3,12,63,injury,けが；損傷,名詞,/ˈɪndʒəri/,The device reduces the risk of injury.,装置はけがの危険を減らす。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bce2966c0b0d,word,3,12,64,satisfaction,満足；充足,名詞,/ˌsætɪsˈfækʃn/,The survey measured satisfaction with public services.,調査は公共サービスへの満足度を測った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-512738161b2a,word,3,12,65,laboratory,研究室；実験室,名詞,/ˈlæbrətɔːri/,The samples were sent to an independent laboratory.,試料は独立した検査機関へ送られた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-48271388865e,word,3,12,66,surgeon,外科医,名詞,/ˈsɜːrdʒən/,A surgeon explained the proposed operation.,外科医が予定される手術を説明した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-730d725c8a59,word,3,12,67,composition,構成；組成；作文,名詞,/ˌkɑːmpəˈzɪʃn/,The analysis revealed the material's composition.,分析は素材の組成を明らかにした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b5c755aaab10,word,3,12,68,destination,目的地；送付先,名詞,/ˌdestɪˈneɪʃn/,The cargo reached its destination safely.,貨物は目的地に無事到着した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-dbe42cc09c16,word,3,12,69,array,多様な集まり；配列,名詞,/əˈreɪ/,The exhibition presents an array of local crafts.,展示は多様な地元工芸品を紹介する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-00ed6c583d74,word,3,12,70,leisure,余暇,名詞,/ˈliːʒər/,The survey examined how people use leisure time.,調査は余暇の使い方を調べた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9285827b8031,word,3,12,85,chief,主な；最高位の,形容詞,/tʃiːf/,Cost was the chief reason for cancellation.,費用が中止の主な理由だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-dff22754ace5,word,3,12,86,moderate,適度な；穏健な,形容詞,/ˈmɑːdərət/,Moderate exercise can improve sleep.,適度な運動は睡眠を改善しうる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a441b15fe9a3,word,3,12,87,random,無作為の；でたらめな,形容詞,/ˈrændəm/,Participants were chosen by random selection.,参加者は無作為抽出で選ばれた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-382439e6f1ba,word,3,12,88,comparative,比較の；比較上の,形容詞,/kəmˈpærətɪv/,The course introduces comparative literature.,講座は比較文学を紹介する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d67a02ebcf17,word,3,12,89,inferior,劣った；下位の,形容詞,/ɪnˈfɪriər/,The cheaper product was not necessarily inferior.,安い製品が必ずしも劣ってはいなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1ca7738c018a,word,3,12,90,numerical,数値の；数の,形容詞,/nuːˈmerɪkl/,The table presents numerical results.,表は数値による結果を示す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0fd19d449336,word,3,12,91,spontaneous,自発的な；自然に起こる,形容詞,/spɑːnˈteɪniəs/,The speech drew spontaneous applause.,演説に自然と拍手が起こった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bec2d07a1b56,word,3,12,92,beneficial,有益な,形容詞,/ˌbenɪˈfɪʃl/,The changes were beneficial to smaller schools.,変更は小規模な学校に有益だった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-75b07bb3ffb3,word,3,12,93,persistent,持続する；粘り強い,形容詞,/pərˈsɪstənt/,Persistent delays damaged public confidence.,続く遅延が市民の信頼を損なった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-969656cc5f0c,word,3,12,94,respective,それぞれの,形容詞,/rɪˈspektɪv/,The teams returned to their respective laboratories.,チームはそれぞれの研究室へ戻った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3ff99b1dfb6d,word,3,12,99,initially,当初は,副詞,/ɪˈnɪʃəli/,"Initially, the team expected little change.",当初チームは変化が少ないと予想した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-005cef244b8c,word,3,12,100,regardless,それでも；関係なく,副詞,/rɪˈɡɑːrdləs/,"The rain continued, but they worked regardless.",雨は続いたが、彼らはそれでも働いた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9dfabc62bbc7,word,4,2,1,abate,弱まる；和らぐ,動詞,/əˈbeɪt/,The storm began to abate at dawn.,嵐は夜明けに弱まり始めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-009e15b065b0,word,4,2,2,abdicate,退位する；責任を放棄する,動詞,/ˈæbdɪkeɪt/,Leaders cannot abdicate their responsibility.,指導者は責任を放棄できない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e5ae0cd78f63,word,4,2,3,abduct,誘拐する,動詞,/æbˈdʌkt/,The report describes efforts to locate abducted civilians.,報告書は誘拐された民間人の捜索活動を記す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9f63a54ece09,word,4,2,4,abhor,ひどく嫌う；憎悪する,動詞,/əbˈhɔːr/,She abhors cruelty toward animals.,彼女は動物への残虐行為をひどく嫌う。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-072469151f64,word,4,2,5,abide,従う；耐える,動詞,/əˈbaɪd/,All parties must abide by the agreement.,すべての当事者が合意に従う必要がある。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-560132a3a1ba,word,4,2,6,abridge,要約する；短縮する,動詞,/əˈbrɪdʒ/,The publisher abridged the novel for younger readers.,出版社は若い読者向けに小説を短縮した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5a6e8c3572f8,word,4,2,7,abstain,控える；棄権する,動詞,/əbˈsteɪn/,Two members abstained from voting.,二人の委員が投票を棄権した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-fbe9883c0858,word,4,2,8,accentuate,際立たせる；強調する,動詞,/əkˈsentʃueɪt/,The lighting accentuates the building's curves.,照明は建物の曲線を際立たせる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9d09f9f72a9a,word,4,2,9,acclaim,称賛する,動詞,/əˈkleɪm/,Critics acclaimed the film as a masterpiece.,批評家たちは映画を傑作と称賛した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7270e89961b0,word,4,2,10,accrue,蓄積する；生じる,動詞,/əˈkruː/,Interest accrues until the debt is repaid.,借金を返すまで利息が積み上がる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-27c5cc0e9b5c,word,4,2,11,acquiesce,黙認する；不本意に従う,動詞,/ˌækwiˈes/,The committee acquiesced in the revised arrangement.,委員会は改訂された取り決めを受け入れた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-97b6ae0c076d,word,4,2,12,adjudicate,裁定する；審判を下す,動詞,/əˈdʒuːdɪkeɪt/,An independent panel will adjudicate the dispute.,独立した委員会が争いを裁定する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ae41ddf92fda,word,4,2,13,admonish,たしなめる；忠告する,動詞,/ədˈmɑːnɪʃ/,The judge admonished the witness for interrupting.,裁判官は口を挟んだ証人をたしなめた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-faae0a57fbcd,word,4,2,14,adorn,飾る,動詞,/əˈdɔːrn/,Painted tiles adorn the entrance hall.,絵付きのタイルが玄関ホールを飾る。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-116e1c1a5eb5,word,4,2,15,aggravate,悪化させる,動詞,/ˈæɡrəveɪt/,Poor ventilation aggravates the problem.,換気不足は問題を悪化させる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-20e745b165c5,word,4,2,16,agitate,動揺させる；扇動する,動詞,/ˈædʒɪteɪt/,The sudden noise agitated the animals.,突然の音が動物たちを落ち着かなくさせた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-adcbf60c01c9,word,4,2,17,align,整列させる；一致させる,動詞,/əˈlaɪn/,The policy aligns incentives with public goals.,政策は誘因を公共の目標と一致させる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bd39db4c004f,word,4,2,18,amalgamate,合併する；融合する,動詞,/əˈmælɡəmeɪt/,The two departments were amalgamated.,二つの部署は統合された。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8101050d1384,word,4,2,19,ambush,待ち伏せして襲う,動詞,/ˈæmbʊʃ/,The soldiers were ambushed on a narrow road.,兵士たちは狭い道路で待ち伏せ攻撃を受けた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-eaf4242791d1,word,4,2,20,amend,修正する；改正する,動詞,/əˈmend/,The council amended the regulations.,議会は規則を改正した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-32a7d19a2ef5,word,4,2,21,annihilate,全滅させる；完全に破壊する,動詞,/əˈnaɪəleɪt/,The explosion annihilated the storage facility.,爆発は貯蔵施設を完全に破壊した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-07511620a28a,word,4,2,22,appease,なだめる；要求を満たして鎮める,動詞,/əˈpiːz/,The concessions failed to appease the protesters.,譲歩しても抗議者たちは静まらなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5ad5e617c1c3,word,4,2,23,apprehend,逮捕する；理解する,動詞,/ˌæprɪˈhend/,Police apprehended the suspect at the station.,警察は駅で容疑者を逮捕した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bc1e4898477f,word,4,2,24,arbitrate,仲裁する,動詞,/ˈɑːrbɪtreɪt/,A neutral expert agreed to arbitrate.,中立の専門家が仲裁することに同意した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-44ea8bc2a14c,word,4,2,25,ascertain,確かめる；突き止める,動詞,/ˌæsərˈteɪn/,The team tried to ascertain the cause.,チームは原因を突き止めようとした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7217f8644908,word,4,2,26,ascribe,〜に帰する,動詞,/əˈskraɪb/,They ascribed the change to better nutrition.,彼らは変化を栄養の改善によるものとした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bfe0a8205d19,word,4,2,27,aspire,熱望する；志す,動詞,/əˈspaɪər/,She aspires to lead a research team.,彼女は研究チームを率いることを志す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e4f0eb14a8be,word,4,2,28,avert,防ぐ；そらす,動詞,/əˈvɜːrt/,Early repairs averted a major failure.,早期の修理が重大な故障を防いだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-074248104082,word,4,2,29,bequeath,遺贈する；後世に残す,動詞,/bɪˈkwiːð/,She bequeathed her archive to the library.,彼女は資料一式を図書館に遺贈した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f68ca0bce1e9,word,4,2,30,bewilder,当惑させる,動詞,/bɪˈwɪldər/,The contradictory instructions bewildered him.,矛盾する指示に彼は当惑した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-26dca1726d00,word,4,2,31,bolster,支える；強化する,動詞,/ˈboʊlstər/,The evidence bolstered her argument.,証拠は彼女の主張を補強した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-aee566239c5b,word,4,2,32,boycott,不買する；参加を拒否する,動詞,/ˈbɔɪkɑːt/,Consumers boycotted the company's products.,消費者はその会社の製品を不買した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-2e02fd39b865,word,4,2,33,breach,違反する；突破する,動詞,/briːtʃ/,The company breached the agreement.,会社は合意に違反した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-78d6dc033304,word,4,2,34,brood,思い悩む,動詞,/bruːd/,He brooded over the criticism for days.,彼は何日も批判を思い悩んだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6f989c1acdfd,word,4,2,35,canvass,支持を求めて回る；意見を尋ねる,動詞,/ˈkænvəs/,Volunteers canvassed the neighborhood for support.,ボランティアは近隣を回って支持を求めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-80edff99a8e5,word,4,2,36,capitulate,降伏する；要求に屈する,動詞,/kəˈpɪtʃuleɪt/,The council refused to capitulate to pressure.,議会は圧力に屈することを拒んだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-da0c0b8ad161,word,4,2,37,captivate,魅了する,動詞,/ˈkæptɪveɪt/,The demonstration captivated the audience.,実演は聴衆を魅了した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-61a04afa229b,word,4,2,38,chastise,厳しく叱る,動詞,/tʃæˈstaɪz/,The report chastised officials for their inaction.,報告書は役人の無策を厳しく批判した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b805c837914e,word,4,2,39,circumvent,回避する；抜け道を使う,動詞,/ˌsɜːrkəmˈvent/,Some firms tried to circumvent the restrictions.,一部企業は制限の抜け道を探した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-26b6d90ce796,word,4,2,40,coerce,強制する,動詞,/koʊˈɜːrs/,No participant should be coerced into joining.,どの参加者も加入を強制されるべきではない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7b5dc435d187,word,4,2,41,commemorate,記念する；追悼する,動詞,/kəˈmeməreɪt/,The monument commemorates the disaster's victims.,記念碑は災害の犠牲者を追悼する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9d248136bfbe,word,4,2,42,commence,開始する,動詞,/kəˈmens/,Construction will commence in April.,建設は4月に始まる。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-267c6a72ed12,word,4,2,43,commend,称賛する；推薦する,動詞,/kəˈmend/,The principal commended the team's honesty.,校長はチームの正直さを称賛した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a39c39f06801,word,4,2,44,concoct,でっち上げる；調合する,動詞,/kənˈkɑːkt/,He concocted an excuse for the delay.,彼は遅れの言い訳をでっち上げた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5ceaeb286ae9,word,4,2,45,condone,大目に見る；容認する,動詞,/kənˈdoʊn/,The school does not condone cheating.,学校は不正行為を容認しない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-fae9ae0580c7,word,4,2,46,confiscate,没収する,動詞,/ˈkɑːnfɪskeɪt/,Officials confiscated the illegally imported goods.,職員は違法輸入品を没収した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-921a320aa978,word,4,2,47,conspire,共謀する,動詞,/kənˈspaɪər/,The officials conspired to conceal the evidence.,役人たちは証拠を隠すことを共謀した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a5ff2bcf640c,word,4,2,48,contrive,工夫して実現する；考案する,動詞,/kənˈtraɪv/,She contrived to finish before the deadline.,彼女は工夫して期限までに終えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1b12837c5c23,word,4,2,49,convene,招集する；集まる,動詞,/kənˈviːn/,The board convened an emergency meeting.,理事会は緊急会合を招集した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-54caafa49296,word,4,2,50,converge,収束する；集まる,動詞,/kənˈvɜːrdʒ/,Several paths converge near the bridge.,いくつかの道が橋の近くで合流する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6cbb9339384f,word,4,2,51,corroborate,裏付ける,動詞,/kəˈrɑːbəreɪt/,Independent records corroborate her account.,独立した記録が彼女の説明を裏付ける。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0bf8e2a33c88,word,4,2,52,counterfeit,偽造する,動詞,/ˈkaʊntərfɪt/,The group counterfeited official documents.,集団は公文書を偽造した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a1e31ed91c18,word,4,2,53,covet,切望する；むやみに欲しがる,動詞,/ˈkʌvət/,Several firms covet the exclusive contract.,数社がその独占契約を強く欲している。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-6b653de4dd83,word,4,2,54,crumble,崩れる；崩す,動詞,/ˈkrʌmbl/,Support for the proposal began to crumble.,提案への支持は崩れ始めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3dfd293969e6,word,4,2,55,culminate,最高潮に達する；結実する,動詞,/ˈkʌlmɪneɪt/,The research culminated in a new device.,研究は新しい装置として結実した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e9af025e6233,word,4,2,56,daunt,ひるませる,動詞,/dɔːnt/,The scale of the task did not daunt her.,課題の規模にも彼女はひるまなかった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a30707a47fa6,word,4,2,57,debase,品位を落とす；価値を下げる,動詞,/dɪˈbeɪs/,The scandal debased the office's reputation.,不祥事はその役職の評判を落とした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8a77aadea7aa,word,4,2,58,debunk,誤りを暴く,動詞,/diːˈbʌŋk/,The article debunks a common misconception.,記事はよくある誤解の誤りを暴く。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4fc126085c02,word,4,2,59,decipher,解読する,動詞,/dɪˈsaɪfər/,Scholars deciphered the damaged inscription.,学者たちは傷んだ碑文を解読した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b5374ab52ecf,word,4,2,60,defame,名誉を傷つける,動詞,/dɪˈfeɪm/,The false claims defamed the researcher.,虚偽の主張は研究者の名誉を傷つけた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8f106893acee,word,4,2,61,defer,延期する；従う,動詞,/dɪˈfɜːr/,The committee deferred its decision.,委員会は判断を延期した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-01da4d80f4bc,word,4,2,62,deflect,そらす；方向を変える,動詞,/dɪˈflekt/,The spokesperson deflected questions about cost.,広報担当者は費用の質問をかわした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b96ff4c864e2,word,4,2,63,deplore,強く非難する；嘆く,動詞,/dɪˈplɔːr/,Residents deplored the destruction of the garden.,住民は庭園の破壊を深く嘆いた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a9168392bbe5,word,4,2,64,deprive,奪う,動詞,/dɪˈpraɪv/,The outage deprived residents of heating.,停電は住民から暖房を奪った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0c44856d2f3d,word,4,2,65,deride,あざける,動詞,/dɪˈraɪd/,Critics derided the plan as unrealistic.,批判者は計画を非現実的だとあざけった。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f46dc62af317,word,4,2,66,deter,思いとどまらせる,動詞,/dɪˈtɜːr/,High fees deter applicants from applying.,高い料金は志願者を出願から遠ざける。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c611d2e453ea,word,4,2,67,detest,ひどく嫌う,動詞,/dɪˈtest/,He detests needless bureaucracy.,彼は無用な官僚的手続きをひどく嫌う。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-73424c510585,word,4,2,68,deviate,逸脱する,動詞,/ˈdiːvieɪt/,The results deviated from the expected pattern.,結果は予想された傾向から外れた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-4d0f7f57107d,word,4,2,69,devise,考案する,動詞,/dɪˈvaɪz/,Engineers devised a low-cost filter.,技師たちは低価格のフィルターを考案した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-20084f3e0b91,word,4,2,70,dilute,薄める；弱める,動詞,/daɪˈluːt/,The solution was diluted with water.,溶液は水で薄められた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-429f5d860706,word,4,2,71,dismantle,解体する；撤廃する,動詞,/dɪsˈmæntl/,Workers dismantled the damaged structure.,作業員は損傷した構造物を解体した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-da4e8d294263,word,4,2,72,dispel,払いのける；解消する,動詞,/dɪˈspel/,The explanation dispelled her doubts.,説明は彼女の疑念を解消した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d736c1fff710,word,4,2,73,dissent,異議を唱える,動詞,/dɪˈsent/,Two judges dissented from the majority opinion.,二人の裁判官は多数意見に異議を唱えた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-ebf8ac1376fb,word,4,2,74,divulge,漏らす；明かす,動詞,/daɪˈvʌldʒ/,She refused to divulge confidential details.,彼女は秘密の詳細を明かすことを拒んだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-34962290af50,word,4,2,75,domesticate,家畜化する；栽培化する,動詞,/dəˈmestɪkeɪt/,Humans domesticated several wild species.,人間はいくつかの野生種を家畜化した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-72d8d1086323,word,4,2,76,dwell,住む；くよくよ考える,動詞,/dwel/,The essay dwells on the costs of reform.,論文は改革の費用を詳しく論じている。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-bd4df3af2f95,word,4,2,77,elicit,引き出す,動詞,/ɪˈlɪsɪt/,The question elicited an unexpected response.,質問は予想外の反応を引き出した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-d75cf6838a39,word,4,2,78,elude,逃れる；理解されない,動詞,/ɪˈluːd/,A satisfactory explanation still eludes researchers.,十分な説明は今も研究者につかめない。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-1edf21525040,word,4,2,79,emanate,発する；生じる,動詞,/ˈeməneɪt/,A faint light emanated from the device.,弱い光が装置から出ていた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-8c941bffd3df,word,4,2,80,embark,乗り込む；着手する,動詞,/ɪmˈbɑːrk/,The team embarked on a long investigation.,チームは長期の調査に着手した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-e433901cc14e,word,4,2,81,embellish,飾る；話を脚色する,動詞,/ɪmˈbelɪʃ/,He embellished the account with invented details.,彼は架空の細部で話を脚色した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-a9dcfd67af33,word,4,2,82,emulate,見習う；模倣して匹敵しようとする,動詞,/ˈemjuleɪt/,Other schools tried to emulate the program.,他校はその取り組みを見習おうとした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-267be576c25e,word,4,2,83,enact,制定する；演じる,動詞,/ɪˈnækt/,Parliament enacted new privacy legislation.,議会は新しい個人情報保護法を制定した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f4416e27aede,word,4,2,84,encroach,侵入する；侵害する,動詞,/ɪnˈkroʊtʃ/,Development encroached on protected wetlands.,開発が保護湿地に食い込んだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-10001cfe4226,word,4,2,85,endow,授ける；基金を寄付する,動詞,/ɪnˈdaʊ/,The gift endowed the institute with new resources.,寄付は研究所に新たな資源をもたらした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-67c6f0a0741c,word,4,2,86,engrave,刻む；彫る,動詞,/ɪnˈɡreɪv/,Their names were engraved on the monument.,彼らの名前は記念碑に刻まれた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-7a766cd344e6,word,4,2,87,engulf,飲み込む；包み込む,動詞,/ɪnˈɡʌlf/,Smoke engulfed the empty warehouse.,煙が無人の倉庫を包み込んだ。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-b6baead0fdf6,word,4,2,88,enlighten,啓発する；理解を深めさせる,動詞,/ɪnˈlaɪtn/,The discussion enlightened us about the risks.,議論で私たちは危険への理解を深めた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-9e7ef9e260ae,word,4,2,89,enrich,豊かにする,動詞,/ɪnˈrɪtʃ/,Different perspectives enrich the discussion.,異なる視点は議論を豊かにする。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-312a55cc563f,word,4,2,90,entice,誘い込む；誘惑する,動詞,/ɪnˈtaɪs/,The offer enticed customers to subscribe.,その特典は顧客を加入へ誘った。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-0873188c4004,word,4,2,91,entrench,深く根付かせる,動詞,/ɪnˈtrentʃ/,The rules entrenched existing inequalities.,規則は既存の不平等を固定化した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-77edd2cde3c8,word,4,2,92,envisage,思い描く；予想する,動詞,/ɪnˈvɪzɪdʒ/,The planners envisaged a quieter city center.,計画者はより静かな中心街を思い描いた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-5f7b1e71f5ec,word,4,2,93,eradicate,根絶する,動詞,/ɪˈrædɪkeɪt/,The campaign aims to eradicate the disease.,運動はその病気の根絶を目指す。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-f965e5fbf98d,word,4,2,94,escalate,拡大する；激化させる,動詞,/ˈeskəleɪt/,The dispute escalated after the announcement.,争いは発表後に激化した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-252fbd07111a,word,4,2,95,espouse,支持する；信奉する,動詞,/ɪˈspaʊz/,The movement espouses equal access to education.,運動は教育機会の平等を支持する。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-c8e11d434104,word,4,2,96,evade,避ける；逃れる,動詞,/ɪˈveɪd/,The official evaded the direct question.,役人は直接の質問をかわした。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-3bf5a5e1a261,word,4,2,97,exacerbate,悪化させる,動詞,/ɪɡˈzæsərbeɪt/,Drought exacerbated the existing shortage.,干ばつはすでにある不足を悪化させた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-17c88134d7d7,word,4,2,98,excavate,発掘する；掘る,動詞,/ˈekskəveɪt/,Archaeologists excavated the ancient settlement.,考古学者は古代の集落を発掘した。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-344a3011262c,word,4,2,99,exclaim,叫ぶ；声を上げる,動詞,/ɪkˈskleɪm/,She exclaimed in surprise at the discovery.,彼女は発見に驚いて声を上げた。,review_required,false,"[""original-draft-v4""]",not_fully_verified
+word-c-093b0894373d,word,4,2,100,exonerate,無罪を証明する；責任を免れさせる,動詞,/ɪɡˈzɑːnəreɪt/,The evidence exonerated the accused researcher.,証拠は疑われた研究者の潔白を証明した。,review_required,false,"[""original-draft-v4""]",not_fully_verified

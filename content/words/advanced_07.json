@@ -1,0 +1,4881 @@
+[
+  {
+    "english": "acclimate",
+    "pos": "動詞",
+    "pronunciation": "/ˈækləˌmeɪt/",
+    "meaning": "順応する",
+    "example": "The seedlings need time to acclimate.",
+    "translation": "苗が順応するには時間が必要だ。",
+    "explanation": "acclimate toで環境を示す。",
+    "id": "word-c-1de2be1d5a93",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "accredit",
+    "pos": "動詞",
+    "pronunciation": "/əˈkrɛˌdɪt/",
+    "meaning": "認定する",
+    "example": "An independent body will accredit the laboratory.",
+    "translation": "独立機関が研究所を認定する。",
+    "explanation": "基準を満たすと公認すること。",
+    "id": "word-c-e08de16baa4d",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "adulterate",
+    "pos": "動詞",
+    "pronunciation": "/əˈdəltərˌeɪt/",
+    "meaning": "不純物を混ぜる",
+    "example": "Some suppliers adulterate fuel with cheaper liquids.",
+    "translation": "供給業者の中には燃料に安価な液体を混ぜる者がいる。",
+    "explanation": "品質を下げる混ぜ物をすること。",
+    "id": "word-c-15479c0b9a9f",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "afflict",
+    "pos": "動詞",
+    "pronunciation": "/əˈflɪkt/",
+    "meaning": "苦しめる",
+    "example": "Drought continues to afflict the province.",
+    "translation": "干ばつが州を苦しめ続けている。",
+    "explanation": "病気や災害が人を襲うこと。",
+    "id": "word-c-906dbff91cc5",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "allay",
+    "pos": "動詞",
+    "pronunciation": "/əˈleɪ/",
+    "meaning": "和らげる",
+    "example": "The explanation helped allay public fears.",
+    "translation": "説明は市民の不安を和らげるのに役立った。",
+    "explanation": "allay fearsで恐怖を鎮める。",
+    "id": "word-c-e18328df55c7",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "annex",
+    "pos": "動詞",
+    "pronunciation": "/ˈæˌnɛks/",
+    "meaning": "併合する",
+    "example": "The empire sought to annex neighboring territory.",
+    "translation": "帝国は隣の領土を併合しようとした。",
+    "explanation": "領土などを自国に組み込むこと。",
+    "id": "word-c-b119bda4207b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "antagonize",
+    "pos": "動詞",
+    "pronunciation": "/ænˈtægəˌnaɪz/",
+    "meaning": "反感を買う",
+    "example": "The remarks may antagonize potential allies.",
+    "translation": "その発言は味方になりうる人の反感を買うかもしれない。",
+    "explanation": "相手を敵対的にすること。",
+    "id": "word-c-199152a0e208",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "assail",
+    "pos": "動詞",
+    "pronunciation": "/əˈseɪl/",
+    "meaning": "激しく攻撃する",
+    "example": "Critics assailed the government's response.",
+    "translation": "批評家は政府の対応を激しく非難した。",
+    "explanation": "物理攻撃にも厳しい批判にも用いる。",
+    "id": "word-c-d1ba04ae112e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "assuage",
+    "pos": "動詞",
+    "pronunciation": "/əsˈweɪʤ/",
+    "meaning": "和らげる；鎮める",
+    "example": "Extra funding did little to assuage their concerns.",
+    "translation": "追加資金でも彼らの懸念はあまり和らがなかった。",
+    "explanation": "不安や苦痛を弱めること。",
+    "id": "word-c-139d648d4c97",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "attest",
+    "pos": "動詞",
+    "pronunciation": "/əˈtɛst/",
+    "meaning": "証明する；証言する",
+    "example": "Several witnesses can attest to her presence.",
+    "translation": "複数の証人が彼女の在席を証言できる。",
+    "explanation": "attest toで証言する内容。",
+    "id": "word-c-bcc7930764b9",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "atone",
+    "pos": "動詞",
+    "pronunciation": "/əˈtoʊn/",
+    "meaning": "償う",
+    "example": "He volunteered to atone for his misconduct.",
+    "translation": "彼は不正を償おうと志願した。",
+    "explanation": "atone forで過ちを示す。",
+    "id": "word-c-a70d4687057b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "augment",
+    "pos": "動詞",
+    "pronunciation": "/ɔgˈmɛnt/",
+    "meaning": "増やす；増強する",
+    "example": "New equipment will augment production capacity.",
+    "translation": "新設備が生産能力を増強する。",
+    "explanation": "既存の量や能力に付け加えること。",
+    "id": "word-c-5d69825fe9a3",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "balk",
+    "pos": "動詞",
+    "pronunciation": "/bɔk/",
+    "meaning": "ためらう；拒む",
+    "example": "Investors balked at the proposed fees.",
+    "translation": "投資家は提案された手数料に難色を示した。",
+    "explanation": "balk atでためらう対象。",
+    "id": "word-c-d3305800a54d",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "beguile",
+    "pos": "動詞",
+    "pronunciation": "/bɪˈgaɪl/",
+    "meaning": "魅了する；だます",
+    "example": "The island's beauty beguiled visiting artists.",
+    "translation": "島の美しさは訪れた芸術家を魅了した。",
+    "explanation": "魅力で注意や警戒をそらすこと。",
+    "id": "word-c-49e3f9b62773",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "berate",
+    "pos": "動詞",
+    "pronunciation": "/bɪˈreɪt/",
+    "meaning": "激しく叱る",
+    "example": "The supervisor berated staff for minor errors.",
+    "translation": "監督者は些細な誤りで職員を叱責した。",
+    "explanation": "berate someone forで叱る理由。",
+    "id": "word-c-28804af97561",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "beseech",
+    "pos": "動詞",
+    "pronunciation": "/biˈsiʧ/",
+    "meaning": "懇願する",
+    "example": "Residents beseeched officials to repair the bridge.",
+    "translation": "住民は役人に橋の修理を懇願した。",
+    "explanation": "強く切実に頼むこと。",
+    "id": "word-c-318da4dd44e7",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "brandish",
+    "pos": "動詞",
+    "pronunciation": "/ˈbrændɪʃ/",
+    "meaning": "振り回す",
+    "example": "The demonstrator brandished a handwritten sign.",
+    "translation": "デモ参加者は手書きの札を振りかざした。",
+    "explanation": "武器や物を目立つように振ること。",
+    "id": "word-c-0d1e8717e926",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "buttress",
+    "pos": "動詞",
+    "pronunciation": "/ˈbətrəs/",
+    "meaning": "支える；補強する",
+    "example": "New evidence buttressed the original hypothesis.",
+    "translation": "新しい証拠が元の仮説を裏付けた。",
+    "explanation": "物理的にも論理的にも補強する。",
+    "id": "word-c-cb7dd979e8db",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "cajole",
+    "pos": "動詞",
+    "pronunciation": "/kəˈʤoʊl/",
+    "meaning": "うまく言って説得する",
+    "example": "She cajoled the reluctant team into participating.",
+    "translation": "彼女は渋るチームをうまく説得して参加させた。",
+    "explanation": "cajole someone into doingの形。",
+    "id": "word-c-3eed00c3299e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "calibrate",
+    "pos": "動詞",
+    "pronunciation": "/ˈkæləˌbreɪt/",
+    "meaning": "較正する；調整する",
+    "example": "Engineers calibrate the sensors before testing.",
+    "translation": "技師は試験前にセンサーを較正する。",
+    "explanation": "測定基準に合わせて調整すること。",
+    "id": "word-c-3b42f2115d40",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "castigate",
+    "pos": "動詞",
+    "pronunciation": "/ˈkæstəˌgeɪt/",
+    "meaning": "厳しく非難する",
+    "example": "The report castigated officials for negligence.",
+    "translation": "報告書は役人の怠慢を厳しく非難した。",
+    "explanation": "強い公的批判に用いる。",
+    "id": "word-c-32202e9f9fb6",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "censure",
+    "pos": "動詞",
+    "pronunciation": "/ˈsɛnʃər/",
+    "meaning": "非難する；譴責する",
+    "example": "The council censured the mayor's conduct.",
+    "translation": "議会は市長の行動を譴責した。",
+    "explanation": "公式に不賛成を表明すること。",
+    "id": "word-c-037090a2923a",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "chide",
+    "pos": "動詞",
+    "pronunciation": "/ʧaɪd/",
+    "meaning": "叱る",
+    "example": "She gently chided him for interrupting.",
+    "translation": "彼女は話を遮った彼を優しくたしなめた。",
+    "explanation": "chide someone forで叱る理由。",
+    "id": "word-c-b76bd3017482",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "circumscribe",
+    "pos": "動詞",
+    "pronunciation": "/ˌsərkəmˈskraɪb/",
+    "meaning": "制限する",
+    "example": "Strict laws circumscribe the agency's powers.",
+    "translation": "厳格な法律が機関の権限を制限する。",
+    "explanation": "境界を設けて範囲を狭めること。",
+    "id": "word-c-8d53ca6a0adb",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "coalesce",
+    "pos": "動詞",
+    "pronunciation": "/ˌkoʊəˈlɛs/",
+    "meaning": "合体する；まとまる",
+    "example": "Small droplets coalesce into larger drops.",
+    "translation": "小さな水滴が合体して大きくなる。",
+    "explanation": "複数が一つになること。",
+    "id": "word-c-bcbd8c4a0284",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "collude",
+    "pos": "動詞",
+    "pronunciation": "/kəˈlud/",
+    "meaning": "共謀する",
+    "example": "The firms colluded to inflate prices.",
+    "translation": "企業は価格をつり上げるため共謀した。",
+    "explanation": "秘密の不正な協力。",
+    "id": "word-c-350c13ce76ac",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "commingle",
+    "pos": "動詞",
+    "pronunciation": "/kəˈmɪŋgəl/",
+    "meaning": "混ぜ合わせる",
+    "example": "The river waters commingle near the port.",
+    "translation": "二つの川の水が港近くで混じる。",
+    "explanation": "異なるものが混ざり合うこと。",
+    "id": "word-c-ddc620aeb9cb",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "conflate",
+    "pos": "動詞",
+    "pronunciation": "/kənˈfleɪt/",
+    "meaning": "混同する",
+    "example": "The article conflates correlation with causation.",
+    "translation": "記事は相関と因果関係を混同している。",
+    "explanation": "conflate A with Bの形。",
+    "id": "word-c-d3fd5f99fb2f",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "consecrate",
+    "pos": "動詞",
+    "pronunciation": "/ˈkɑnsəˌkreɪt/",
+    "meaning": "聖別する；捧げる",
+    "example": "The chapel was consecrated after restoration.",
+    "translation": "礼拝堂は修復後に聖別された。",
+    "explanation": "宗教上の用途に正式に捧げること。",
+    "id": "word-c-1a498d1c3395",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "contravene",
+    "pos": "動詞",
+    "pronunciation": "/ˈkɑntrəˌvin/",
+    "meaning": "違反する",
+    "example": "The restrictions contravene the trade agreement.",
+    "translation": "その制限は貿易協定に違反する。",
+    "explanation": "法律や原則に反すること。",
+    "id": "word-c-369b7179c03d",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "convulse",
+    "pos": "動詞",
+    "pronunciation": "/kənˈvʌls/",
+    "meaning": "激しく揺さぶる",
+    "example": "The scandal convulsed the political establishment.",
+    "translation": "醜聞が政界を激しく揺さぶった。",
+    "explanation": "けいれんさせる意味からの比喩。",
+    "id": "word-c-74df52191069",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "curtail",
+    "pos": "動詞",
+    "pronunciation": "/kərˈteɪl/",
+    "meaning": "削減する；切り詰める",
+    "example": "Water shortages curtailed agricultural production.",
+    "translation": "水不足が農業生産を制限した。",
+    "explanation": "量や期間を短縮すること。",
+    "id": "word-c-16bb529cb821",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "delineate",
+    "pos": "動詞",
+    "pronunciation": "/dɪˈlɪniˌeɪt/",
+    "meaning": "詳しく示す；輪郭を描く",
+    "example": "The map delineates the proposed reserve.",
+    "translation": "地図は保護区案の範囲を示す。",
+    "explanation": "境界や特徴を明確に記すこと。",
+    "id": "word-c-238bdbf84443",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "demarcate",
+    "pos": "動詞",
+    "pronunciation": "/ˈdiːmɑːrkeɪt/",
+    "meaning": "境界を定める",
+    "example": "Stone markers demarcate the protected area.",
+    "translation": "石標が保護区域の境界を示す。",
+    "explanation": "区域間を明確に区切ること。",
+    "id": "word-c-20bcd7c8d104",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "denounce",
+    "pos": "動詞",
+    "pronunciation": "/dɪˈnaʊns/",
+    "meaning": "公然と非難する",
+    "example": "Rights groups denounced the arrests.",
+    "translation": "人権団体は逮捕を公然と非難した。",
+    "explanation": "不正とみなして強く批判すること。",
+    "id": "word-c-abc8bf03c529",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "depose",
+    "pos": "動詞",
+    "pronunciation": "/dɪˈpoʊz/",
+    "meaning": "退位させる；解任する",
+    "example": "The military deposed the elected leader.",
+    "translation": "軍は選挙で選ばれた指導者を追放した。",
+    "explanation": "権力の座から降ろすこと。",
+    "id": "word-c-f0b4a51dea87",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "desecrate",
+    "pos": "動詞",
+    "pronunciation": "/dɛzəˈkreɪt/",
+    "meaning": "冒涜する",
+    "example": "Vandals desecrated the historic cemetery.",
+    "translation": "破壊者が歴史的墓地を冒涜した。",
+    "explanation": "神聖な場所などを傷つけること。",
+    "id": "word-c-0e174071c567",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "desist",
+    "pos": "動詞",
+    "pronunciation": "/dɪˈzɪst/",
+    "meaning": "やめる",
+    "example": "The company was ordered to desist from dumping.",
+    "translation": "会社は投棄をやめるよう命じられた。",
+    "explanation": "desist from doingの形。",
+    "id": "word-c-8339fe4bf527",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "detract",
+    "pos": "動詞",
+    "pronunciation": "/dɪˈtrækt/",
+    "meaning": "損なう",
+    "example": "Minor flaws do not detract from its value.",
+    "translation": "小さな欠点はその価値を損なわない。",
+    "explanation": "detract fromで価値を下げる対象。",
+    "id": "word-c-6862fcea84b9",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "disavow",
+    "pos": "動詞",
+    "pronunciation": "/ˌdɪsəˈvaʊ/",
+    "meaning": "否認する",
+    "example": "The party disavowed the candidate's comments.",
+    "translation": "党は候補者の発言への関与を否認した。",
+    "explanation": "支持や責任を公然と否定すること。",
+    "id": "word-c-25208f2a89b6",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "disburse",
+    "pos": "動詞",
+    "pronunciation": "/dɪsˈbərs/",
+    "meaning": "支払う；支出する",
+    "example": "The fund will disburse grants next month.",
+    "translation": "基金は来月助成金を支払う。",
+    "explanation": "管理する資金から支出すること。",
+    "id": "word-c-e5da0f74a3ba",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "discredit",
+    "pos": "動詞",
+    "pronunciation": "/dɪˈskrɛdət/",
+    "meaning": "信用を落とす",
+    "example": "The forged document discredited the entire investigation.",
+    "translation": "偽造文書が捜査全体の信用を落とした。",
+    "explanation": "信頼できないと思わせること。",
+    "id": "word-c-c1efcdcebe87",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "disenfranchise",
+    "pos": "動詞",
+    "pronunciation": "/dɪsɪnˈfrænˌʧaɪz/",
+    "meaning": "選挙権を奪う",
+    "example": "The rule could disenfranchise thousands of voters.",
+    "translation": "その規則は数千人の選挙権を奪いかねない。",
+    "explanation": "投票などの権利を奪うこと。",
+    "id": "word-c-463e54a69b4b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "disentangle",
+    "pos": "動詞",
+    "pronunciation": "/ˌdɪsənˈtæŋgəl/",
+    "meaning": "解きほぐす",
+    "example": "Researchers tried to disentangle genetic and environmental effects.",
+    "translation": "研究者は遺伝と環境の影響を区別しようとした。",
+    "explanation": "絡み合ったものを分けること。",
+    "id": "word-c-6d45f96a3da4",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "disparage",
+    "pos": "動詞",
+    "pronunciation": "/dɪˈspɛrɪʤ/",
+    "meaning": "けなす",
+    "example": "He refused to disparage his competitors.",
+    "translation": "彼は競争相手をけなすことを拒んだ。",
+    "explanation": "価値が低いと述べること。",
+    "id": "word-c-561da66f2653",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "disseminate",
+    "pos": "動詞",
+    "pronunciation": "/dɪˈsɛməˌneɪt/",
+    "meaning": "広める；普及させる",
+    "example": "Libraries disseminate reliable scientific information.",
+    "translation": "図書館は信頼できる科学情報を広める。",
+    "explanation": "情報や知識を広く伝えること。",
+    "id": "word-c-f064817d5255",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "dissuade",
+    "pos": "動詞",
+    "pronunciation": "/dɪsˈweɪd/",
+    "meaning": "思いとどまらせる",
+    "example": "The warning dissuaded hikers from proceeding.",
+    "translation": "警告が登山者の前進を思いとどまらせた。",
+    "explanation": "dissuade someone from doingの形。",
+    "id": "word-c-e13e7a8258d8",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "divest",
+    "pos": "動詞",
+    "pronunciation": "/dɪˈvɛst/",
+    "meaning": "手放す；奪う",
+    "example": "The fund plans to divest its coal holdings.",
+    "translation": "基金は石炭関連の保有資産を売却する予定だ。",
+    "explanation": "資産を処分する意味でも使う。",
+    "id": "word-c-7dde03bb54b9",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "embitter",
+    "pos": "動詞",
+    "pronunciation": "/ɛmˈbɪtər/",
+    "meaning": "憤慨させる",
+    "example": "Years of rejection embittered the inventor.",
+    "translation": "長年の拒絶が発明家を憤らせた。",
+    "explanation": "不満や恨みを募らせること。",
+    "id": "word-c-5e0b2c400097",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "embezzle",
+    "pos": "動詞",
+    "pronunciation": "/ɪmˈbɛzəl/",
+    "meaning": "横領する",
+    "example": "The treasurer embezzled money from the charity.",
+    "translation": "会計担当者が慈善団体の金を横領した。",
+    "explanation": "預かった金を不正に自分のものにする。",
+    "id": "word-c-392163429805",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "embroil",
+    "pos": "動詞",
+    "pronunciation": "/ɛmˈbrɔɪl/",
+    "meaning": "巻き込む",
+    "example": "The accusation embroiled her in controversy.",
+    "translation": "告発は彼女を論争に巻き込んだ。",
+    "explanation": "embroil someone inで問題を示す。",
+    "id": "word-c-e36810ccd012",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "encompass",
+    "pos": "動詞",
+    "pronunciation": "/ɛnˈkəmpəs/",
+    "meaning": "包含する；取り囲む",
+    "example": "The curriculum encompasses science and ethics.",
+    "translation": "課程は科学と倫理を含む。",
+    "explanation": "幅広い範囲を含むこと。",
+    "id": "word-c-2682e7ec264e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "enervate",
+    "pos": "動詞",
+    "pronunciation": "/ˈɛnərveɪt/",
+    "meaning": "衰弱させる",
+    "example": "The relentless heat enervated the workers.",
+    "translation": "容赦ない暑さが労働者を衰弱させた。",
+    "explanation": "活力を与える意味ではない。",
+    "id": "word-c-472fc88641b3",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "enjoin",
+    "pos": "動詞",
+    "pronunciation": "/ˌɛnˈʤɔɪn/",
+    "meaning": "命じる；差し止める",
+    "example": "The court enjoined the company from building.",
+    "translation": "裁判所は会社の建設を差し止めた。",
+    "explanation": "法的禁止や正式な命令。",
+    "id": "word-c-c73a2a016bee",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "enumerate",
+    "pos": "動詞",
+    "pronunciation": "/ɪˈnumərˌeɪt/",
+    "meaning": "列挙する",
+    "example": "The report enumerates the remaining obstacles.",
+    "translation": "報告書は残る障害を列挙する。",
+    "explanation": "一つずつ順に挙げること。",
+    "id": "word-c-94826c502928",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "equate",
+    "pos": "動詞",
+    "pronunciation": "/ɪkˈweɪt/",
+    "meaning": "同一視する",
+    "example": "We should not equate wealth with happiness.",
+    "translation": "富と幸福を同一視すべきでない。",
+    "explanation": "equate A with Bの形。",
+    "id": "word-c-bb273c8b6346",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "equivocate",
+    "pos": "動詞",
+    "pronunciation": "/ɪkˈwɪvəˌkeɪt/",
+    "meaning": "曖昧な言い方をする",
+    "example": "The spokesperson equivocated when asked about costs.",
+    "translation": "報道官は費用を聞かれて言葉を濁した。",
+    "explanation": "明言を避けて曖昧に答えること。",
+    "id": "word-c-22ae99e2004b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "eschew",
+    "pos": "動詞",
+    "pronunciation": "/ɛsˈʧu/",
+    "meaning": "避ける",
+    "example": "The designer eschewed unnecessary decoration.",
+    "translation": "設計者は不要な装飾を避けた。",
+    "explanation": "意識的に採用しないこと。",
+    "id": "word-c-2a0069320513",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "exasperate",
+    "pos": "動詞",
+    "pronunciation": "/ɪgˈzæspərˌeɪt/",
+    "meaning": "いら立たせる",
+    "example": "Repeated delays exasperated the passengers.",
+    "translation": "繰り返す遅延が乗客をいら立たせた。",
+    "explanation": "強くいらいらさせること。",
+    "id": "word-c-bd52179b7c8d",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "expropriate",
+    "pos": "動詞",
+    "pronunciation": "/ɛkˈsproʊpriˌeɪt/",
+    "meaning": "収用する",
+    "example": "The state expropriated land for the railway.",
+    "translation": "国は鉄道用に土地を収用した。",
+    "explanation": "公権力で財産を取得すること。",
+    "id": "word-c-f965406cfd01",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "extenuate",
+    "pos": "動詞",
+    "pronunciation": "/ɪkˈstɛnjuˌeɪt/",
+    "meaning": "情状酌量の余地を与える",
+    "example": "Severe hardship may extenuate the offense.",
+    "translation": "厳しい困窮は罪の情状酌量理由になりうる。",
+    "explanation": "罪の重さを軽く評価させること。",
+    "id": "word-c-b97454a3b6b8",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "extrapolate",
+    "pos": "動詞",
+    "pronunciation": "/ɛkˈstræpəˌleɪt/",
+    "meaning": "外挿する；推測する",
+    "example": "Researchers extrapolated future demand from past trends.",
+    "translation": "研究者は過去の傾向から将来の需要を推測した。",
+    "explanation": "既知の範囲から外へ推定すること。",
+    "id": "word-c-4808175c4b06",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "foment",
+    "pos": "動詞",
+    "pronunciation": "/ˈfoʊmɛnt/",
+    "meaning": "扇動する",
+    "example": "False reports fomented unrest in the city.",
+    "translation": "虚偽の報道が都市の不安をあおった。",
+    "explanation": "騒動や不和を意図的に起こすこと。",
+    "id": "word-c-275b35853ca1",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "forestall",
+    "pos": "動詞",
+    "pronunciation": "/fɔrˈstɔl/",
+    "meaning": "未然に防ぐ",
+    "example": "Early repairs forestalled a costly breakdown.",
+    "translation": "早期修理が高額な故障を未然に防いだ。",
+    "explanation": "先手を打って阻止すること。",
+    "id": "word-c-2c5840abdfd7",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "forsake",
+    "pos": "動詞",
+    "pronunciation": "/fɔrˈseɪk/",
+    "meaning": "見捨てる；捨て去る",
+    "example": "She refused to forsake her principles.",
+    "translation": "彼女は信念を捨てることを拒んだ。",
+    "explanation": "大切だったものを放棄すること。",
+    "id": "word-c-8864d7816bab",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "goad",
+    "pos": "動詞",
+    "pronunciation": "/goʊd/",
+    "meaning": "駆り立てる",
+    "example": "Rivals goaded him into a reckless response.",
+    "translation": "競争相手が彼をあおり無謀な反応をさせた。",
+    "explanation": "goad someone into doingの形。",
+    "id": "word-c-143c30fe162d",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "grapple",
+    "pos": "動詞",
+    "pronunciation": "/ˈgræpəl/",
+    "meaning": "取り組む；組み合う",
+    "example": "Cities grapple with rising housing costs.",
+    "translation": "都市は住宅費高騰に取り組んでいる。",
+    "explanation": "grapple withで難問に取り組む。",
+    "id": "word-c-553bb2e6c888",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "harangue",
+    "pos": "動詞",
+    "pronunciation": "/həræŋ/",
+    "meaning": "長々と説教する",
+    "example": "The speaker harangued the audience for an hour.",
+    "translation": "演説者は聴衆に一時間も説教した。",
+    "explanation": "強い調子で長々と語ること。",
+    "id": "word-c-bf64c4598293",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "hone",
+    "pos": "動詞",
+    "pronunciation": "/hoʊn/",
+    "meaning": "磨く；研ぐ",
+    "example": "Debates helped hone her analytical skills.",
+    "translation": "討論は彼女の分析力を磨いた。",
+    "explanation": "技能を洗練する比喩にも用いる。",
+    "id": "word-c-6528f84b7b86",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "impart",
+    "pos": "動詞",
+    "pronunciation": "/ˌɪmˈpɑrt/",
+    "meaning": "伝える；与える",
+    "example": "The coating imparts strength to the fibers.",
+    "translation": "被膜は繊維に強度を与える。",
+    "explanation": "impart A to Bで与える対象を示す。",
+    "id": "word-c-6d752323519c",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "impeach",
+    "pos": "動詞",
+    "pronunciation": "/ˌɪmˈpiʧ/",
+    "meaning": "弾劾する",
+    "example": "Lawmakers voted to impeach the president.",
+    "translation": "議員は大統領の弾劾を決議した。",
+    "explanation": "公職者への正式な訴追。",
+    "id": "word-c-0e6e13fc914b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "implicate",
+    "pos": "動詞",
+    "pronunciation": "/ˈɪmplɪˌkeɪt/",
+    "meaning": "関与を示す",
+    "example": "The documents implicated senior officials in fraud.",
+    "translation": "文書は高官の詐欺への関与を示した。",
+    "explanation": "implicate someone inで事件を示す。",
+    "id": "word-c-c5e43d9f729e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "impound",
+    "pos": "動詞",
+    "pronunciation": "/ˌɪmˈpaʊnd/",
+    "meaning": "押収する；留置する",
+    "example": "Police impounded the illegally parked vehicles.",
+    "translation": "警察は違法駐車の車両を押収した。",
+    "explanation": "法的権限で物を保管すること。",
+    "id": "word-c-2eb9bf2442c9",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "impute",
+    "pos": "動詞",
+    "pronunciation": "/ˌɪmˈpjut/",
+    "meaning": "帰する；負わせる",
+    "example": "Critics imputed the failure to poor planning.",
+    "translation": "批評家は失敗を計画不備のせいにした。",
+    "explanation": "impute A to Bで原因や責任を帰す。",
+    "id": "word-c-deacaabb0917",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "incarcerate",
+    "pos": "動詞",
+    "pronunciation": "/ˌɪnˈkɑrsərˌeɪt/",
+    "meaning": "投獄する",
+    "example": "The regime incarcerated political opponents.",
+    "translation": "政権は政治的反対者を投獄した。",
+    "explanation": "刑務所に収容すること。",
+    "id": "word-c-ccc362114ce2",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "inculcate",
+    "pos": "動詞",
+    "pronunciation": "/ˈɪŋkəlˌkeɪt/",
+    "meaning": "教え込む",
+    "example": "The program inculcates respect for evidence.",
+    "translation": "その教育課程は証拠を尊重する姿勢を教え込む。",
+    "explanation": "繰り返して考えを身につけさせる。",
+    "id": "word-c-16b35a9e5697",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "inundate",
+    "pos": "動詞",
+    "pronunciation": "/ˈɪnənˌdeɪt/",
+    "meaning": "殺到させる；水浸しにする",
+    "example": "Applications inundated the small office.",
+    "translation": "申請が小さな事務所に殺到した。",
+    "explanation": "大量のものが押し寄せること。",
+    "id": "word-c-ffe780def7b4",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "interject",
+    "pos": "動詞",
+    "pronunciation": "/ˌɪntərˈʤɛkt/",
+    "meaning": "口を挟む",
+    "example": "She interjected a brief correction.",
+    "translation": "彼女は短い訂正を挟んだ。",
+    "explanation": "会話の途中に発言すること。",
+    "id": "word-c-e583be9f97cd",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "juxtapose",
+    "pos": "動詞",
+    "pronunciation": "/ˌʤəkstəˈpoʊz/",
+    "meaning": "並べて比較する",
+    "example": "The exhibition juxtaposes ancient and modern tools.",
+    "translation": "展示は古代と現代の道具を並べて対比する。",
+    "explanation": "違いを示すため並置すること。",
+    "id": "word-c-3f14ddc3af3b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "laud",
+    "pos": "動詞",
+    "pronunciation": "/lɔd/",
+    "meaning": "称賛する",
+    "example": "Reviewers lauded the book's clarity.",
+    "translation": "評者は本の明快さを称賛した。",
+    "explanation": "公に高く評価すること。",
+    "id": "word-c-4c384d0c28c1",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "malign",
+    "pos": "動詞",
+    "pronunciation": "/məˈlaɪn/",
+    "meaning": "中傷する",
+    "example": "Anonymous posts maligned the researcher.",
+    "translation": "匿名投稿が研究者を中傷した。",
+    "explanation": "悪意で評判を傷つけること。",
+    "id": "word-c-660eaa642626",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "meander",
+    "pos": "動詞",
+    "pronunciation": "/miˈændər/",
+    "meaning": "曲がりくねる",
+    "example": "The river meanders through the marsh.",
+    "translation": "川は湿地を曲がりくねって流れる。",
+    "explanation": "話が脱線する意味にも使う。",
+    "id": "word-c-0eef8dafd246",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "nullify",
+    "pos": "動詞",
+    "pronunciation": "/ˈnələˌfaɪ/",
+    "meaning": "無効にする",
+    "example": "The court nullified the disputed contract.",
+    "translation": "裁判所は争われた契約を無効にした。",
+    "explanation": "効力や効果を失わせること。",
+    "id": "word-c-6230942d6ad3",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "obfuscate",
+    "pos": "動詞",
+    "pronunciation": "/ˈɑbfəˌskeɪt/",
+    "meaning": "分かりにくくする",
+    "example": "Technical jargon can obfuscate simple ideas.",
+    "translation": "専門用語は単純な考えを分かりにくくしうる。",
+    "explanation": "意図的に曖昧にする含み。",
+    "id": "word-c-03dcfea2969c",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "obliterate",
+    "pos": "動詞",
+    "pronunciation": "/əˈblɪtərˌeɪt/",
+    "meaning": "消し去る；破壊する",
+    "example": "The eruption obliterated the village.",
+    "translation": "噴火は村を跡形なく破壊した。",
+    "explanation": "痕跡がなくなるほど除くこと。",
+    "id": "word-c-d7043b5eaa38",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "obviate",
+    "pos": "動詞",
+    "pronunciation": "/ˈɑbviˌeɪt/",
+    "meaning": "不要にする；取り除く",
+    "example": "Automation obviates the need for manual entry.",
+    "translation": "自動化で手入力が不要になる。",
+    "explanation": "必要性そのものを取り去ること。",
+    "id": "word-c-24e9c0aee48d",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "pacify",
+    "pos": "動詞",
+    "pronunciation": "/ˈpæsəˌfaɪ/",
+    "meaning": "なだめる；鎮圧する",
+    "example": "The announcement failed to pacify the crowd.",
+    "translation": "発表は群衆をなだめられなかった。",
+    "explanation": "怒りや騒動を鎮めること。",
+    "id": "word-c-39064dfd3da4",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "peruse",
+    "pos": "動詞",
+    "pronunciation": "/pəruz/",
+    "meaning": "熟読する；目を通す",
+    "example": "She perused the contract before signing.",
+    "translation": "彼女は署名前に契約書を読んだ。",
+    "explanation": "文書を注意して読む文脈が多い。",
+    "id": "word-c-c3c7c43df7c3",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "placate",
+    "pos": "動詞",
+    "pronunciation": "/ˈpleɪkeɪt/",
+    "meaning": "なだめる",
+    "example": "A refund helped placate dissatisfied customers.",
+    "translation": "返金が不満客をなだめるのに役立った。",
+    "explanation": "相手の怒りを和らげること。",
+    "id": "word-c-1ce95053cafa",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "preempt",
+    "pos": "動詞",
+    "pronunciation": "/priɛmpt/",
+    "meaning": "先手を打つ；未然に防ぐ",
+    "example": "The announcement preempted further speculation.",
+    "translation": "発表はそれ以上の憶測を先回りして防いだ。",
+    "explanation": "他の動きに先んじて行うこと。",
+    "id": "word-c-1f460cca89e9",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "presage",
+    "pos": "動詞",
+    "pronunciation": "/ˈprɛsɪʤ/",
+    "meaning": "前兆となる",
+    "example": "Dark clouds presaged a violent storm.",
+    "translation": "暗雲は激しい嵐の前兆だった。",
+    "explanation": "後の出来事を予告すること。",
+    "id": "word-c-8259b63d6533",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "relegate",
+    "pos": "動詞",
+    "pronunciation": "/ˈrɛləˌgeɪt/",
+    "meaning": "格下げする；追いやる",
+    "example": "The revision relegated the issue to a footnote.",
+    "translation": "改訂はその問題を脚注へ追いやった。",
+    "explanation": "relegate A to Bで低い地位へ。",
+    "id": "word-c-4b0f096ff7ac",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "repudiate",
+    "pos": "動詞",
+    "pronunciation": "/riˈpjudiˌeɪt/",
+    "meaning": "否認する；拒絶する",
+    "example": "The author repudiated the racist interpretation.",
+    "translation": "著者は人種差別的解釈を否定した。",
+    "explanation": "主張や関係を強く拒むこと。",
+    "id": "word-c-fafc53924a74",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "rescind",
+    "pos": "動詞",
+    "pronunciation": "/rɪˈsɪnd/",
+    "meaning": "撤回する；廃止する",
+    "example": "The board rescinded the unpopular rule.",
+    "translation": "理事会は不評の規則を撤回した。",
+    "explanation": "正式な決定の効力を取り消す。",
+    "id": "word-c-f5524e47e2c3",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "ruminate",
+    "pos": "動詞",
+    "pronunciation": "/ˈrumɪˌneɪt/",
+    "meaning": "思い巡らす；反芻する",
+    "example": "He ruminated on the unexpected criticism.",
+    "translation": "彼は予期せぬ批判を思い巡らした。",
+    "explanation": "ruminate onで考える対象。",
+    "id": "word-c-234150847b18",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "supplant",
+    "pos": "動詞",
+    "pronunciation": "/səˈplænt/",
+    "meaning": "取って代わる",
+    "example": "Digital records supplanted paper files.",
+    "translation": "電子記録が紙の書類に取って代わった。",
+    "explanation": "既存のものを押しのけて代わる。",
+    "id": "word-c-850aee9e61f2",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "usurp",
+    "pos": "動詞",
+    "pronunciation": "/ˌjuˈsərp/",
+    "meaning": "奪う；横取りする",
+    "example": "The general usurped the civilian government's powers.",
+    "translation": "将軍は文民政府の権力を奪った。",
+    "explanation": "正当な権限なく奪取すること。",
+    "id": "word-c-2cfc03b514a6",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "absolve",
+    "pos": "動詞",
+    "pronunciation": "/əbˈzɑlv/",
+    "meaning": "免責する；赦免する",
+    "example": "The ruling did not absolve managers of responsibility.",
+    "translation": "判決は経営者の責任を免除しなかった。",
+    "explanation": "absolve A of Bで責任を免れさせる。",
+    "id": "word-c-3d63d73e5a6a",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "abrogate",
+    "pos": "動詞",
+    "pronunciation": "/ˈæbrəˌgeɪt/",
+    "meaning": "廃止する；破棄する",
+    "example": "The government abrogated the outdated treaty.",
+    "translation": "政府は時代遅れの条約を破棄した。",
+    "explanation": "法律や条約を正式に無効にする。",
+    "id": "word-c-17958f4ae317",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "apportion",
+    "pos": "動詞",
+    "pronunciation": "/əˈpɔrʃən/",
+    "meaning": "割り当てる；分配する",
+    "example": "The panel apportioned costs among the partners.",
+    "translation": "委員団は費用を協力者間で分配した。",
+    "explanation": "一定の割合に応じて配分する。",
+    "id": "word-c-592560c7b5e4",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  }
+]

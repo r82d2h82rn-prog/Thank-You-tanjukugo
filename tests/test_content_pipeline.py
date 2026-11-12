@@ -2,6 +2,9 @@ import contextlib, csv, hashlib, io, json, pathlib, sys, tempfile, unittest
 sys.path.insert(0,str(pathlib.Path(__file__).resolve().parents[1]/'scripts'))
 from content_pipeline import audit, import_candidates, validate_reading, validate_provenance, validate_entry, write_json, write_csv, read_csv
 from analyze_corpus import analyze, phrase_hits, tokens
+from import_official_lists import parse_list, ingest
+from import_authored_words import ingest as ingest_authored
+from build_word_plan import build as build_plan
 class PipelineTests(unittest.TestCase):
     def setUp(self):
         self.tmp=tempfile.TemporaryDirectory(); self.addCleanup(self.tmp.cleanup); self.root=pathlib.Path(self.tmp.name)
@@ -25,13 +28,45 @@ class PipelineTests(unittest.TestCase):
     def test_existing_data_and_new_drafts_have_unique_identity_and_complete_structure(self):
         project=pathlib.Path(__file__).resolve().parents[1]
         samples=json.loads((project/'src/data/entries.json').read_text()); drafts=json.loads((project/'content/words/drafts.json').read_text())
-        self.assertEqual(len(drafts),100); self.assertEqual(len({e['id'] for e in samples+drafts}),250)
-        self.assertEqual(len({e['english'] for e in samples+drafts if e['kind']=='word'}),200)
-        self.assertEqual([e['number'] for e in drafts],list(range(1,101)))
+        self.assertGreaterEqual(len(drafts),500); self.assertEqual(len({e['id'] for e in samples+drafts}),len(samples)+len(drafts))
+        self.assertEqual(len({e['english'] for e in samples+drafts if e['kind']=='word'}),100+len(drafts))
+        protected=json.loads((project/'tests/fixtures/protected_word_ids.json').read_text()); by_id={e['id']:e['english'] for e in drafts}
+        self.assertTrue(all(by_id.get(key)==value for key,value in protected.items()))
+        for level,section_number in sorted({(e['level'],e['section']) for e in drafts}):
+            section=[e for e in drafts if e['level']==level and e['section']==section_number]
+            self.assertEqual([e['number'] for e in section],list(range(1,101)))
+            order={'動詞':0,'名詞':1,'形容詞':2,'副詞':3,'接続詞':4,'前置詞':4,'代名詞':4,'助動詞':4,'その他':4}
+            self.assertEqual([order[e['pos']] for e in section], sorted(order[e['pos']] for e in section))
         sources={s['id']:s for s in json.loads((project/'content/sources.json').read_text())}; seen=set()
         for entry in drafts:
             self.assertEqual(validate_entry(entry,sources,seen,require_approval=False),[])
             self.assertFalse(entry['content']['humanReviewed']); self.assertFalse(entry['content']['productionApproved']); self.assertIsNone(entry['content']['examFrequency'])
+    def test_full_word_plan_is_only_a_proposal_and_preserves_authored_ids(self):
+        import shutil
+        project=pathlib.Path(__file__).resolve().parents[1]
+        for path in ['content/word_candidates.csv','content/words/drafts.json','src/data/entries.json']:
+            shutil.copy(project/path,self.root/path)
+        result=build_plan(self.root);rows=read_csv(self.root/'content/word_adoption_plan.csv')
+        self.assertEqual(result['proposedCounts'],[800,900,1200,1000])
+        self.assertEqual([a+b for a,b in zip(result['unwrittenCounts'],result['authoredCounts'])],[800,900,1200,1000])
+        self.assertEqual(len(rows),3900);self.assertEqual(len({r['id'] for r in rows}),3900)
+        drafts=json.loads((project/'content/words/drafts.json').read_text());planned={r['lemma']:r for r in rows}
+        self.assertTrue(all(planned[e['english']]['id']==e['id'] for e in drafts))
+        self.assertTrue(all(r['production_approved']=='false' and r['human_reviewed']=='false' and not r['exam_frequency'] for r in rows))
+        self.assertNotIn('apple',planned);self.assertNotIn('be',planned);self.assertNotIn('have',planned)
+        self.assertEqual(json.loads((self.root/'content/words/approved.json').read_text()),[])
+    def test_reimporting_authored_words_does_not_duplicate_or_overwrite_them(self):
+        import shutil
+        project=pathlib.Path(__file__).resolve().parents[1]
+        for path in ['content/word_candidates.csv','content/words/drafts.json','src/data/entries.json','content/sources.json']:
+            shutil.copy(project/path,self.root/path)
+        before=(self.root/'content/words/drafts.json').read_bytes()
+        result=ingest_authored(project/'content/authoring/word_batch_20261112.tsv',self.root)
+        self.assertEqual(result['added'],0);self.assertEqual(before,(self.root/'content/words/drafts.json').read_bytes())
+        text=(project/'content/authoring/word_batch_20261112.tsv').read_text().replace('We enjoyed watching the boats return to the harbor.','Changed existing text.')
+        (self.root/'changed.tsv').write_text(text)
+        with self.assertRaises(ValueError):ingest_authored(self.root/'changed.tsv',self.root)
+        self.assertEqual(before,(self.root/'content/words/drafts.json').read_bytes())
     def test_unknown_permission_rejects_candidate_import(self):
         self.source['candidateExtraction']='unknown'; write_json(self.root/'content/sources.json',[self.source]); (self.root/'input.csv').write_text('lemma,rank\ndevelop,1\n')
         with self.assertRaises(ValueError): import_candidates(self.root/'input.csv','fixture','word',self.root)
@@ -44,6 +79,33 @@ class PipelineTests(unittest.TestCase):
         row=read_csv(self.root/'content/word_candidates.csv')[0]
         self.assertEqual(set(json.loads(row['source_ranks'])),{'fixture','fixture2'})
         self.assertEqual(row['exam_frequency'],'')
+    def test_accented_english_is_not_corrupted_or_merged_with_unaccented_forms(self):
+        (self.root/'content/word_candidates.csv').unlink()
+        (self.root/'input.csv').write_text('lemma,rank\nrésumé,1\nre\u0301sume\u0301,1\nresume,2\n',encoding='utf-8')
+        self.assertEqual(import_candidates(self.root/'input.csv','fixture','word',self.root),2)
+        self.assertEqual({r['lemma'] for r in read_csv(self.root/'content/word_candidates.csv')},{'résumé','resume'})
+    def test_upstream_hash_encoding_and_alphabetical_order_are_explicit(self):
+        data='Word,Rank\nrésumé,26\ncafé,55\n'.encode('cp1252')
+        spec={'sourceId':'fixture','sha256':hashlib.sha256(data).hexdigest(),'format':'csv','encoding':'cp1252','lemmaColumn':'Word','rankColumn':'Rank','observedRows':2}
+        self.assertEqual(parse_list(data,spec),[{'lemma':'résumé','rank':'26'},{'lemma':'café','rank':'55'}])
+        with self.assertRaises(ValueError): parse_list(data+b'changed',spec)
+        data=b'A description\nReferences\nAuthor.\n\nabsorb\naccelerate\n'
+        spec.update(sha256=hashlib.sha256(data).hexdigest(),format='alphabetized_text',encoding='utf-8',firstLemma='absorb')
+        self.assertEqual(parse_list(data,spec),[{'lemma':'absorb','rank':''},{'lemma':'accelerate','rank':''}])
+    def test_official_import_is_idempotent_and_never_auto_assigns_exam_frequency(self):
+        project=pathlib.Path(__file__).resolve().parents[1]
+        import shutil
+        for folder in ['upstream']:
+            shutil.copytree(project/'content'/folder,self.root/'content'/folder)
+        shutil.copy(project/'content/sources.json',self.root/'content/sources.json')
+        shutil.copy(project/'content/word_candidates.csv',self.root/'content/word_candidates.csv')
+        first=ingest(self.root); before=(self.root/'content/word_candidates.csv').read_bytes(); second=ingest(self.root)
+        self.assertEqual(before,(self.root/'content/word_candidates.csv').read_bytes())
+        self.assertEqual(first['uniqueOfficialCandidates'],5619)
+        rows={r['lemma']:r for r in read_csv(self.root/'content/word_candidates.csv')}
+        self.assertEqual(json.loads(rows['absorb']['source_ranks'])['nawl']['rank'],None)
+        self.assertEqual(rows['be']['status'],'不採用')
+        self.assertTrue(all(r['exam_frequency']=='' for r in rows.values()))
     def test_no_permission_means_no_analysis_not_invented_frequency(self):
         self.exam(analysis_permission='unknown')
         result=analyze(self.root); self.assertEqual(result['examCount'],0); self.assertIsNone(result['confirmedIdiomCount'])

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Content tooling. No remote corpus/body downloads; permission checks precede ingestion."""
-import argparse, collections, csv, datetime, hashlib, json, pathlib, re, sys, urllib.request, urllib.error
+import argparse, collections, csv, datetime, hashlib, json, pathlib, re, sys, unicodedata, urllib.request, urllib.error
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 TARGETS = {'word': [800,900,1200,1000], 'idiom': [300,500,700,500], 'reading':[100]*4}
 NOW = lambda: datetime.datetime.now(datetime.timezone.utc).isoformat()
@@ -10,9 +10,9 @@ def read_csv(path):
     with path.open(encoding='utf-8-sig', newline='') as file: return list(csv.DictReader(file))
 def write_csv(path, rows, fields):
     path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open('w',newline='') as f:
-        writer=csv.DictWriter(f,fieldnames=fields); writer.writeheader(); writer.writerows(rows)
-def normalized(text): return re.sub(r'\s+',' ',text.strip().casefold().replace('’',"'"))
+    with path.open('w',encoding='utf-8',newline='') as f:
+        writer=csv.DictWriter(f,fieldnames=fields,lineterminator='\n'); writer.writeheader(); writer.writerows(rows)
+def normalized(text): return re.sub(r'\s+',' ',unicodedata.normalize('NFC',text).strip().casefold().replace('’',"'"))
 def probe_sources(root=ROOT):
     """Only inspect one landing page per host. Never automatically fetch linked material."""
     sources=read_json(root/'content/sources.json'); observations={}
@@ -40,7 +40,7 @@ def import_candidates(path, source_id, kind, root=ROOT):
     merged={normalized(row['lemma']):row for row in rows}
     for item in read_csv(path):
         lemma=normalized(item.get('lemma') or item.get('word') or '')
-        if not lemma or not re.fullmatch(r"[a-z]+(?:[-' ][a-z]+)*",lemma): raise ValueError('見出し語が不正です')
+        if not lemma or not re.fullmatch(r"[a-zà-öø-ÿ]+(?:[-' ][a-zà-öø-ÿ]+)*",lemma): raise ValueError('見出し語が不正です')
         rank=item.get('rank','')
         if rank and (not rank.isdigit() or int(rank)<1): raise ValueError('順位が不正です')
         row=merged.setdefault(lemma,{'lemma':lemma,'source_ranks':'{}','status':'要確認','proposed_level':'','level_basis':'','exam_frequency':'','adoption_reason':'','provenance_source_ids':'[]'})
@@ -140,14 +140,32 @@ def audit(root=ROOT, release=False):
     for kind,folder in [('word','words'),('idiom','idioms')]:
         path=root/f'content/{folder}/drafts.json'
         drafts=read_json(path) if path.exists() else []
+        if kind=='word' and (root/'content/words/selection.json').exists():
+            from word_catalog import authored_catalog
+            drafts=authored_catalog(root)
         draft_counts[kind]=[sum(e.get('level')==l for e in drafts) for l in range(1,5)]
         for entry in drafts:
             issues.extend({'id':entry.get('id'),'error':error} for error in validate_entry(entry,sources,draft_seen,require_approval=False))
             draft_review+=not entry.get('content',{}).get('humanReviewed',False)
+    reading_path=root/'content/readings/drafts.json'
+    reading_drafts=read_json(reading_path) if reading_path.exists() else []
+    draft_counts['reading']=[sum(p.get('level')==l for p in reading_drafts) for l in range(1,5)]
+    for entry in reading_drafts:
+        errors=validate_reading(entry)+validate_provenance(entry.get('content',{}),sources,False)
+        if entry.get('id') in draft_seen:errors.append('duplicate draft reading id')
+        draft_seen.add(entry.get('id'))
+        label=('reading',normalized(' '.join(p.get('english','') for p in entry.get('paragraphs',[]))))
+        if label in labels:errors.append('duplicate reading text')
+        labels.add(label)
+        issues.extend({'id':entry.get('id'),'error':error} for error in errors)
+        draft_review+=not entry.get('content',{}).get('humanReviewed',False)
     samples=read_json(root/'src/data/entries.json'); metadata=read_json(root/'content/provenance.json')
     for e in samples:
         if e['id'] not in metadata: issues.append({'id':e['id'],'error':'sample provenance missing'})
-    report={'checkedAt':NOW(),'mode':'release' if release else 'development','approvedCounts':counts,'requiredCounts':TARGETS,'remaining':gaps,'draftCounts':draft_counts,'sampleCounts':dict(collections.Counter(e['kind'] for e in samples)),'humanReviewPending':draft_review+sum(not m.get('humanReviewed') for m in metadata.values()),'issues':issues,'releaseReady':not issues and counts==TARGETS}
+        elif e['id'] not in seen:
+            issues.extend({'id':e['id'],'error':error} for error in validate_entry({**e,'content':metadata[e['id']]},sources,draft_seen,require_approval=False))
+    sample_counts=dict(collections.Counter(e['kind'] for e in samples))
+    report={'checkedAt':NOW(),'mode':'release' if release else 'development','approvedCounts':counts,'requiredCounts':TARGETS,'remaining':gaps,'draftCounts':draft_counts,'sampleCounts':sample_counts,'structurallyCheckedCounts':{kind:sum(counts[kind])+sum(draft_counts.get(kind,[]))+sample_counts.get(kind,0) for kind in TARGETS},'humanReviewPending':draft_review+sum(not m.get('humanReviewed') for m in metadata.values()),'issues':issues,'releaseReady':not issues and counts==TARGETS}
     write_json(root/('analysis/release_audit.json' if release else 'analysis/content_audit.json'),report)
     print(json.dumps(report,ensure_ascii=False,indent=2)); return not issues
 

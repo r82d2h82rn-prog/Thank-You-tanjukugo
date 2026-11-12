@@ -1,0 +1,10 @@
+import base from '../../content/words/reselected_additions.json';
+import batch0 from '../../content/words/advanced_02.json';
+import batch1 from '../../content/words/advanced_03.json';
+import batch2 from '../../content/words/advanced_04.json';
+import batch3 from '../../content/words/advanced_05.json';
+import batch4 from '../../content/words/advanced_06.json';
+import batch5 from '../../content/words/advanced_07.json';
+import batch6 from '../../content/words/advanced_08.json';
+import batch7 from '../../content/words/advanced_09.json';
+export const authoredAdditions = [...base, ...batch0, ...batch1, ...batch2, ...batch3, ...batch4, ...batch5, ...batch6, ...batch7];

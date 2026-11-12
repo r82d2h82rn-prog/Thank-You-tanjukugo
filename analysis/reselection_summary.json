@@ -1,0 +1,20 @@
+{
+  "updatedAt": "2026-11-12T06:17:03.619155+00:00",
+  "selectedWordCounts": [
+    800,
+    900,
+    1200,
+    1000
+  ],
+  "authoredUniqueWords": 4000,
+  "activeWords": 3900,
+  "reservedWords": 100,
+  "newWords": 1400,
+  "level3MovedTo4": 80,
+  "level4MovedTo3": 80,
+  "level3Complete": true,
+  "level4Complete": true,
+  "editorialStatus": "AI再選定・人手校閲待ち",
+  "productionApproved": false,
+  "legacyArchiveSha256": "d54dd2c1ecff0fe360a678742e540af54b9bf7e0794520f1627e3fb96491dc40"
+}

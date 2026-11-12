@@ -1,0 +1,101 @@
+english	pos	pronunciation	meaning	example	translation	explanation	pronunciation_source
+alloy	名詞	/ˈæˌlɔɪ/	合金	This alloy withstands high temperatures.	この合金は高温に耐える。	複数の金属などを混ぜた材料。	cmudict
+anode	名詞	/ˈæˌnoʊd/	陽極；アノード	Oxidation occurs at the anode.	酸化はアノードで起こる。	電池と電気分解で極の符号は異なる。	cmudict
+cathode	名詞	/ˈkæˌθoʊd/	陰極；カソード	Copper accumulated on the cathode.	銅がカソードに析出した。	還元が起こる電極。	cmudict
+capacitance	名詞	/kəˈpæsətəns/	静電容量	Plate area affects capacitance.	極板面積は静電容量に影響する。	電荷を蓄える能力を示す量。	cmudict
+conductivity	名詞	/ˌkɑnˌdəkˈtɪvəti/	伝導率	Impurities reduced electrical conductivity.	不純物が電気伝導率を下げた。	電気や熱の伝わりやすさ。	cmudict
+convection	名詞	/kənˈvɛkʃən/	対流	Convection carries heat through the liquid.	対流が液体中で熱を運ぶ。	流体の移動による熱輸送。	cmudict
+conduction	名詞	/kənˈdəkʃən/	伝導	Heat passes through metal by conduction.	熱は伝導によって金属中を移動する。	物質の大きな移動なしの熱輸送。	cmudict
+diffraction	名詞	/dɪˈfrækʃən/	回折	Diffraction spreads light around narrow openings.	回折で光は狭い開口の周囲に広がる。	波が障害物の背後に回り込む現象。	cmudict
+refraction	名詞	/rɪˈfrækʃən/	屈折	Refraction makes the straw appear bent.	屈折でストローが曲がって見える。	媒質間で波の進行方向が変わること。	original
+resonance	名詞	/ˈrɛzənəns/	共鳴；共振	Resonance amplified the bridge's vibrations.	共振が橋の振動を増幅した。	固有の振動数に近い外力への応答。	cmudict
+inductance	名詞	/ˌɪnˈdəktəns/	インダクタンス	More coil turns increase inductance.	コイルの巻数を増やすとインダクタンスが増す。	電流変化への誘導作用を表す量。	cmudict
+impedance	名詞	/ˌɪmˈpidəns/	インピーダンス	The circuit's impedance varies with frequency.	回路のインピーダンスは周波数で変わる。	交流に対する抵抗の総合的尺度。	cmudict
+torque	名詞	/tɔrk/	トルク；力のモーメント	A longer handle produces greater torque.	長い柄は大きなトルクを生む。	物体を回転させる作用。	cmudict
+momentum	名詞	/moʊˈmɛntəm/	運動量；勢い	The collision transferred momentum to the cart.	衝突で台車に運動量が伝わった。	質量と速度の積で表される。	cmudict
+entropy	名詞	/ˈɛntrəpi/	エントロピー	Mixing the gases increased entropy.	気体を混合するとエントロピーが増えた。	状態の広がりを表す熱力学量。	cmudict
+enthalpy	名詞	/ˈɛnθəlpi/	エンタルピー	The reaction has a negative enthalpy change.	反応のエンタルピー変化は負である。	定圧条件の熱の出入りと関係する。	original
+fission	名詞	/ˈfɪʃən/	核分裂；分裂	Nuclear fission releases substantial energy.	核分裂は大きなエネルギーを放出する。	原子核が分かれる現象。	cmudict
+fusion	名詞	/fˈjuʒən/	融合；核融合	Stars generate energy through nuclear fusion.	恒星は核融合でエネルギーを生む。	軽い原子核の結合にも用いる。	cmudict
+isotope	名詞	/ˈaɪsəˌtoʊp/	同位体	Each isotope has a different neutron count.	各同位体は中性子数が異なる。	同じ元素で質量数が異なる原子。	cmudict
+photon	名詞	/ˈfoʊˌtɑn/	光子	A photon can transfer energy to an electron.	光子は電子にエネルギーを渡せる。	光を粒子として扱う際の単位。	cmudict
+proton	名詞	/ˈproʊˌtɑn/	陽子	A proton carries positive electric charge.	陽子は正の電荷を持つ。	原子核を構成する粒子。	cmudict
+neutron	名詞	/ˈnuˌtrɑn/	中性子	A neutron has no net electric charge.	中性子の電荷の総量はゼロである。	原子核中の電気的に中性な粒子。	cmudict
+semiconductor	名詞	/ˌsɛmɪkənˈdəktər/	半導体	Silicon is a widely used semiconductor.	シリコンは広く使われる半導体だ。	条件で電気伝導性が変わる材料。	cmudict
+superconductor	名詞	/ˈsupərkənˌdəktər/	超伝導体	The superconductor lost resistance below a threshold.	超伝導体は一定温度以下で電気抵抗を失った。	特定条件で抵抗がゼロとなる物質。	cmudict
+transistor	名詞	/trænˈzɪstər/	トランジスタ	The transistor controls current in the circuit.	トランジスタは回路の電流を制御する。	増幅やスイッチングに使う素子。	cmudict
+capacitor	名詞	/kəˈpæsətər/	コンデンサー	The capacitor stores electrical energy.	コンデンサーは電気エネルギーを蓄える。	電荷を蓄える回路素子。	cmudict
+resistor	名詞	/rɪˈzɪstər/	抵抗器	The resistor limits current through the lamp.	抵抗器はランプを流れる電流を制限する。	resistanceは抵抗という性質や量。	original
+solenoid	名詞	/ˈsɒlənɔɪd/	ソレノイド；円筒状コイル	Current through the solenoid moves the valve.	ソレノイドの電流が弁を動かす。	巻いた導線から磁場を生む装置。	original
+oscillation	名詞	/ˌɑsəˈleɪʃən/	振動	Friction gradually reduced the oscillation.	摩擦で振動が徐々に弱まった。	中心位置の周りの繰り返し運動。	cmudict
+viscosity	名詞	/vɪˈskɑsəti/	粘度	Warming the oil lowered its viscosity.	油を温めると粘度が下がった。	流体の流れにくさを表す。	cmudict
+elasticity	名詞	/ˌiˌlæˈstɪsəti/	弾性；弾力性	The material retained its elasticity after stretching.	材料は伸ばした後も弾性を保った。	変形後に元へ戻る性質。	cmudict
+porosity	名詞	/pəˈrɒsəti/	多孔性；空隙率	High porosity allows the rock to hold water.	高い空隙率で岩石は水を蓄えられる。	内部の隙間が占める割合。	original
+solubility	名詞	/ˌsɒljəˈbɪləti/	溶解度	Temperature changes the solubility of this salt.	温度はこの塩の溶解度を変える。	一定条件で溶ける量の尺度。	original
+saturation	名詞	/ˌsæʧərˈeɪʃən/	飽和	The solution approached saturation as water evaporated.	水の蒸発で溶液は飽和に近づいた。	これ以上溶けにくい状態。	cmudict
+precipitation	名詞	/prɪˌsɪpɪˈteɪʃən/	降水；沈殿	Annual precipitation declined in the basin.	流域の年間降水量が減った。	気象と化学で意味が異なる。	cmudict
+sediment	名詞	/ˈsɛdəmənt/	堆積物	The flood deposited sediment across the plain.	洪水は平野に堆積物を残した。	水底などに沈んだ物質。	cmudict
+sedimentation	名詞	/ˌsɛdəmənˈteɪʃən/	沈降；堆積作用	Sedimentation removed heavy particles from the water.	沈降で重い粒子が水から除かれた。	粒子が沈んで積もる過程。	cmudict
+filtration	名詞	/fɪlˈtreɪʃən/	ろ過	Filtration removed suspended particles.	ろ過で浮遊粒子が取り除かれた。	膜などを通して分ける方法。	cmudict
+distillation	名詞	/ˌdɪstəˈleɪʃən/	蒸留	Distillation separates liquids with different boiling points.	蒸留は沸点の異なる液体を分離する。	蒸発と凝縮を利用する操作。	cmudict
+sublimation	名詞	/ˌsʌblɪˈmeɪʃən/	昇華	Dry ice disappears through sublimation.	ドライアイスは昇華によって消える。	固体から直接気体への変化。	original
+oxidation	名詞	/ˌɑksəˈdeɪʃən/	酸化	Oxidation weakened the iron supports.	酸化が鉄の支柱を弱めた。	化学では電子を失う変化。	cmudict
+polymer	名詞	/ˈpɑləmər/	高分子；重合体	The polymer softened when heated.	高分子は加熱すると軟らかくなった。	繰り返し単位からなる大分子。	cmudict
+monomer	名詞	/ˈmɑnəmər/	単量体	Each monomer joins the growing chain.	各単量体が成長中の鎖に結合する。	高分子を構成する基本単位。	cmudict
+electrolyte	名詞	/ɪˈlɛktrəlaɪt/	電解質	The electrolyte allows ions to move.	電解質はイオンの移動を可能にする。	溶液などでイオン伝導を担う物質。	original
+enzyme	名詞	/ˈɛnˌzaɪm/	酵素	The enzyme speeds up starch breakdown.	酵素はデンプンの分解を速める。	生体内で触媒として働く物質。	cmudict
+substrate	名詞	/ˈsəbˌstreɪt/	基質；基板	The enzyme binds to its substrate.	酵素は基質に結合する。	酵素反応を受ける物質にも用いる。	cmudict
+chromosome	名詞	/ˈkroʊməˌzoʊm/	染色体	A chromosome carries many genes.	染色体は多数の遺伝子を持つ。	遺伝情報を含む細胞内構造。	cmudict
+cytoplasm	名詞	/ˈsaɪtəˌplæzəm/	細胞質	Molecules move through the cytoplasm.	分子は細胞質内を移動する。	細胞内の核以外の領域。	cmudict
+membrane	名詞	/ˈmɛmˌbreɪn/	膜	The membrane regulates entry into the cell.	膜は細胞への流入を調節する。	細胞膜などの薄い境界構造。	cmudict
+mitochondrion	名詞	/ˌmaɪtəˈkɑndriən/	ミトコンドリア	A mitochondrion helps produce cellular energy.	ミトコンドリアは細胞のエネルギー生産を助ける。	複数形はmitochondria。	cmudict
+photosynthesis	名詞	/ˌfoʊtoʊˈsɪnθəsɪs/	光合成	Photosynthesis converts light energy into chemical energy.	光合成は光エネルギーを化学エネルギーに変える。	植物などが光を利用する反応。	cmudict
+respiration	名詞	/ˌrɛspərˈeɪʃən/	呼吸	Cellular respiration releases energy from nutrients.	細胞呼吸は栄養分からエネルギーを取り出す。	肺での呼吸と細胞呼吸の両方。	cmudict
+metabolism	名詞	/məˈtæbəˌlɪzəm/	代謝	Cold conditions can slow metabolism.	寒冷環境は代謝を遅らせうる。	生体内の化学反応の総体。	cmudict
+homeostasis	名詞	/ˌhoʊmioʊˈsteɪsəs/	恒常性	Sweating helps maintain temperature homeostasis.	発汗は体温の恒常性維持を助ける。	内部環境を一定範囲に保つこと。	cmudict
+pathogen	名詞	/ˈpæθəʤən/	病原体	The filter traps waterborne pathogens.	フィルターは水由来の病原体を捕らえる。	病気を起こす微生物など。	cmudict
+carcinogen	名詞	/kɑrˈsɪnəʤən/	発がん物質	Exposure to the carcinogen was strictly limited.	発がん物質への曝露は厳しく制限された。	がんの発生を促す物質。	cmudict
+antigen	名詞	/ˈæntəʤən/	抗原	The immune system recognized the antigen.	免疫系は抗原を認識した。	免疫応答の標的となる物質。	cmudict
+platelet	名詞	/ˈpleɪtlət/	血小板	Platelets gather at the damaged vessel.	血小板は傷ついた血管に集まる。	血液凝固に関わる血液成分。	cmudict
+capillary	名詞	/ˈkæpəˌlɛri/	毛細血管	Oxygen diffuses through the capillary wall.	酸素は毛細血管壁を通って拡散する。	細い血管の名称。	cmudict
+artery	名詞	/ˈɑrtəri/	動脈	The artery supplies blood to the kidney.	動脈は腎臓に血液を送る。	心臓から送り出す方向の血管。	cmudict
+tendon	名詞	/ˈtɛndən/	腱	The tendon connects muscle to bone.	腱は筋肉と骨をつなぐ。	靱帯ligamentと区別する。	cmudict
+ligament	名詞	/ˈlɪgəmənt/	靱帯	A torn ligament destabilized the joint.	切れた靱帯で関節が不安定になった。	骨同士をつなぐ組織。	cmudict
+cartilage	名詞	/ˈkɑrtəlɪʤ/	軟骨	Cartilage cushions the ends of bones.	軟骨は骨の端を保護する。	関節などにある弾力性の組織。	cmudict
+vertebra	名詞	/ˈvərtəbrə/	椎骨	The scan showed a fractured vertebra.	画像に折れた椎骨が映った。	複数形はvertebrae。	cmudict
+synapse	名詞	/sɪæps/	シナプス	Signals cross the synapse chemically.	信号はシナプスを化学的に伝わる。	神経細胞間の接続部。	cmudict
+receptor	名詞	/riˈsɛptər/	受容体	The molecule activates a surface receptor.	分子は表面の受容体を活性化する。	特定の刺激や物質を受け取る構造。	cmudict
+neurotransmitter	名詞	/ˌnjʊərəʊtrænzˈmɪtər/	神経伝達物質	A neurotransmitter carries signals between neurons.	神経伝達物質は神経細胞間で信号を運ぶ。	神経の情報伝達を担う化学物質。	original
+symbiosis	名詞	/ˌsɪmbaɪˈoʊsəs/	共生	The fungus lives in symbiosis with roots.	菌類は根と共生している。	異なる生物が密接に関わる生活。	cmudict
+parasitism	名詞	/ˈpærəsɪtɪzəm/	寄生	Parasitism benefits one organism at another's expense.	寄生は他者を犠牲に一方の生物に利益を与える。	寄生者と宿主の関係。	original
+commensalism	名詞	/kəˈmɛnsəlɪzəm/	片利共生	Commensalism benefits one species without harming the other.	片利共生は他方を害さず一方を利する。	一方だけが利益を得る関係。	original
+mutualism	名詞	/mˈjuʧuˌəˌlɪzəm/	相利共生	Pollination often involves mutualism.	送粉にはしばしば相利共生が関わる。	双方が利益を得る関係。	cmudict
+speciation	名詞	/ˌspiːʃiˈeɪʃən/	種分化	Geographic isolation can promote speciation.	地理的隔離は種分化を促しうる。	新しい種が生まれる過程。	original
+phylogeny	名詞	/faɪˈlɑʤəni/	系統発生；系統関係	DNA helped reconstruct the species' phylogeny.	DNAが種の系統関係の復元に役立った。	生物の進化的つながり。	cmudict
+taxonomy	名詞	/tækˈsɒnəmi/	分類学；分類体系	Genetic evidence revised the traditional taxonomy.	遺伝的証拠が従来の分類体系を改めた。	分類の原理や方法を扱う。	original
+morphology	名詞	/mɔrˈfɑləʤi/	形態学；形態	Wing morphology differs among these species.	これらの種では翼の形態が異なる。	言語学では語の構造も指す。	cmudict
+biomass	名詞	/ˈbaɪəmæs/	生物量；バイオマス	Drought reduced forest biomass.	干ばつで森林の生物量が減った。	一定範囲の生物の総量。	cmudict
+aquifer	名詞	/ˈækwəfər/	帯水層	Excessive pumping depleted the aquifer.	過剰な揚水で帯水層の水が減った。	地下水を含み通す地層。	cmudict
+watershed	名詞	/ˈwɔtərˌʃɛd/	流域；転機	The dam altered the entire watershed.	ダムは流域全体を変化させた。	比喩で歴史上の転機にも用いる。	cmudict
+topography	名詞	/təˈpɑgrəfi/	地形	Local topography determines flood routes.	地域の地形が洪水の流路を決める。	地表の起伏や形状。	cmudict
+stratum	名詞	/ˈstrætəm/	層；階層	The fossils came from the same stratum.	化石は同じ地層から出た。	複数形はstrata。	cmudict
+tectonics	名詞	/tɛkˈtɑnɪks/	構造地質学；地殻変動	Plate tectonics explains continental movement.	プレートテクトニクスは大陸移動を説明する。	地殻の構造と運動を扱う。	cmudict
+seismology	名詞	/ˌsaɪzˈmɑləʤi/	地震学	Seismology reveals structures deep inside Earth.	地震学は地球内部の構造を明らかにする。	地震や地震波の研究。	cmudict
+meteorology	名詞	/ˌmitiərˈɑləʤi/	気象学	Modern meteorology uses satellite observations.	現代の気象学は衛星観測を使う。	大気現象を研究する学問。	cmudict
+climatology	名詞	/ˌklaɪməˈtɒlədʒi/	気候学	Climatology examines long-term weather patterns.	気候学は長期的な気象の傾向を調べる。	長い期間の気候を扱う。	original
+hydrology	名詞	/haɪˈdrɒlədʒi/	水文学	Hydrology informs river management decisions.	水文学は河川管理の判断に役立つ。	地球上の水の循環を研究する。	original
+thermodynamics	名詞	/ˌθɜːrməʊdaɪˈnæmɪks/	熱力学	Thermodynamics constrains engine efficiency.	熱力学はエンジン効率に制約を与える。	熱と仕事などの関係を扱う。	original
+aerodynamics	名詞	/ˌɛroʊdaɪˈnæmɪks/	空気力学	Aerodynamics shaped the vehicle's curved body.	空気力学が車の曲面形状を決めた。	空気と物体の運動の関係。	cmudict
+optics	名詞	/ˈɑptɪks/	光学	Optics is central to lens design.	光学はレンズ設計の中心をなす。	光の性質と応用を扱う。	cmudict
+acoustics	名詞	/əˈkustɪks/	音響学；音響特性	Curtains improved the hall's acoustics.	カーテンがホールの音響を改善した。	音の研究にも室内の響きにも用いる。	cmudict
+kinetics	名詞	/kəˈnɛtɪks/	反応速度論；動力学	Catalysts alter reaction kinetics.	触媒は反応の速度特性を変える。	化学では反応速度を扱う。	cmudict
+stoichiometry	名詞	/ˌstɔɪkiˈɒmətri/	化学量論	Stoichiometry determines the required reactant ratio.	化学量論が必要な反応物比を定める。	反応式に基づく量の関係。	original
+crystallization	名詞	/ˌkrɪstəlaɪˈzeɪʃən/	結晶化	Slow cooling promoted crystallization.	ゆっくりした冷却が結晶化を促した。	規則的な構造の固体ができること。	original
+electrolysis	名詞	/ˌɛˌlɛkˈtrɑləsɪs/	電気分解	Electrolysis separated water into hydrogen and oxygen.	電気分解で水は水素と酸素に分かれた。	電流で化学反応を起こす操作。	cmudict
+fermentation	名詞	/ˌfərmənˈteɪʃən/	発酵	Fermentation converts sugars into other compounds.	発酵は糖を別の化合物に変える。	微生物などによる代謝過程。	cmudict
+combustion	名詞	/kəmˈbəsʧən/	燃焼	Incomplete combustion can produce carbon monoxide.	不完全燃焼は一酸化炭素を生みうる。	酸素との急激な反応などを指す。	cmudict
+corrosion	名詞	/kərˈoʊʒən/	腐食	Saltwater accelerated corrosion of the hull.	海水が船体の腐食を速めた。	材料が化学的に損なわれること。	cmudict
+abrasion	名詞	/əˈbreɪʒən/	摩耗；擦り傷	Repeated abrasion damaged the coating.	繰り返す摩耗で被膜が傷んだ。	こすれて削れること。	cmudict
+turbulence	名詞	/ˈtərbjələns/	乱流；混乱	The aircraft encountered severe turbulence.	航空機は激しい乱気流に遭遇した。	流れが不規則に乱れる状態。	cmudict
+laminar	形容詞	/ˈlæmɪnər/	層流の	The liquid maintained laminar flow.	液体は層流を保った。	流体が層状に整って流れること。	cmudict
+anisotropic	形容詞	/ˌænaɪsəˈtrɒpɪk/	異方性の	Wood has anisotropic mechanical properties.	木材の力学的性質は方向で異なる。	方向によって性質が違うこと。	original

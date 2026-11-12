@@ -1,0 +1,111 @@
+{
+  "updatedAt": "2026-11-12T09:10:06.796732+00:00",
+  "activeIdiomCounts": [
+    300,
+    500,
+    700,
+    200
+  ],
+  "newAuthoredIdioms": 1650,
+  "protectedSampleIdioms": 50,
+  "targetCurrentScope": [
+    300,
+    500,
+    700,
+    500
+  ],
+  "remainingCurrentScope": [
+    0,
+    0,
+    0,
+    300
+  ],
+  "batches": [
+    {
+      "file": "l1_02_03.psv",
+      "count": 100,
+      "sha256": "577a0a543fcc6e61f75ff2485d3d8e77295a6f7b5f18632e8faf8be4ded9138d"
+    },
+    {
+      "file": "l1_04_05.psv",
+      "count": 100,
+      "sha256": "12b4393a58410b524149e8ad40f188685c814c121c84816644dd08875c4dccfc"
+    },
+    {
+      "file": "l1_06.psv",
+      "count": 50,
+      "sha256": "e957325d28bf32dd372f86d1fb60acaa88fce7ae8f8a2da4ed5e5e02a3ee5a6a"
+    },
+    {
+      "file": "l2_01_02.psv",
+      "count": 100,
+      "sha256": "6e11486d6b6192e22db0473fb30e26abe5e09321bd539c7ee50bcfafc1b1f769"
+    },
+    {
+      "file": "l2_03_04.psv",
+      "count": 100,
+      "sha256": "2a3713b194d706f7eb11e3f65d438bf5634aff51aa3e21c4c4df25866095e812"
+    },
+    {
+      "file": "l2_05_06.psv",
+      "count": 100,
+      "sha256": "c292b136109b1c76223979427562fe758057583ba89740133837ac2bfe819584"
+    },
+    {
+      "file": "l2_07_08.psv",
+      "count": 100,
+      "sha256": "95ec270ceb4798c39d26a65343bd6a30983a903502a55d796e69381e73725bae"
+    },
+    {
+      "file": "l2_09_10.psv",
+      "count": 100,
+      "sha256": "b09a4bd6e532a906c6cd4ab41a39d6e6ddbb3fbaf977ae980927066ab594f8d1"
+    },
+    {
+      "file": "l3_01_02.psv",
+      "count": 100,
+      "sha256": "7a1fad132474814d4eaf6041125adee135c05d90c77506caeac4a6291cc56481"
+    },
+    {
+      "file": "l3_03_04.psv",
+      "count": 100,
+      "sha256": "27af725f2874d6eeb55706ca8b0cfa2a1a0c26cfd27c0222707acf7dc679ae06"
+    },
+    {
+      "file": "l3_05_06.psv",
+      "count": 100,
+      "sha256": "eabdbe0418601df98b503ff3ad0ef4f521e8d0704fb0850d54070197de32191a"
+    },
+    {
+      "file": "l3_07_08.psv",
+      "count": 100,
+      "sha256": "90d52636787aef2a616def660fa69f30e3af4ce86aac227bbdf9574389e4916f"
+    },
+    {
+      "file": "l3_09_10.psv",
+      "count": 100,
+      "sha256": "6be56fd6c329243e8e0a91f8a1443cd7abb3a3a699b3a757bf564355e4b9137a"
+    },
+    {
+      "file": "l3_11_12.psv",
+      "count": 100,
+      "sha256": "5e251cf5e1c95d1f28de4615f4731a8a18986ece35c5a823d07cd4924b3d8fa4"
+    },
+    {
+      "file": "l3_13_14.psv",
+      "count": 100,
+      "sha256": "ab7b08a56723c6d4b0ce365b896882e66eb4293af9feca0e246e1829dac9e727"
+    },
+    {
+      "file": "l4_01_02.psv",
+      "count": 100,
+      "sha256": "5e51139fff88c6f64c906786a6f47e6f47f3ba6f88e35b5b75205a12ff5c198e"
+    },
+    {
+      "file": "l4_03_04.psv",
+      "count": 100,
+      "sha256": "6b2560104b6e9f6430a0eb5b4a94d2c673f68ffd65371a114aac58dd9b354693"
+    }
+  ],
+  "humanReviewed": false
+}

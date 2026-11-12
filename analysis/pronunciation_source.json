@@ -1,0 +1,8 @@
+{
+  "package": "eng-to-ipa",
+  "packageVersion": "0.0.2",
+  "dictionarySha256": "b0609f32b65f4d04466897a37fb55d3d5e877b65f3df46c145c3c2217b1ff55d",
+  "purpose": "pronunciation only; not vocabulary selection",
+  "upstreamRevision": null,
+  "reviewStatus": "automatic IPA; editorial review pending"
+}

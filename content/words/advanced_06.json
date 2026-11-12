@@ -1,0 +1,4769 @@
+[
+  {
+    "english": "alloy",
+    "pos": "名詞",
+    "pronunciation": "/ˈæˌlɔɪ/",
+    "meaning": "合金",
+    "example": "This alloy withstands high temperatures.",
+    "translation": "この合金は高温に耐える。",
+    "explanation": "複数の金属などを混ぜた材料。",
+    "id": "word-c-65d9d6c5c7c2",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "anode",
+    "pos": "名詞",
+    "pronunciation": "/ˈæˌnoʊd/",
+    "meaning": "陽極；アノード",
+    "example": "Oxidation occurs at the anode.",
+    "translation": "酸化はアノードで起こる。",
+    "explanation": "電池と電気分解で極の符号は異なる。",
+    "id": "word-c-fe6f6a438b46",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "cathode",
+    "pos": "名詞",
+    "pronunciation": "/ˈkæˌθoʊd/",
+    "meaning": "陰極；カソード",
+    "example": "Copper accumulated on the cathode.",
+    "translation": "銅がカソードに析出した。",
+    "explanation": "還元が起こる電極。",
+    "id": "word-c-ffea2302c305",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "capacitance",
+    "pos": "名詞",
+    "pronunciation": "/kəˈpæsətəns/",
+    "meaning": "静電容量",
+    "example": "Plate area affects capacitance.",
+    "translation": "極板面積は静電容量に影響する。",
+    "explanation": "電荷を蓄える能力を示す量。",
+    "id": "word-c-74badef58b2f",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "conductivity",
+    "pos": "名詞",
+    "pronunciation": "/ˌkɑnˌdəkˈtɪvəti/",
+    "meaning": "伝導率",
+    "example": "Impurities reduced electrical conductivity.",
+    "translation": "不純物が電気伝導率を下げた。",
+    "explanation": "電気や熱の伝わりやすさ。",
+    "id": "word-c-3fe6fcca82d6",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "convection",
+    "pos": "名詞",
+    "pronunciation": "/kənˈvɛkʃən/",
+    "meaning": "対流",
+    "example": "Convection carries heat through the liquid.",
+    "translation": "対流が液体中で熱を運ぶ。",
+    "explanation": "流体の移動による熱輸送。",
+    "id": "word-c-db5e18d0a154",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "conduction",
+    "pos": "名詞",
+    "pronunciation": "/kənˈdəkʃən/",
+    "meaning": "伝導",
+    "example": "Heat passes through metal by conduction.",
+    "translation": "熱は伝導によって金属中を移動する。",
+    "explanation": "物質の大きな移動なしの熱輸送。",
+    "id": "word-c-4cad17910bd7",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "diffraction",
+    "pos": "名詞",
+    "pronunciation": "/dɪˈfrækʃən/",
+    "meaning": "回折",
+    "example": "Diffraction spreads light around narrow openings.",
+    "translation": "回折で光は狭い開口の周囲に広がる。",
+    "explanation": "波が障害物の背後に回り込む現象。",
+    "id": "word-c-b767a98a02bc",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "refraction",
+    "pos": "名詞",
+    "pronunciation": "/rɪˈfrækʃən/",
+    "meaning": "屈折",
+    "example": "Refraction makes the straw appear bent.",
+    "translation": "屈折でストローが曲がって見える。",
+    "explanation": "媒質間で波の進行方向が変わること。",
+    "id": "word-c-3e0aa7edd444",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "resonance",
+    "pos": "名詞",
+    "pronunciation": "/ˈrɛzənəns/",
+    "meaning": "共鳴；共振",
+    "example": "Resonance amplified the bridge's vibrations.",
+    "translation": "共振が橋の振動を増幅した。",
+    "explanation": "固有の振動数に近い外力への応答。",
+    "id": "word-c-2972f9afb85b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "inductance",
+    "pos": "名詞",
+    "pronunciation": "/ˌɪnˈdəktəns/",
+    "meaning": "インダクタンス",
+    "example": "More coil turns increase inductance.",
+    "translation": "コイルの巻数を増やすとインダクタンスが増す。",
+    "explanation": "電流変化への誘導作用を表す量。",
+    "id": "word-c-d0e0b7017332",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "impedance",
+    "pos": "名詞",
+    "pronunciation": "/ˌɪmˈpidəns/",
+    "meaning": "インピーダンス",
+    "example": "The circuit's impedance varies with frequency.",
+    "translation": "回路のインピーダンスは周波数で変わる。",
+    "explanation": "交流に対する抵抗の総合的尺度。",
+    "id": "word-c-fd237f3d1274",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "torque",
+    "pos": "名詞",
+    "pronunciation": "/tɔrk/",
+    "meaning": "トルク；力のモーメント",
+    "example": "A longer handle produces greater torque.",
+    "translation": "長い柄は大きなトルクを生む。",
+    "explanation": "物体を回転させる作用。",
+    "id": "word-c-77c1f0ad5be9",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "momentum",
+    "pos": "名詞",
+    "pronunciation": "/moʊˈmɛntəm/",
+    "meaning": "運動量；勢い",
+    "example": "The collision transferred momentum to the cart.",
+    "translation": "衝突で台車に運動量が伝わった。",
+    "explanation": "質量と速度の積で表される。",
+    "id": "word-c-446be308664e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "entropy",
+    "pos": "名詞",
+    "pronunciation": "/ˈɛntrəpi/",
+    "meaning": "エントロピー",
+    "example": "Mixing the gases increased entropy.",
+    "translation": "気体を混合するとエントロピーが増えた。",
+    "explanation": "状態の広がりを表す熱力学量。",
+    "id": "word-c-67671a2f53dd",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "enthalpy",
+    "pos": "名詞",
+    "pronunciation": "/ˈɛnθəlpi/",
+    "meaning": "エンタルピー",
+    "example": "The reaction has a negative enthalpy change.",
+    "translation": "反応のエンタルピー変化は負である。",
+    "explanation": "定圧条件の熱の出入りと関係する。",
+    "id": "word-c-6711aa6a8194",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "fission",
+    "pos": "名詞",
+    "pronunciation": "/ˈfɪʃən/",
+    "meaning": "核分裂；分裂",
+    "example": "Nuclear fission releases substantial energy.",
+    "translation": "核分裂は大きなエネルギーを放出する。",
+    "explanation": "原子核が分かれる現象。",
+    "id": "word-c-a796f2cd25ee",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "fusion",
+    "pos": "名詞",
+    "pronunciation": "/fˈjuʒən/",
+    "meaning": "融合；核融合",
+    "example": "Stars generate energy through nuclear fusion.",
+    "translation": "恒星は核融合でエネルギーを生む。",
+    "explanation": "軽い原子核の結合にも用いる。",
+    "id": "word-c-f5d36c673cea",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "isotope",
+    "pos": "名詞",
+    "pronunciation": "/ˈaɪsəˌtoʊp/",
+    "meaning": "同位体",
+    "example": "Each isotope has a different neutron count.",
+    "translation": "各同位体は中性子数が異なる。",
+    "explanation": "同じ元素で質量数が異なる原子。",
+    "id": "word-c-3baac24f680c",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "photon",
+    "pos": "名詞",
+    "pronunciation": "/ˈfoʊˌtɑn/",
+    "meaning": "光子",
+    "example": "A photon can transfer energy to an electron.",
+    "translation": "光子は電子にエネルギーを渡せる。",
+    "explanation": "光を粒子として扱う際の単位。",
+    "id": "word-c-db44daf2e965",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "proton",
+    "pos": "名詞",
+    "pronunciation": "/ˈproʊˌtɑn/",
+    "meaning": "陽子",
+    "example": "A proton carries positive electric charge.",
+    "translation": "陽子は正の電荷を持つ。",
+    "explanation": "原子核を構成する粒子。",
+    "id": "word-c-469dfc0b18c7",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "neutron",
+    "pos": "名詞",
+    "pronunciation": "/ˈnuˌtrɑn/",
+    "meaning": "中性子",
+    "example": "A neutron has no net electric charge.",
+    "translation": "中性子の電荷の総量はゼロである。",
+    "explanation": "原子核中の電気的に中性な粒子。",
+    "id": "word-c-37e1d3b95593",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "semiconductor",
+    "pos": "名詞",
+    "pronunciation": "/ˌsɛmɪkənˈdəktər/",
+    "meaning": "半導体",
+    "example": "Silicon is a widely used semiconductor.",
+    "translation": "シリコンは広く使われる半導体だ。",
+    "explanation": "条件で電気伝導性が変わる材料。",
+    "id": "word-c-8d89e481194f",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "superconductor",
+    "pos": "名詞",
+    "pronunciation": "/ˈsupərkənˌdəktər/",
+    "meaning": "超伝導体",
+    "example": "The superconductor lost resistance below a threshold.",
+    "translation": "超伝導体は一定温度以下で電気抵抗を失った。",
+    "explanation": "特定条件で抵抗がゼロとなる物質。",
+    "id": "word-c-703d12e6c22e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "transistor",
+    "pos": "名詞",
+    "pronunciation": "/trænˈzɪstər/",
+    "meaning": "トランジスタ",
+    "example": "The transistor controls current in the circuit.",
+    "translation": "トランジスタは回路の電流を制御する。",
+    "explanation": "増幅やスイッチングに使う素子。",
+    "id": "word-c-d887c82f353b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "capacitor",
+    "pos": "名詞",
+    "pronunciation": "/kəˈpæsətər/",
+    "meaning": "コンデンサー",
+    "example": "The capacitor stores electrical energy.",
+    "translation": "コンデンサーは電気エネルギーを蓄える。",
+    "explanation": "電荷を蓄える回路素子。",
+    "id": "word-c-da38bb593bb3",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "resistor",
+    "pos": "名詞",
+    "pronunciation": "/rɪˈzɪstər/",
+    "meaning": "抵抗器",
+    "example": "The resistor limits current through the lamp.",
+    "translation": "抵抗器はランプを流れる電流を制限する。",
+    "explanation": "resistanceは抵抗という性質や量。",
+    "id": "word-c-ebe940c27ef6",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "solenoid",
+    "pos": "名詞",
+    "pronunciation": "/ˈsɒlənɔɪd/",
+    "meaning": "ソレノイド；円筒状コイル",
+    "example": "Current through the solenoid moves the valve.",
+    "translation": "ソレノイドの電流が弁を動かす。",
+    "explanation": "巻いた導線から磁場を生む装置。",
+    "id": "word-c-ac160a618eb3",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "oscillation",
+    "pos": "名詞",
+    "pronunciation": "/ˌɑsəˈleɪʃən/",
+    "meaning": "振動",
+    "example": "Friction gradually reduced the oscillation.",
+    "translation": "摩擦で振動が徐々に弱まった。",
+    "explanation": "中心位置の周りの繰り返し運動。",
+    "id": "word-c-3c479ac8a249",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "viscosity",
+    "pos": "名詞",
+    "pronunciation": "/vɪˈskɑsəti/",
+    "meaning": "粘度",
+    "example": "Warming the oil lowered its viscosity.",
+    "translation": "油を温めると粘度が下がった。",
+    "explanation": "流体の流れにくさを表す。",
+    "id": "word-c-544d7eda1c3e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "elasticity",
+    "pos": "名詞",
+    "pronunciation": "/ˌiˌlæˈstɪsəti/",
+    "meaning": "弾性；弾力性",
+    "example": "The material retained its elasticity after stretching.",
+    "translation": "材料は伸ばした後も弾性を保った。",
+    "explanation": "変形後に元へ戻る性質。",
+    "id": "word-c-5ff40de774f0",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "porosity",
+    "pos": "名詞",
+    "pronunciation": "/pəˈrɒsəti/",
+    "meaning": "多孔性；空隙率",
+    "example": "High porosity allows the rock to hold water.",
+    "translation": "高い空隙率で岩石は水を蓄えられる。",
+    "explanation": "内部の隙間が占める割合。",
+    "id": "word-c-93aa6444c27c",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "solubility",
+    "pos": "名詞",
+    "pronunciation": "/ˌsɒljəˈbɪləti/",
+    "meaning": "溶解度",
+    "example": "Temperature changes the solubility of this salt.",
+    "translation": "温度はこの塩の溶解度を変える。",
+    "explanation": "一定条件で溶ける量の尺度。",
+    "id": "word-c-5594db8f8222",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "saturation",
+    "pos": "名詞",
+    "pronunciation": "/ˌsæʧərˈeɪʃən/",
+    "meaning": "飽和",
+    "example": "The solution approached saturation as water evaporated.",
+    "translation": "水の蒸発で溶液は飽和に近づいた。",
+    "explanation": "これ以上溶けにくい状態。",
+    "id": "word-c-77ad8d9c8ae2",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "precipitation",
+    "pos": "名詞",
+    "pronunciation": "/prɪˌsɪpɪˈteɪʃən/",
+    "meaning": "降水；沈殿",
+    "example": "Annual precipitation declined in the basin.",
+    "translation": "流域の年間降水量が減った。",
+    "explanation": "気象と化学で意味が異なる。",
+    "id": "word-c-029aa3dad1ce",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "sediment",
+    "pos": "名詞",
+    "pronunciation": "/ˈsɛdəmənt/",
+    "meaning": "堆積物",
+    "example": "The flood deposited sediment across the plain.",
+    "translation": "洪水は平野に堆積物を残した。",
+    "explanation": "水底などに沈んだ物質。",
+    "id": "word-c-4eba3cb90f31",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "sedimentation",
+    "pos": "名詞",
+    "pronunciation": "/ˌsɛdəmənˈteɪʃən/",
+    "meaning": "沈降；堆積作用",
+    "example": "Sedimentation removed heavy particles from the water.",
+    "translation": "沈降で重い粒子が水から除かれた。",
+    "explanation": "粒子が沈んで積もる過程。",
+    "id": "word-c-56199ca9a807",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "filtration",
+    "pos": "名詞",
+    "pronunciation": "/fɪlˈtreɪʃən/",
+    "meaning": "ろ過",
+    "example": "Filtration removed suspended particles.",
+    "translation": "ろ過で浮遊粒子が取り除かれた。",
+    "explanation": "膜などを通して分ける方法。",
+    "id": "word-c-2ffc20795f9f",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "distillation",
+    "pos": "名詞",
+    "pronunciation": "/ˌdɪstəˈleɪʃən/",
+    "meaning": "蒸留",
+    "example": "Distillation separates liquids with different boiling points.",
+    "translation": "蒸留は沸点の異なる液体を分離する。",
+    "explanation": "蒸発と凝縮を利用する操作。",
+    "id": "word-c-b862b5591f08",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "sublimation",
+    "pos": "名詞",
+    "pronunciation": "/ˌsʌblɪˈmeɪʃən/",
+    "meaning": "昇華",
+    "example": "Dry ice disappears through sublimation.",
+    "translation": "ドライアイスは昇華によって消える。",
+    "explanation": "固体から直接気体への変化。",
+    "id": "word-c-8ec12d9c1994",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "oxidation",
+    "pos": "名詞",
+    "pronunciation": "/ˌɑksəˈdeɪʃən/",
+    "meaning": "酸化",
+    "example": "Oxidation weakened the iron supports.",
+    "translation": "酸化が鉄の支柱を弱めた。",
+    "explanation": "化学では電子を失う変化。",
+    "id": "word-c-f61921a13354",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "polymer",
+    "pos": "名詞",
+    "pronunciation": "/ˈpɑləmər/",
+    "meaning": "高分子；重合体",
+    "example": "The polymer softened when heated.",
+    "translation": "高分子は加熱すると軟らかくなった。",
+    "explanation": "繰り返し単位からなる大分子。",
+    "id": "word-c-c1233198763e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "monomer",
+    "pos": "名詞",
+    "pronunciation": "/ˈmɑnəmər/",
+    "meaning": "単量体",
+    "example": "Each monomer joins the growing chain.",
+    "translation": "各単量体が成長中の鎖に結合する。",
+    "explanation": "高分子を構成する基本単位。",
+    "id": "word-c-5de80a63cf3a",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "electrolyte",
+    "pos": "名詞",
+    "pronunciation": "/ɪˈlɛktrəlaɪt/",
+    "meaning": "電解質",
+    "example": "The electrolyte allows ions to move.",
+    "translation": "電解質はイオンの移動を可能にする。",
+    "explanation": "溶液などでイオン伝導を担う物質。",
+    "id": "word-c-fff5ec69d335",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "enzyme",
+    "pos": "名詞",
+    "pronunciation": "/ˈɛnˌzaɪm/",
+    "meaning": "酵素",
+    "example": "The enzyme speeds up starch breakdown.",
+    "translation": "酵素はデンプンの分解を速める。",
+    "explanation": "生体内で触媒として働く物質。",
+    "id": "word-c-59eee94f953c",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "substrate",
+    "pos": "名詞",
+    "pronunciation": "/ˈsəbˌstreɪt/",
+    "meaning": "基質；基板",
+    "example": "The enzyme binds to its substrate.",
+    "translation": "酵素は基質に結合する。",
+    "explanation": "酵素反応を受ける物質にも用いる。",
+    "id": "word-c-df5e69a6000e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "chromosome",
+    "pos": "名詞",
+    "pronunciation": "/ˈkroʊməˌzoʊm/",
+    "meaning": "染色体",
+    "example": "A chromosome carries many genes.",
+    "translation": "染色体は多数の遺伝子を持つ。",
+    "explanation": "遺伝情報を含む細胞内構造。",
+    "id": "word-c-a4a48f5e8ce8",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "cytoplasm",
+    "pos": "名詞",
+    "pronunciation": "/ˈsaɪtəˌplæzəm/",
+    "meaning": "細胞質",
+    "example": "Molecules move through the cytoplasm.",
+    "translation": "分子は細胞質内を移動する。",
+    "explanation": "細胞内の核以外の領域。",
+    "id": "word-c-a5320f83d743",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "membrane",
+    "pos": "名詞",
+    "pronunciation": "/ˈmɛmˌbreɪn/",
+    "meaning": "膜",
+    "example": "The membrane regulates entry into the cell.",
+    "translation": "膜は細胞への流入を調節する。",
+    "explanation": "細胞膜などの薄い境界構造。",
+    "id": "word-c-d686ae03d9a3",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "mitochondrion",
+    "pos": "名詞",
+    "pronunciation": "/ˌmaɪtəˈkɑndriən/",
+    "meaning": "ミトコンドリア",
+    "example": "A mitochondrion helps produce cellular energy.",
+    "translation": "ミトコンドリアは細胞のエネルギー生産を助ける。",
+    "explanation": "複数形はmitochondria。",
+    "id": "word-c-95788787e5e2",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "photosynthesis",
+    "pos": "名詞",
+    "pronunciation": "/ˌfoʊtoʊˈsɪnθəsɪs/",
+    "meaning": "光合成",
+    "example": "Photosynthesis converts light energy into chemical energy.",
+    "translation": "光合成は光エネルギーを化学エネルギーに変える。",
+    "explanation": "植物などが光を利用する反応。",
+    "id": "word-c-97f64d5e8839",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "respiration",
+    "pos": "名詞",
+    "pronunciation": "/ˌrɛspərˈeɪʃən/",
+    "meaning": "呼吸",
+    "example": "Cellular respiration releases energy from nutrients.",
+    "translation": "細胞呼吸は栄養分からエネルギーを取り出す。",
+    "explanation": "肺での呼吸と細胞呼吸の両方。",
+    "id": "word-c-e8f77ab588a8",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "metabolism",
+    "pos": "名詞",
+    "pronunciation": "/məˈtæbəˌlɪzəm/",
+    "meaning": "代謝",
+    "example": "Cold conditions can slow metabolism.",
+    "translation": "寒冷環境は代謝を遅らせうる。",
+    "explanation": "生体内の化学反応の総体。",
+    "id": "word-c-3f2b01597ce0",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "homeostasis",
+    "pos": "名詞",
+    "pronunciation": "/ˌhoʊmioʊˈsteɪsəs/",
+    "meaning": "恒常性",
+    "example": "Sweating helps maintain temperature homeostasis.",
+    "translation": "発汗は体温の恒常性維持を助ける。",
+    "explanation": "内部環境を一定範囲に保つこと。",
+    "id": "word-c-90fa69dc6449",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "pathogen",
+    "pos": "名詞",
+    "pronunciation": "/ˈpæθəʤən/",
+    "meaning": "病原体",
+    "example": "The filter traps waterborne pathogens.",
+    "translation": "フィルターは水由来の病原体を捕らえる。",
+    "explanation": "病気を起こす微生物など。",
+    "id": "word-c-bd7b2919f325",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "carcinogen",
+    "pos": "名詞",
+    "pronunciation": "/kɑrˈsɪnəʤən/",
+    "meaning": "発がん物質",
+    "example": "Exposure to the carcinogen was strictly limited.",
+    "translation": "発がん物質への曝露は厳しく制限された。",
+    "explanation": "がんの発生を促す物質。",
+    "id": "word-c-0fbdb72a9cfc",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "antigen",
+    "pos": "名詞",
+    "pronunciation": "/ˈæntəʤən/",
+    "meaning": "抗原",
+    "example": "The immune system recognized the antigen.",
+    "translation": "免疫系は抗原を認識した。",
+    "explanation": "免疫応答の標的となる物質。",
+    "id": "word-c-e9c3c4b056a1",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "platelet",
+    "pos": "名詞",
+    "pronunciation": "/ˈpleɪtlət/",
+    "meaning": "血小板",
+    "example": "Platelets gather at the damaged vessel.",
+    "translation": "血小板は傷ついた血管に集まる。",
+    "explanation": "血液凝固に関わる血液成分。",
+    "id": "word-c-44246420cc26",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "capillary",
+    "pos": "名詞",
+    "pronunciation": "/ˈkæpəˌlɛri/",
+    "meaning": "毛細血管",
+    "example": "Oxygen diffuses through the capillary wall.",
+    "translation": "酸素は毛細血管壁を通って拡散する。",
+    "explanation": "細い血管の名称。",
+    "id": "word-c-3e0bcf797904",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "artery",
+    "pos": "名詞",
+    "pronunciation": "/ˈɑrtəri/",
+    "meaning": "動脈",
+    "example": "The artery supplies blood to the kidney.",
+    "translation": "動脈は腎臓に血液を送る。",
+    "explanation": "心臓から送り出す方向の血管。",
+    "id": "word-c-a2345e7c3aae",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "tendon",
+    "pos": "名詞",
+    "pronunciation": "/ˈtɛndən/",
+    "meaning": "腱",
+    "example": "The tendon connects muscle to bone.",
+    "translation": "腱は筋肉と骨をつなぐ。",
+    "explanation": "靱帯ligamentと区別する。",
+    "id": "word-c-29d803ae1039",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "ligament",
+    "pos": "名詞",
+    "pronunciation": "/ˈlɪgəmənt/",
+    "meaning": "靱帯",
+    "example": "A torn ligament destabilized the joint.",
+    "translation": "切れた靱帯で関節が不安定になった。",
+    "explanation": "骨同士をつなぐ組織。",
+    "id": "word-c-fd45393d5b1f",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "cartilage",
+    "pos": "名詞",
+    "pronunciation": "/ˈkɑrtəlɪʤ/",
+    "meaning": "軟骨",
+    "example": "Cartilage cushions the ends of bones.",
+    "translation": "軟骨は骨の端を保護する。",
+    "explanation": "関節などにある弾力性の組織。",
+    "id": "word-c-33211d6098fd",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "vertebra",
+    "pos": "名詞",
+    "pronunciation": "/ˈvərtəbrə/",
+    "meaning": "椎骨",
+    "example": "The scan showed a fractured vertebra.",
+    "translation": "画像に折れた椎骨が映った。",
+    "explanation": "複数形はvertebrae。",
+    "id": "word-c-9d00e4dccf3f",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "synapse",
+    "pos": "名詞",
+    "pronunciation": "/sɪæps/",
+    "meaning": "シナプス",
+    "example": "Signals cross the synapse chemically.",
+    "translation": "信号はシナプスを化学的に伝わる。",
+    "explanation": "神経細胞間の接続部。",
+    "id": "word-c-f208248e5969",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "receptor",
+    "pos": "名詞",
+    "pronunciation": "/riˈsɛptər/",
+    "meaning": "受容体",
+    "example": "The molecule activates a surface receptor.",
+    "translation": "分子は表面の受容体を活性化する。",
+    "explanation": "特定の刺激や物質を受け取る構造。",
+    "id": "word-c-23ebe61c2e21",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "neurotransmitter",
+    "pos": "名詞",
+    "pronunciation": "/ˌnjʊərəʊtrænzˈmɪtər/",
+    "meaning": "神経伝達物質",
+    "example": "A neurotransmitter carries signals between neurons.",
+    "translation": "神経伝達物質は神経細胞間で信号を運ぶ。",
+    "explanation": "神経の情報伝達を担う化学物質。",
+    "id": "word-c-b0faa533da08",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "symbiosis",
+    "pos": "名詞",
+    "pronunciation": "/ˌsɪmbaɪˈoʊsəs/",
+    "meaning": "共生",
+    "example": "The fungus lives in symbiosis with roots.",
+    "translation": "菌類は根と共生している。",
+    "explanation": "異なる生物が密接に関わる生活。",
+    "id": "word-c-37aff8face9b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "parasitism",
+    "pos": "名詞",
+    "pronunciation": "/ˈpærəsɪtɪzəm/",
+    "meaning": "寄生",
+    "example": "Parasitism benefits one organism at another's expense.",
+    "translation": "寄生は他者を犠牲に一方の生物に利益を与える。",
+    "explanation": "寄生者と宿主の関係。",
+    "id": "word-c-0e91d5edddd8",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "commensalism",
+    "pos": "名詞",
+    "pronunciation": "/kəˈmɛnsəlɪzəm/",
+    "meaning": "片利共生",
+    "example": "Commensalism benefits one species without harming the other.",
+    "translation": "片利共生は他方を害さず一方を利する。",
+    "explanation": "一方だけが利益を得る関係。",
+    "id": "word-c-75f34c3e8a0d",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "mutualism",
+    "pos": "名詞",
+    "pronunciation": "/mˈjuʧuˌəˌlɪzəm/",
+    "meaning": "相利共生",
+    "example": "Pollination often involves mutualism.",
+    "translation": "送粉にはしばしば相利共生が関わる。",
+    "explanation": "双方が利益を得る関係。",
+    "id": "word-c-8dfe056d7dcc",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "speciation",
+    "pos": "名詞",
+    "pronunciation": "/ˌspiːʃiˈeɪʃən/",
+    "meaning": "種分化",
+    "example": "Geographic isolation can promote speciation.",
+    "translation": "地理的隔離は種分化を促しうる。",
+    "explanation": "新しい種が生まれる過程。",
+    "id": "word-c-a195f85012e8",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "phylogeny",
+    "pos": "名詞",
+    "pronunciation": "/faɪˈlɑʤəni/",
+    "meaning": "系統発生；系統関係",
+    "example": "DNA helped reconstruct the species' phylogeny.",
+    "translation": "DNAが種の系統関係の復元に役立った。",
+    "explanation": "生物の進化的つながり。",
+    "id": "word-c-8577a52d6ab2",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "taxonomy",
+    "pos": "名詞",
+    "pronunciation": "/tækˈsɒnəmi/",
+    "meaning": "分類学；分類体系",
+    "example": "Genetic evidence revised the traditional taxonomy.",
+    "translation": "遺伝的証拠が従来の分類体系を改めた。",
+    "explanation": "分類の原理や方法を扱う。",
+    "id": "word-c-49a8ed7c48e4",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "morphology",
+    "pos": "名詞",
+    "pronunciation": "/mɔrˈfɑləʤi/",
+    "meaning": "形態学；形態",
+    "example": "Wing morphology differs among these species.",
+    "translation": "これらの種では翼の形態が異なる。",
+    "explanation": "言語学では語の構造も指す。",
+    "id": "word-c-be3be3a7ea1e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "biomass",
+    "pos": "名詞",
+    "pronunciation": "/ˈbaɪəmæs/",
+    "meaning": "生物量；バイオマス",
+    "example": "Drought reduced forest biomass.",
+    "translation": "干ばつで森林の生物量が減った。",
+    "explanation": "一定範囲の生物の総量。",
+    "id": "word-c-8f632e434b24",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "aquifer",
+    "pos": "名詞",
+    "pronunciation": "/ˈækwəfər/",
+    "meaning": "帯水層",
+    "example": "Excessive pumping depleted the aquifer.",
+    "translation": "過剰な揚水で帯水層の水が減った。",
+    "explanation": "地下水を含み通す地層。",
+    "id": "word-c-bb3c7870a894",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "watershed",
+    "pos": "名詞",
+    "pronunciation": "/ˈwɔtərˌʃɛd/",
+    "meaning": "流域；転機",
+    "example": "The dam altered the entire watershed.",
+    "translation": "ダムは流域全体を変化させた。",
+    "explanation": "比喩で歴史上の転機にも用いる。",
+    "id": "word-c-1fa5ec1566b7",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "topography",
+    "pos": "名詞",
+    "pronunciation": "/təˈpɑgrəfi/",
+    "meaning": "地形",
+    "example": "Local topography determines flood routes.",
+    "translation": "地域の地形が洪水の流路を決める。",
+    "explanation": "地表の起伏や形状。",
+    "id": "word-c-bbf6baa61102",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "stratum",
+    "pos": "名詞",
+    "pronunciation": "/ˈstrætəm/",
+    "meaning": "層；階層",
+    "example": "The fossils came from the same stratum.",
+    "translation": "化石は同じ地層から出た。",
+    "explanation": "複数形はstrata。",
+    "id": "word-c-616be06545e5",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "tectonics",
+    "pos": "名詞",
+    "pronunciation": "/tɛkˈtɑnɪks/",
+    "meaning": "構造地質学；地殻変動",
+    "example": "Plate tectonics explains continental movement.",
+    "translation": "プレートテクトニクスは大陸移動を説明する。",
+    "explanation": "地殻の構造と運動を扱う。",
+    "id": "word-c-edd0fbe07850",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "seismology",
+    "pos": "名詞",
+    "pronunciation": "/ˌsaɪzˈmɑləʤi/",
+    "meaning": "地震学",
+    "example": "Seismology reveals structures deep inside Earth.",
+    "translation": "地震学は地球内部の構造を明らかにする。",
+    "explanation": "地震や地震波の研究。",
+    "id": "word-c-b2b5ce4427ac",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "meteorology",
+    "pos": "名詞",
+    "pronunciation": "/ˌmitiərˈɑləʤi/",
+    "meaning": "気象学",
+    "example": "Modern meteorology uses satellite observations.",
+    "translation": "現代の気象学は衛星観測を使う。",
+    "explanation": "大気現象を研究する学問。",
+    "id": "word-c-34127731a830",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "climatology",
+    "pos": "名詞",
+    "pronunciation": "/ˌklaɪməˈtɒlədʒi/",
+    "meaning": "気候学",
+    "example": "Climatology examines long-term weather patterns.",
+    "translation": "気候学は長期的な気象の傾向を調べる。",
+    "explanation": "長い期間の気候を扱う。",
+    "id": "word-c-de116d47c21a",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "hydrology",
+    "pos": "名詞",
+    "pronunciation": "/haɪˈdrɒlədʒi/",
+    "meaning": "水文学",
+    "example": "Hydrology informs river management decisions.",
+    "translation": "水文学は河川管理の判断に役立つ。",
+    "explanation": "地球上の水の循環を研究する。",
+    "id": "word-c-a139eb3f6f87",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "thermodynamics",
+    "pos": "名詞",
+    "pronunciation": "/ˌθɜːrməʊdaɪˈnæmɪks/",
+    "meaning": "熱力学",
+    "example": "Thermodynamics constrains engine efficiency.",
+    "translation": "熱力学はエンジン効率に制約を与える。",
+    "explanation": "熱と仕事などの関係を扱う。",
+    "id": "word-c-a2351e2337df",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "aerodynamics",
+    "pos": "名詞",
+    "pronunciation": "/ˌɛroʊdaɪˈnæmɪks/",
+    "meaning": "空気力学",
+    "example": "Aerodynamics shaped the vehicle's curved body.",
+    "translation": "空気力学が車の曲面形状を決めた。",
+    "explanation": "空気と物体の運動の関係。",
+    "id": "word-c-d6dd4d1935bc",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "optics",
+    "pos": "名詞",
+    "pronunciation": "/ˈɑptɪks/",
+    "meaning": "光学",
+    "example": "Optics is central to lens design.",
+    "translation": "光学はレンズ設計の中心をなす。",
+    "explanation": "光の性質と応用を扱う。",
+    "id": "word-c-25dfc749740c",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "acoustics",
+    "pos": "名詞",
+    "pronunciation": "/əˈkustɪks/",
+    "meaning": "音響学；音響特性",
+    "example": "Curtains improved the hall's acoustics.",
+    "translation": "カーテンがホールの音響を改善した。",
+    "explanation": "音の研究にも室内の響きにも用いる。",
+    "id": "word-c-96a3fdb0916b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "kinetics",
+    "pos": "名詞",
+    "pronunciation": "/kəˈnɛtɪks/",
+    "meaning": "反応速度論；動力学",
+    "example": "Catalysts alter reaction kinetics.",
+    "translation": "触媒は反応の速度特性を変える。",
+    "explanation": "化学では反応速度を扱う。",
+    "id": "word-c-a667c1603618",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "stoichiometry",
+    "pos": "名詞",
+    "pronunciation": "/ˌstɔɪkiˈɒmətri/",
+    "meaning": "化学量論",
+    "example": "Stoichiometry determines the required reactant ratio.",
+    "translation": "化学量論が必要な反応物比を定める。",
+    "explanation": "反応式に基づく量の関係。",
+    "id": "word-c-48061aab7075",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "crystallization",
+    "pos": "名詞",
+    "pronunciation": "/ˌkrɪstəlaɪˈzeɪʃən/",
+    "meaning": "結晶化",
+    "example": "Slow cooling promoted crystallization.",
+    "translation": "ゆっくりした冷却が結晶化を促した。",
+    "explanation": "規則的な構造の固体ができること。",
+    "id": "word-c-dcb34b271703",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "english": "electrolysis",
+    "pos": "名詞",
+    "pronunciation": "/ˌɛˌlɛkˈtrɑləsɪs/",
+    "meaning": "電気分解",
+    "example": "Electrolysis separated water into hydrogen and oxygen.",
+    "translation": "電気分解で水は水素と酸素に分かれた。",
+    "explanation": "電流で化学反応を起こす操作。",
+    "id": "word-c-907bae17dbab",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "fermentation",
+    "pos": "名詞",
+    "pronunciation": "/ˌfərmənˈteɪʃən/",
+    "meaning": "発酵",
+    "example": "Fermentation converts sugars into other compounds.",
+    "translation": "発酵は糖を別の化合物に変える。",
+    "explanation": "微生物などによる代謝過程。",
+    "id": "word-c-78ede015174b",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "combustion",
+    "pos": "名詞",
+    "pronunciation": "/kəmˈbəsʧən/",
+    "meaning": "燃焼",
+    "example": "Incomplete combustion can produce carbon monoxide.",
+    "translation": "不完全燃焼は一酸化炭素を生みうる。",
+    "explanation": "酸素との急激な反応などを指す。",
+    "id": "word-c-93a4dca2fb2e",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "corrosion",
+    "pos": "名詞",
+    "pronunciation": "/kərˈoʊʒən/",
+    "meaning": "腐食",
+    "example": "Saltwater accelerated corrosion of the hull.",
+    "translation": "海水が船体の腐食を速めた。",
+    "explanation": "材料が化学的に損なわれること。",
+    "id": "word-c-25cf535032e5",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "abrasion",
+    "pos": "名詞",
+    "pronunciation": "/əˈbreɪʒən/",
+    "meaning": "摩耗；擦り傷",
+    "example": "Repeated abrasion damaged the coating.",
+    "translation": "繰り返す摩耗で被膜が傷んだ。",
+    "explanation": "こすれて削れること。",
+    "id": "word-c-00b3d6338a6a",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "turbulence",
+    "pos": "名詞",
+    "pronunciation": "/ˈtərbjələns/",
+    "meaning": "乱流；混乱",
+    "example": "The aircraft encountered severe turbulence.",
+    "translation": "航空機は激しい乱気流に遭遇した。",
+    "explanation": "流れが不規則に乱れる状態。",
+    "id": "word-c-5800768b32a5",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "laminar",
+    "pos": "形容詞",
+    "pronunciation": "/ˈlæmɪnər/",
+    "meaning": "層流の",
+    "example": "The liquid maintained laminar flow.",
+    "translation": "液体は層流を保った。",
+    "explanation": "流体が層状に整って流れること。",
+    "id": "word-c-165a8c72f498",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ],
+      "pronunciationMethod": "CMU-derived automatic IPA; review pending"
+    }
+  },
+  {
+    "english": "anisotropic",
+    "pos": "形容詞",
+    "pronunciation": "/ˌænaɪsəˈtrɒpɪk/",
+    "meaning": "異方性の",
+    "example": "Wood has anisotropic mechanical properties.",
+    "translation": "木材の力学的性質は方向で異なる。",
+    "explanation": "方向によって性質が違うこと。",
+    "id": "word-c-e31c02812ba9",
+    "kind": "word",
+    "level": 4,
+    "section": 1,
+    "number": 1,
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-draft-v4"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。独自選定。個別英検級・入試頻度は未検証。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-draft-v4",
+          "fields": [
+            "english",
+            "pos",
+            "pronunciation",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,4802 @@
+[
+  {
+    "id": "idiom-c-052012222bfb",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 1,
+    "english": "above and beyond",
+    "meaning": "を超えて",
+    "pos": "熟語",
+    "pronunciation": "/əˈbəv ənd bɪɔnd/",
+    "example": "Her help went above and beyond expectations.",
+    "translation": "支援は期待を超えていた。",
+    "explanation": "通常の範囲以上。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-260cec3833bc",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 2,
+    "english": "according as",
+    "meaning": "に応じて",
+    "pos": "熟語",
+    "pronunciation": "/əˈkɔrdɪŋ ɛz/",
+    "example": "Costs vary according as demand rises or falls.",
+    "translation": "費用は需要の増減に応じ変わる。",
+    "explanation": "後ろに節を続ける。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1d0f47505c70",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 3,
+    "english": "against all odds",
+    "meaning": "不利な状況にもかかわらず",
+    "pos": "熟語",
+    "pronunciation": "/əˈgɛnst ɔl ɑdz/",
+    "example": "They survived against all odds.",
+    "translation": "困難を乗り越え生還した。",
+    "explanation": "成功の見込みが低い状況。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e390f75136c4",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 4,
+    "english": "ahead of one's time",
+    "meaning": "時代に先んじて",
+    "pos": "熟語",
+    "pronunciation": "/əˈhɛd əv wʌnz taɪm/",
+    "example": "Her design was ahead of its time.",
+    "translation": "設計は時代を先取りしていた。",
+    "explanation": "革新的で早すぎること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-26c62bd2ee76",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 5,
+    "english": "all along",
+    "meaning": "初めからずっと",
+    "pos": "熟語",
+    "pronunciation": "/ɔl əˈlɔŋ/",
+    "example": "I knew the answer all along.",
+    "translation": "初めから答えを知っていた。",
+    "explanation": "継続する事実を強調。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-92b766e1b2e5",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 6,
+    "english": "all the while",
+    "meaning": "その間ずっと",
+    "pos": "熟語",
+    "pronunciation": "/ɔl ðə waɪl/",
+    "example": "He listened all the while.",
+    "translation": "その間ずっと聞いていた。",
+    "explanation": "同時に続く状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-be7b16f55555",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 7,
+    "english": "all too",
+    "meaning": "あまりにも",
+    "pos": "熟語",
+    "pronunciation": "/ɔl tu/",
+    "example": "Such errors are all too common.",
+    "translation": "そんな誤りはあまりに多い。",
+    "explanation": "望ましくない程度の強調。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e6c14f394310",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 8,
+    "english": "as a consequence",
+    "meaning": "その結果",
+    "pos": "熟語",
+    "pronunciation": "/ɛz ə ˈkɑnsəkwəns/",
+    "example": "Demand fell as a consequence.",
+    "translation": "その結果需要が落ちた。",
+    "explanation": "因果の結果を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-156ed6715736",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 9,
+    "english": "as a consequence of",
+    "meaning": "の結果として",
+    "pos": "熟語",
+    "pronunciation": "/ɛz ə ˈkɑnsəkwəns əv/",
+    "example": "Roads closed as a consequence of flooding.",
+    "translation": "洪水の結果道が閉じた。",
+    "explanation": "原因を名詞で続ける。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-28940985c575",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 10,
+    "english": "as a last resort",
+    "meaning": "最後の手段として",
+    "pos": "熟語",
+    "pronunciation": "/ɛz ə læst rɪˈzɔrt/",
+    "example": "We borrowed as a last resort.",
+    "translation": "最後の手段として借りた。",
+    "explanation": "他の手段がない時。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d431ceb273d7",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 11,
+    "english": "as a token of",
+    "meaning": "のしるしとして",
+    "pos": "熟語",
+    "pronunciation": "/ɛz ə ˈtoʊkən əv/",
+    "example": "Accept this as a token of thanks.",
+    "translation": "感謝のしるしとして受け取って。",
+    "explanation": "象徴的な贈り物など。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-a9c75d1ece00",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 12,
+    "english": "as compared with",
+    "meaning": "と比べて",
+    "pos": "熟語",
+    "pronunciation": "/ɛz kəmˈpɛrd wɪθ/",
+    "example": "Costs fell as compared with last year.",
+    "translation": "昨年と比べ費用が下がった。",
+    "explanation": "比較対象を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-fa71531fa0c0",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 13,
+    "english": "as distinct from",
+    "meaning": "と区別して",
+    "pos": "熟語",
+    "pronunciation": "/ɛz dɪˈstɪŋkt frəm/",
+    "example": "We study speech as distinct from writing.",
+    "translation": "書き言葉と区別し話し言葉を扱う。",
+    "explanation": "差異を明確にする。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-cc9402ae35ab",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 14,
+    "english": "as good as",
+    "meaning": "も同然",
+    "pos": "熟語",
+    "pronunciation": "/ɛz gʊd ɛz/",
+    "example": "The work is as good as finished.",
+    "translation": "仕事は終わったも同然だ。",
+    "explanation": "ほぼ同じ状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-cf84bc80a7e4",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 15,
+    "english": "as it were",
+    "meaning": "いわば",
+    "pos": "熟語",
+    "pronunciation": "/ɛz ɪt wər/",
+    "example": "The forest is, as it were, a library.",
+    "translation": "森はいわば図書館だ。",
+    "explanation": "比喩を控えめに示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9fe3f5f62260",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 16,
+    "english": "as often as not",
+    "meaning": "たいてい",
+    "pos": "熟語",
+    "pronunciation": "/ɛz ˈɔfən ɛz nɑt/",
+    "example": "As often as not, he walks.",
+    "translation": "彼はたいてい歩く。",
+    "explanation": "頻繁な傾向を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9af5c9961bb5",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 17,
+    "english": "as things go",
+    "meaning": "一般の水準では",
+    "pos": "熟語",
+    "pronunciation": "/ɛz θɪŋz goʊ/",
+    "example": "It is cheap as things go.",
+    "translation": "世間相場では安い。",
+    "explanation": "通常との比較。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d890031a7729",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 18,
+    "english": "as things stand",
+    "meaning": "現状では",
+    "pos": "熟語",
+    "pronunciation": "/ɛz θɪŋz stænd/",
+    "example": "As things stand, funding is secure.",
+    "translation": "現状では資金は確保されている。",
+    "explanation": "現在の条件を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8befa1d467a3",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 19,
+    "english": "as luck would have it",
+    "meaning": "運よく；あいにく",
+    "pos": "熟語",
+    "pronunciation": "/ɛz lək wʊd hæv ɪt/",
+    "example": "As luck would have it, a bus arrived.",
+    "translation": "運よくバスが来た。",
+    "explanation": "偶然の成り行き。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0498b74ee192",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 20,
+    "english": "at a glance",
+    "meaning": "一目で",
+    "pos": "熟語",
+    "pronunciation": "/æt ə glæns/",
+    "example": "She understood the chart at a glance.",
+    "translation": "一目で図を理解した。",
+    "explanation": "短時間での認識。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2bcdbe626caf",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 21,
+    "english": "at a standstill",
+    "meaning": "行き詰まって",
+    "pos": "熟語",
+    "pronunciation": "/æt ə ˈstændˌstɪl/",
+    "example": "Traffic was at a standstill.",
+    "translation": "交通は完全に止まっていた。",
+    "explanation": "動きが停止した状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4712dcc948aa",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 22,
+    "english": "at a stretch",
+    "meaning": "連続して",
+    "pos": "熟語",
+    "pronunciation": "/æt ə strɛʧ/",
+    "example": "He studied three hours at a stretch.",
+    "translation": "三時間続けて勉強した。",
+    "explanation": "中断なしの期間。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-df8f60fb7c12",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 23,
+    "english": "at all costs",
+    "meaning": "何としても",
+    "pos": "熟語",
+    "pronunciation": "/æt ɔl kɔsts/",
+    "example": "Protect the data at all costs.",
+    "translation": "何としてもデータを守って。",
+    "explanation": "犠牲を問わない決意。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-b48c9cdfc0f0",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 24,
+    "english": "at close range",
+    "meaning": "至近距離で",
+    "pos": "熟語",
+    "pronunciation": "/æt kloʊz reɪnʤ/",
+    "example": "We observed the bird at close range.",
+    "translation": "鳥を近くから観察した。",
+    "explanation": "近い距離を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f72bd707f809",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 25,
+    "english": "at hand",
+    "meaning": "近くに；間近に",
+    "pos": "熟語",
+    "pronunciation": "/æt hænd/",
+    "example": "Keep a flashlight at hand.",
+    "translation": "懐中電灯を手元に置いて。",
+    "explanation": "時間の接近にも使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-53a4cd46cbda",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 26,
+    "english": "at issue",
+    "meaning": "争点となって",
+    "pos": "熟語",
+    "pronunciation": "/æt ˈɪʃu/",
+    "example": "Funding is at issue here.",
+    "translation": "ここでは資金が争点だ。",
+    "explanation": "問題の中心にあること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-655d103ea9b0",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 27,
+    "english": "at large",
+    "meaning": "逃亡中で；全体の",
+    "pos": "熟語",
+    "pronunciation": "/æt lɑrʤ/",
+    "example": "The suspect remains at large.",
+    "translation": "容疑者はなお逃亡中だ。",
+    "explanation": "society at largeで社会全体。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-02dc03929063",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 28,
+    "english": "at the latest",
+    "meaning": "遅くとも",
+    "pos": "熟語",
+    "pronunciation": "/æt ðə ˈleɪtəst/",
+    "example": "Reply by Friday at the latest.",
+    "translation": "遅くとも金曜までに返事を。",
+    "explanation": "期限の最終限界。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4971469c9d26",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 29,
+    "english": "at one's disposal",
+    "meaning": "自由に使えて",
+    "pos": "熟語",
+    "pronunciation": "/æt wʌnz dɪˈspoʊzəl/",
+    "example": "A car is at your disposal.",
+    "translation": "車は自由に使えます。",
+    "explanation": "利用可能な資源。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4ae11b0ef033",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 30,
+    "english": "at one's expense",
+    "meaning": "の費用で；を犠牲に",
+    "pos": "熟語",
+    "pronunciation": "/æt wʌnz ɪkˈspɛns/",
+    "example": "The repairs were at our expense.",
+    "translation": "修理費は私たちが負担した。",
+    "explanation": "負担する人を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-622f27f61a8d",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 31,
+    "english": "at one's leisure",
+    "meaning": "暇なときに",
+    "pos": "熟語",
+    "pronunciation": "/æt wʌnz ˈlɛʒər/",
+    "example": "Read the report at your leisure.",
+    "translation": "暇なとき報告を読んで。",
+    "explanation": "急がず都合のよい時。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8bc5b6e8e05d",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 32,
+    "english": "at one's wit's end",
+    "meaning": "途方に暮れて",
+    "pos": "熟語",
+    "pronunciation": "/æt wʌnz wɪts ɛnd/",
+    "example": "She was at her wit's end.",
+    "translation": "彼女は途方に暮れていた。",
+    "explanation": "手段が思いつかない状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e3fbe51653b8",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 33,
+    "english": "at second hand",
+    "meaning": "間接的に",
+    "pos": "熟語",
+    "pronunciation": "/æt ˈsɛkənd hænd/",
+    "example": "We heard the story at second hand.",
+    "translation": "話は人づてに聞いた。",
+    "explanation": "直接経験せずに。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4e5a8c65d44b",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 34,
+    "english": "at short notice",
+    "meaning": "急な通知で",
+    "pos": "熟語",
+    "pronunciation": "/æt ʃɔrt ˈnoʊtɪs/",
+    "example": "They arrived at short notice.",
+    "translation": "直前の連絡で到着した。",
+    "explanation": "準備時間が短いこと。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-45e5b1db394b",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 35,
+    "english": "at the expense of",
+    "meaning": "を犠牲にして",
+    "pos": "熟語",
+    "pronunciation": "/æt ðə ɪkˈspɛns əv/",
+    "example": "Do not save money at the expense of safety.",
+    "translation": "安全を犠牲に節約しないで。",
+    "explanation": "代償を払う対象。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-124c183a8580",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 36,
+    "english": "at the mercy of",
+    "meaning": "のなすがままに",
+    "pos": "熟語",
+    "pronunciation": "/æt ðə ˈmərsi əv/",
+    "example": "Sailors were at the mercy of storms.",
+    "translation": "船員は嵐に翻弄された。",
+    "explanation": "制御できない力への依存。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4b0c86af21d0",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 37,
+    "english": "at the outset",
+    "meaning": "最初に",
+    "pos": "熟語",
+    "pronunciation": "/æt ðə ˈaʊtˌsɛt/",
+    "example": "We set goals at the outset.",
+    "translation": "最初に目標を定めた。",
+    "explanation": "活動の開始時点。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1b4d8172f8b1",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 38,
+    "english": "at the risk of",
+    "meaning": "の危険を冒して",
+    "pos": "熟語",
+    "pronunciation": "/æt ðə rɪsk əv/",
+    "example": "He spoke at the risk of losing support.",
+    "translation": "支持喪失を覚悟し発言した。",
+    "explanation": "予想される危険。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-418a4eb0f034",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 39,
+    "english": "at variance with",
+    "meaning": "と食い違って",
+    "pos": "熟語",
+    "pronunciation": "/æt ˈvɛriəns wɪθ/",
+    "example": "His account is at variance with the facts.",
+    "translation": "証言は事実と食い違う。",
+    "explanation": "不一致の状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-015aa05f6548",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 40,
+    "english": "beyond doubt",
+    "meaning": "疑いなく",
+    "pos": "熟語",
+    "pronunciation": "/bɪɔnd daʊt/",
+    "example": "The evidence proves it beyond doubt.",
+    "translation": "証拠は疑いなく証明する。",
+    "explanation": "確実さの強調。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-11d78e7ebc76",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 41,
+    "english": "beyond one's control",
+    "meaning": "の制御を超えて",
+    "pos": "熟語",
+    "pronunciation": "/bɪɔnd wʌnz kənˈtroʊl/",
+    "example": "The delays were beyond our control.",
+    "translation": "遅延は私たちに制御不能だった。",
+    "explanation": "対処できない範囲。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-cad6c8dbfecc",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 42,
+    "english": "beyond one's means",
+    "meaning": "の経済力を超えて",
+    "pos": "熟語",
+    "pronunciation": "/bɪɔnd wʌnz minz/",
+    "example": "The house is beyond our means.",
+    "translation": "家は予算を超えている。",
+    "explanation": "支払能力との比較。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-fc496ab9c25f",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 43,
+    "english": "beyond question",
+    "meaning": "疑う余地なく",
+    "pos": "熟語",
+    "pronunciation": "/bɪɔnd kˈwɛʃən/",
+    "example": "Her honesty is beyond question.",
+    "translation": "誠実さには疑う余地がない。",
+    "explanation": "確かな評価。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-71cd34b25f77",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 44,
+    "english": "by and by",
+    "meaning": "やがて",
+    "pos": "熟語",
+    "pronunciation": "/baɪ ənd baɪ/",
+    "example": "By and by, the clouds cleared.",
+    "translation": "やがて雲が晴れた。",
+    "explanation": "少し時間がたって。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8a71fe07cff1",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 45,
+    "english": "by and large",
+    "meaning": "概して",
+    "pos": "熟語",
+    "pronunciation": "/baɪ ənd lɑrʤ/",
+    "example": "By and large, the scheme works.",
+    "translation": "概して制度は機能する。",
+    "explanation": "全体の評価。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9d7425049ce7",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 46,
+    "english": "by far",
+    "meaning": "はるかに",
+    "pos": "熟語",
+    "pronunciation": "/baɪ fɑr/",
+    "example": "This is by far the largest.",
+    "translation": "これは断然最大だ。",
+    "explanation": "最上級などを強調。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7c5478bf2aa7",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 47,
+    "english": "by force of",
+    "meaning": "の力によって",
+    "pos": "熟語",
+    "pronunciation": "/baɪ fɔrs əv/",
+    "example": "He succeeded by force of persistence.",
+    "translation": "粘り強さで成功した。",
+    "explanation": "作用する力を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d4297736d1a2",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 48,
+    "english": "by way of",
+    "meaning": "として；を経由して",
+    "pos": "熟語",
+    "pronunciation": "/baɪ weɪ əv/",
+    "example": "We traveled by way of Seoul.",
+    "translation": "ソウル経由で旅した。",
+    "explanation": "手段や例示の意味も。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-a5a041d592c9",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 49,
+    "english": "by virtue of",
+    "meaning": "のおかげで；の資格で",
+    "pos": "熟語",
+    "pronunciation": "/baɪ ˈvərʧu əv/",
+    "example": "She leads by virtue of experience.",
+    "translation": "経験ゆえに指導する。",
+    "explanation": "根拠や資格を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-6c9e281b5221",
+    "kind": "idiom",
+    "level": 3,
+    "section": 7,
+    "number": 50,
+    "english": "due to",
+    "meaning": "のために",
+    "pos": "熟語",
+    "pronunciation": "/du tɪ/",
+    "example": "Flights stopped due to fog.",
+    "translation": "霧で便が止まった。",
+    "explanation": "原因を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8266af97b0ed",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 1,
+    "english": "far from it",
+    "meaning": "それどころではない",
+    "pos": "熟語",
+    "pronunciation": "/fɑr frəm ɪt/",
+    "example": "Was it easy? Far from it.",
+    "translation": "簡単だった。とんでもない。",
+    "explanation": "直前の内容を強く否定。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9d5ac1df1d77",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 2,
+    "english": "for all",
+    "meaning": "にもかかわらず",
+    "pos": "熟語",
+    "pronunciation": "/fər ɔl/",
+    "example": "For all his wealth, he is lonely.",
+    "translation": "裕福なのに彼は孤独だ。",
+    "explanation": "譲歩を表す用法。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8d93dcd7c43e",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 3,
+    "english": "for all that",
+    "meaning": "それにもかかわらず",
+    "pos": "熟語",
+    "pronunciation": "/fər ɔl ðət/",
+    "example": "It was costly; for all that, it helped.",
+    "translation": "高価だったが役立った。",
+    "explanation": "逆接の接続表現。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-564cf534a0fc",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 4,
+    "english": "for better or worse",
+    "meaning": "良くも悪くも",
+    "pos": "熟語",
+    "pronunciation": "/fər ˈbɛtər ər wərs/",
+    "example": "Technology changes us for better or worse.",
+    "translation": "技術は良くも悪くも人を変える。",
+    "explanation": "両面の影響を認める。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1dda74c0213c",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 5,
+    "english": "for lack of",
+    "meaning": "がないために",
+    "pos": "熟語",
+    "pronunciation": "/fər læk əv/",
+    "example": "The project stopped for lack of funds.",
+    "translation": "資金不足で計画が止まった。",
+    "explanation": "不足を原因とする。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e0d4d8508689",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 6,
+    "english": "for want of",
+    "meaning": "が足りないために",
+    "pos": "熟語",
+    "pronunciation": "/fər wɔnt əv/",
+    "example": "The crops died for want of rain.",
+    "translation": "雨不足で作物が枯れた。",
+    "explanation": "欠如の理由を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-394df46cbb5e",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 7,
+    "english": "from all accounts",
+    "meaning": "どの話によっても",
+    "pos": "熟語",
+    "pronunciation": "/frəm ɔl əˈkaʊnts/",
+    "example": "From all accounts, she is reliable.",
+    "translation": "誰の話でも彼女は信頼できる。",
+    "explanation": "複数の伝聞の一致。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-b1537b90a2d8",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 8,
+    "english": "from the outset",
+    "meaning": "最初から",
+    "pos": "熟語",
+    "pronunciation": "/frəm ðə ˈaʊtˌsɛt/",
+    "example": "We knew the risks from the outset.",
+    "translation": "初めから危険を知っていた。",
+    "explanation": "開始時点から。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-cad5ce3e2d38",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 9,
+    "english": "from within",
+    "meaning": "内部から",
+    "pos": "熟語",
+    "pronunciation": "/frəm wɪˈθɪn/",
+    "example": "Reform must come from within.",
+    "translation": "改革は内部から起こるべきだ。",
+    "explanation": "内側を起点にする。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-93faf333c33e",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 10,
+    "english": "in accordance with",
+    "meaning": "に従って",
+    "pos": "熟語",
+    "pronunciation": "/ɪn əˈkɔrdəns wɪθ/",
+    "example": "We acted in accordance with policy.",
+    "translation": "方針に従って行動した。",
+    "explanation": "基準との一致。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-64cfd6e63fb5",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 11,
+    "english": "in aid of",
+    "meaning": "を支援するために",
+    "pos": "熟語",
+    "pronunciation": "/ɪn eɪd əv/",
+    "example": "They sang in aid of the hospital.",
+    "translation": "病院支援のため歌った。",
+    "explanation": "募金などの目的。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-c4b2aa0b2906",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 12,
+    "english": "in all probability",
+    "meaning": "十中八九",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ɔl ˌprɑbəˈbɪləˌti/",
+    "example": "In all probability, they will agree.",
+    "translation": "おそらく彼らは同意する。",
+    "explanation": "高い可能性。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9eea73c3d5f0",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 13,
+    "english": "in anticipation of",
+    "meaning": "を見越して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ænˌtɪsəˈpeɪʃən əv/",
+    "example": "We stocked food in anticipation of snow.",
+    "translation": "雪を見越し食料を蓄えた。",
+    "explanation": "予測に基づく準備。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-992ef653afc0",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 14,
+    "english": "in association with",
+    "meaning": "と共同で",
+    "pos": "熟語",
+    "pronunciation": "/ɪn əˌsoʊʃiˈeɪʃən wɪθ/",
+    "example": "The study ran in association with schools.",
+    "translation": "学校と共同で研究した。",
+    "explanation": "協力関係を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-79f880342b76",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 15,
+    "english": "in bulk",
+    "meaning": "大量に；ばらで",
+    "pos": "熟語",
+    "pronunciation": "/ɪn bəlk/",
+    "example": "We buy rice in bulk.",
+    "translation": "米をまとめ買いする。",
+    "explanation": "大量単位での扱い。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d9d04d8efccd",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 16,
+    "english": "in due course",
+    "meaning": "やがて；適切な時に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn du kɔrs/",
+    "example": "You will hear in due course.",
+    "translation": "追って連絡があります。",
+    "explanation": "順序が来た時点。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-182ad34d18fc",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 17,
+    "english": "in earnest",
+    "meaning": "本気で",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈərnɪst/",
+    "example": "They began training in earnest.",
+    "translation": "本格的に練習を始めた。",
+    "explanation": "真剣に取り組むこと。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2562c8ef3d7f",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 18,
+    "english": "in excess of",
+    "meaning": "を超えて",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈɛkˌsɛs əv/",
+    "example": "Costs were in excess of estimates.",
+    "translation": "費用は見積もりを超えた。",
+    "explanation": "数量が基準以上。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0567e7386319",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 19,
+    "english": "in keeping with",
+    "meaning": "に調和して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈkipɪŋ wɪθ/",
+    "example": "The design is in keeping with tradition.",
+    "translation": "設計は伝統に合う。",
+    "explanation": "様式や方針との一致。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-deab23f4b0a4",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 20,
+    "english": "in light of",
+    "meaning": "を踏まえて",
+    "pos": "熟語",
+    "pronunciation": "/ɪn laɪt əv/",
+    "example": "We changed plans in light of the evidence.",
+    "translation": "証拠を踏まえ計画を変えた。",
+    "explanation": "新情報に基づく判断。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8ae54a38605d",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 21,
+    "english": "in line with",
+    "meaning": "に沿って",
+    "pos": "熟語",
+    "pronunciation": "/ɪn laɪn wɪθ/",
+    "example": "Wages rose in line with inflation.",
+    "translation": "賃金は物価に沿い上がった。",
+    "explanation": "基準との対応。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-fd696793fae2",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 22,
+    "english": "in memory of",
+    "meaning": "をしのんで",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈmɛməri əv/",
+    "example": "They planted trees in memory of her.",
+    "translation": "彼女をしのび植樹した。",
+    "explanation": "亡くなった人への追悼。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0bac72be7a37",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 23,
+    "english": "in moderation",
+    "meaning": "適度に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˌmɑdərˈeɪʃən/",
+    "example": "Enjoy sweets in moderation.",
+    "translation": "菓子は適度に楽しんで。",
+    "explanation": "過度を避けること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d8c42c8d5b36",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 24,
+    "english": "in no time",
+    "meaning": "すぐに",
+    "pos": "熟語",
+    "pronunciation": "/ɪn noʊ taɪm/",
+    "example": "We finished in no time.",
+    "translation": "あっという間に終えた。",
+    "explanation": "短時間での完了。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-484251f8ae12",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 25,
+    "english": "in passing",
+    "meaning": "ついでに；ちらりと",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈpæsɪŋ/",
+    "example": "She mentioned it in passing.",
+    "translation": "彼女はついでに触れた。",
+    "explanation": "詳述せず軽く述べる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7a3a7fc8c0c5",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 26,
+    "english": "in perspective",
+    "meaning": "正しい見通しで",
+    "pos": "熟語",
+    "pronunciation": "/ɪn pərˈspɛktɪv/",
+    "example": "Keep the setback in perspective.",
+    "translation": "失敗を釣り合いよく捉えて。",
+    "explanation": "全体の中で評価する。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d067915e3b85",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 27,
+    "english": "in place",
+    "meaning": "所定の位置に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn pleɪs/",
+    "example": "The safeguards are in place.",
+    "translation": "安全策は整っている。",
+    "explanation": "準備済みの意味も。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d66a9f105d7f",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 28,
+    "english": "in place of",
+    "meaning": "の代わりに",
+    "pos": "熟語",
+    "pronunciation": "/ɪn pleɪs əv/",
+    "example": "Use yogurt in place of cream.",
+    "translation": "クリームの代わりにヨーグルトを。",
+    "explanation": "代替を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-087459802e2b",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 29,
+    "english": "in possession of",
+    "meaning": "を持って",
+    "pos": "熟語",
+    "pronunciation": "/ɪn pəˈzɛʃən əv/",
+    "example": "She is in possession of the originals.",
+    "translation": "原本を所有している。",
+    "explanation": "所有者が主語。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4da50f440bf4",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 30,
+    "english": "in pursuit of",
+    "meaning": "を追い求めて",
+    "pos": "熟語",
+    "pronunciation": "/ɪn pərˈsut əv/",
+    "example": "They traveled in pursuit of knowledge.",
+    "translation": "知識を求めて旅した。",
+    "explanation": "目標の追求。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e0c787fe479f",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 31,
+    "english": "in relation to",
+    "meaning": "に関連して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn riˈleɪʃən tɪ/",
+    "example": "Discuss cost in relation to quality.",
+    "translation": "品質に関連づけ費用を論じて。",
+    "explanation": "関連や比較の観点。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-07eb1e85f65b",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 32,
+    "english": "in retrospect",
+    "meaning": "振り返れば",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈrɛtrəˌspɛkt/",
+    "example": "In retrospect, caution was wise.",
+    "translation": "振り返ると慎重さが賢明だった。",
+    "explanation": "過去を見直す視点。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ddf61a7779e2",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 33,
+    "english": "in succession",
+    "meaning": "続けて",
+    "pos": "熟語",
+    "pronunciation": "/ɪn səkˈsɛʃən/",
+    "example": "They won three games in succession.",
+    "translation": "三試合続けて勝った。",
+    "explanation": "途切れない順序。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7ad660925949",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 34,
+    "english": "in support of",
+    "meaning": "を支持して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn səˈpɔrt əv/",
+    "example": "They marched in support of reform.",
+    "translation": "改革支持の行進をした。",
+    "explanation": "支持する対象。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-169168dd8e66",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 35,
+    "english": "in the face of",
+    "meaning": "に直面して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ðə feɪs əv/",
+    "example": "She remained calm in the face of danger.",
+    "translation": "危険に直面しても冷静だった。",
+    "explanation": "困難に向き合う状況。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-897832157130",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 36,
+    "english": "in the interests of",
+    "meaning": "のために",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ðə ˈɪntərɪsts əv/",
+    "example": "Act in the interests of safety.",
+    "translation": "安全のため行動して。",
+    "explanation": "守るべき利益を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-a31176b289d0",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 37,
+    "english": "in total",
+    "meaning": "合計で",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈtoʊtəl/",
+    "example": "Twenty people came in total.",
+    "translation": "合計二十人が来た。",
+    "explanation": "総量を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9fc9b4d40711",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 38,
+    "english": "in the midst of",
+    "meaning": "の最中に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ðə mɪst əv/",
+    "example": "The phone rang in the midst of dinner.",
+    "translation": "夕食の最中に電話が鳴った。",
+    "explanation": "進行中の出来事。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5eca7dc9a321",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 39,
+    "english": "in the wake of",
+    "meaning": "に続いて",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ðə weɪk əv/",
+    "example": "Reforms followed in the wake of the crisis.",
+    "translation": "危機に続いて改革が起きた。",
+    "explanation": "出来事の余波。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-21f5cdd9fce3",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 40,
+    "english": "in transition",
+    "meaning": "移行中で",
+    "pos": "熟語",
+    "pronunciation": "/ɪn trænˈzɪʃən/",
+    "example": "The economy is in transition.",
+    "translation": "経済は移行中だ。",
+    "explanation": "状態が変わる途中。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f310243ac926",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 41,
+    "english": "on a par with",
+    "meaning": "と同等で",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ə pɑr wɪθ/",
+    "example": "The service is on a par with rivals.",
+    "translation": "サービスは他社と同等だ。",
+    "explanation": "水準の一致。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-00f486210a94",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 42,
+    "english": "on balance",
+    "meaning": "差し引きして；総じて",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ˈbæləns/",
+    "example": "On balance, the benefits outweigh costs.",
+    "translation": "総じて利点が費用を上回る。",
+    "explanation": "両面を比較して判断。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7e88dac46fa4",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 43,
+    "english": "on the grounds that",
+    "meaning": "という理由で",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ðə graʊnz ðət/",
+    "example": "They refused on the grounds that it was unsafe.",
+    "translation": "危険という理由で断った。",
+    "explanation": "後ろに理由の節。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4b32038122bd",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 44,
+    "english": "on the verge of",
+    "meaning": "まさにしそうで",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ðə vərʤ əv/",
+    "example": "The firm is on the verge of collapse.",
+    "translation": "会社は崩壊寸前だ。",
+    "explanation": "直前の状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d198ee4d34d9",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 45,
+    "english": "out of consideration for",
+    "meaning": "に配慮して",
+    "pos": "熟語",
+    "pronunciation": "/aʊt əv kənˌsɪdərˈeɪʃən fər/",
+    "example": "He whispered out of consideration for others.",
+    "translation": "他人に配慮して小声で話した。",
+    "explanation": "思いやりを理由とする。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5bc027858260",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 46,
+    "english": "out of curiosity",
+    "meaning": "好奇心から",
+    "pos": "熟語",
+    "pronunciation": "/aʊt əv ˌkjʊriˈɑsəti/",
+    "example": "I asked out of curiosity.",
+    "translation": "好奇心から尋ねた。",
+    "explanation": "行動の動機。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-3c5292acb908",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 47,
+    "english": "out of necessity",
+    "meaning": "必要に迫られて",
+    "pos": "熟語",
+    "pronunciation": "/aʊt əv nəˈsɛsɪti/",
+    "example": "They moved out of necessity.",
+    "translation": "必要に迫られて引っ越した。",
+    "explanation": "選択の余地の少ない動機。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7437b1f4744e",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 48,
+    "english": "prior to",
+    "meaning": "より前に",
+    "pos": "熟語",
+    "pronunciation": "/praɪər tɪ/",
+    "example": "Register prior to departure.",
+    "translation": "出発前に登録して。",
+    "explanation": "改まったbeforeの表現。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2a5cb30021f1",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 49,
+    "english": "subsequent to",
+    "meaning": "の後に",
+    "pos": "熟語",
+    "pronunciation": "/ˈsəbsəkwənt tɪ/",
+    "example": "The rule changed subsequent to review.",
+    "translation": "検討後に規則が変わった。",
+    "explanation": "改まった時の順序。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9364f3654cdd",
+    "kind": "idiom",
+    "level": 3,
+    "section": 8,
+    "number": 50,
+    "english": "with a view to",
+    "meaning": "することを目的に",
+    "pos": "熟語",
+    "pronunciation": "/wɪθ ə vju tɪ/",
+    "example": "They met with a view to cooperating.",
+    "translation": "協力を目指して会った。",
+    "explanation": "toの後ろは名詞・動名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験の重要表現・準1級相当を目安とする用法を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  }
+]

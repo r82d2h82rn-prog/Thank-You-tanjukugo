@@ -1,0 +1,4802 @@
+[
+  {
+    "id": "idiom-c-7843cc57a4fd",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 1,
+    "english": "be accustomed to",
+    "meaning": "に慣れている",
+    "pos": "熟語",
+    "pronunciation": "/bi əˈkəstəmd tɪ/",
+    "example": "She is accustomed to working late.",
+    "translation": "彼女は遅くまで働くのに慣れている。",
+    "explanation": "toの後ろは名詞・動名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-a1f7ab435f84",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 2,
+    "english": "be addicted to",
+    "meaning": "に依存している",
+    "pos": "熟語",
+    "pronunciation": "/bi əˈdɪktɪd tɪ/",
+    "example": "He is addicted to online games.",
+    "translation": "彼はネットゲームに依存している。",
+    "explanation": "やめにくい強い依存。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d5e007269f5e",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 3,
+    "english": "be aware of",
+    "meaning": "に気づいている",
+    "pos": "熟語",
+    "pronunciation": "/bi əˈwɛr əv/",
+    "example": "Are you aware of the risks?",
+    "translation": "危険を認識していますか。",
+    "explanation": "事実を認識した状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-141d07da45d4",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 4,
+    "english": "be based on",
+    "meaning": "に基づいている",
+    "pos": "熟語",
+    "pronunciation": "/bi beɪst ɔn/",
+    "example": "The film is based on a true story.",
+    "translation": "映画は実話に基づいている。",
+    "explanation": "根拠や原作を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ccf8c26cb0ad",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 5,
+    "english": "be bound for",
+    "meaning": "行きである",
+    "pos": "熟語",
+    "pronunciation": "/bi baʊnd fər/",
+    "example": "This train is bound for Kyoto.",
+    "translation": "この列車は京都行きだ。",
+    "explanation": "交通機関の行き先。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2143855c050a",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 6,
+    "english": "be capable of",
+    "meaning": "する能力がある",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈkeɪpəbəl əv/",
+    "example": "The device is capable of recording sound.",
+    "translation": "装置は録音できる。",
+    "explanation": "ofの後ろは名詞・動名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9a805f41ae49",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 7,
+    "english": "be concerned about",
+    "meaning": "を心配している",
+    "pos": "熟語",
+    "pronunciation": "/bi kənˈsərnd əˈbaʊt/",
+    "example": "We are concerned about water quality.",
+    "translation": "水質を心配している。",
+    "explanation": "懸念の対象を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-3f6fa8ece157",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 8,
+    "english": "be concerned with",
+    "meaning": "に関係している",
+    "pos": "熟語",
+    "pronunciation": "/bi kənˈsərnd wɪθ/",
+    "example": "The study is concerned with urban growth.",
+    "translation": "研究は都市成長を扱う。",
+    "explanation": "主題や関係を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-eec6ad969b96",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 9,
+    "english": "be confident of",
+    "meaning": "を確信している",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈkɑnfədənt əv/",
+    "example": "She is confident of success.",
+    "translation": "彼女は成功を確信している。",
+    "explanation": "結果への確信。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7f2b3eb94104",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 10,
+    "english": "be conscious of",
+    "meaning": "を意識している",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈkɑnʃəs əv/",
+    "example": "He is conscious of his accent.",
+    "translation": "彼は自分のなまりを意識している。",
+    "explanation": "意識が向いている状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-58e3b1f61682",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 11,
+    "english": "be content with",
+    "meaning": "に満足している",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈkɑntɛnt wɪθ/",
+    "example": "They are content with a simple life.",
+    "translation": "彼らは質素な生活で満足している。",
+    "explanation": "現状を受け入れた満足。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f69661c2e5ea",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 12,
+    "english": "be curious about",
+    "meaning": "に好奇心がある",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈkjʊriəs əˈbaʊt/",
+    "example": "Children are curious about space.",
+    "translation": "子供は宇宙に興味津々だ。",
+    "explanation": "詳しく知りたい気持ち。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-05be9c468541",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 13,
+    "english": "be dependent on",
+    "meaning": "に依存している",
+    "pos": "熟語",
+    "pronunciation": "/bi dɪˈpɛndənt ɔn/",
+    "example": "The village is dependent on tourism.",
+    "translation": "村は観光に依存している。",
+    "explanation": "生存や成立を頼る関係。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-61b3a3f28bbb",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 14,
+    "english": "be devoted to",
+    "meaning": "に専念している",
+    "pos": "熟語",
+    "pronunciation": "/bi dɪˈvoʊtɪd tɪ/",
+    "example": "She is devoted to teaching.",
+    "translation": "彼女は教育に尽くしている。",
+    "explanation": "toの後ろは名詞・動名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-93a3ee2a2de1",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 15,
+    "english": "be eager to",
+    "meaning": "しきりにしたがる",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈigər tɪ/",
+    "example": "They are eager to help.",
+    "translation": "彼らはぜひ手伝いたいと思っている。",
+    "explanation": "強い希望を表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d90a7569f855",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 16,
+    "english": "be eligible for",
+    "meaning": "の資格がある",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈɛlɪʤəbəl fər/",
+    "example": "You may be eligible for support.",
+    "translation": "支援の対象になれるかもしれない。",
+    "explanation": "条件を満たす資格。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0fe7189f0373",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 17,
+    "english": "be engaged in",
+    "meaning": "に従事している",
+    "pos": "熟語",
+    "pronunciation": "/bi ɪnˈgeɪʤd ɪn/",
+    "example": "He is engaged in medical research.",
+    "translation": "彼は医学研究に従事している。",
+    "explanation": "活動や仕事への関与。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0e552e8f49a0",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 18,
+    "english": "be equal to",
+    "meaning": "に等しい；に耐えられる",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈikwəl tɪ/",
+    "example": "One meter is equal to one hundred centimeters.",
+    "translation": "一メートルは百センチに等しい。",
+    "explanation": "能力が足りる意味も。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0640312969a7",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 19,
+    "english": "be exposed to",
+    "meaning": "にさらされている",
+    "pos": "熟語",
+    "pronunciation": "/bi ɪkˈspoʊzd tɪ/",
+    "example": "The workers were exposed to dust.",
+    "translation": "作業員は粉じんにさらされた。",
+    "explanation": "接触する環境を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-40a48dfd1590",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 20,
+    "english": "be familiar with",
+    "meaning": "をよく知っている",
+    "pos": "熟語",
+    "pronunciation": "/bi fəˈmɪljər wɪθ/",
+    "example": "I am familiar with this software.",
+    "translation": "このソフトをよく知っている。",
+    "explanation": "知っている人が主語。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-85d3b270395c",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 21,
+    "english": "be familiar to",
+    "meaning": "によく知られている",
+    "pos": "熟語",
+    "pronunciation": "/bi fəˈmɪljər tɪ/",
+    "example": "This melody is familiar to me.",
+    "translation": "この旋律は聞き覚えがある。",
+    "explanation": "知られている物が主語。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-90114cb28ffe",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 22,
+    "english": "be fed up with",
+    "meaning": "にうんざりしている",
+    "pos": "熟語",
+    "pronunciation": "/bi fɛd əp wɪθ/",
+    "example": "She is fed up with excuses.",
+    "translation": "彼女は言い訳にうんざりしている。",
+    "explanation": "不満の蓄積を表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-707290c6c8ca",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 23,
+    "english": "be free from",
+    "meaning": "がない；から免れている",
+    "pos": "熟語",
+    "pronunciation": "/bi fri frəm/",
+    "example": "The report is free from major errors.",
+    "translation": "報告書に大きな誤りはない。",
+    "explanation": "望ましくないものの欠如。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-00587110e059",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 24,
+    "english": "be grateful for",
+    "meaning": "に感謝している",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈgreɪtfəl fər/",
+    "example": "I am grateful for your help.",
+    "translation": "助けに感謝している。",
+    "explanation": "forの後ろは恩恵。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-aa506ff25677",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 25,
+    "english": "be grateful to",
+    "meaning": "に感謝している",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈgreɪtfəl tɪ/",
+    "example": "We are grateful to our volunteers.",
+    "translation": "ボランティアの皆さんに感謝している。",
+    "explanation": "toの後ろは人。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d99fd828e631",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 26,
+    "english": "be guilty of",
+    "meaning": "の罪を犯している",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈgɪlti əv/",
+    "example": "He was found guilty of theft.",
+    "translation": "彼は窃盗で有罪とされた。",
+    "explanation": "ofの後ろに罪や過失。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5e7f67196763",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 27,
+    "english": "be independent of",
+    "meaning": "から独立している",
+    "pos": "熟語",
+    "pronunciation": "/bi ˌɪndɪˈpɛndənt əv/",
+    "example": "The agency is independent of government.",
+    "translation": "機関は政府から独立している。",
+    "explanation": "依存や支配を受けない。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-257335fb02b4",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 28,
+    "english": "be inferior to",
+    "meaning": "より劣っている",
+    "pos": "熟語",
+    "pronunciation": "/bi ˌɪnˈfɪriər tɪ/",
+    "example": "This model is inferior to the original.",
+    "translation": "この型は原型より劣る。",
+    "explanation": "比較にthanではなくto。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-fcb8b9f90006",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 29,
+    "english": "be involved in",
+    "meaning": "に関わっている",
+    "pos": "熟語",
+    "pronunciation": "/bi ˌɪnˈvɑlvd ɪn/",
+    "example": "Many residents are involved in the project.",
+    "translation": "多くの住民が計画に関わる。",
+    "explanation": "事件への巻き込まれにも使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4d22f6cc1b3d",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 30,
+    "english": "be likely to",
+    "meaning": "しそうである",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈlaɪkli tɪ/",
+    "example": "Prices are likely to rise.",
+    "translation": "価格は上がりそうだ。",
+    "explanation": "可能性の高さを示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1dc0f78c0917",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 31,
+    "english": "be unlikely to",
+    "meaning": "しそうにない",
+    "pos": "熟語",
+    "pronunciation": "/bi ənˈlaɪkli tɪ/",
+    "example": "The rain is unlikely to stop soon.",
+    "translation": "雨はすぐにはやみそうにない。",
+    "explanation": "可能性の低さを示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8f7461b90313",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 32,
+    "english": "be opposed to",
+    "meaning": "に反対している",
+    "pos": "熟語",
+    "pronunciation": "/bi əˈpoʊzd tɪ/",
+    "example": "Residents are opposed to the closure.",
+    "translation": "住民は閉鎖に反対している。",
+    "explanation": "toの後ろは名詞・動名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-54ab31290ba0",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 33,
+    "english": "be particular about",
+    "meaning": "にこだわる",
+    "pos": "熟語",
+    "pronunciation": "/bi ˌpɑˈtɪkjələr əˈbaʊt/",
+    "example": "She is particular about coffee.",
+    "translation": "彼女はコーヒーにこだわる。",
+    "explanation": "細かな好みがあること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-3d08747a44d6",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 34,
+    "english": "be responsible for",
+    "meaning": "の責任がある",
+    "pos": "熟語",
+    "pronunciation": "/bi riˈspɑnsəbəl fər/",
+    "example": "I am responsible for safety.",
+    "translation": "安全を担当している。",
+    "explanation": "原因を示す意味も。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4778a2ff3a3c",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 35,
+    "english": "be rich in",
+    "meaning": "が豊富である",
+    "pos": "熟語",
+    "pronunciation": "/bi rɪʧ ɪn/",
+    "example": "Beans are rich in protein.",
+    "translation": "豆はたんぱく質が豊富だ。",
+    "explanation": "栄養や資源の豊富さ。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ac00073d7036",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 36,
+    "english": "be sensitive to",
+    "meaning": "に敏感である",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈsɛnsɪtɪv tɪ/",
+    "example": "This plant is sensitive to cold.",
+    "translation": "この植物は寒さに敏感だ。",
+    "explanation": "刺激への反応の強さ。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8cd550de19ff",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 37,
+    "english": "be similar in",
+    "meaning": "の点で似ている",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈsɪmələr ɪn/",
+    "example": "The twins are similar in character.",
+    "translation": "双子は性格が似ている。",
+    "explanation": "似ている側面を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0fac6afc277c",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 38,
+    "english": "be superior to",
+    "meaning": "より優れている",
+    "pos": "熟語",
+    "pronunciation": "/bi suˈpɪriər tɪ/",
+    "example": "The new lens is superior to the old one.",
+    "translation": "新レンズは旧型より優れている。",
+    "explanation": "比較対象はtoで示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f9fc1610d9cb",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 39,
+    "english": "be supposed to",
+    "meaning": "することになっている",
+    "pos": "熟語",
+    "pronunciation": "/bi səˈpoʊzd tɪ/",
+    "example": "We are supposed to meet at six.",
+    "translation": "六時に会うことになっている。",
+    "explanation": "予定や義務を表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-fa60899d33e8",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 40,
+    "english": "be willing to",
+    "meaning": "進んでする",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈwɪlɪŋ tɪ/",
+    "example": "She is willing to share her notes.",
+    "translation": "彼女は進んでノートを共有する。",
+    "explanation": "自発的な意思を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5be4555e7a2e",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 41,
+    "english": "be unwilling to",
+    "meaning": "したがらない",
+    "pos": "熟語",
+    "pronunciation": "/bi ənˈwɪlɪŋ tɪ/",
+    "example": "He is unwilling to discuss it.",
+    "translation": "彼はその話をしたがらない。",
+    "explanation": "行動への消極的意思。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7b7273db0832",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 42,
+    "english": "be worth doing",
+    "meaning": "する価値がある",
+    "pos": "熟語",
+    "pronunciation": "/bi wərθ duɪŋ/",
+    "example": "The museum is worth visiting.",
+    "translation": "博物館は訪れる価値がある。",
+    "explanation": "doingを具体的動名詞に変える。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d43555ac52d1",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 43,
+    "english": "be used to",
+    "meaning": "に慣れている",
+    "pos": "熟語",
+    "pronunciation": "/bi juzd tɪ/",
+    "example": "I am used to cold weather.",
+    "translation": "寒い気候に慣れている。",
+    "explanation": "過去の習慣used toと区別。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8c2f7704499b",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 44,
+    "english": "be suitable for",
+    "meaning": "に適している",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈsutəbəl fər/",
+    "example": "This route is suitable for beginners.",
+    "translation": "この経路は初心者向きだ。",
+    "explanation": "用途や対象との適合。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-a6b777d46946",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 45,
+    "english": "be subject to",
+    "meaning": "の影響を受ける；変更されうる",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈsəbʤɪkt tɪ/",
+    "example": "The schedule is subject to change.",
+    "translation": "予定は変更されることがある。",
+    "explanation": "規制の対象にも使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f8325643cb65",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 46,
+    "english": "be reluctant to",
+    "meaning": "するのをためらう",
+    "pos": "熟語",
+    "pronunciation": "/bi rɪˈləktənt tɪ/",
+    "example": "He was reluctant to speak.",
+    "translation": "彼は話すのをためらった。",
+    "explanation": "気が進まない行動。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f8255bfd4aa5",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 47,
+    "english": "be anxious about",
+    "meaning": "を心配している",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈæŋʃəs əˈbaʊt/",
+    "example": "She is anxious about the interview.",
+    "translation": "彼女は面接を心配している。",
+    "explanation": "aboutで不安の対象。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-3a1caa33ebb9",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 48,
+    "english": "be anxious to",
+    "meaning": "切望する",
+    "pos": "熟語",
+    "pronunciation": "/bi ˈæŋʃəs tɪ/",
+    "example": "He is anxious to return home.",
+    "translation": "彼は帰宅を切望している。",
+    "explanation": "to不定詞では強い希望も表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-cd5c3ac9bd4e",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 49,
+    "english": "be ashamed of",
+    "meaning": "を恥じている",
+    "pos": "熟語",
+    "pronunciation": "/bi əˈʃeɪmd əv/",
+    "example": "She was ashamed of her behavior.",
+    "translation": "彼女は振る舞いを恥じた。",
+    "explanation": "恥ずかしく思う事柄。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ad69fbffb9cf",
+    "kind": "idiom",
+    "level": 2,
+    "section": 5,
+    "number": 50,
+    "english": "be attached to",
+    "meaning": "に愛着がある；に付いている",
+    "pos": "熟語",
+    "pronunciation": "/bi əˈtæʧt tɪ/",
+    "example": "He is attached to his old bicycle.",
+    "translation": "彼は古い自転車に愛着がある。",
+    "explanation": "物理的接続にも使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-fdce563a13e0",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 1,
+    "english": "in addition to",
+    "meaning": "に加えて",
+    "pos": "熟語",
+    "pronunciation": "/ɪn əˈdɪʃən tɪ/",
+    "example": "She works in addition to studying.",
+    "translation": "彼女は勉強に加え働いている。",
+    "explanation": "toの後ろは名詞・動名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f410628ade69",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 2,
+    "english": "in advance",
+    "meaning": "前もって",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ədˈvæns/",
+    "example": "Book your tickets in advance.",
+    "translation": "前もって切符を予約して。",
+    "explanation": "事前の準備を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-eeef42fc0140",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 3,
+    "english": "in brief",
+    "meaning": "要するに；手短に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn brif/",
+    "example": "In brief, the plan worked.",
+    "translation": "要するに計画は成功した。",
+    "explanation": "簡潔にまとめるとき。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-fb2bb2818b3e",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 4,
+    "english": "in charge of",
+    "meaning": "を担当して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ʧɑrʤ əv/",
+    "example": "She is in charge of sales.",
+    "translation": "彼女は営業担当だ。",
+    "explanation": "管理責任を持つこと。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-c67697cdd048",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 5,
+    "english": "in common",
+    "meaning": "共通して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈkɑmən/",
+    "example": "The two languages have much in common.",
+    "translation": "二言語には共通点が多い。",
+    "explanation": "haveとよく組み合わせる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4bd083b873e7",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 6,
+    "english": "in comparison with",
+    "meaning": "と比べて",
+    "pos": "熟語",
+    "pronunciation": "/ɪn kəmˈpɛrəsən wɪθ/",
+    "example": "This room is quiet in comparison with ours.",
+    "translation": "私たちの部屋と比べ静かだ。",
+    "explanation": "比較対象をwithで示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-25c454f3200a",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 7,
+    "english": "in connection with",
+    "meaning": "に関連して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn kəˈnɛkʃən wɪθ/",
+    "example": "Police questioned him in connection with the theft.",
+    "translation": "警察は窃盗に関連して彼に聴取した。",
+    "explanation": "関連する出来事を続ける。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-462a1bb520a1",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 8,
+    "english": "in contrast to",
+    "meaning": "とは対照的に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈkɑntræst tɪ/",
+    "example": "Her calmness stood in contrast to his anger.",
+    "translation": "彼女の冷静さは彼の怒りと対照的だった。",
+    "explanation": "違いを強調する比較。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1d3cd275c551",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 9,
+    "english": "in detail",
+    "meaning": "詳しく",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈditeɪl/",
+    "example": "Please explain the process in detail.",
+    "translation": "手順を詳しく説明して。",
+    "explanation": "細部まで述べること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-75b463a30b93",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 10,
+    "english": "in exchange for",
+    "meaning": "と引き換えに",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ɪksˈʧeɪnʤ fər/",
+    "example": "He offered work in exchange for food.",
+    "translation": "食物と引き換えに労働を申し出た。",
+    "explanation": "交換の対価を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2c0b08866302",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 11,
+    "english": "in favor of",
+    "meaning": "に賛成して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈfeɪvər əv/",
+    "example": "Most voters were in favor of reform.",
+    "translation": "大半の有権者は改革に賛成だった。",
+    "explanation": "支持する立場。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0b4a74df9017",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 12,
+    "english": "in general",
+    "meaning": "一般に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈʤɛnərəl/",
+    "example": "In general, trains are reliable.",
+    "translation": "一般に電車は信頼できる。",
+    "explanation": "全体的な傾向を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4881759660b2",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 13,
+    "english": "in honor of",
+    "meaning": "に敬意を表して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈɑnər əv/",
+    "example": "A tree was planted in honor of the teacher.",
+    "translation": "先生をたたえて木が植えられた。",
+    "explanation": "記念や敬意の対象。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8ef8a7aa58bf",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 14,
+    "english": "in need of",
+    "meaning": "を必要として",
+    "pos": "熟語",
+    "pronunciation": "/ɪn nid əv/",
+    "example": "The roof is in need of repair.",
+    "translation": "屋根は修理が必要だ。",
+    "explanation": "必要な物や対応を続ける。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-6d9ef2934a5d",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 15,
+    "english": "in particular",
+    "meaning": "特に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˌpɑˈtɪkjələr/",
+    "example": "I enjoy history in particular.",
+    "translation": "特に歴史が好きだ。",
+    "explanation": "一つを取り上げて強調。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d36e268672a0",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 16,
+    "english": "in person",
+    "meaning": "本人が；直接",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈpərsən/",
+    "example": "Please collect the award in person.",
+    "translation": "賞は本人が受け取って。",
+    "explanation": "代理や通信と区別。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-da98b96e9889",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 17,
+    "english": "in practice",
+    "meaning": "実際には",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈpræktɪs/",
+    "example": "The rule is difficult in practice.",
+    "translation": "規則は実際には難しい。",
+    "explanation": "理論と実行を対比する。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-60de8ec4bc54",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 18,
+    "english": "in principle",
+    "meaning": "原則として",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ˈprɪnsəpəl/",
+    "example": "We agree in principle.",
+    "translation": "原則として賛成だ。",
+    "explanation": "基本方針への同意など。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5981dff1343b",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 19,
+    "english": "in proportion to",
+    "meaning": "に比例して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn prəˈpɔrʃən tɪ/",
+    "example": "Fees rise in proportion to income.",
+    "translation": "料金は所得に比例して増える。",
+    "explanation": "比例関係を表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e6896f4693de",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 20,
+    "english": "in response to",
+    "meaning": "に応じて",
+    "pos": "熟語",
+    "pronunciation": "/ɪn rɪˈspɑns tɪ/",
+    "example": "Prices fell in response to weak demand.",
+    "translation": "需要低迷に応じ価格が下がった。",
+    "explanation": "反応の原因を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-10cf6797767e",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 21,
+    "english": "in search of",
+    "meaning": "を探して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn sərʧ əv/",
+    "example": "They traveled in search of water.",
+    "translation": "水を求めて移動した。",
+    "explanation": "探す目的を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2f140e12231c",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 22,
+    "english": "in spite of",
+    "meaning": "にもかかわらず",
+    "pos": "熟語",
+    "pronunciation": "/ɪn spaɪt əv/",
+    "example": "We walked in spite of the rain.",
+    "translation": "雨にもかかわらず歩いた。",
+    "explanation": "後ろに名詞・動名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7970fb3b7a81",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 23,
+    "english": "in terms of",
+    "meaning": "の点で",
+    "pos": "熟語",
+    "pronunciation": "/ɪn tərmz əv/",
+    "example": "The rooms differ in terms of size.",
+    "translation": "部屋は広さの点で異なる。",
+    "explanation": "評価や比較の観点。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5624734df584",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 24,
+    "english": "in the absence of",
+    "meaning": "がない場合に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ðə ˈæbsəns əv/",
+    "example": "The deputy acts in the absence of the manager.",
+    "translation": "責任者不在時は代理が務める。",
+    "explanation": "不在や欠如の条件。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ea3ccbce3904",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 25,
+    "english": "in the course of",
+    "meaning": "の間に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ðə kɔrs əv/",
+    "example": "Problems arose in the course of construction.",
+    "translation": "建設中に問題が生じた。",
+    "explanation": "進行する期間を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-c8acf97cdfbd",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 26,
+    "english": "in the long run",
+    "meaning": "長い目で見れば",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ðə lɔŋ rən/",
+    "example": "Saving energy helps in the long run.",
+    "translation": "節電は長い目で役立つ。",
+    "explanation": "長期的な結果。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-084a0a2a3169",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 27,
+    "english": "in the meantime",
+    "meaning": "その間に",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ðə ˈminˌtaɪm/",
+    "example": "Dinner is cooking; rest in the meantime.",
+    "translation": "夕食を作る間休んでいて。",
+    "explanation": "別の出来事までの期間。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7e132f2bc7a8",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 28,
+    "english": "in the name of",
+    "meaning": "の名において",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ðə neɪm əv/",
+    "example": "They acted in the name of justice.",
+    "translation": "正義の名の下に行動した。",
+    "explanation": "権威や目的を掲げる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ea9c8bfe52dc",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 29,
+    "english": "in the shape of",
+    "meaning": "の形をした",
+    "pos": "熟語",
+    "pronunciation": "/ɪn ðə ʃeɪp əv/",
+    "example": "The pool is in the shape of a star.",
+    "translation": "プールは星形だ。",
+    "explanation": "具体的な形状を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-cc2c00916d8e",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 30,
+    "english": "in view of",
+    "meaning": "を考慮して",
+    "pos": "熟語",
+    "pronunciation": "/ɪn vju əv/",
+    "example": "We canceled in view of the forecast.",
+    "translation": "予報を考慮し中止した。",
+    "explanation": "判断理由を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-653bb65e88db",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 31,
+    "english": "on behalf of",
+    "meaning": "を代表して；のために",
+    "pos": "熟語",
+    "pronunciation": "/ɔn bɪˈhæf əv/",
+    "example": "I spoke on behalf of the class.",
+    "translation": "クラスを代表して話した。",
+    "explanation": "代理や代表の立場。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-565801448fd5",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 32,
+    "english": "on condition that",
+    "meaning": "という条件で",
+    "pos": "熟語",
+    "pronunciation": "/ɔn kənˈdɪʃən ðət/",
+    "example": "You may enter on condition that you register.",
+    "translation": "登録を条件に入れる。",
+    "explanation": "後ろに主語と動詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9d042b55dcbe",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 33,
+    "english": "on duty",
+    "meaning": "勤務中で",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ˈduti/",
+    "example": "Two nurses are on duty.",
+    "translation": "二人の看護師が勤務中だ。",
+    "explanation": "担当の勤務時間内。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0c75ef2939f3",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 34,
+    "english": "on purpose",
+    "meaning": "わざと",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ˈpərpəs/",
+    "example": "He did not break it on purpose.",
+    "translation": "彼は故意に壊してはいない。",
+    "explanation": "意図的な行動。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-906585717f65",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 35,
+    "english": "on average",
+    "meaning": "平均して",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ˈævərɪʤ/",
+    "example": "We walk five kilometers on average.",
+    "translation": "平均で五キロ歩く。",
+    "explanation": "平均値を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-94295f00ae4d",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 36,
+    "english": "on occasion",
+    "meaning": "時折",
+    "pos": "熟語",
+    "pronunciation": "/ɔn əˈkeɪʒən/",
+    "example": "She visits on occasion.",
+    "translation": "彼女は時折訪れる。",
+    "explanation": "たまに起こること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f2c137763be2",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 37,
+    "english": "on the contrary",
+    "meaning": "それどころか",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ðə ˈkɑntrɛri/",
+    "example": "It was not boring; on the contrary, I enjoyed it.",
+    "translation": "退屈どころか楽しんだ。",
+    "explanation": "前の内容を逆方向に否定。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1d19d96bfedb",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 38,
+    "english": "on the other hand",
+    "meaning": "一方で",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ðə ˈəðər hænd/",
+    "example": "It is cheap; on the other hand, it is fragile.",
+    "translation": "安い一方で壊れやすい。",
+    "explanation": "別の側面を提示する。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1a66c820e3af",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 39,
+    "english": "on the whole",
+    "meaning": "全体として",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ðə hoʊl/",
+    "example": "On the whole, the trip went well.",
+    "translation": "全体として旅行は順調だった。",
+    "explanation": "例外を含め全体を評価。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-b0edf3916794",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 40,
+    "english": "on account of",
+    "meaning": "のために",
+    "pos": "熟語",
+    "pronunciation": "/ɔn əˈkaʊnt əv/",
+    "example": "The road closed on account of snow.",
+    "translation": "雪で道が閉鎖した。",
+    "explanation": "原因や理由を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-31db1e064fa1",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 41,
+    "english": "at a loss",
+    "meaning": "途方に暮れて",
+    "pos": "熟語",
+    "pronunciation": "/æt ə lɔs/",
+    "example": "I was at a loss for words.",
+    "translation": "言葉が出なかった。",
+    "explanation": "for wordsとよく使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-36f2c9ae797e",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 42,
+    "english": "at any rate",
+    "meaning": "とにかく",
+    "pos": "熟語",
+    "pronunciation": "/æt ˈɛni reɪt/",
+    "example": "At any rate, we arrived safely.",
+    "translation": "とにかく無事に着いた。",
+    "explanation": "要点に話を戻す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-20b811dd8e12",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 43,
+    "english": "at best",
+    "meaning": "よくても",
+    "pos": "熟語",
+    "pronunciation": "/æt bɛst/",
+    "example": "The battery lasts two hours at best.",
+    "translation": "電池はよくても二時間だ。",
+    "explanation": "最善の場合の上限。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-40f16b1db199",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 44,
+    "english": "at first sight",
+    "meaning": "一見して",
+    "pos": "熟語",
+    "pronunciation": "/æt fərst saɪt/",
+    "example": "It looked easy at first sight.",
+    "translation": "一見簡単に見えた。",
+    "explanation": "初めて見た印象。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-96699ee30762",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 45,
+    "english": "at length",
+    "meaning": "詳しく；長々と",
+    "pos": "熟語",
+    "pronunciation": "/æt lɛŋθ/",
+    "example": "We discussed the issue at length.",
+    "translation": "問題を詳しく議論した。",
+    "explanation": "長い時間をかけること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5039d0b1e125",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 46,
+    "english": "at random",
+    "meaning": "無作為に",
+    "pos": "熟語",
+    "pronunciation": "/æt ˈrændəm/",
+    "example": "Names were chosen at random.",
+    "translation": "名前は無作為に選ばれた。",
+    "explanation": "意図的な偏りなしに。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-48b58cc99134",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 47,
+    "english": "at risk",
+    "meaning": "危険にさらされて",
+    "pos": "熟語",
+    "pronunciation": "/æt rɪsk/",
+    "example": "Many coastal homes are at risk.",
+    "translation": "多くの沿岸住宅が危険にある。",
+    "explanation": "ofで具体的危険を加える。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-adda7fd69f65",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 48,
+    "english": "at stake",
+    "meaning": "危険にさらされて；懸かって",
+    "pos": "熟語",
+    "pronunciation": "/æt steɪk/",
+    "example": "Our reputation is at stake.",
+    "translation": "私たちの評判が懸かっている。",
+    "explanation": "失う可能性のある価値。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-b61dfe87ea7b",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 49,
+    "english": "at times",
+    "meaning": "時々",
+    "pos": "熟語",
+    "pronunciation": "/æt taɪmz/",
+    "example": "The work is tiring at times.",
+    "translation": "仕事は時々疲れる。",
+    "explanation": "時折の状況を表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-24cc79b4ba5d",
+    "kind": "idiom",
+    "level": 2,
+    "section": 6,
+    "number": 50,
+    "english": "at will",
+    "meaning": "自由に；思いのままに",
+    "pos": "熟語",
+    "pronunciation": "/æt wɪl/",
+    "example": "You may change the settings at will.",
+    "translation": "設定は自由に変えられる。",
+    "explanation": "自分の意思どおりに。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校初級〜中級向けの頻出用法・句動詞・連語を独自選定。個別試験頻度は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  }
+]

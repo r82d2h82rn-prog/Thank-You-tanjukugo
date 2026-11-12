@@ -1,0 +1,4802 @@
+[
+  {
+    "id": "idiom-c-2cee4503f377",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 1,
+    "english": "get on",
+    "meaning": "乗る",
+    "pos": "熟語",
+    "pronunciation": "/gɪt ɔn/",
+    "example": "We got on the bus.",
+    "translation": "私たちはバスに乗った。",
+    "explanation": "バスや電車に乗る。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2ea2021be085",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 2,
+    "english": "get off",
+    "meaning": "降りる",
+    "pos": "熟語",
+    "pronunciation": "/gɪt ɔf/",
+    "example": "Get off at the next stop.",
+    "translation": "次の停留所で降りて。",
+    "explanation": "乗り物から降りる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-12559fdb2f43",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 3,
+    "english": "get in",
+    "meaning": "入る；乗り込む",
+    "pos": "熟語",
+    "pronunciation": "/gɪt ɪn/",
+    "example": "Please get in the car.",
+    "translation": "車に乗ってください。",
+    "explanation": "車など小型の乗り物にも使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-3dd4951e2306",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 4,
+    "english": "get out of",
+    "meaning": "から出る",
+    "pos": "熟語",
+    "pronunciation": "/gɪt aʊt əv/",
+    "example": "She got out of the taxi.",
+    "translation": "彼女はタクシーから降りた。",
+    "explanation": "out ofの後ろに場所。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-778443b4b10e",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 5,
+    "english": "sit down",
+    "meaning": "座る",
+    "pos": "熟語",
+    "pronunciation": "/sɪt daʊn/",
+    "example": "Sit down beside me.",
+    "translation": "私の隣に座って。",
+    "explanation": "座る動作を表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-43f7a37eecd4",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 6,
+    "english": "stand up",
+    "meaning": "立ち上がる",
+    "pos": "熟語",
+    "pronunciation": "/stænd əp/",
+    "example": "Everyone stood up together.",
+    "translation": "皆が一緒に立ち上がった。",
+    "explanation": "standの過去形はstood。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-73a342884bb6",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 7,
+    "english": "wake up",
+    "meaning": "目を覚ます；起こす",
+    "pos": "熟語",
+    "pronunciation": "/weɪk əp/",
+    "example": "I woke up before dawn.",
+    "translation": "私は夜明け前に目覚めた。",
+    "explanation": "人を起こす意味もある。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f192af72ba02",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 8,
+    "english": "lie down",
+    "meaning": "横になる",
+    "pos": "熟語",
+    "pronunciation": "/laɪ daʊn/",
+    "example": "You should lie down now.",
+    "translation": "今は横になった方がよい。",
+    "explanation": "過去形はlay down。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-49e1af0b229f",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 9,
+    "english": "hurry up",
+    "meaning": "急ぐ",
+    "pos": "熟語",
+    "pronunciation": "/ˈhəri əp/",
+    "example": "Hurry up or we will miss lunch.",
+    "translation": "急がないと昼食に遅れる。",
+    "explanation": "相手を急がせる表現。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-6fa501a351a6",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 10,
+    "english": "come in",
+    "meaning": "入る",
+    "pos": "熟語",
+    "pronunciation": "/kəm ɪn/",
+    "example": "May I come in?",
+    "translation": "入ってもよいですか。",
+    "explanation": "室内への入室など。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-78e1c8905773",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 11,
+    "english": "go out",
+    "meaning": "外出する",
+    "pos": "熟語",
+    "pronunciation": "/goʊ aʊt/",
+    "example": "We rarely go out at night.",
+    "translation": "私たちは夜はあまり外出しない。",
+    "explanation": "火や明かりが消える意味もある。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4fb922c1df98",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 12,
+    "english": "go away",
+    "meaning": "立ち去る",
+    "pos": "熟語",
+    "pronunciation": "/goʊ əˈweɪ/",
+    "example": "The pain did not go away.",
+    "translation": "痛みは消えなかった。",
+    "explanation": "問題などがなくなる意味も。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f1f7e274083e",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 13,
+    "english": "come home",
+    "meaning": "帰宅する",
+    "pos": "熟語",
+    "pronunciation": "/kəm hoʊm/",
+    "example": "Dad came home early.",
+    "translation": "父は早く帰宅した。",
+    "explanation": "homeの前にtoは不要。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-859f4775eac9",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 14,
+    "english": "go home",
+    "meaning": "家へ帰る",
+    "pos": "熟語",
+    "pronunciation": "/goʊ hoʊm/",
+    "example": "Let's go home before dark.",
+    "translation": "暗くなる前に帰ろう。",
+    "explanation": "homeは副詞として使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-cc63c363b0a9",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 15,
+    "english": "come from",
+    "meaning": "出身である；由来する",
+    "pos": "熟語",
+    "pronunciation": "/kəm frəm/",
+    "example": "My neighbors come from Brazil.",
+    "translation": "隣人はブラジル出身だ。",
+    "explanation": "出所や由来も示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e2e1da838afc",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 16,
+    "english": "go shopping",
+    "meaning": "買い物に行く",
+    "pos": "熟語",
+    "pronunciation": "/goʊ ˈʃɑpɪŋ/",
+    "example": "We went shopping after school.",
+    "translation": "放課後に買い物へ行った。",
+    "explanation": "goの後ろに動名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-013b9cc81c15",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 17,
+    "english": "go swimming",
+    "meaning": "泳ぎに行く",
+    "pos": "熟語",
+    "pronunciation": "/goʊ sˈwɪmɪŋ/",
+    "example": "They go swimming every Sunday.",
+    "translation": "彼らは毎週日曜に泳ぎに行く。",
+    "explanation": "活動をしに行く表現。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-12c0ca93c702",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 18,
+    "english": "go fishing",
+    "meaning": "釣りに行く",
+    "pos": "熟語",
+    "pronunciation": "/goʊ ˈfɪʃɪŋ/",
+    "example": "We went fishing by the lake.",
+    "translation": "湖のそばに釣りに行った。",
+    "explanation": "fishの動名詞を使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e26ae45532e4",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 19,
+    "english": "take a walk",
+    "meaning": "散歩する",
+    "pos": "熟語",
+    "pronunciation": "/teɪk ə wɔk/",
+    "example": "Let's take a walk outside.",
+    "translation": "外を散歩しよう。",
+    "explanation": "aを付けたwalk。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1f9db9199b32",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 20,
+    "english": "take a bath",
+    "meaning": "入浴する",
+    "pos": "熟語",
+    "pronunciation": "/teɪk ə bæθ/",
+    "example": "I took a bath before dinner.",
+    "translation": "夕食前に入浴した。",
+    "explanation": "シャワーはtake a shower。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-dd4714ef7d83",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 21,
+    "english": "take a shower",
+    "meaning": "シャワーを浴びる",
+    "pos": "熟語",
+    "pronunciation": "/teɪk ə ʃaʊər/",
+    "example": "She takes a shower each morning.",
+    "translation": "彼女は毎朝シャワーを浴びる。",
+    "explanation": "showerの前にa。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-721b64eabf08",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 22,
+    "english": "have breakfast",
+    "meaning": "朝食を取る",
+    "pos": "熟語",
+    "pronunciation": "/hæv ˈbrɛkfəst/",
+    "example": "We had breakfast at seven.",
+    "translation": "私たちは七時に朝食を取った。",
+    "explanation": "通常は冠詞なし。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-b14052f3c7e9",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 23,
+    "english": "have lunch",
+    "meaning": "昼食を取る",
+    "pos": "熟語",
+    "pronunciation": "/hæv lənʧ/",
+    "example": "Can we have lunch together?",
+    "translation": "一緒に昼食を取れる。",
+    "explanation": "食事をするhave。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-dba25c88b0cb",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 24,
+    "english": "have dinner",
+    "meaning": "夕食を取る",
+    "pos": "熟語",
+    "pronunciation": "/hæv ˈdɪnər/",
+    "example": "They had dinner on the balcony.",
+    "translation": "彼らはバルコニーで夕食を取った。",
+    "explanation": "dinnerの前に通常冠詞なし。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7dc913fc2325",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 25,
+    "english": "do homework",
+    "meaning": "宿題をする",
+    "pos": "熟語",
+    "pronunciation": "/du ˈhoʊmˌwərk/",
+    "example": "I do homework after practice.",
+    "translation": "練習後に宿題をする。",
+    "explanation": "homeworkは不可算名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0ef8e24130d9",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 26,
+    "english": "clean up",
+    "meaning": "掃除する；片付ける",
+    "pos": "熟語",
+    "pronunciation": "/klin əp/",
+    "example": "Please clean up your desk.",
+    "translation": "机を片付けてください。",
+    "explanation": "代名詞ならclean it up。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5e71dc3de6b8",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 27,
+    "english": "wash dishes",
+    "meaning": "皿を洗う",
+    "pos": "熟語",
+    "pronunciation": "/wɑʃ ˈdɪʃɪz/",
+    "example": "We wash dishes together.",
+    "translation": "私たちは一緒に皿を洗う。",
+    "explanation": "食後の食器洗い。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-29cb2a409185",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 28,
+    "english": "make the bed",
+    "meaning": "ベッドを整える",
+    "pos": "熟語",
+    "pronunciation": "/meɪk ðə bɛd/",
+    "example": "I made the bed before leaving.",
+    "translation": "出かける前にベッドを整えた。",
+    "explanation": "寝具をきちんと直す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f121d960d05c",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 29,
+    "english": "set the table",
+    "meaning": "食卓の用意をする",
+    "pos": "熟語",
+    "pronunciation": "/sɛt ðə ˈteɪbəl/",
+    "example": "Could you set the table?",
+    "translation": "食卓の準備をしてくれる。",
+    "explanation": "皿や食器を並べる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-33c6961007a7",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 30,
+    "english": "do one's best",
+    "meaning": "最善を尽くす",
+    "pos": "熟語",
+    "pronunciation": "/du wʌnz bɛst/",
+    "example": "I will do my best.",
+    "translation": "私は最善を尽くす。",
+    "explanation": "one'sはmyなどに変える。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-10f41e1726e3",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 31,
+    "english": "have a good time",
+    "meaning": "楽しい時を過ごす",
+    "pos": "熟語",
+    "pronunciation": "/hæv ə gʊd taɪm/",
+    "example": "We had a good time camping.",
+    "translation": "キャンプで楽しく過ごした。",
+    "explanation": "haveの過去形はhad。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-fd31bdbf398a",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 32,
+    "english": "enjoy oneself",
+    "meaning": "楽しく過ごす",
+    "pos": "熟語",
+    "pronunciation": "/ˌɛnˈʤɔɪ wʌnˈsɛlf/",
+    "example": "Did you enjoy yourself there?",
+    "translation": "そこで楽しめましたか。",
+    "explanation": "主語に合う再帰代名詞を使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-45615f909089",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 33,
+    "english": "help oneself to",
+    "meaning": "自由に取って食べる",
+    "pos": "熟語",
+    "pronunciation": "/hɛlp wʌnˈsɛlf tɪ/",
+    "example": "Please help yourself to some fruit.",
+    "translation": "果物を自由に召し上がれ。",
+    "explanation": "toの後ろに飲食物。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-49b6bf4c036b",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 34,
+    "english": "make friends with",
+    "meaning": "と友達になる",
+    "pos": "熟語",
+    "pronunciation": "/meɪk frɛndz wɪθ/",
+    "example": "She made friends with a new student.",
+    "translation": "彼女は転校生と友達になった。",
+    "explanation": "friendsは複数形。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-aa879344719d",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 35,
+    "english": "play with",
+    "meaning": "と遊ぶ",
+    "pos": "熟語",
+    "pronunciation": "/pleɪ wɪθ/",
+    "example": "The child played with a puppy.",
+    "translation": "子供は子犬と遊んだ。",
+    "explanation": "相手や遊び道具を示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-227fb86dfc73",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 36,
+    "english": "talk about",
+    "meaning": "について話す",
+    "pos": "熟語",
+    "pronunciation": "/tɔk əˈbaʊt/",
+    "example": "We talked about our plans.",
+    "translation": "私たちは計画について話した。",
+    "explanation": "aboutの後ろに話題。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-c5f3b116e4c5",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 37,
+    "english": "talk to",
+    "meaning": "に話しかける",
+    "pos": "熟語",
+    "pronunciation": "/tɔk tɪ/",
+    "example": "I need to talk to you.",
+    "translation": "あなたと話す必要がある。",
+    "explanation": "toの後ろに相手。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-a431650066df",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 38,
+    "english": "speak to",
+    "meaning": "に話しかける",
+    "pos": "熟語",
+    "pronunciation": "/spik tɪ/",
+    "example": "May I speak to the manager?",
+    "translation": "責任者と話せますか。",
+    "explanation": "電話でも使える。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e8a0a6bd5454",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 39,
+    "english": "hear from",
+    "meaning": "から便りをもらう",
+    "pos": "熟語",
+    "pronunciation": "/hir frəm/",
+    "example": "I heard from my cousin yesterday.",
+    "translation": "昨夜いとこから便りがあった。",
+    "explanation": "連絡を受ける意味。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e7f14dea54f2",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 40,
+    "english": "write to",
+    "meaning": "に手紙を書く",
+    "pos": "熟語",
+    "pronunciation": "/raɪt tɪ/",
+    "example": "She wrote to her old teacher.",
+    "translation": "彼女は恩師に手紙を書いた。",
+    "explanation": "toの後ろに送り先。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-816014fb2a03",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 41,
+    "english": "send for",
+    "meaning": "を呼びにやる",
+    "pos": "熟語",
+    "pronunciation": "/sɛnd fər/",
+    "example": "They sent for a doctor.",
+    "translation": "彼らは医者を呼びにやった。",
+    "explanation": "来るよう手配すること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-03671c3040c7",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 42,
+    "english": "call back",
+    "meaning": "折り返し電話する",
+    "pos": "熟語",
+    "pronunciation": "/kɔl bæk/",
+    "example": "I will call back later.",
+    "translation": "後でかけ直します。",
+    "explanation": "人を入れるならcall you back。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-44653ba9b1e2",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 43,
+    "english": "call on",
+    "meaning": "を訪問する",
+    "pos": "熟語",
+    "pronunciation": "/kɔl ɔn/",
+    "example": "We called on our grandparents.",
+    "translation": "祖父母を訪ねた。",
+    "explanation": "人を訪れる表現。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7c5060eb248c",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 44,
+    "english": "call at",
+    "meaning": "に立ち寄る",
+    "pos": "熟語",
+    "pronunciation": "/kɔl æt/",
+    "example": "The train calls at every station.",
+    "translation": "電車は各駅に停車する。",
+    "explanation": "場所への立ち寄り。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-46ca46fdf6ce",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 45,
+    "english": "come true",
+    "meaning": "実現する",
+    "pos": "熟語",
+    "pronunciation": "/kəm tru/",
+    "example": "Her dream finally came true.",
+    "translation": "彼女の夢がついに実現した。",
+    "explanation": "夢や願いが主語。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-cc172d88aa16",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 46,
+    "english": "come up with",
+    "meaning": "を思いつく",
+    "pos": "熟語",
+    "pronunciation": "/kəm əp wɪθ/",
+    "example": "He came up with a new game.",
+    "translation": "彼は新しい遊びを思いついた。",
+    "explanation": "案や解決策を生み出す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0e9fb6ef3146",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 47,
+    "english": "come across",
+    "meaning": "偶然出会う",
+    "pos": "熟語",
+    "pronunciation": "/kəm əˈkrɔs/",
+    "example": "I came across an old photo.",
+    "translation": "古い写真を偶然見つけた。",
+    "explanation": "人にも物にも使える。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5ab2d57e8e4b",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 48,
+    "english": "come along",
+    "meaning": "一緒に来る",
+    "pos": "熟語",
+    "pronunciation": "/kəm əˈlɔŋ/",
+    "example": "Would you like to come along?",
+    "translation": "一緒に来ませんか。",
+    "explanation": "同行を誘う表現。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e5d3891501d0",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 49,
+    "english": "come on",
+    "meaning": "さあ；急いで",
+    "pos": "熟語",
+    "pronunciation": "/kəm ɔn/",
+    "example": "Come on, we can win.",
+    "translation": "さあ、私たちは勝てる。",
+    "explanation": "励ましや催促に使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d44fcf731c17",
+    "kind": "idiom",
+    "level": 1,
+    "section": 2,
+    "number": 50,
+    "english": "go ahead",
+    "meaning": "どうぞ；先へ進む",
+    "pos": "熟語",
+    "pronunciation": "/goʊ əˈhɛd/",
+    "example": "You may go ahead with lunch.",
+    "translation": "先に昼食を始めてよい。",
+    "explanation": "許可を与える表現にも。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9ca3d77bc1b3",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 1,
+    "english": "go by",
+    "meaning": "過ぎる",
+    "pos": "熟語",
+    "pronunciation": "/goʊ baɪ/",
+    "example": "The years went by quickly.",
+    "translation": "年月は速く過ぎた。",
+    "explanation": "時間の経過を表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-b5013eb1c1b2",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 2,
+    "english": "go on",
+    "meaning": "続く；続ける",
+    "pos": "熟語",
+    "pronunciation": "/goʊ ɔn/",
+    "example": "The meeting went on for hours.",
+    "translation": "会議は何時間も続いた。",
+    "explanation": "後ろに動名詞も置ける。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8aaf5e76b603",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 3,
+    "english": "go back",
+    "meaning": "戻る",
+    "pos": "熟語",
+    "pronunciation": "/goʊ bæk/",
+    "example": "We must go back now.",
+    "translation": "今戻らなければならない。",
+    "explanation": "元いた場所への移動。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d3a84c140aea",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 4,
+    "english": "get back",
+    "meaning": "戻る；取り戻す",
+    "pos": "熟語",
+    "pronunciation": "/gɪt bæk/",
+    "example": "When did you get back?",
+    "translation": "いつ戻ってきたの。",
+    "explanation": "到着や帰還に注目。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-513da7235cd4",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 5,
+    "english": "get together",
+    "meaning": "集まる",
+    "pos": "熟語",
+    "pronunciation": "/gɪt təˈgɛðər/",
+    "example": "Our family gets together in summer.",
+    "translation": "家族は夏に集まる。",
+    "explanation": "親しい人が集う表現。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-21724053884d",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 6,
+    "english": "get ready for",
+    "meaning": "の準備をする",
+    "pos": "熟語",
+    "pronunciation": "/gɪt ˈrɛdi fər/",
+    "example": "Get ready for the school trip.",
+    "translation": "修学旅行の準備をして。",
+    "explanation": "forの後ろに行事など。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-dc2a9e6da2f5",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 7,
+    "english": "get to",
+    "meaning": "に着く",
+    "pos": "熟語",
+    "pronunciation": "/gɪt tɪ/",
+    "example": "We got to the museum early.",
+    "translation": "博物館に早く着いた。",
+    "explanation": "get homeならtoは不要。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4d1d59732425",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 8,
+    "english": "get well",
+    "meaning": "回復する",
+    "pos": "熟語",
+    "pronunciation": "/gɪt wɛl/",
+    "example": "I hope you get well soon.",
+    "translation": "早くよくなるとよいね。",
+    "explanation": "病気からの回復。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9e1dc5583a6e",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 9,
+    "english": "get tired of",
+    "meaning": "に飽きる",
+    "pos": "熟語",
+    "pronunciation": "/gɪt taɪərd əv/",
+    "example": "I got tired of the same song.",
+    "translation": "同じ歌に飽きた。",
+    "explanation": "ofの後ろは名詞や動名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-c65bbf2d8527",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 10,
+    "english": "get lost",
+    "meaning": "道に迷う",
+    "pos": "熟語",
+    "pronunciation": "/gɪt lɔst/",
+    "example": "We got lost in the old town.",
+    "translation": "旧市街で道に迷った。",
+    "explanation": "lostは状態を表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-a973a2796d13",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 11,
+    "english": "look up",
+    "meaning": "調べる；見上げる",
+    "pos": "熟語",
+    "pronunciation": "/lʊk əp/",
+    "example": "Look up the word in a dictionary.",
+    "translation": "辞書でその語を調べて。",
+    "explanation": "代名詞はlook it up。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2b3061411584",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 12,
+    "english": "look like",
+    "meaning": "のように見える",
+    "pos": "熟語",
+    "pronunciation": "/lʊk laɪk/",
+    "example": "That cloud looks like a rabbit.",
+    "translation": "その雲はウサギのように見える。",
+    "explanation": "likeの後ろに名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7ae876f6421e",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 13,
+    "english": "look out",
+    "meaning": "気をつける",
+    "pos": "熟語",
+    "pronunciation": "/lʊk aʊt/",
+    "example": "Look out! A bike is coming.",
+    "translation": "気をつけて、自転車が来る。",
+    "explanation": "危険を知らせる表現。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7affbe6170bd",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 14,
+    "english": "look around",
+    "meaning": "見て回る",
+    "pos": "熟語",
+    "pronunciation": "/lʊk əraʊnd/",
+    "example": "We looked around the bookstore.",
+    "translation": "本屋を見て回った。",
+    "explanation": "周囲を見渡す意味も。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-82d23114ca3a",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 15,
+    "english": "look into",
+    "meaning": "調査する",
+    "pos": "熟語",
+    "pronunciation": "/lʊk ˈɪntu/",
+    "example": "The police will look into the accident.",
+    "translation": "警察が事故を調べる。",
+    "explanation": "問題を詳しく調査する。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-c8345aebcd81",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 16,
+    "english": "look over",
+    "meaning": "ざっと目を通す",
+    "pos": "熟語",
+    "pronunciation": "/lʊk ˈoʊvər/",
+    "example": "Please look over my report.",
+    "translation": "報告書に目を通してください。",
+    "explanation": "確認するため概観する。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-b771b19589eb",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 17,
+    "english": "pick up",
+    "meaning": "拾う；迎えに行く",
+    "pos": "熟語",
+    "pronunciation": "/pɪk əp/",
+    "example": "I picked up a coin.",
+    "translation": "硬貨を拾った。",
+    "explanation": "人を迎えに行く意味も。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-b15f21a63b24",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 18,
+    "english": "put down",
+    "meaning": "置く；書き留める",
+    "pos": "熟語",
+    "pronunciation": "/pʊt daʊn/",
+    "example": "Put down your bag here.",
+    "translation": "ここにかばんを置いて。",
+    "explanation": "代名詞はput it down。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9fc4c11423cf",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 19,
+    "english": "put away",
+    "meaning": "片付ける",
+    "pos": "熟語",
+    "pronunciation": "/pʊt əˈweɪ/",
+    "example": "Put away your toys, please.",
+    "translation": "おもちゃを片付けてください。",
+    "explanation": "所定の場所にしまう。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0e48febf0efa",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 20,
+    "english": "put up",
+    "meaning": "掲示する；建てる",
+    "pos": "熟語",
+    "pronunciation": "/pʊt əp/",
+    "example": "They put up a new sign.",
+    "translation": "彼らは新しい看板を掲げた。",
+    "explanation": "掲示物などを取り付ける。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-840a459982c4",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 21,
+    "english": "put back",
+    "meaning": "元に戻す",
+    "pos": "熟語",
+    "pronunciation": "/pʊt bæk/",
+    "example": "Put the book back on the shelf.",
+    "translation": "本を棚に戻して。",
+    "explanation": "元の位置に戻すこと。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-23b3884eafad",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 22,
+    "english": "put off",
+    "meaning": "延期する",
+    "pos": "熟語",
+    "pronunciation": "/pʊt ɔf/",
+    "example": "Rain made us put off the game.",
+    "translation": "雨で試合を延期した。",
+    "explanation": "後ろに名詞や動名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-bcc60fc727ad",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 23,
+    "english": "try on",
+    "meaning": "試着する",
+    "pos": "熟語",
+    "pronunciation": "/traɪ ɔn/",
+    "example": "Can I try on this coat?",
+    "translation": "このコートを試着できますか。",
+    "explanation": "代名詞はtry it on。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-834dcaea4878",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 24,
+    "english": "try out",
+    "meaning": "試してみる",
+    "pos": "熟語",
+    "pronunciation": "/traɪ aʊt/",
+    "example": "We tried out the new camera.",
+    "translation": "新しいカメラを試した。",
+    "explanation": "性能などを試すこと。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e4cf77dd85e1",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 25,
+    "english": "turn up",
+    "meaning": "音量を上げる；現れる",
+    "pos": "熟語",
+    "pronunciation": "/tərn əp/",
+    "example": "Please turn up the radio.",
+    "translation": "ラジオの音量を上げて。",
+    "explanation": "姿を現す意味もある。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-75d1c6b8dc8b",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 26,
+    "english": "turn down",
+    "meaning": "音量を下げる；断る",
+    "pos": "熟語",
+    "pronunciation": "/tərn daʊn/",
+    "example": "She turned down the offer.",
+    "translation": "彼女は申し出を断った。",
+    "explanation": "提案を拒否する意味にも。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9740d2a84f4b",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 27,
+    "english": "turn around",
+    "meaning": "振り向く",
+    "pos": "熟語",
+    "pronunciation": "/tərn əraʊnd/",
+    "example": "He turned around at the sound.",
+    "translation": "彼は音を聞いて振り向いた。",
+    "explanation": "向きを逆にすること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7c56ca8f6677",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 28,
+    "english": "turn into",
+    "meaning": "に変わる",
+    "pos": "熟語",
+    "pronunciation": "/tərn ˈɪntu/",
+    "example": "The snow turned into rain.",
+    "translation": "雪は雨に変わった。",
+    "explanation": "intoの後ろに変化後の状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1a9fc3d2d655",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 29,
+    "english": "take out",
+    "meaning": "取り出す；持ち出す",
+    "pos": "熟語",
+    "pronunciation": "/teɪk aʊt/",
+    "example": "Take out your notebooks.",
+    "translation": "ノートを取り出して。",
+    "explanation": "代名詞ならtake them out。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1ea6dbf5abaf",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 30,
+    "english": "take away",
+    "meaning": "持ち去る",
+    "pos": "熟語",
+    "pronunciation": "/teɪk əˈweɪ/",
+    "example": "The waiter took away the empty plates.",
+    "translation": "給仕は空いた皿を下げた。",
+    "explanation": "その場所から取り除く。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-df90405ccf54",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 31,
+    "english": "take back",
+    "meaning": "返す；撤回する",
+    "pos": "熟語",
+    "pronunciation": "/teɪk bæk/",
+    "example": "I took back what I said.",
+    "translation": "発言を撤回した。",
+    "explanation": "言葉を取り消す意味も。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-83e0d59a5b17",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 32,
+    "english": "take a picture",
+    "meaning": "写真を撮る",
+    "pos": "熟語",
+    "pronunciation": "/teɪk ə ˈpɪkʧər/",
+    "example": "May I take a picture here?",
+    "translation": "ここで写真を撮れますか。",
+    "explanation": "picture ofで撮影対象。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5ec19dd07070",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 33,
+    "english": "take a break",
+    "meaning": "休憩する",
+    "pos": "熟語",
+    "pronunciation": "/teɪk ə breɪk/",
+    "example": "Let's take a break now.",
+    "translation": "今休憩しよう。",
+    "explanation": "短時間の休み。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-3f2056a6f781",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 34,
+    "english": "take a seat",
+    "meaning": "着席する",
+    "pos": "熟語",
+    "pronunciation": "/teɪk ə sit/",
+    "example": "Please take a seat near the window.",
+    "translation": "窓の近くにお座りください。",
+    "explanation": "丁寧な着席の勧め。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-bcac59641b26",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 35,
+    "english": "take turns",
+    "meaning": "交代する",
+    "pos": "熟語",
+    "pronunciation": "/teɪk tərnz/",
+    "example": "We took turns carrying the bag.",
+    "translation": "交代でかばんを運んだ。",
+    "explanation": "動名詞を続けられる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0d2216989b3e",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 36,
+    "english": "take place",
+    "meaning": "起こる；開催される",
+    "pos": "熟語",
+    "pronunciation": "/teɪk pleɪs/",
+    "example": "The festival takes place in May.",
+    "translation": "祭りは五月に開催される。",
+    "explanation": "受け身にしない。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d826cbe87299",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 37,
+    "english": "make a mistake",
+    "meaning": "間違える",
+    "pos": "熟語",
+    "pronunciation": "/meɪk ə mɪˈsteɪk/",
+    "example": "Anyone can make a mistake.",
+    "translation": "誰でも間違うことがある。",
+    "explanation": "mistakeは可算名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-80f2e1bfcecb",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 38,
+    "english": "make a noise",
+    "meaning": "音を立てる",
+    "pos": "熟語",
+    "pronunciation": "/meɪk ə nɔɪz/",
+    "example": "Please do not make a noise.",
+    "translation": "音を立てないでください。",
+    "explanation": "騒音を出すこと。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-243720d18df4",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 39,
+    "english": "make a phone call",
+    "meaning": "電話をかける",
+    "pos": "熟語",
+    "pronunciation": "/meɪk ə foʊn kɔl/",
+    "example": "I need to make a phone call.",
+    "translation": "電話をかける必要がある。",
+    "explanation": "a callだけでも使う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0e747bbe12bb",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 40,
+    "english": "make a decision",
+    "meaning": "決定する",
+    "pos": "熟語",
+    "pronunciation": "/meɪk ə dɪˈsɪʒən/",
+    "example": "We must make a decision today.",
+    "translation": "今日決定しなければならない。",
+    "explanation": "decideに近い表現。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2e62892e68b9",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 41,
+    "english": "make a promise",
+    "meaning": "約束する",
+    "pos": "熟語",
+    "pronunciation": "/meɪk ə ˈprɑməs/",
+    "example": "He made a promise to help.",
+    "translation": "彼は手伝うと約束した。",
+    "explanation": "to不定詞で約束内容。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1879db0b5b49",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 42,
+    "english": "make a plan",
+    "meaning": "計画を立てる",
+    "pos": "熟語",
+    "pronunciation": "/meɪk ə plæn/",
+    "example": "Let's make a plan for Sunday.",
+    "translation": "日曜の計画を立てよう。",
+    "explanation": "forで計画の対象。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-35a8a873ea8f",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 43,
+    "english": "make money",
+    "meaning": "お金を稼ぐ",
+    "pos": "熟語",
+    "pronunciation": "/meɪk ˈməni/",
+    "example": "The shop makes money in summer.",
+    "translation": "店は夏に利益を出す。",
+    "explanation": "moneyは不可算名詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ef1370ea94c4",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 44,
+    "english": "make use of",
+    "meaning": "を利用する",
+    "pos": "熟語",
+    "pronunciation": "/meɪk juz əv/",
+    "example": "Make use of the free map.",
+    "translation": "無料の地図を利用して。",
+    "explanation": "ofの後ろに利用対象。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-df4c04ea2e2e",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 45,
+    "english": "keep in touch",
+    "meaning": "連絡を取り合う",
+    "pos": "熟語",
+    "pronunciation": "/kip ɪn təʧ/",
+    "example": "Let's keep in touch after graduation.",
+    "translation": "卒業後も連絡を取り合おう。",
+    "explanation": "withで相手を加えられる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0a473e835ded",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 46,
+    "english": "keep quiet",
+    "meaning": "静かにする",
+    "pos": "熟語",
+    "pronunciation": "/kip kwaɪət/",
+    "example": "We kept quiet during the speech.",
+    "translation": "演説中は静かにした。",
+    "explanation": "quietは形容詞。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-303eb0f5ba93",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 47,
+    "english": "keep a diary",
+    "meaning": "日記をつける",
+    "pos": "熟語",
+    "pronunciation": "/kip ə ˈdaɪəri/",
+    "example": "She keeps a diary in English.",
+    "translation": "彼女は英語で日記をつける。",
+    "explanation": "習慣として書き続けること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7531f8f7e8d3",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 48,
+    "english": "keep on",
+    "meaning": "し続ける",
+    "pos": "熟語",
+    "pronunciation": "/kip ɔn/",
+    "example": "He kept on trying.",
+    "translation": "彼は挑戦を続けた。",
+    "explanation": "後ろに動名詞を置く。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5777f81b2209",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 49,
+    "english": "keep away from",
+    "meaning": "に近づかない",
+    "pos": "熟語",
+    "pronunciation": "/kip əˈweɪ frəm/",
+    "example": "Keep away from the broken glass.",
+    "translation": "割れたガラスに近づかないで。",
+    "explanation": "危険な物から距離を取る。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-07f7fb7e5eb7",
+    "kind": "idiom",
+    "level": 1,
+    "section": 3,
+    "number": 50,
+    "english": "keep up with",
+    "meaning": "に遅れずついていく",
+    "pos": "熟語",
+    "pronunciation": "/kip əp wɪθ/",
+    "example": "I cannot keep up with you.",
+    "translation": "君のペースについていけない。",
+    "explanation": "人や変化についていく。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-batches-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試向けの基礎的な重要表現。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-batches-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  }
+]

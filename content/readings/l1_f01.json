@@ -1,0 +1,2043 @@
+[
+  {
+    "id": "reading-l1-f01-01",
+    "level": 1,
+    "format": 1,
+    "title": "返す日を決めた本棚",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A small shelf stood near the entrance of Green School. Students could leave books there and borrow others without asking a teacher. At first, many students liked the idea. However, the shelf became almost empty after two weeks. Some students kept books at home because they did not know when to return them. Others wanted to help but thought that they had to bring a new book from a shop.",
+        "translation": "グリーン校の入口近くに小さな棚があった。生徒は本を置き、先生に尋ねず別の本を借りられた。初めは多くの生徒が気に入ったが、二週間後には棚がほとんど空になった。返す日が分からず本を家に置いたままの生徒もいた。手伝いたくても店で新品を買う必要があると思った生徒もいた。"
+      },
+      {
+        "id": "p2",
+        "english": "Mina asked her classmates about the problem. Then she made two simple changes. She put a return date inside each book and placed a box beside the shelf for old books. The books did not have to be new. They only needed to be clean and easy to read.",
+        "translation": "ミナは問題について級友に尋ね、二つの簡単な変更をした。各本に返却日を入れ、棚の横に古い本を入れる箱を置いた。新品でなくてよく、きれいで読みやすければよかった。"
+      },
+      {
+        "id": "p3",
+        "english": "By the next month, the shelf was full again. Mina learned that a useful idea also needs clear instructions. She now checks the books every Friday with two friends. They also write short notes about damaged pages.",
+        "translation": "翌月には棚が再びいっぱいになった。ミナは役立つ案にも明確な説明が必要だと学んだ。今は友人二人と毎週金曜に本を確認している。傷んだページについて短いメモも書く。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最初に本が返されなかった理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The teacher collected every book.",
+            "explanation": "先生による回収ではない。"
+          },
+          {
+            "id": "b",
+            "text": "The books were difficult to carry.",
+            "explanation": "持ち運びは理由でない。"
+          },
+          {
+            "id": "c",
+            "text": "The school closed the shelf.",
+            "explanation": "棚は閉鎖されていない。"
+          },
+          {
+            "id": "d",
+            "text": "Students did not know the return date.",
+            "explanation": "返却日が不明だった。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "返却日が不明だった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "they did not know when to return them"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "寄付する本の条件は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Written by a teacher.",
+            "explanation": "著者の指定はない。"
+          },
+          {
+            "id": "b",
+            "text": "Bought during the same week.",
+            "explanation": "購入時期の指定はない。"
+          },
+          {
+            "id": "c",
+            "text": "Clean and easy to read.",
+            "explanation": "清潔さと読みやすさが条件。"
+          },
+          {
+            "id": "d",
+            "text": "New and expensive.",
+            "explanation": "新品でなくてよい。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "清潔さと読みやすさが条件。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "They only needed to be clean and easy to read."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "ミナが学んだことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Teachers should choose every book.",
+            "explanation": "全冊を先生が選んでいない。"
+          },
+          {
+            "id": "b",
+            "text": "Good ideas need clear instructions.",
+            "explanation": "案に加え明確な説明が必要。"
+          },
+          {
+            "id": "c",
+            "text": "Students never share books.",
+            "explanation": "共有は回復している。"
+          },
+          {
+            "id": "d",
+            "text": "A larger shelf always solves problems.",
+            "explanation": "棚の大きさを変えていない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "案に加え明確な説明が必要。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "a useful idea also needs clear instructions"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "Mina asked her classmates about the problem.",
+        "start": 0,
+        "end": 44,
+        "translation": "ミナは問題について級友に尋ねた。",
+        "explanation": "askedの目的語はher classmates。about以下が尋ねた内容を補う。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mina",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "asked",
+            "start": 5,
+            "end": 10
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "her classmates",
+            "start": 11,
+            "end": 25
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "about the problem",
+            "start": 26,
+            "end": 43
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 156,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "borrow",
+        "meaning": "借りる"
+      },
+      {
+        "english": "instructions",
+        "meaning": "説明・指示"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f01-02",
+    "level": 1,
+    "format": 1,
+    "title": "雨の日の市場",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Ken sells vegetables with his grandmother at a Saturday market. Their table is usually outside, beside a large tree. One morning, heavy rain started before the market opened. Ken wanted to cancel everything and go home. His grandmother asked him to wait while she spoke to the owner of a nearby hall. The owner allowed the sellers to use the hall for that day.",
+        "translation": "ケンは土曜の市場で祖母と野菜を売る。普段の台は屋外の大木のそばにある。ある朝、開場前に激しい雨になった。ケンは全部中止して帰りたかった。祖母は近くの会館の持ち主と話す間、待つよう頼んだ。持ち主はその日に限り販売者が会館を使うのを許した。"
+      },
+      {
+        "id": "p2",
+        "english": "There was one problem. People walking along the main street could not see the tables inside. Ken drew a map on a large piece of paper. He added pictures of carrots and tomatoes and placed it near the old market space. Several customers followed the map to the hall.",
+        "translation": "問題が一つあった。大通りを歩く人には中の台が見えなかった。ケンは大きな紙に地図を描き、ニンジンとトマトの絵を加えて元の市場近くに置いた。何人もの客が地図をたどって会館に来た。"
+      },
+      {
+        "id": "p3",
+        "english": "The sellers stayed dry, and customers had room to talk. They sold nearly all the vegetables. Ken had expected a terrible morning, but he discovered that a different place could work well when people knew how to find it.",
+        "translation": "販売者はぬれず、客には会話する場所があった。野菜はほぼ完売した。ケンはひどい朝になると思ったが、行き方が分かれば違う場所でもうまくいくと知った。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "販売者が会館を使った理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The street was too noisy.",
+            "explanation": "騒音は理由でない。"
+          },
+          {
+            "id": "b",
+            "text": "They needed to cook lunch.",
+            "explanation": "調理のためではない。"
+          },
+          {
+            "id": "c",
+            "text": "It was raining heavily.",
+            "explanation": "豪雨が移動のきっかけ。"
+          },
+          {
+            "id": "d",
+            "text": "The tree had fallen down.",
+            "explanation": "木は倒れていない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "豪雨が移動のきっかけ。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "heavy rain started before the market opened"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "ケンは客のために何をした？",
+        "options": [
+          {
+            "id": "a",
+            "text": "He drove customers home.",
+            "explanation": "送迎はしていない。"
+          },
+          {
+            "id": "b",
+            "text": "He made a map.",
+            "explanation": "地図を描いて案内した。"
+          },
+          {
+            "id": "c",
+            "text": "He bought umbrellas.",
+            "explanation": "傘の購入はない。"
+          },
+          {
+            "id": "d",
+            "text": "He lowered all prices.",
+            "explanation": "値下げの記述はない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "地図を描いて案内した。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "Ken drew a map on a large piece of paper."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "その日の販売結果は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nearly all vegetables were sold.",
+            "explanation": "野菜はほぼ完売。"
+          },
+          {
+            "id": "b",
+            "text": "Nobody found the hall.",
+            "explanation": "客は地図で来た。"
+          },
+          {
+            "id": "c",
+            "text": "The market ended before opening.",
+            "explanation": "市場は開かれた。"
+          },
+          {
+            "id": "d",
+            "text": "Only tomatoes were sold.",
+            "explanation": "トマト限定ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "野菜はほぼ完売。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "They sold nearly all the vegetables."
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "Ken drew a map on a large piece of paper.",
+        "start": 93,
+        "end": 134,
+        "translation": "ケンは大きな紙に地図を描いた。",
+        "explanation": "drewはdrawの過去形。on以下は描いた場所を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Ken",
+            "start": 93,
+            "end": 96
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "drew",
+            "start": 97,
+            "end": 101
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a map",
+            "start": 102,
+            "end": 107
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "on a large piece of paper",
+            "start": 108,
+            "end": 133
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 152,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "cancel",
+        "meaning": "中止する"
+      },
+      {
+        "english": "customers",
+        "meaning": "客"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f01-03",
+    "level": 1,
+    "format": 1,
+    "title": "静かなベンチ",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A new park opened near Yui's house. It had a playground, a small field, and several benches. Yui liked reading outside, but she could not find a quiet place. The benches near the playground were noisy. The ones beside the field were quiet in the morning, but there was no shade in the afternoon. She began to think that the park was not a good place for reading.",
+        "translation": "ユイの家の近くに公園ができた。遊び場、小さな広場、いくつかのベンチがあった。外で読むのは好きだったが、静かな場所が見つからなかった。遊び場近くのベンチは騒がしかった。広場横は朝は静かだが午後は日陰がなかった。読書に向かない公園だと思い始めた。"
+      },
+      {
+        "id": "p2",
+        "english": "One day, she noticed an older man sitting behind the information board. He was drawing birds. There was a narrow path behind him. Yui followed it and found a bench under a large tree. It was close to a pond, so she could hear water instead of shouting children.",
+        "translation": "ある日、案内板の裏に座る年配の男性に気づいた。鳥を描いていた。後ろに細道があり、たどると大木の下にベンチがあった。池に近く、子供の叫び声の代わりに水の音が聞こえた。"
+      },
+      {
+        "id": "p3",
+        "english": "Yui returned the next afternoon with her book. She enjoyed an hour of reading there. Later, she told her brother that finding a comfortable place sometimes takes more than one visit. She did not ask the park to become silent everywhere.",
+        "translation": "翌日の午後、本を持って戻り、一時間読書を楽しんだ。後で兄弟に、快適な場所を見つけるには何度か訪れる必要もあると話した。公園全体が静かになることは求めなかった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "広場の横のベンチにはどんな問題があった？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Birds covered the seats.",
+            "explanation": "鳥で座れないとはない。"
+          },
+          {
+            "id": "b",
+            "text": "There was no afternoon shade.",
+            "explanation": "午後の日陰がなかった。"
+          },
+          {
+            "id": "c",
+            "text": "It was always wet.",
+            "explanation": "ぬれる記述はない。"
+          },
+          {
+            "id": "d",
+            "text": "It was far from the park.",
+            "explanation": "公園内の場所だ。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "午後の日陰がなかった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "there was no shade in the afternoon"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "男性は何をしていた？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Drawing birds.",
+            "explanation": "鳥を描いていた。"
+          },
+          {
+            "id": "b",
+            "text": "Reading a map.",
+            "explanation": "地図は読んでいない。"
+          },
+          {
+            "id": "c",
+            "text": "Cleaning the pond.",
+            "explanation": "池の清掃ではない。"
+          },
+          {
+            "id": "d",
+            "text": "Watching his children.",
+            "explanation": "子守りではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "鳥を描いていた。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "He was drawing birds."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "ユイが最後に選んだ場所は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "A seat inside the information board.",
+            "explanation": "板の内部ではない。"
+          },
+          {
+            "id": "b",
+            "text": "The center of the playground.",
+            "explanation": "遊び場から離れた所だ。"
+          },
+          {
+            "id": "c",
+            "text": "A room in her house.",
+            "explanation": "屋外で読んでいる。"
+          },
+          {
+            "id": "d",
+            "text": "A bench under a tree.",
+            "explanation": "木の下のベンチ。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "木の下のベンチ。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "found a bench under a large tree"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "Yui returned the next afternoon with her book.",
+        "start": 0,
+        "end": 46,
+        "translation": "ユイは翌日の午後、本を持って戻った。",
+        "explanation": "returnedは自動詞。時を表す語句とwith以下が状況を補う。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Yui",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "returned",
+            "start": 4,
+            "end": 12
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "the next afternoon",
+            "start": 13,
+            "end": 31
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "with her book",
+            "start": 32,
+            "end": 45
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 158,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "shade",
+        "meaning": "日陰"
+      },
+      {
+        "english": "narrow",
+        "meaning": "狭い"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f01-04",
+    "level": 1,
+    "format": 1,
+    "title": "修理を見せる日",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Taro's town holds a repair day every month. People bring broken objects to a room in the community center. Volunteers try to repair lamps, bags, and small toys. Taro first went there because his school bag had a broken handle. He expected to leave it and return later. However, a volunteer asked him to stay and watch. The event was not just a free repair service. It was also a place to learn.",
+        "translation": "タロウの町は毎月修理の日を開く。人々は壊れた物を公民館の部屋に持ってくる。ボランティアがランプ、かばん、小さなおもちゃの修理を試みる。タロウは通学かばんの取っ手が壊れ、初めて行った。預けて後で戻るつもりだったが、ボランティアは残って見るよう求めた。無料の修理だけでなく学ぶ場でもあった。"
+      },
+      {
+        "id": "p2",
+        "english": "The volunteer showed Taro how to choose strong thread. Then they sewed the handle together. Taro made several mistakes, but the volunteer did not take the bag away from him. She explained each step and let him try again. After forty minutes, he could carry the bag safely.",
+        "translation": "丈夫な糸の選び方を教わり、一緒に取っ手を縫った。何度か間違えたが、ボランティアはかばんを取り上げなかった。各手順を説明し、やり直させた。四十分後、安全に持てるようになった。"
+      },
+      {
+        "id": "p3",
+        "english": "At home, Taro repaired a pocket on his old jacket. He still needed help with difficult jobs. Yet he no longer thought that every broken thing had to be thrown away immediately.",
+        "translation": "家では古い上着のポケットを修理した。難しい作業にはまだ助けが必要だった。それでも、壊れた物は何でもすぐ捨てなければならないとは考えなくなった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "タロウが持参した物は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "A school bag.",
+            "explanation": "通学かばんを持参した。"
+          },
+          {
+            "id": "b",
+            "text": "A broken lamp.",
+            "explanation": "ランプは他の修理例。"
+          },
+          {
+            "id": "c",
+            "text": "A small radio.",
+            "explanation": "ラジオの記述はない。"
+          },
+          {
+            "id": "d",
+            "text": "A new jacket.",
+            "explanation": "上着は後で自宅で修理。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "通学かばんを持参した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "his school bag had a broken handle"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "参加者に残って見てもらう理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "There are no volunteers.",
+            "explanation": "ボランティアはいる。"
+          },
+          {
+            "id": "b",
+            "text": "The room closes immediately.",
+            "explanation": "即時閉室ではない。"
+          },
+          {
+            "id": "c",
+            "text": "Everyone must buy new tools.",
+            "explanation": "工具購入は条件でない。"
+          },
+          {
+            "id": "d",
+            "text": "The event also teaches repair skills.",
+            "explanation": "修理を学ぶ場でもある。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "修理を学ぶ場でもある。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "It was also a place to learn."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "修理後のタロウの考えは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Old jackets are always useless.",
+            "explanation": "上着を実際に直した。"
+          },
+          {
+            "id": "b",
+            "text": "Only volunteers can use thread.",
+            "explanation": "本人も糸を使う。"
+          },
+          {
+            "id": "c",
+            "text": "Some broken things can be repaired.",
+            "explanation": "すぐ捨てなくてもよいと学んだ。"
+          },
+          {
+            "id": "d",
+            "text": "All repairs must be finished alone.",
+            "explanation": "難しい作業には助けが必要。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "すぐ捨てなくてもよいと学んだ。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "he no longer thought that every broken thing had to be thrown away immediately"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The volunteer showed Taro how to choose strong thread.",
+        "start": 0,
+        "end": 54,
+        "translation": "ボランティアはタロウに丈夫な糸の選び方を示した。",
+        "explanation": "showedの後に相手と教える内容が並ぶ。how toは方法を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The volunteer",
+            "start": 0,
+            "end": 13
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "showed",
+            "start": 14,
+            "end": 20
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "Taro",
+            "start": 21,
+            "end": 25
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "how to choose strong thread",
+            "start": 26,
+            "end": 53
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 153,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "thread",
+        "meaning": "糸"
+      },
+      {
+        "english": "immediately",
+        "meaning": "すぐに"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f01-05",
+    "level": 1,
+    "format": 1,
+    "title": "遅れたバスの知らせ",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Aya takes the bus to school from a stop near the river. The bus usually comes at seven forty. One Monday, it did not arrive. Several younger students began walking to the next stop. Aya looked at the notice on the pole. It said that road work would move the stop to the library entrance for three days. The paper was small, and most people had not noticed it.",
+        "translation": "アヤは川の近くの停留所から通学する。バスは普段七時四十分に来る。ある月曜は来ず、年下の生徒数人が次の停留所へ歩き始めた。アヤは柱の案内を見た。道路工事で三日間、停留所が図書館入口へ移るとあった。紙は小さく、大半の人は気づいていなかった。"
+      },
+      {
+        "id": "p2",
+        "english": "Aya called the younger students back and showed them the notice. They walked to the library together. The bus was waiting there. The driver explained that he had stopped for an extra two minutes because some passengers were missing. Everyone reached school before the first lesson began.",
+        "translation": "アヤは年下の生徒を呼び戻し、案内を見せた。一緒に図書館へ歩くとバスが待っていた。乗客が一部来ていないので、運転手は二分余計に待ったと説明した。全員が一時間目の前に学校に着いた。"
+      },
+      {
+        "id": "p3",
+        "english": "That afternoon, Aya asked the bus office to use a larger notice next time. She also suggested putting a simple map beside the words. The office thanked her and promised to consider both ideas for future changes.",
+        "translation": "その午後、アヤはバスの窓口に次回は大きな案内を使うよう頼んだ。文章の横に簡単な地図を付ける案も出した。窓口は感謝し、今後の変更で両案を検討すると約束した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "停留所が移った理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The river was dry.",
+            "explanation": "川の状態は理由でない。"
+          },
+          {
+            "id": "b",
+            "text": "The library was closing.",
+            "explanation": "図書館閉鎖ではない。"
+          },
+          {
+            "id": "c",
+            "text": "The school changed its starting time.",
+            "explanation": "始業時刻の変更ではない。"
+          },
+          {
+            "id": "d",
+            "text": "There was road work.",
+            "explanation": "道路工事のため。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "道路工事のため。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "road work would move the stop to the library entrance"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "運転手が余計に待った時間は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Forty minutes.",
+            "explanation": "四十分ではない。"
+          },
+          {
+            "id": "b",
+            "text": "One hour.",
+            "explanation": "一時間ではない。"
+          },
+          {
+            "id": "c",
+            "text": "Two minutes.",
+            "explanation": "二分待った。"
+          },
+          {
+            "id": "d",
+            "text": "Three days.",
+            "explanation": "三日間は停留所の移転期間。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "二分待った。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "he had stopped for an extra two minutes"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "アヤは何を提案した？",
+        "options": [
+          {
+            "id": "a",
+            "text": "A bus for each student.",
+            "explanation": "専用バスの提案ではない。"
+          },
+          {
+            "id": "b",
+            "text": "A larger notice and a map.",
+            "explanation": "大きい案内と地図を提案。"
+          },
+          {
+            "id": "c",
+            "text": "A new library and a bridge.",
+            "explanation": "施設の新設ではない。"
+          },
+          {
+            "id": "d",
+            "text": "A later first lesson.",
+            "explanation": "授業時刻を変えていない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "大きい案内と地図を提案。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "use a larger notice next time"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "They walked to the library together.",
+        "start": 65,
+        "end": 101,
+        "translation": "彼らは一緒に図書館へ歩いた。",
+        "explanation": "Theyはアヤと年下の生徒。to以下は移動先を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 65,
+            "end": 69
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "walked",
+            "start": 70,
+            "end": 76
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "to the library",
+            "start": 77,
+            "end": 91
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "together",
+            "start": 92,
+            "end": 100
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 153,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "notice",
+        "meaning": "案内・掲示"
+      },
+      {
+        "english": "passengers",
+        "meaning": "乗客"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f01-06",
+    "level": 1,
+    "format": 1,
+    "title": "昼食を残さない工夫",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "At West School, the lunch team measured the food left on students' plates for one week. They did not write down any student's name. They only wanted to know which dishes were often left unfinished. The results surprised them. Many students left rice on Mondays, but they ate nearly all of it on Fridays. The amount of rice served was the same on both days.",
+        "translation": "ウェスト校の給食係は一週間、皿に残った食べ物を量った。生徒名は記録せず、残されやすい料理だけを知りたかった。結果は意外だった。月曜は多くの生徒がご飯を残すが、金曜はほぼ食べ切る。盛る量は同じだった。"
+      },
+      {
+        "id": "p2",
+        "english": "The team asked students about their lunch break. On Mondays, a popular ball game started soon after lunch. Some students ate quickly so that they could join it. On Fridays, the library opened later, and students felt less hurried. The problem was not simply that they disliked the food.",
+        "translation": "係は昼休みについて尋ねた。月曜は給食のすぐ後に人気の球技が始まるため、参加を急いで食べる生徒がいた。金曜は図書館が遅めに開くので、あまり急がなかった。単に食べ物が嫌いなのではなかった。"
+      },
+      {
+        "id": "p3",
+        "english": "The school moved the Monday game ten minutes later. During the next month, less rice was thrown away. The lunch team learned to look at students' schedules as well as their plates. They continued measuring leftovers once each month to see whether the change still helped.",
+        "translation": "学校は月曜の球技を十分遅らせた。翌月は捨てるご飯が減った。係は皿だけでなく予定も見ることを学んだ。変更が役立ち続けるか確かめるため、毎月一度残食を量り続けた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "調査で記録しなかったものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Differences between days.",
+            "explanation": "曜日を比較した。"
+          },
+          {
+            "id": "b",
+            "text": "The amount of rice.",
+            "explanation": "ご飯の量も確認した。"
+          },
+          {
+            "id": "c",
+            "text": "Students' names.",
+            "explanation": "個人名は記録しなかった。"
+          },
+          {
+            "id": "d",
+            "text": "The food left on plates.",
+            "explanation": "残食は調べた。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "個人名は記録しなかった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "They did not write down any student's name."
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "月曜にご飯が残りやすかった理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Everyone disliked rice.",
+            "explanation": "嫌いと決めつけられない。"
+          },
+          {
+            "id": "b",
+            "text": "Some students hurried to join a game.",
+            "explanation": "球技に参加するため急いだ。"
+          },
+          {
+            "id": "c",
+            "text": "Rice was never served on Fridays.",
+            "explanation": "金曜もご飯は出る。"
+          },
+          {
+            "id": "d",
+            "text": "The plates were smaller on Mondays.",
+            "explanation": "皿の大きさは理由でない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "球技に参加するため急いだ。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "Some students ate quickly so that they could join it."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "学校が変えたものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The starting time of a game.",
+            "explanation": "球技の開始を遅らせた。"
+          },
+          {
+            "id": "b",
+            "text": "Every student's name.",
+            "explanation": "名前は変えない。"
+          },
+          {
+            "id": "c",
+            "text": "The library building.",
+            "explanation": "建物は変えていない。"
+          },
+          {
+            "id": "d",
+            "text": "All the lunch dishes.",
+            "explanation": "料理全ての変更ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "球技の開始を遅らせた。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "The school moved the Monday game ten minutes later."
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "The school moved the Monday game ten minutes later.",
+        "start": 0,
+        "end": 51,
+        "translation": "学校は月曜の球技を十分遅らせた。",
+        "explanation": "movedは予定を移したという意味。ten minutes laterが変更後の時刻差を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The school",
+            "start": 0,
+            "end": 10
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "moved",
+            "start": 11,
+            "end": 16
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the Monday game",
+            "start": 17,
+            "end": 32
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "ten minutes later",
+            "start": 33,
+            "end": 50
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 160,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "measured",
+        "meaning": "量った"
+      },
+      {
+        "english": "leftovers",
+        "meaning": "食べ残し"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f01-07",
+    "level": 1,
+    "format": 1,
+    "title": "夜の明かりを調べる",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Riku's science club wanted to save electricity at school. Members first suggested turning off every light after classes. Their teacher asked them to check how the building was used before making a rule. For three afternoons, they walked through the school with a map. They marked empty rooms, busy rooms, and places where people needed light for safety.",
+        "translation": "リクの科学部は学校の節電を考えた。初めは放課後全て消灯する案を出した。先生は規則を作る前に建物の使われ方を調べるよう求めた。三日間の午後、地図を持って校内を回り、空室、使用中の部屋、安全のため明かりが要る場所を記した。"
+      },
+      {
+        "id": "p2",
+        "english": "They found that some empty classrooms were bright for hours. However, the stairs near the gym were dark even when sports teams were still practicing. Simply turning off everything would not solve both problems. The club placed reminder cards near classroom switches and asked for a small light on the gym stairs.",
+        "translation": "空の教室が何時間も明るい一方、運動部がまだ練習しているのに体育館近くの階段は暗いと分かった。全て消すだけでは両方を解決できない。教室のスイッチ付近に注意カードを置き、体育館の階段には小さな照明を求めた。"
+      },
+      {
+        "id": "p3",
+        "english": "A month later, teachers reported fewer lights left on in empty rooms. Students also said the stairs felt safer. Riku learned that using less energy did not mean using no energy. The important question was where and when electricity was really needed. The club kept its maps for the following year's members.",
+        "translation": "一カ月後、空室の消し忘れが減ったと先生が報告した。生徒も階段が安全になったと言った。節電はエネルギーを全く使わないことではないとリクは学んだ。大切なのは本当に必要な場所と時間だった。部は翌年の部員のため地図を残した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "規則を作る前に何を調べた？",
+        "options": [
+          {
+            "id": "a",
+            "text": "How to close the gym permanently.",
+            "explanation": "体育館閉鎖が目的でない。"
+          },
+          {
+            "id": "b",
+            "text": "How people used the building.",
+            "explanation": "建物の利用状況を調べた。"
+          },
+          {
+            "id": "c",
+            "text": "The price of every desk.",
+            "explanation": "机の値段ではない。"
+          },
+          {
+            "id": "d",
+            "text": "The colors of the classrooms.",
+            "explanation": "色の調査ではない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "建物の利用状況を調べた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "check how the building was used before making a rule"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "暗くて問題だった場所は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The stairs near the gym.",
+            "explanation": "体育館近くの階段。"
+          },
+          {
+            "id": "b",
+            "text": "Every empty classroom.",
+            "explanation": "空の教室は明るすぎた。"
+          },
+          {
+            "id": "c",
+            "text": "The science club's map.",
+            "explanation": "地図は場所ではない。"
+          },
+          {
+            "id": "d",
+            "text": "The playground at noon.",
+            "explanation": "昼の校庭ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "体育館近くの階段。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "the stairs near the gym were dark"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "本文の結論に合うものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Never use any electricity.",
+            "explanation": "全く使わない意味でない。"
+          },
+          {
+            "id": "b",
+            "text": "Keep every light on all night.",
+            "explanation": "全灯の継続ではない。"
+          },
+          {
+            "id": "c",
+            "text": "Do not check empty classrooms.",
+            "explanation": "空室の調査も重要。"
+          },
+          {
+            "id": "d",
+            "text": "Use electricity where it is needed.",
+            "explanation": "必要な時と場所を考える。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "必要な時と場所を考える。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "where and when electricity was really needed"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The club placed reminder cards near classroom switches and asked for a small light on the gym stairs.",
+        "start": 211,
+        "end": 312,
+        "translation": "部は教室のスイッチ近くに注意カードを置き、体育館の階段に小さな照明を求めた。",
+        "explanation": "The clubがplacedとaskedの共通の主語。ここでは前半のSVOと場所を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The club",
+            "start": 211,
+            "end": 219
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "placed",
+            "start": 220,
+            "end": 226
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "reminder cards",
+            "start": 227,
+            "end": 241
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "near classroom switches",
+            "start": 242,
+            "end": 265
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 162,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "electricity",
+        "meaning": "電気"
+      },
+      {
+        "english": "reminder",
+        "meaning": "思い出させるもの"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f01-08",
+    "level": 1,
+    "format": 1,
+    "title": "博物館の短い説明",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A local museum invited students to help prepare a room about old kitchens. Nao's group wrote explanations for a heavy iron pot. They listed its size, weight, and the year when it was made. The museum worker said that the information was correct, but she asked the students to imagine a visitor who knew nothing about the object.",
+        "translation": "地元の博物館は昔の台所の展示準備に生徒を招いた。ナオの班は重い鉄鍋の説明を書き、大きさ、重さ、製造年を挙げた。職員は正しい情報だと言ったが、何も知らない来館者を想像するよう頼んだ。"
+      },
+      {
+        "id": "p2",
+        "english": "The students watched several visitors looking at the pot. Most people asked how one person could lift it and why the bottom was black. The group rewrote the card. They explained that the pot was usually left above a fire and that families cooked enough food for several people at once. They kept the old facts in a smaller box below.",
+        "translation": "生徒は鍋を見る来館者を観察した。多くは一人でどう持つのか、なぜ底が黒いのか尋ねた。班は説明を書き直し、鍋は普段火の上に置かれ、家族は何人分も一度に調理したと説明した。以前の数値情報は下の小さな枠に残した。"
+      },
+      {
+        "id": "p3",
+        "english": "Visitors began spending more time at the display. Some talked about their grandparents' kitchens. Nao discovered that a good explanation does more than list facts. It answers questions that people actually have and helps them connect an unfamiliar object with ordinary life.",
+        "translation": "来館者は展示の前で長く過ごし始め、祖父母の台所を語る人もいた。ナオは、よい説明は情報を並べる以上のものだと知った。実際の疑問に答え、知らない物と日常を結び付けるのだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最初の説明にあった情報は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The pot's size and weight.",
+            "explanation": "大きさや重さを挙げた。"
+          },
+          {
+            "id": "b",
+            "text": "Every visitor's name.",
+            "explanation": "個人名は書いていない。"
+          },
+          {
+            "id": "c",
+            "text": "A recipe for tomorrow's lunch.",
+            "explanation": "翌日の料理ではない。"
+          },
+          {
+            "id": "d",
+            "text": "The price of a modern kitchen.",
+            "explanation": "現代の台所の価格でない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "大きさや重さを挙げた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "They listed its size, weight"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "来館者の多くが尋ねたことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Why the museum was closed.",
+            "explanation": "博物館は開いている。"
+          },
+          {
+            "id": "b",
+            "text": "Where Nao bought her shoes.",
+            "explanation": "靴は無関係。"
+          },
+          {
+            "id": "c",
+            "text": "When the next bus arrived.",
+            "explanation": "バスの時刻ではない。"
+          },
+          {
+            "id": "d",
+            "text": "Why the bottom was black.",
+            "explanation": "底が黒い理由を尋ねた。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "底が黒い理由を尋ねた。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "why the bottom was black"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "説明を書き直した後に起きたことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The pot was sold immediately.",
+            "explanation": "売却はしていない。"
+          },
+          {
+            "id": "b",
+            "text": "Visitors stopped asking anything.",
+            "explanation": "会話や関心が生まれた。"
+          },
+          {
+            "id": "c",
+            "text": "Visitors stayed longer at the display.",
+            "explanation": "展示を見る時間が増えた。"
+          },
+          {
+            "id": "d",
+            "text": "All old facts were removed.",
+            "explanation": "以前の情報も残した。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "展示を見る時間が増えた。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "Visitors began spending more time at the display."
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The group rewrote the card.",
+        "start": 135,
+        "end": 162,
+        "translation": "班は説明カードを書き直した。",
+        "explanation": "rewroteはrewriteの過去形。主語・動詞・目的語が並ぶ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The group",
+            "start": 135,
+            "end": 144
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "rewrote",
+            "start": 145,
+            "end": 152
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the card",
+            "start": 153,
+            "end": 161
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 161,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "display",
+        "meaning": "展示"
+      },
+      {
+        "english": "unfamiliar",
+        "meaning": "なじみのない"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f01-09",
+    "level": 1,
+    "format": 1,
+    "title": "走らない運動会",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Mai hurt her ankle a week before the school sports day. She was disappointed because she could not join the relay. Her class teacher said that there were other ways to take part, but Mai thought this was only something adults said to make her feel better. She agreed to help at the information table, although she expected to have a boring day.",
+        "translation": "マイは運動会の一週間前に足首を痛めた。リレーに出られず落胆した。担任は別の参加方法もあると言ったが、慰めるための言葉にすぎないと思った。退屈な一日を予想しつつ案内係を引き受けた。"
+      },
+      {
+        "id": "p2",
+        "english": "Soon after the first event, a visitor asked where to find drinking water. Another parent needed a quiet place for a small child. Mai used a map to guide them. When the schedule changed because of the heat, she wrote the new starting times on a board. Her friends checked the board before going to their events.",
+        "translation": "最初の競技のすぐ後、来場者に水飲み場を尋ねられた。別の保護者は幼い子のため静かな場所を探していた。マイは地図で案内した。暑さで予定が変わると、新しい開始時刻を板に書いた。友人は競技に行く前に板を確認した。"
+      },
+      {
+        "id": "p3",
+        "english": "At the end of the day, the teacher thanked Mai for helping the event run smoothly. Mai still wished she had been able to race. However, she understood that supporting other people was a real part of the sports day, not simply a second choice for someone who could not run.",
+        "translation": "終わりに先生は円滑な運営への協力を感謝した。マイはまだ走りたかったが、他人を支えるのも運動会の本当の一部で、走れない人の単なる代案ではないと理解した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "マイがリレーに出られなかった理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "She forgot the date.",
+            "explanation": "日付の勘違いでない。"
+          },
+          {
+            "id": "b",
+            "text": "Her class had no relay team.",
+            "explanation": "チームがないとはない。"
+          },
+          {
+            "id": "c",
+            "text": "She disliked her friends.",
+            "explanation": "友人への嫌悪でない。"
+          },
+          {
+            "id": "d",
+            "text": "She hurt her ankle.",
+            "explanation": "足首を痛めたため。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "足首を痛めたため。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Mai hurt her ankle"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "暑さで予定が変わると何をした？",
+        "options": [
+          {
+            "id": "a",
+            "text": "She ran in the relay.",
+            "explanation": "リレーは走れない。"
+          },
+          {
+            "id": "b",
+            "text": "She moved the school building.",
+            "explanation": "建物を動かしていない。"
+          },
+          {
+            "id": "c",
+            "text": "She wrote new starting times.",
+            "explanation": "変更時刻を板に書いた。"
+          },
+          {
+            "id": "d",
+            "text": "She stopped every event herself.",
+            "explanation": "全競技を自分で中止していない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "変更時刻を板に書いた。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "she wrote the new starting times on a board"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "最後のマイの理解は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Visitors should never ask questions.",
+            "explanation": "質問への案内が役立った。"
+          },
+          {
+            "id": "b",
+            "text": "Helping others is also participation.",
+            "explanation": "支えることも参加だと理解。"
+          },
+          {
+            "id": "c",
+            "text": "Only runners matter at sports days.",
+            "explanation": "走者だけではない。"
+          },
+          {
+            "id": "d",
+            "text": "Information tables are always boring.",
+            "explanation": "予想は変わった。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "支えることも参加だと理解。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "supporting other people was a real part of the sports day"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "Mai used a map to guide them.",
+        "start": 129,
+        "end": 158,
+        "translation": "マイは彼らを案内するため地図を使った。",
+        "explanation": "to guide themは目的を表す不定詞で、usedを補う。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mai",
+            "start": 129,
+            "end": 132
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "used",
+            "start": 133,
+            "end": 137
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a map",
+            "start": 138,
+            "end": 143
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "to guide them",
+            "start": 144,
+            "end": 157
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 171,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "ankle",
+        "meaning": "足首"
+      },
+      {
+        "english": "smoothly",
+        "meaning": "円滑に"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f01-10",
+    "level": 1,
+    "format": 1,
+    "title": "種を交換する箱",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A gardening club placed a seed box in the town library. Anyone could take a small packet and grow flowers or vegetables at home. The club hoped that people would bring seeds back after their plants grew. At first, the packets only showed plant names. Some people took seeds that needed a large garden, even though they had only a small balcony.",
+        "translation": "園芸クラブは図書館に種の箱を置いた。誰でも小袋を持ち帰り、家で花や野菜を育てられた。植物が育ったら種を返してもらうのがクラブの願いだった。初めは植物名しか書かれておらず、小さなベランダしかないのに広い庭が必要な種を選ぶ人もいた。"
+      },
+      {
+        "id": "p2",
+        "english": "Club member Sora noticed that many plants were not growing well. She asked several users about their homes. Then she added three kinds of information to each packet: the space needed, the best month to plant, and how much sunlight the plant liked. She also put photographs of fully grown plants beside the box.",
+        "translation": "部員ソラは育ちの悪い植物が多いと気づき、利用者数人に住環境を尋ねた。必要な広さ、植えるのに最適な月、好む日光の量という三つの情報を各袋に加えた。成長した植物の写真も箱の横に置いた。"
+      },
+      {
+        "id": "p3",
+        "english": "The following season, more people returned seeds. A man with a tiny balcony proudly brought back seeds from a pot of beans. The club's goal was not to give everyone the same plant. It was to help people choose one that suited their own space and daily life.",
+        "translation": "次の季節には返却する人が増えた。狭いベランダの男性も鉢で育てた豆の種を誇らしく持参した。目標は皆に同じ植物を与えるのでなく、自分の広さや暮らしに合う植物を選べるようにすることだった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "クラブが利用者に期待したことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Growing only flowers.",
+            "explanation": "野菜も育てられる。"
+          },
+          {
+            "id": "b",
+            "text": "Moving to larger houses.",
+            "explanation": "引っ越しを求めていない。"
+          },
+          {
+            "id": "c",
+            "text": "Bringing seeds back later.",
+            "explanation": "育てた後の種の返却。"
+          },
+          {
+            "id": "d",
+            "text": "Buying a new library.",
+            "explanation": "図書館購入でない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "育てた後の種の返却。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "people would bring seeds back after their plants grew"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "追加した情報に含まれないものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The sunlight a plant likes.",
+            "explanation": "日光の情報も追加した。"
+          },
+          {
+            "id": "b",
+            "text": "The price of a new house.",
+            "explanation": "住宅価格は追加していない。"
+          },
+          {
+            "id": "c",
+            "text": "The space a plant needs.",
+            "explanation": "必要な広さは追加した。"
+          },
+          {
+            "id": "d",
+            "text": "A good planting month.",
+            "explanation": "植える月も追加した。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "住宅価格は追加していない。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "the space needed, the best month to plant, and how much sunlight the plant liked"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "クラブの目標に合うものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Helping people choose suitable plants.",
+            "explanation": "暮らしに合う選択を支援。"
+          },
+          {
+            "id": "b",
+            "text": "Giving everyone the same seeds.",
+            "explanation": "同じ植物が目標でない。"
+          },
+          {
+            "id": "c",
+            "text": "Removing all balcony plants.",
+            "explanation": "ベランダでも育てた。"
+          },
+          {
+            "id": "d",
+            "text": "Keeping all seeds inside the library.",
+            "explanation": "持ち帰れる仕組みだ。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "暮らしに合う選択を支援。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "help people choose one that suited their own space and daily life"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "She also put photographs of fully grown plants beside the box.",
+        "start": 248,
+        "end": 310,
+        "translation": "彼女は成長した植物の写真も箱の横に置いた。",
+        "explanation": "putの目的語はphotographsからplantsまで。beside以下が置き場所を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 248,
+            "end": 251
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "put",
+            "start": 257,
+            "end": 260
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "photographs of fully grown plants",
+            "start": 261,
+            "end": 294
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "beside the box",
+            "start": 295,
+            "end": 309
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 164,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "seeds",
+        "meaning": "種"
+      },
+      {
+        "english": "suited",
+        "meaning": "に適した"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "date": "2026-11-12",
+  "level3": "英検2級中級〜準1級中級を編集上の目安とする、大学受験で必修のやや難しい重要語。",
+  "level4": "英検準1級中上級以上を編集上の目安とする。専門性の高い語に加え、難しい一般語・抽象語を幅広く含む。珍しさだけを採用理由にしない。",
+  "gradeCaveat": "英検公式に級内の中級・中上級という語別区分があると主張しない。個別級・頻度を実測した扱いにしない。",
+  "references": ["https://www.eiken.or.jp/eiken/exam/criteria/index.html", "https://www.oxfordlearnersdictionaries.com/us/about/wordlists/oxford3000-5000"],
+  "referenceScope": "公式の能力目安と難易度資料の位置付けを確認。辞書本文・例文・語彙一覧の転載はしない。個別語のCEFR照合は未実施。",
+  "promoteTo4": "consolidate rationalize exemplify verbalize plausibility quantitative qualitative hypothetical germinate pollinate hibernate irrigate physiological hereditary innate terrestrial arid indigenous aquatic deplete mitigate subsidize reimburse appraise fiscal monetary entrepreneurial impoverished lucrative stigmatize segregate retaliate assimilation alienation cohesion conformity temperament disposition kinship submissive defiant mediate intimacy prestige hierarchy discriminatory unanimously decentralize monopolize privatize nationalize outsource stagnate decompose vaccinate neural neuron genome mutation antibiotic antibody parasite biodiversity chronic acute maternal reproductive immunity fungus soluble insoluble alkaline kinetic equilibrium wavelength nucleus insulator voltage configure replicate",
+  "retainIn4": "hypothesize scrutinize refute substantiate entail undermine constrain inhibit deteriorate alleviate exploit manipulate autonomy cognition arbitrary empirical inherent resilient prevalent predominantly",
+  "reserveBelow3": "physics chemistry mathematics acid ray beam magnet electric solar lunar ocean sea lake stream waterfall bay peninsula continent shore harbor port canal tunnel bridge dam soil coal fuel root leaf seed stem crop diet appetite illness cure heal living unhealthy biological keyboard mouse icon menu folder password website internet browser software hardware server chip disk user online offline click scroll upload download input output link mobile wireless database robot clone artificial annual annually temporarily permanently collective cooperative quarterly net gross workplace deadline colleague candidate applicant certificate bonus pension retirement saving recycle reuse pollute flood dump trap bounce protein vitamin organic",
+  "reserveReason": "今回の語義ではLEVEL3下限より易しいと編集判断。既存のLEVEL1/2を水増ししないため、下位候補として保留。本文とID・学習履歴は保持。",
+  "preservation": "content/words/drafts.jsonと既存authoring TSVは不変。配置はID参照のselection.jsonで管理。保留語も履歴表示に残す。",
+  "review": "AIによる再選定。人による校閲・正式採用承認は別工程。"
+}

@@ -1,6 +1,11 @@
 import { test, expect } from '@playwright/test';
 import data from '../src/data/entries.json';
 const key = 'thank-you.learning.v1';
+// Legacy sample-flow checks deliberately choose the sample catalog; new users now open the full catalog.
+test.beforeEach(async ({ page }, testInfo) => {
+  if (testInfo.title.startsWith('corrupted') || testInfo.title.startsWith('level 4')) return;
+  await page.addInitScript(k => localStorage.getItem(k) || localStorage.setItem(k, JSON.stringify({ version:1, progress:{}, favorites:[], settings:{sound:true,speech:false}, permanentAwards:[], lastSection:{level:1,kind:'word',section:1,catalog:'sample'} })), key);
+});
 test('browser study flow: independent mastery, sounds, storage, search, mobile', async ({ page }) => {
   const errors: string[] = []; page.on('pageerror', e => errors.push(e.message));
   await page.addInitScript(() => {
@@ -163,5 +168,57 @@ test('source credits distinguish unverified references from imported material', 
   await page.getByRole('button', { name: '教材・出典・ライセンス', exact: true }).click();
   await expect(page.getByText('教材の制作・利用条件', { exact: true })).toBeVisible();
   await expect(page.getByText('NGSL', { exact: true })).toBeVisible();
+  await expect(page.getByText('確認済みバージョン：1.2 / 商用利用条件：記録あり', { exact: true })).toHaveCount(4);
+  await expect(page.getByText(/重複をまとめて5,619語の候補/)).toBeVisible();
+  await expect(page.getByRole('link', { name: 'https://creativecommons.org/licenses/by-sa/4.0/', exact: true })).toBeVisible();
   await expect(page.getByText('確認済みバージョン：未確認 / 商用利用条件：未確認', { exact: true }).first()).toBeVisible();
+});
+
+test('level 4 opens all ten sections and diagnostic cancellation preserves mastery', async ({ page }) => {
+  const errors: string[] = []; page.on('pageerror', e => errors.push(e.message));
+  await page.goto('/');
+  await expect(page.getByText('現在利用中：英単語3,900語', { exact: false })).toBeVisible();
+  await page.getByRole('button', { name: /LEVEL 4 / }).click();
+  for (let s=1;s<=10;s++) await expect(page.getByRole('button',{ name:`SECTION ${String(s).padStart(2,'0')} · 英単語`,exact:true })).toBeVisible();
+  await page.getByRole('button', { name:'SECTION 10 · 英単語',exact:true }).click();
+  await page.getByRole('button', { name:'初回診断を受験',exact:true }).click();
+  await page.getByRole('button', { name:'試験を開始する',exact:true }).click();
+  await expect(page.getByText(/試験 1 \/ 100/)).toBeVisible();
+  await expect(page.getByRole('button', { name: /^\d\. / })).toHaveCount(8);
+  await page.getByRole('button', { name:'試験：わからない',exact:true }).click();
+  await expect(page.getByText(/試験 2 \/ 100/)).toBeVisible();
+  await expect(page.getByText('✓ 正解！', {exact:true})).toHaveCount(0);
+  await page.getByRole('button', { name:'試験を中断して戻る（今回の変更は破棄）',exact:true }).click();
+  await expect(page.getByText('保存済み',{exact:true})).toBeVisible();
+  const state=await page.evaluate(k=>JSON.parse(localStorage.getItem(k)!),key);
+  expect(state.progress).toEqual({});expect(state.exams['draft:4:word:choice:10'].diagnosticUsed).toBe(true);
+  await page.reload();
+  await expect(page.getByRole('button',{name:'前回の学習を再開 →',exact:true})).toBeVisible();
+  expect(errors).toEqual([]);
+});
+
+test('upper-level idioms expose every section and persist independent practice history', async ({ page }) => {
+  const errors: string[]=[];page.on('pageerror',e=>errors.push(e.message));
+  await page.goto('/');
+  const full=page.getByRole('button',{name:'単語3,900語・熟語2000個で練習する',exact:true});
+  if(await full.count())await full.click();
+  await page.getByRole('tab',{name:'ホーム',exact:true}).click();
+  await page.getByRole('button',{name:/LEVEL 4 /}).click();
+  for(let s=1;s<=10;s++)await expect(page.getByRole('button',{name:`SECTION ${String(s).padStart(2,'0')} · 英熟語`,exact:true})).toBeVisible();
+  await page.getByRole('tab',{name:'ホーム',exact:true}).click();
+  await page.getByRole('button',{name:/LEVEL 3 /}).click();
+  for(let s=1;s<=14;s++)await expect(page.getByRole('button',{name:`SECTION ${String(s).padStart(2,'0')} · 英熟語`,exact:true})).toBeVisible();
+  await page.getByRole('button',{name:'SECTION 14 · 英熟語',exact:true}).click();
+  await expect(page.getByRole('button',{name:/ の詳細$/})).toHaveCount(50);
+  await page.getByRole('button',{name:'選択式練習を始める',exact:true}).click();
+  await page.getByRole('button',{name:'この設定で練習を開始',exact:true}).click();
+  await page.getByRole('button',{name:'わからない',exact:true}).click();
+  await expect(page.getByText('？ わからない',{exact:true})).toBeVisible();
+  await expect(page.getByText('保存済み',{exact:true})).toBeVisible();
+  const saved=await page.evaluate(k=>JSON.parse(localStorage.getItem(k)!),key);
+  expect(saved.lastSection).toMatchObject({level:3,kind:'idiom',section:14,catalog:'draft'});
+  const modes=Object.values(saved.progress) as any[];
+  expect(modes).toHaveLength(1);expect(modes[0].choice.history).toHaveLength(1);expect(modes[0].written).toBeUndefined();
+  await page.reload();await expect(page.getByText('保存済み',{exact:true})).toBeVisible();
+  const restored=await page.evaluate(k=>JSON.parse(localStorage.getItem(k)!),key);expect(restored.progress).toEqual(saved.progress);expect(errors).toEqual([]);
 });

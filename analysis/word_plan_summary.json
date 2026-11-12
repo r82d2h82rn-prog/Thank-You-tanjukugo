@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-11-12T09:24:29.780502+00:00",
+  "status": "editorial_proposal_not_lessons",
+  "proposedCounts": [
+    800,
+    900,
+    1200,
+    1000
+  ],
+  "authoredCounts": [
+    800,
+    900,
+    1200,
+    1000
+  ],
+  "unwrittenCounts": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "approvedCounts": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "excludedCandidates": 366,
+  "reserveCandidates": 2551,
+  "notes": [
+    "3900行は全量の仮採用・制作台帳。未執筆0語を完成教材と数えない。",
+    "未執筆語の配置は頻度等による仮案。NAWL掲載だけでLEVEL4と確定しない。",
+    "正式確定番号ではない。品詞・語義・難易度の審査後にSECTION内の品詞順を決める。",
+    "既存教材・草稿のIDは再利用しない。旧検証教材の履歴を他語へ付け替えない。",
+    "大学入試の出現頻度・総合採用スコアは未検証。"
+  ]
+}
