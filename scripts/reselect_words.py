@@ -58,7 +58,14 @@ def build(root=ROOT):
     assert [len(groups[l]) for l in range(1,5)]==[800,900,1200,100+len(new4)]
     placements=[]
     for l in range(1,5):
-        placements += [dict(id=e['id'],level=e['level'],section=e['section'],number=e['number']) for e in groups[l]] if l<3 else arrange(groups[l],l)
+        if l<3:
+            placements += [dict(id=e['id'],level=e['level'],section=e['section'],number=e['number']) for e in groups[l]]
+        elif l==3:
+            placements += arrange(groups[l],l)
+        else:
+            # New 100-word blocks append without renumbering earlier level-4 sections.
+            for offset in range(0,len(groups[l]),100):
+                placements += [{**p,'section':p['section']+offset//100} for p in arrange(groups[l][offset:offset+100],l)]
     active=original+new;by_id={e['id']:e for e in active}
     assert len(by_id)==len(active)
     materialized=[{**by_id[p['id']],**p} for p in placements]
@@ -69,8 +76,8 @@ def build(root=ROOT):
         errors=validate_entry(e,sources,seen,require_approval=False)
         if errors:raise ValueError((e['english'],errors))
     write_json(root/'content/words/reselected_additions.json',new)
-    write_json(root/'content/words/selection.json',dict(version=2,updatedAt=NOW(),policy='content/authoring/reselection/policy.json',placements=placements,reserveIds=[e['id'] for e in original if e['english'] in reserve]))
-    write_json(root/'analysis/selection_decisions.json',decisions+[dict(id=e['id'],english=e['english'],previousLevel=None,selectedLevel=e['level'],reason='改訂難易度基準による不足語の独自補完') for e in new])
+    write_json(root/'content/words/selection.json',dict(version=3,updatedAt=NOW(),scopeLevels=[3,4],policy='content/authoring/reselection/policy.json',placements=[p for p in placements if p['level'] in (3,4)],expectedReservedWords=len(reserve)))
+    write_json(root/'analysis/selection_decisions.json',[d for d in decisions if d['previousLevel'] in (3,4)]+[dict(id=e['id'],english=e['english'],previousLevel=None,selectedLevel=e['level'],reason='改訂難易度基準による不足語の独自補完') for e in new])
     summary=dict(updatedAt=NOW(),selectedWordCounts=[len(groups[l]) for l in range(1,5)],authoredUniqueWords=len(active),activeWords=len(placements),reservedWords=len(reserve),newWords=len(new),level3MovedTo4=len(promote),level4MovedTo3=80,level3Complete=True,level4Complete=len(new4)==900,editorialStatus='AI再選定・人手校閲待ち',productionApproved=False,legacyArchiveSha256=hashlib.sha256((root/'content/words/drafts.json').read_bytes()).hexdigest())
     write_json(root/'analysis/reselection_summary.json',summary)
     return summary

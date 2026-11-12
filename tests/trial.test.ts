@@ -1,13 +1,15 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import drafts from '../content/words/drafts.json';
+import selection from '../content/words/selection.json';
 import { entries } from '../src/data';
 import { historicalEntries, trialEntries, trialWordCount } from '../src/data/trial';
 import { answer, choices, decodeState, emptyState, mastery } from '../src/model';
 
-test('every saved draft is practiceable without granting approval or replacing sample history', () => {
-  assert.equal(trialWordCount, drafts.length);
-  assert.deepEqual([1, 2, 3, 4].map(level => trialEntries.filter(e => e.kind === 'word' && e.level === level).length), [800, 900, 800, 100]);
+test('every selected draft is practiceable while reserved and sample identities remain available', () => {
+  assert.equal(trialWordCount, 1700 + selection.placements.length);
+  assert.equal(historicalEntries.size, drafts.length + (trialWordCount - drafts.length + selection.expectedReservedWords) + 150);
+  assert.deepEqual([1, 2, 3, 4].map(level => trialEntries.filter(e => e.kind === 'word' && e.level === level).length), [800, 900, 1200, selection.placements.filter(p => p.level === 4).length]);
   assert.equal(trialEntries.filter(e => e.kind === 'idiom').length, 50);
   assert.equal(entries.length, 150);
   for (const row of drafts) {

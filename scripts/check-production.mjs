@@ -3,6 +3,10 @@ import { chromium } from '@playwright/test';
 import assert from 'node:assert/strict';
 import data from '../src/data/entries.json' with { type: 'json' };
 import drafts from '../content/words/drafts.json' with { type: 'json' };
+import additions from '../content/words/reselected_additions.json' with { type: 'json' };
+import selection from '../content/words/selection.json' with { type: 'json' };
+const byId = new Map([...drafts, ...additions].map(e => [e.id, e]));
+const trialWords = [...drafts.filter(e => e.level < 3), ...selection.placements.map(p => ({...byId.get(p.id), ...p}))];
 const server = spawn('python3', ['-m', 'http.server', '8082', '--bind', '127.0.0.1', '--directory', 'dist'], { stdio: 'ignore' });
 let browser;
 try {
@@ -35,7 +39,7 @@ try {
   await page.getByRole('button', { name: 'わからない', exact: true }).click();
   await page.getByText('？ わからない', { exact: true }).waitFor();
   await page.getByRole('tab', { name: 'ホーム', exact: true }).click();
-  await page.getByRole('button', { name: `制作済み単語${drafts.length.toLocaleString()}語で練習する`, exact: true }).click();
+  await page.getByRole('button', { name: `制作済み単語${trialWords.length.toLocaleString()}語で練習する`, exact: true }).click();
   await page.getByText('制作済み単語を試用中', { exact: true }).waitFor();
   await page.getByRole('button', { name: '← 戻る', exact: true }).click();
   await page.getByRole('button', { name: 'LEVEL 3 高校上級・大学受験中級', exact: true }).click();
@@ -44,7 +48,7 @@ try {
   const random = page.getByRole('switch', { name: 'ランダム順' });
   if (await random.isChecked()) await random.click();
   await page.getByRole('button', { name: 'この設定で練習を開始', exact: true }).click();
-  const draft = drafts.find(entry => entry.level === 3 && entry.section === 8 && entry.number === 1);
+  const draft = trialWords.find(entry => entry.level === 3 && entry.section === 8 && entry.number === 1);
   await page.getByRole('button', { name: draft.meaning, exact: true }).click();
   await page.getByText('✓ 正解！', { exact: true }).waitFor();
   await page.getByText('保存済み', { exact: true }).waitFor();

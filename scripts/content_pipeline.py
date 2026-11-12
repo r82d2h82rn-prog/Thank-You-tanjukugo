@@ -140,6 +140,9 @@ def audit(root=ROOT, release=False):
     for kind,folder in [('word','words'),('idiom','idioms')]:
         path=root/f'content/{folder}/drafts.json'
         drafts=read_json(path) if path.exists() else []
+        if kind=='word' and (root/'content/words/selection.json').exists():
+            from word_catalog import authored_catalog
+            drafts=authored_catalog(root)
         draft_counts[kind]=[sum(e.get('level')==l for e in drafts) for l in range(1,5)]
         for entry in drafts:
             issues.extend({'id':entry.get('id'),'error':error} for error in validate_entry(entry,sources,draft_seen,require_approval=False))
