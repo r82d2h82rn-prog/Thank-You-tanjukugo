@@ -1,0 +1,4803 @@
+[
+  {
+    "id": "idiom-c-105063823fa3",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 1,
+    "english": "on a slippery slope",
+    "meaning": "危険な流れに入って",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ə sˈlɪpəri sloʊp/",
+    "example": "The policy puts us on a slippery slope.",
+    "translation": "政策は危険な流れを招く。",
+    "explanation": "悪化が進みやすい状況。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7dbc1d340276",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 2,
+    "english": "on cloud nine",
+    "meaning": "有頂天で",
+    "pos": "熟語",
+    "pronunciation": "/ɔn klaʊd naɪn/",
+    "example": "She was on cloud nine after winning.",
+    "translation": "優勝して有頂天だった。",
+    "explanation": "非常な幸福感。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0bcef93e5920",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 3,
+    "english": "on pins and needles",
+    "meaning": "不安で落ち着かず",
+    "pos": "熟語",
+    "pronunciation": "/ɔn pɪnz ənd ˈnidəlz/",
+    "example": "We waited on pins and needles.",
+    "translation": "不安で落ち着かず待った。",
+    "explanation": "緊張した待機。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-09d2001710bc",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 4,
+    "english": "on tenterhooks",
+    "meaning": "やきもきして",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ˈtɛntərhʊks/",
+    "example": "The delay kept us on tenterhooks.",
+    "translation": "遅延でやきもきした。",
+    "explanation": "不確実な結果への不安。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA with original manual lexical overrides; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel",
+            "pronunciation"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d79c411ea856",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 5,
+    "english": "on the ball",
+    "meaning": "抜け目なく；機敏な",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ðə bɔl/",
+    "example": "The editor is always on the ball.",
+    "translation": "編集者はいつも機敏だ。",
+    "explanation": "状況への素早い対応。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f1449166e30e",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 6,
+    "english": "on the fence",
+    "meaning": "態度を決めかねて",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ðə fɛns/",
+    "example": "Many voters remain on the fence.",
+    "translation": "有権者の多くは態度未定だ。",
+    "explanation": "どちらにも決めない状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1365c5630a47",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 7,
+    "english": "on the horizon",
+    "meaning": "起こりそうで",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ðə hərˈaɪzən/",
+    "example": "Trouble is on the horizon.",
+    "translation": "問題が起こりそうだ。",
+    "explanation": "近い将来の兆候。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-819343e1e27a",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 8,
+    "english": "on the ropes",
+    "meaning": "追い詰められて",
+    "pos": "熟語",
+    "pronunciation": "/ɔn ðə roʊps/",
+    "example": "The firm is on the ropes.",
+    "translation": "会社は追い詰められている。",
+    "explanation": "敗北や破綻寸前。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9781ddabc21b",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 9,
+    "english": "on thin ice",
+    "meaning": "危険な立場で",
+    "pos": "熟語",
+    "pronunciation": "/ɔn θɪn aɪs/",
+    "example": "He is on thin ice after that error.",
+    "translation": "誤りの後で危うい立場だ。",
+    "explanation": "さらに問題を起こせない状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-840f0263486c",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 10,
+    "english": "once in a blue moon",
+    "meaning": "ごくまれに",
+    "pos": "熟語",
+    "pronunciation": "/wəns ɪn ə blu mun/",
+    "example": "He visits once in a blue moon.",
+    "translation": "彼はめったに訪れない。",
+    "explanation": "極めて低い頻度。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f44a9539b53f",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 11,
+    "english": "out of the blue",
+    "meaning": "突然に",
+    "pos": "熟語",
+    "pronunciation": "/aʊt əv ðə blu/",
+    "example": "She called out of the blue.",
+    "translation": "突然彼女が電話してきた。",
+    "explanation": "予告のない出来事。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7eb63376a0c2",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 12,
+    "english": "out of the woods",
+    "meaning": "難局を脱して",
+    "pos": "熟語",
+    "pronunciation": "/aʊt əv ðə wʊdz/",
+    "example": "The patient is not out of the woods.",
+    "translation": "患者はまだ危機を脱していない。",
+    "explanation": "困難を越えた状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-65424b365bd8",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 13,
+    "english": "over the moon",
+    "meaning": "大喜びで",
+    "pos": "熟語",
+    "pronunciation": "/ˈoʊvər ðə mun/",
+    "example": "They were over the moon.",
+    "translation": "彼らは大喜びだった。",
+    "explanation": "非常な喜び。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2e8cd397a7cb",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 14,
+    "english": "paint the town red",
+    "meaning": "盛大に遊ぶ",
+    "pos": "熟語",
+    "pronunciation": "/peɪnt ðə taʊn rɛd/",
+    "example": "They went out to paint the town red.",
+    "translation": "盛大に遊びに出た。",
+    "explanation": "にぎやかな夜遊び。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1164b8c55146",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 15,
+    "english": "pass the buck",
+    "meaning": "責任を転嫁する",
+    "pos": "熟語",
+    "pronunciation": "/pæs ðə bək/",
+    "example": "Stop passing the buck.",
+    "translation": "責任転嫁はやめて。",
+    "explanation": "自分の責任を他人へ移す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-eb59b797a5e9",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 16,
+    "english": "pay through the nose",
+    "meaning": "法外な金を払う",
+    "pos": "熟語",
+    "pronunciation": "/peɪ θru ðə noʊz/",
+    "example": "We paid through the nose for tickets.",
+    "translation": "切符に法外な金を払った。",
+    "explanation": "過剰な支払い。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-102cad72aea9",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 17,
+    "english": "pay lip service to",
+    "meaning": "に口先だけの賛同を示す",
+    "pos": "熟語",
+    "pronunciation": "/peɪ lɪp ˈsərvɪs tɪ/",
+    "example": "They paid lip service to equality.",
+    "translation": "平等には口先だけ賛成した。",
+    "explanation": "行動を伴わない支持。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-eba8da173246",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 18,
+    "english": "play devil's advocate",
+    "meaning": "あえて反対意見を述べる",
+    "pos": "熟語",
+    "pronunciation": "/pleɪ ˈdɛvəlz ˈædvəˌkeɪt/",
+    "example": "Let me play devil's advocate.",
+    "translation": "あえて反論させて。",
+    "explanation": "議論検討のための異論。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-61de207a973c",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 19,
+    "english": "play second fiddle",
+    "meaning": "脇役に甘んじる",
+    "pos": "熟語",
+    "pronunciation": "/pleɪ ˈsɛkənd ˈfɪdəl/",
+    "example": "She refuses to play second fiddle.",
+    "translation": "脇役には甘んじない。",
+    "explanation": "二番手の立場を取る。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9e8a9e94b62e",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 20,
+    "english": "play with fire",
+    "meaning": "危険なことをする",
+    "pos": "熟語",
+    "pronunciation": "/pleɪ wɪθ faɪər/",
+    "example": "Ignoring the leak is playing with fire.",
+    "translation": "漏出の無視は危険な行為だ。",
+    "explanation": "自ら危険を招く。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-67bda3172daa",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 21,
+    "english": "pull a fast one",
+    "meaning": "人をだます",
+    "pos": "熟語",
+    "pronunciation": "/pʊl ə fæst wən/",
+    "example": "The seller pulled a fast one.",
+    "translation": "売り手は人をだました。",
+    "explanation": "口語の欺く行為。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f8d5f6d68b41",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 22,
+    "english": "pull out all the stops",
+    "meaning": "全力を尽くす",
+    "pos": "熟語",
+    "pronunciation": "/pʊl aʊt ɔl ðə stɑps/",
+    "example": "They pulled out all the stops.",
+    "translation": "彼らは全力を尽くした。",
+    "explanation": "利用可能な手段の総動員。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-140329077fbd",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 23,
+    "english": "pull someone's leg",
+    "meaning": "をからかう",
+    "pos": "熟語",
+    "pronunciation": "/pʊl ˈsʌmwʌnz lɛg/",
+    "example": "Are you pulling my leg?",
+    "translation": "からかっているの。",
+    "explanation": "冗談で信じ込ませる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-62b06cc4368a",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 24,
+    "english": "pull the plug on",
+    "meaning": "を打ち切る",
+    "pos": "熟語",
+    "pronunciation": "/pʊl ðə pləg ɔn/",
+    "example": "The board pulled the plug on the project.",
+    "translation": "理事会は計画を打ち切った。",
+    "explanation": "支援や活動の終了。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-803b40a06198",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 25,
+    "english": "pull the wool over someone's eyes",
+    "meaning": "をだます",
+    "pos": "熟語",
+    "pronunciation": "/pʊl ðə wʊl ˈoʊvər ˈsʌmwʌnz aɪz/",
+    "example": "They pulled the wool over our eyes.",
+    "translation": "私たちの目を欺いた。",
+    "explanation": "事実を隠して惑わす。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-684e5bd8ddc1",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 26,
+    "english": "pull one's weight",
+    "meaning": "役割を果たす",
+    "pos": "熟語",
+    "pronunciation": "/pʊl wʌnz weɪt/",
+    "example": "Everyone must pull their weight.",
+    "translation": "皆が自分の役目を果たすべきだ。",
+    "explanation": "公平な分担を担う。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ef1ee83553e7",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 27,
+    "english": "put a spoke in one's wheel",
+    "meaning": "の邪魔をする",
+    "pos": "熟語",
+    "pronunciation": "/pʊt ə spoʊk ɪn wʌnz wil/",
+    "example": "The delay put a spoke in our wheel.",
+    "translation": "遅延は計画の障害となった。",
+    "explanation": "進行を妨げる比喩。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-bb67efe79647",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 28,
+    "english": "put all one's eggs in one basket",
+    "meaning": "一つに全てを賭ける",
+    "pos": "熟語",
+    "pronunciation": "/pʊt ɔl wʌnz ɛgz ɪn wən ˈbæskət/",
+    "example": "Do not put all your eggs in one basket.",
+    "translation": "一つに全てを賭けないで。",
+    "explanation": "危険の集中を戒める。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f2266151adfd",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 29,
+    "english": "put one's foot in it",
+    "meaning": "不用意な失言をする",
+    "pos": "熟語",
+    "pronunciation": "/pʊt wʌnz fʊt ɪn ɪt/",
+    "example": "I put my foot in it again.",
+    "translation": "また余計なことを言った。",
+    "explanation": "気まずさを招く発言。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-326980a2f51d",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 30,
+    "english": "put the cart before the horse",
+    "meaning": "本末転倒する",
+    "pos": "熟語",
+    "pronunciation": "/pʊt ðə kɑrt ˌbiˈfɔr ðə hɔrs/",
+    "example": "Do not put the cart before the horse.",
+    "translation": "順序を逆にしないで。",
+    "explanation": "原因と結果などの逆転。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-06b54a223838",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 31,
+    "english": "put the cat among the pigeons",
+    "meaning": "騒動を引き起こす",
+    "pos": "熟語",
+    "pronunciation": "/pʊt ðə kæt əˈməŋ ðə ˈpɪʤənz/",
+    "example": "His announcement put the cat among the pigeons.",
+    "translation": "発表が騒動を起こした。",
+    "explanation": "集団を動揺させる行為。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f31ef7748c18",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 32,
+    "english": "put the record straight",
+    "meaning": "誤解を正す",
+    "pos": "熟語",
+    "pronunciation": "/pʊt ðə ˈrɛkərd streɪt/",
+    "example": "She put the record straight.",
+    "translation": "彼女は誤解を正した。",
+    "explanation": "事実を正確に説明。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-212c2c1fe11c",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 33,
+    "english": "put words in someone's mouth",
+    "meaning": "が言わないことを言ったとする",
+    "pos": "熟語",
+    "pronunciation": "/pʊt wərdz ɪn ˈsʌmwʌnz maʊθ/",
+    "example": "Do not put words in my mouth.",
+    "translation": "私が言っていないことを言わせないで。",
+    "explanation": "発言の不当な代弁。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-bf2038b9e505",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 34,
+    "english": "rack one's brains",
+    "meaning": "知恵を絞る",
+    "pos": "熟語",
+    "pronunciation": "/ræk wʌnz breɪnz/",
+    "example": "We racked our brains for ideas.",
+    "translation": "案を得ようと知恵を絞った。",
+    "explanation": "必死に考えること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-a4ab78b10b5f",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 35,
+    "english": "read the writing on the wall",
+    "meaning": "悪い前兆を読み取る",
+    "pos": "熟語",
+    "pronunciation": "/rɛd ðə ˈraɪtɪŋ ɔn ðə wɔl/",
+    "example": "They read the writing on the wall.",
+    "translation": "彼らは衰退の兆しを悟った。",
+    "explanation": "避けがたい危機の認識。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-40e1c21c0bea",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 36,
+    "english": "reap what one sows",
+    "meaning": "自分の行いの報いを受ける",
+    "pos": "熟語",
+    "pronunciation": "/rip wət wən soʊz/",
+    "example": "You reap what you sow.",
+    "translation": "自分でまいた種は刈るものだ。",
+    "explanation": "行動の結果への責任。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ed3f7fed6064",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 37,
+    "english": "red tape",
+    "meaning": "煩雑な官僚的手続き",
+    "pos": "熟語",
+    "pronunciation": "/rɛd teɪp/",
+    "example": "Red tape delayed the permits.",
+    "translation": "煩雑な手続きが許可を遅らせた。",
+    "explanation": "行政の形式的障害。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-680e99b372db",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 38,
+    "english": "rest on one's laurels",
+    "meaning": "過去の栄光に安住する",
+    "pos": "熟語",
+    "pronunciation": "/rɛst ɔn wʌnz ˈlɔrəlz/",
+    "example": "We cannot rest on our laurels.",
+    "translation": "過去の成功に安住できない。",
+    "explanation": "努力を止めること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1282f3556cb0",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 39,
+    "english": "ride out the storm",
+    "meaning": "困難を乗り切る",
+    "pos": "熟語",
+    "pronunciation": "/raɪd aʊt ðə stɔrm/",
+    "example": "The firm rode out the storm.",
+    "translation": "会社は危機を乗り切った。",
+    "explanation": "厳しい時期を耐え抜く。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-69e2d9a440e8",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 40,
+    "english": "ring a bell",
+    "meaning": "聞き覚えがある",
+    "pos": "熟語",
+    "pronunciation": "/rɪŋ ə bɛl/",
+    "example": "That name rings a bell.",
+    "translation": "その名は聞き覚えがある。",
+    "explanation": "曖昧な記憶を呼ぶ。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-c8c9efacc2a8",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 41,
+    "english": "rock the boat",
+    "meaning": "波風を立てる",
+    "pos": "熟語",
+    "pronunciation": "/rɑk ðə boʊt/",
+    "example": "She did not want to rock the boat.",
+    "translation": "波風を立てたくなかった。",
+    "explanation": "安定した状態を乱す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-740955e70879",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 42,
+    "english": "rub salt into the wound",
+    "meaning": "傷口に塩を塗る",
+    "pos": "熟語",
+    "pronunciation": "/rəb sɔlt ˈɪntu ðə wund/",
+    "example": "His joke rubbed salt into the wound.",
+    "translation": "冗談が苦痛をさらに増した。",
+    "explanation": "既存の苦しみを悪化させる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-b0f0d739b050",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 43,
+    "english": "rub shoulders with",
+    "meaning": "と付き合う",
+    "pos": "熟語",
+    "pronunciation": "/rəb ˈʃoʊldərz wɪθ/",
+    "example": "Students rubbed shoulders with researchers.",
+    "translation": "生徒は研究者と交流した。",
+    "explanation": "地位の違う人とも交わる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2cbfc774262b",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 44,
+    "english": "run in the family",
+    "meaning": "家系的な特徴である",
+    "pos": "熟語",
+    "pronunciation": "/rən ɪn ðə ˈfæməli/",
+    "example": "Musical talent runs in the family.",
+    "translation": "音楽の才能は家系の特徴だ。",
+    "explanation": "親族に共通する性質。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4d0b4a482027",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 45,
+    "english": "run out of steam",
+    "meaning": "勢いを失う",
+    "pos": "熟語",
+    "pronunciation": "/rən aʊt əv stim/",
+    "example": "The campaign ran out of steam.",
+    "translation": "運動は勢いを失った。",
+    "explanation": "活力や推進力の低下。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9b2215ae461e",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 46,
+    "english": "see red",
+    "meaning": "激怒する",
+    "pos": "熟語",
+    "pronunciation": "/si rɛd/",
+    "example": "He saw red at the accusation.",
+    "translation": "非難されて激怒した。",
+    "explanation": "強い怒りの口語。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-6869be5764fa",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 47,
+    "english": "see the back of",
+    "meaning": "と縁が切れる",
+    "pos": "熟語",
+    "pronunciation": "/si ðə bæk əv/",
+    "example": "We were glad to see the back of the problem.",
+    "translation": "問題が去って喜んだ。",
+    "explanation": "厄介なものからの解放。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e71c4a4cfc89",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 48,
+    "english": "sell oneself short",
+    "meaning": "自分を過小評価する",
+    "pos": "熟語",
+    "pronunciation": "/sɛl wʌnˈsɛlf ʃɔrt/",
+    "example": "Do not sell yourself short.",
+    "translation": "自分を過小評価しないで。",
+    "explanation": "能力の低い見積もり。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ab9b6b882c63",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 49,
+    "english": "set the ball rolling",
+    "meaning": "物事を始める",
+    "pos": "熟語",
+    "pronunciation": "/sɛt ðə bɔl ˈroʊlɪŋ/",
+    "example": "Her donation set the ball rolling.",
+    "translation": "寄付が活動を始動させた。",
+    "explanation": "開始のきっかけを作る。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ccd72dc79d2d",
+    "kind": "idiom",
+    "level": 4,
+    "section": 5,
+    "number": 50,
+    "english": "set the cat among the pigeons",
+    "meaning": "大騒ぎを起こす",
+    "pos": "熟語",
+    "pronunciation": "/sɛt ðə kæt əˈməŋ ðə ˈpɪʤənz/",
+    "example": "The report set the cat among the pigeons.",
+    "translation": "報告が大騒ぎを招いた。",
+    "explanation": "平穏を乱す発言など。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-436d8c8f8153",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 1,
+    "english": "shake a leg",
+    "meaning": "急ぐ",
+    "pos": "熟語",
+    "pronunciation": "/ʃeɪk ə lɛg/",
+    "example": "Shake a leg or we will miss it.",
+    "translation": "急がないと間に合わない。",
+    "explanation": "くだけた催促。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-0a6fe2d9a119",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 2,
+    "english": "shoot oneself in the foot",
+    "meaning": "自ら不利益を招く",
+    "pos": "熟語",
+    "pronunciation": "/ʃut wʌnˈsɛlf ɪn ðə fʊt/",
+    "example": "The firm shot itself in the foot.",
+    "translation": "会社は自滅的行動をした。",
+    "explanation": "自分の利益を損なう。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-62dc42646157",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 3,
+    "english": "show one's true colors",
+    "meaning": "本性を現す",
+    "pos": "熟語",
+    "pronunciation": "/ʃoʊ wʌnz tru ˈkələrz/",
+    "example": "The crisis showed his true colors.",
+    "translation": "危機で本性が出た。",
+    "explanation": "隠れた性質の露呈。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-81e9203d42e0",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 4,
+    "english": "sit on the fence",
+    "meaning": "どちらにも付かない",
+    "pos": "熟語",
+    "pronunciation": "/sɪt ɔn ðə fɛns/",
+    "example": "He sat on the fence throughout.",
+    "translation": "彼は終始態度を決めなかった。",
+    "explanation": "決断を避けること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5dc9a3caf1d2",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 5,
+    "english": "skate on thin ice",
+    "meaning": "危険な行動をする",
+    "pos": "熟語",
+    "pronunciation": "/skeɪt ɔn θɪn aɪs/",
+    "example": "They are skating on thin ice.",
+    "translation": "彼らは危険な行動をしている。",
+    "explanation": "問題を招きやすい状況。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-a4bd8290db07",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 6,
+    "english": "smell a rat",
+    "meaning": "何かおかしいと感じる",
+    "pos": "熟語",
+    "pronunciation": "/smɛl ə ræt/",
+    "example": "I smelled a rat immediately.",
+    "translation": "すぐ不審に感じた。",
+    "explanation": "不正などへの直感。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d7c3605b8331",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 7,
+    "english": "sow the seeds of",
+    "meaning": "の種をまく",
+    "pos": "熟語",
+    "pronunciation": "/soʊ ðə sidz əv/",
+    "example": "Distrust sowed the seeds of conflict.",
+    "translation": "不信が紛争の種をまいた。",
+    "explanation": "将来の原因を生む。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-b4ec57eb67b4",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 8,
+    "english": "speak volumes",
+    "meaning": "多くを物語る",
+    "pos": "熟語",
+    "pronunciation": "/spik ˈvɑljumz/",
+    "example": "Her silence speaks volumes.",
+    "translation": "沈黙は多くを物語る。",
+    "explanation": "明言なしの強い示唆。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-6546de115656",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 9,
+    "english": "spill the beans",
+    "meaning": "秘密を漏らす",
+    "pos": "熟語",
+    "pronunciation": "/spɪl ðə binz/",
+    "example": "Someone spilled the beans.",
+    "translation": "誰かが秘密を漏らした。",
+    "explanation": "隠れた情報の暴露。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-02b0164ea54f",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 10,
+    "english": "split hairs",
+    "meaning": "些細な違いにこだわる",
+    "pos": "熟語",
+    "pronunciation": "/splɪt hɛrz/",
+    "example": "We are splitting hairs now.",
+    "translation": "今は細かすぎる議論だ。",
+    "explanation": "重要でない区別への固執。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f3854e251794",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 11,
+    "english": "stand on one's own two feet",
+    "meaning": "自立する",
+    "pos": "熟語",
+    "pronunciation": "/stænd ɔn wʌnz oʊn tu fit/",
+    "example": "He learned to stand on his own two feet.",
+    "translation": "自立を身につけた。",
+    "explanation": "他人への依存を減らす。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-69b15d2a9dd9",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 12,
+    "english": "steal the show",
+    "meaning": "人気をさらう",
+    "pos": "熟語",
+    "pronunciation": "/stil ðə ʃoʊ/",
+    "example": "The young actor stole the show.",
+    "translation": "若い俳優が人気をさらった。",
+    "explanation": "最も注目される活躍。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-6c3206139134",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 13,
+    "english": "stick one's neck out",
+    "meaning": "危険を冒す",
+    "pos": "熟語",
+    "pronunciation": "/stɪk wʌnz nɛk aʊt/",
+    "example": "She stuck her neck out for us.",
+    "translation": "私たちのため危険を冒した。",
+    "explanation": "批判されうる行動。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-fb4b514ad922",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 14,
+    "english": "straight from the horse's mouth",
+    "meaning": "直接確かな筋から",
+    "pos": "熟語",
+    "pronunciation": "/streɪt frəm ðə ˈhɔrsəz maʊθ/",
+    "example": "I heard it straight from the horse's mouth.",
+    "translation": "直接確かな相手から聞いた。",
+    "explanation": "当事者からの情報。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8bb06067c772",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 15,
+    "english": "strike while the iron is hot",
+    "meaning": "好機を逃さず動く",
+    "pos": "熟語",
+    "pronunciation": "/straɪk waɪl ðə aɪərn ɪz hɑt/",
+    "example": "We must strike while the iron is hot.",
+    "translation": "好機を逃さず動こう。",
+    "explanation": "適切な時機の活用。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-dc5bd7df6550",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 16,
+    "english": "sweep under the carpet",
+    "meaning": "を隠蔽する",
+    "pos": "熟語",
+    "pronunciation": "/swip ˈəndər ðə ˈkɑrpət/",
+    "example": "They swept the errors under the carpet.",
+    "translation": "誤りを隠蔽した。",
+    "explanation": "sweep A under the carpet。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7f36acca7caf",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 17,
+    "english": "swim against the tide",
+    "meaning": "大勢に逆らう",
+    "pos": "熟語",
+    "pronunciation": "/swɪm əˈgɛnst ðə taɪd/",
+    "example": "The critics swam against the tide.",
+    "translation": "批評家は大勢に逆らった。",
+    "explanation": "主流と異なる行動。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4b158b44a319",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 18,
+    "english": "take a leaf out of one's book",
+    "meaning": "のやり方を見習う",
+    "pos": "熟語",
+    "pronunciation": "/teɪk ə lif aʊt əv wʌnz bʊk/",
+    "example": "Take a leaf out of her book.",
+    "translation": "彼女のやり方を見習って。",
+    "explanation": "よい行動を模倣する。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-4bc4888bffb0",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 19,
+    "english": "take the bull by the horns",
+    "meaning": "難題に果敢に取り組む",
+    "pos": "熟語",
+    "pronunciation": "/teɪk ðə bʊl baɪ ðə hɔrnz/",
+    "example": "She took the bull by the horns.",
+    "translation": "難題に正面から挑んだ。",
+    "explanation": "直接向き合う勇気。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-dcd16c017c40",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 20,
+    "english": "take the edge off",
+    "meaning": "を和らげる",
+    "pos": "熟語",
+    "pronunciation": "/teɪk ðə ɛʤ ɔf/",
+    "example": "The snack took the edge off hunger.",
+    "translation": "軽食で空腹が和らいだ。",
+    "explanation": "強い感覚を弱める。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-65329d2e207d",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 21,
+    "english": "take the plunge",
+    "meaning": "思い切って始める",
+    "pos": "熟語",
+    "pronunciation": "/teɪk ðə plənʤ/",
+    "example": "They took the plunge and opened a shop.",
+    "translation": "決心して開店した。",
+    "explanation": "ためらい後の大胆な開始。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-22acc2a2dddf",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 22,
+    "english": "take with a pinch of salt",
+    "meaning": "を割り引いて聞く",
+    "pos": "熟語",
+    "pronunciation": "/teɪk wɪθ ə pɪnʧ əv sɔlt/",
+    "example": "Take the rumor with a pinch of salt.",
+    "translation": "噂は割り引いて聞いて。",
+    "explanation": "無条件に信じないこと。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-6ba6b77189d2",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 23,
+    "english": "throw a spanner in the works",
+    "meaning": "計画を妨げる",
+    "pos": "熟語",
+    "pronunciation": "/θroʊ ə ˈspænər ɪn ðə wərks/",
+    "example": "The delay threw a spanner in the works.",
+    "translation": "遅延で計画が狂った。",
+    "explanation": "予期せぬ障害を起こす。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-3f119c58ca56",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 24,
+    "english": "throw in the towel",
+    "meaning": "降参する",
+    "pos": "熟語",
+    "pronunciation": "/θroʊ ɪn ðə taʊəl/",
+    "example": "The team refused to throw in the towel.",
+    "translation": "チームは降参を拒んだ。",
+    "explanation": "努力を断念すること。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-51a38e1ded27",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 25,
+    "english": "throw caution to the wind",
+    "meaning": "思い切って危険を冒す",
+    "pos": "熟語",
+    "pronunciation": "/θroʊ ˈkɔʃən tɪ ðə wɪnd/",
+    "example": "She threw caution to the wind.",
+    "translation": "慎重さを捨て思い切った。",
+    "explanation": "危険への配慮を捨てる。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-e3066f1bd830",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 26,
+    "english": "through thick and thin",
+    "meaning": "どんな時も",
+    "pos": "熟語",
+    "pronunciation": "/θru θɪk ənd θɪn/",
+    "example": "They stayed together through thick and thin.",
+    "translation": "どんな時も共にいた。",
+    "explanation": "好不調を問わない支援。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-fcd01566c1a4",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 27,
+    "english": "the ball is in one's court",
+    "meaning": "次はの番である",
+    "pos": "熟語",
+    "pronunciation": "/ðə bɔl ɪz ɪn wʌnz kɔrt/",
+    "example": "The ball is now in your court.",
+    "translation": "今度はあなたが動く番だ。",
+    "explanation": "対応の責任が相手に移る。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9a678717bb6f",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 28,
+    "english": "the best of both worlds",
+    "meaning": "両方の利点",
+    "pos": "熟語",
+    "pronunciation": "/ðə bɛst əv boʊθ wərldz/",
+    "example": "The town offers the best of both worlds.",
+    "translation": "町には双方の利点がある。",
+    "explanation": "異なる利点の両立。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-c34080ec991d",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 29,
+    "english": "the bottom line",
+    "meaning": "肝心な点；最終収益",
+    "pos": "熟語",
+    "pronunciation": "/ðə ˈbɑtəm laɪn/",
+    "example": "The bottom line is safety.",
+    "translation": "肝心なのは安全だ。",
+    "explanation": "議論の結論や要点。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-6523c68e9543",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 30,
+    "english": "the lion's share",
+    "meaning": "最大の取り分",
+    "pos": "熟語",
+    "pronunciation": "/ðə laɪənz ʃɛr/",
+    "example": "Transport took the lion's share.",
+    "translation": "輸送が最大の割合を占めた。",
+    "explanation": "大半の分け前。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-7f95f92cf381",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 31,
+    "english": "the tip of the iceberg",
+    "meaning": "氷山の一角",
+    "pos": "熟語",
+    "pronunciation": "/ðə tɪp əv ðə ˈaɪsbərg/",
+    "example": "The errors are the tip of the iceberg.",
+    "translation": "誤りは氷山の一角だ。",
+    "explanation": "見えない大問題の一部。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5a650a55c539",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 32,
+    "english": "the writing on the wall",
+    "meaning": "悪い前兆",
+    "pos": "熟語",
+    "pronunciation": "/ðə ˈraɪtɪŋ ɔn ðə wɔl/",
+    "example": "They ignored the writing on the wall.",
+    "translation": "衰退の兆しを無視した。",
+    "explanation": "避けがたい失敗の兆候。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f5b8faf44c19",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 33,
+    "english": "the last straw",
+    "meaning": "我慢の限界を超える一件",
+    "pos": "熟語",
+    "pronunciation": "/ðə læst strɔ/",
+    "example": "The cancellation was the last straw.",
+    "translation": "中止でついに我慢が切れた。",
+    "explanation": "最後の小さな引き金。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-f3e596db7bfb",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 34,
+    "english": "the last word in",
+    "meaning": "の最新最高のもの",
+    "pos": "熟語",
+    "pronunciation": "/ðə læst wərd ɪn/",
+    "example": "This is the last word in efficiency.",
+    "translation": "これは効率の極致だ。",
+    "explanation": "最高水準を表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-357720ca1bba",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 35,
+    "english": "the lay of the land",
+    "meaning": "情勢；地勢",
+    "pos": "熟語",
+    "pronunciation": "/ðə leɪ əv ðə lænd/",
+    "example": "We assessed the lay of the land.",
+    "translation": "現地の事情を調べた。",
+    "explanation": "全体の状況把握。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-a94764cc7138",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 36,
+    "english": "under a cloud",
+    "meaning": "疑惑を受けて",
+    "pos": "熟語",
+    "pronunciation": "/ˈəndər ə klaʊd/",
+    "example": "He resigned under a cloud.",
+    "translation": "疑惑を受け辞職した。",
+    "explanation": "悪い評判の中にある。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d0d10ea80127",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 37,
+    "english": "under one's nose",
+    "meaning": "のすぐ目の前で",
+    "pos": "熟語",
+    "pronunciation": "/ˈəndər wʌnz noʊz/",
+    "example": "The answer was under our noses.",
+    "translation": "答えは目の前にあった。",
+    "explanation": "近くの物を見落とす含み。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-618603a2283a",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 38,
+    "english": "under the weather",
+    "meaning": "体調が悪くて",
+    "pos": "熟語",
+    "pronunciation": "/ˈəndər ðə ˈwɛðər/",
+    "example": "She feels under the weather.",
+    "translation": "彼女は体調が悪い。",
+    "explanation": "軽い不調の口語。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-d07764fc4fca",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 39,
+    "english": "up in arms",
+    "meaning": "憤慨して",
+    "pos": "熟語",
+    "pronunciation": "/əp ɪn ɑrmz/",
+    "example": "Residents were up in arms.",
+    "translation": "住民は強く憤った。",
+    "explanation": "集団の激しい反対。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-9abb7396b481",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 40,
+    "english": "up in the air",
+    "meaning": "未定で",
+    "pos": "熟語",
+    "pronunciation": "/əp ɪn ðə ɛr/",
+    "example": "The date is still up in the air.",
+    "translation": "日付はまだ未定だ。",
+    "explanation": "決定していない状態。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-351a290046ca",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 41,
+    "english": "up to one's ears in",
+    "meaning": "で手いっぱいで",
+    "pos": "熟語",
+    "pronunciation": "/əp tɪ wʌnz ɪrz ɪn/",
+    "example": "I am up to my ears in work.",
+    "translation": "仕事で手いっぱいだ。",
+    "explanation": "多すぎる負担。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-2dc963157282",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 42,
+    "english": "up the creek",
+    "meaning": "窮地に陥って",
+    "pos": "熟語",
+    "pronunciation": "/əp ðə krik/",
+    "example": "Without supplies, we were up the creek.",
+    "translation": "物資なしで窮地に陥った。",
+    "explanation": "口語の難局。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-8eeb7e1dbef5",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 43,
+    "english": "water under the bridge",
+    "meaning": "済んだこと",
+    "pos": "熟語",
+    "pronunciation": "/ˈwɔtər ˈəndər ðə brɪʤ/",
+    "example": "That disagreement is water under the bridge.",
+    "translation": "あの対立はもう過去のことだ。",
+    "explanation": "今は問題にしない過去。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-28de431686ac",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 44,
+    "english": "wear one's heart on one's sleeve",
+    "meaning": "感情を隠さない",
+    "pos": "熟語",
+    "pronunciation": "/wɛr wʌnz hɑrt ɔn wʌnz sliv/",
+    "example": "He wears his heart on his sleeve.",
+    "translation": "彼は感情が顔に出る。",
+    "explanation": "気持ちを率直に示す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1ec616d75a7f",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 45,
+    "english": "weather the storm",
+    "meaning": "困難を切り抜ける",
+    "pos": "熟語",
+    "pronunciation": "/ˈwɛðər ðə stɔrm/",
+    "example": "The company weathered the storm.",
+    "translation": "会社は危機を乗り越えた。",
+    "explanation": "苦境に耐えて存続する。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-c8f825ecaab7",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 46,
+    "english": "when push comes to shove",
+    "meaning": "いざとなれば",
+    "pos": "熟語",
+    "pronunciation": "/wɪn pʊʃ kəmz tɪ ʃəv/",
+    "example": "When push comes to shove, they help.",
+    "translation": "いざとなれば彼らは助ける。",
+    "explanation": "決断を迫られる場面。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-5cf29f14dc13",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 47,
+    "english": "with flying colors",
+    "meaning": "見事な成績で",
+    "pos": "熟語",
+    "pronunciation": "/wɪθ flaɪɪŋ ˈkələrz/",
+    "example": "She passed with flying colors.",
+    "translation": "見事な成績で合格した。",
+    "explanation": "大成功を表す。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-98eebb59a56b",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 48,
+    "english": "with one's tongue in one's cheek",
+    "meaning": "冗談めかして",
+    "pos": "熟語",
+    "pronunciation": "/wɪθ wʌnz təŋ ɪn wʌnz ʧik/",
+    "example": "He spoke with his tongue in his cheek.",
+    "translation": "彼は冗談めかして話した。",
+    "explanation": "本気でない皮肉な表現。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-ab26b4b5d07b",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 49,
+    "english": "with bated breath",
+    "meaning": "息をひそめて",
+    "pos": "熟語",
+    "pronunciation": "/wɪθ ˈbeɪtɪd brɛθ/",
+    "example": "We waited with bated breath.",
+    "translation": "息をひそめて待った。",
+    "explanation": "期待や緊張した待機。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "idiom-c-1c210c100f89",
+    "kind": "idiom",
+    "level": 4,
+    "section": 6,
+    "number": 50,
+    "english": "worth one's salt",
+    "meaning": "有能な",
+    "pos": "熟語",
+    "pronunciation": "/wərθ wʌnz sɔlt/",
+    "example": "Any guide worth their salt knows this.",
+    "translation": "有能な案内人ならこれを知る。",
+    "explanation": "能力に見合う価値。",
+    "acceptedAnswers": [],
+    "content": {
+      "sourceIds": [
+        "original-idiom-upper-v1",
+        "cmudict-pronunciation"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験上級の慣用句・抽象的表現・改まった連語を独自選定。個別試験頻度・級は未実測。",
+      "pronunciationMethod": "CMU-derived word-level IPA; phrase stress requires review",
+      "sourceUsage": [
+        {
+          "sourceId": "original-idiom-upper-v1",
+          "fields": [
+            "english",
+            "meaning",
+            "example",
+            "translation",
+            "explanation",
+            "proposedLevel"
+          ]
+        },
+        {
+          "sourceId": "cmudict-pronunciation",
+          "fields": [
+            "pronunciation"
+          ]
+        }
+      ]
+    }
+  }
+]

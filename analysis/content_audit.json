@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T08:39:10.935133+00:00",
+  "checkedAt": "2026-11-12T09:25:53.513085+00:00",
   "mode": "development",
   "approvedCounts": {
     "word": [
@@ -71,8 +71,8 @@
     "idiom": [
       250,
       500,
-      0,
-      0
+      700,
+      500
     ]
   },
   "sampleCounts": {
@@ -81,10 +81,10 @@
   },
   "structurallyCheckedCounts": {
     "word": 4000,
-    "idiom": 800,
+    "idiom": 2000,
     "reading": 0
   },
-  "humanReviewPending": 4800,
+  "humanReviewPending": 6000,
   "issues": [],
   "releaseReady": false
 }

@@ -196,3 +196,29 @@ test('level 4 opens all ten sections and diagnostic cancellation preserves maste
   await expect(page.getByRole('button',{name:'前回の学習を再開 →',exact:true})).toBeVisible();
   expect(errors).toEqual([]);
 });
+
+test('upper-level idioms expose every section and persist independent practice history', async ({ page }) => {
+  const errors: string[]=[];page.on('pageerror',e=>errors.push(e.message));
+  await page.goto('/');
+  const full=page.getByRole('button',{name:'単語3,900語・熟語2000個で練習する',exact:true});
+  if(await full.count())await full.click();
+  await page.getByRole('tab',{name:'ホーム',exact:true}).click();
+  await page.getByRole('button',{name:/LEVEL 4 /}).click();
+  for(let s=1;s<=10;s++)await expect(page.getByRole('button',{name:`SECTION ${String(s).padStart(2,'0')} · 英熟語`,exact:true})).toBeVisible();
+  await page.getByRole('tab',{name:'ホーム',exact:true}).click();
+  await page.getByRole('button',{name:/LEVEL 3 /}).click();
+  for(let s=1;s<=14;s++)await expect(page.getByRole('button',{name:`SECTION ${String(s).padStart(2,'0')} · 英熟語`,exact:true})).toBeVisible();
+  await page.getByRole('button',{name:'SECTION 14 · 英熟語',exact:true}).click();
+  await expect(page.getByRole('button',{name:/ の詳細$/})).toHaveCount(50);
+  await page.getByRole('button',{name:'選択式練習を始める',exact:true}).click();
+  await page.getByRole('button',{name:'この設定で練習を開始',exact:true}).click();
+  await page.getByRole('button',{name:'わからない',exact:true}).click();
+  await expect(page.getByText('？ わからない',{exact:true})).toBeVisible();
+  await expect(page.getByText('保存済み',{exact:true})).toBeVisible();
+  const saved=await page.evaluate(k=>JSON.parse(localStorage.getItem(k)!),key);
+  expect(saved.lastSection).toMatchObject({level:3,kind:'idiom',section:14,catalog:'draft'});
+  const modes=Object.values(saved.progress) as any[];
+  expect(modes).toHaveLength(1);expect(modes[0].choice.history).toHaveLength(1);expect(modes[0].written).toBeUndefined();
+  await page.reload();await expect(page.getByText('保存済み',{exact:true})).toBeVisible();
+  const restored=await page.evaluate(k=>JSON.parse(localStorage.getItem(k)!),key);expect(restored.progress).toEqual(saved.progress);expect(errors).toEqual([]);
+});

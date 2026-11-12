@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-11-12T09:25:45.586820+00:00",
+  "file": "content/idioms/l4_01_02.json",
+  "level": 4,
+  "sections": [
+    1,
+    2
+  ],
+  "count": 100,
+  "sha256": "5e51139fff88c6f64c906786a6f47e6f47f3ba6f88e35b5b75205a12ff5c198e",
+  "checks": [
+    "complete 50-entry sections",
+    "unique headwords and IDs against existing catalog",
+    "nonempty meaning, example, translation, explanation and IPA",
+    "valid source metadata"
+  ],
+  "humanReviewed": false
+}

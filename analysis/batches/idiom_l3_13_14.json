@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-11-12T09:25:43.331506+00:00",
+  "file": "content/idioms/l3_13_14.json",
+  "level": 3,
+  "sections": [
+    13,
+    14
+  ],
+  "count": 100,
+  "sha256": "ab7b08a56723c6d4b0ce365b896882e66eb4293af9feca0e246e1829dac9e727",
+  "checks": [
+    "complete 50-entry sections",
+    "unique headwords and IDs against existing catalog",
+    "nonempty meaning, example, translation, explanation and IPA",
+    "valid source metadata"
+  ],
+  "humanReviewed": false
+}

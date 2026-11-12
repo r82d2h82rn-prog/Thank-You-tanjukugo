@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T08:39:11.034202+00:00",
+  "updatedAt": "2026-11-12T09:24:30.036735+00:00",
   "wordTargets": [
     800,
     900,
@@ -38,12 +38,12 @@
       0
     ]
   },
-  "humanReviewPending": 4800,
+  "humanReviewPending": 6000,
   "activeIdiomCounts": [
     300,
     500,
-    0,
-    0
+    700,
+    500
   ],
   "source": "ID-based selection overlay; analysis/content_audit.json and analysis/word_plan_summary.json",
   "releaseReady": false
