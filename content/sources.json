@@ -465,5 +465,29 @@
     "availableDataTypes": [
       "pronunciation"
     ]
+  },
+  {
+    "id": "original-idiom-batches-v1",
+    "name": "LEVEL1・2 独自執筆の熟語教材",
+    "url": null,
+    "observedVersion": "1",
+    "purpose": "draft",
+    "accessStatus": "local",
+    "checkedAt": "2026-11-12T08:26:00.477988+00:00",
+    "license": null,
+    "termsUrl": null,
+    "licenseEvidence": null,
+    "commercialUse": "review_required",
+    "candidateExtraction": "granted",
+    "analysisPermission": "not_applicable",
+    "redistribution": "review_required",
+    "attribution": "本プロジェクトで独自執筆。意味・IPA・例文・和訳・用法説明は人手校閲待ち。",
+    "shareAlike": null,
+    "notes": "本会話で熟語本文・英語例文・和訳・用法を独自執筆。IPAはCMU辞書を使う語単位自動変換で校閲待ち。",
+    "publisher": "本プロジェクト",
+    "retrievedAt": null,
+    "availableDataTypes": [
+      "独自教材"
+    ]
   }
 ]

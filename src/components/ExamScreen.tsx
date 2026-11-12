@@ -15,18 +15,19 @@ export function ExamActions({ state, entries, spec, premium, onStart, update }: 
       <Action text="初回診断をスキップ" onPress={() => update(s => consumeDiagnostic(s, diagnostic))} />
       <Text style={styles.text}>戻る場合は診断の機会を維持します。</Text>
     </>}
-    <Text style={styles.heading}>{spec.type === 'level' ? 'LEVEL合格試験' : 'セクション合格試験'}</Text>
+    <Text style={styles.heading}>{spec.kind === 'word' ? '英単語' : '英熟語'} · {spec.type === 'level' ? 'LEVEL合格試験' : 'セクション合格試験'}</Text>
     <Text style={styles.text}>{spec.type === 'level' ? '同じ形式・教材種別の全セクション合格後に受験できます。' : '受験する形式で、このセクションを全項目習得すると解放されます。'}</Text>
     {(['choice','written'] as Mode[]).map(mode => { const target = { ...spec, mode }; const record = state.exams?.[examKey(target)]; return <View key={mode}>
       <Text style={styles.text}>{label(mode)}：{record?.passed ? '✓ 合格済み' : '未合格'}{record?.best !== undefined ? ` · 最高 ${record.best}点` : ''}</Text>
-      <Action text={`${label(mode)}${spec.type === 'level' ? 'LEVEL' : 'セクション'}試験を受験${mode === 'written' && !premium ? ' 🔒' : ''}`} disabled={!canTakeExam(state, entries, target) || (mode === 'written' && !premium)} onPress={() => onStart(target)} />
+      <Action text={`${spec.kind === 'word' ? '英単語' : '英熟語'} · ${label(mode)}${spec.type === 'level' ? 'LEVEL' : 'セクション'}試験を受験${mode === 'written' && !premium ? ' 🔒' : ''}`} disabled={!canTakeExam(state, entries, target) || (mode === 'written' && !premium)} onPress={() => onStart(target)} />
     </View>; })}
   </View>;
 }
 export function ExamScreen({ spec, entries, update, onExit, onQuestion }: { spec: ExamSpec; entries: Entry[]; update: React.Dispatch<React.SetStateAction<State>>; onExit: () => void; onQuestion: () => void }) {
   const [questions] = useState(() => examQuestions(entries, spec));
   const [started, setStarted] = useState(false); const [index, setIndex] = useState(0);
-  const [answers, setAnswers] = useState<ExamAnswer[]>([]); const [input, setInput] = useState('');
+  const [answers, setAnswers] = useState<ExamAnswer[]>([]); const [inputs, setInputs] = useState<string[]>([]);
+  const input = inputs.map(v => v.trim()).join(' ');
   const [remaining, setRemaining] = useState(spec.mode === 'choice' ? 10 : 30);
   const [expired, setExpired] = useState(false); const [done, setDone] = useState(false);
   const deadline = useRef(0), lockedIndex = useRef(-1);
@@ -51,7 +52,7 @@ export function ExamScreen({ spec, entries, update, onExit, onQuestion }: { spec
     lockedIndex.current = index;
     const correct = !timeout && !unknown && (spec.mode === 'choice' ? response === current.meaning : gradeExam(current, response));
     const next = [...answers, { entry: current, correct, response: timeout ? '時間切れ' : unknown ? 'わからない' : response }];
-    setAnswers(next); setInput('');
+    setAnswers(next); setInputs([]);
     if (next.length === questions.length) {
       update(s => finishExam(s, spec, questions, next)); setDone(true);
     } else setIndex(i => i + 1);
@@ -61,7 +62,7 @@ export function ExamScreen({ spec, entries, update, onExit, onQuestion }: { spec
   if (done) return <View style={styles.panel}><Text style={styles.heading}>試験結果：{score} / {questions.length} · {score >= passScore ? '合格' : '不合格'}</Text><Text style={styles.text}>今回の結果を確定しました。過去の合格記録は維持されます。</Text><Action text="学習メニューに戻る" onPress={onExit} />{answers.map((a,i) => <View key={a.entry.id} style={styles.result}><Text style={styles.heading}>{i+1}. {a.correct ? '✓' : '×'} {a.entry.english}</Text><Text style={styles.text}>回答：{a.response || '未入力'} / 正解：{a.entry.meaning}</Text><Text style={styles.text}>{a.entry.example}</Text><Text style={styles.text}>{a.entry.translation}</Text><Text style={styles.text}>{a.entry.explanation}</Text></View>)}</View>;
   return <View style={styles.panel}><Text style={styles.heading}>試験 {index+1} / {questions.length} · 残り {remaining}秒</Text>
     <Text style={styles.word}>{spec.mode === 'choice' ? current.english : current.meaning}</Text>
-    {expired ? <><Text style={styles.heading}>時間切れ</Text><Action text="時間切れ：次の問題へ" onPress={() => submit('',true)} /></> : spec.mode === 'choice' ? <>{options.map((option,i) => <Action key={`${index}:${i}`} text={`${i+1}. ${option}`} onPress={() => submit(option)} />)}<Action text="試験：わからない" onPress={() => submit('',false,true)} /></> : <><TextInput accessibilityLabel="試験の英語回答" autoCapitalize="none" autoCorrect={false} value={input} onChangeText={setInput} onSubmitEditing={() => submit(input)} style={styles.input} /><Action text="試験の回答を確定" onPress={() => submit(input)} /><Action text="試験：わからない" onPress={() => submit('',false,true)} /></>}
+    {expired ? <><Text style={styles.heading}>時間切れ</Text><Action text="時間切れ：次の問題へ" onPress={() => submit('',true)} /></> : spec.mode === 'choice' ? <>{options.map((option,i) => <Action key={`${index}:${i}`} text={`${i+1}. ${option}`} onPress={() => submit(option)} />)}<Action text="試験：わからない" onPress={() => submit('',false,true)} /></> : <><Text style={styles.text}>{spec.kind === 'idiom' ? `${current.english.split(' ').length}語 · 最初の頭文字：${current.english[0]}` : '英単語を入力してください'}</Text><View style={{flexDirection:'row',flexWrap:'wrap',gap:8}}>{Array.from({length: spec.kind === 'idiom' ? current.english.split(' ').length : 1},(_,i) => <TextInput key={`${index}:${i}`} accessibilityLabel={`試験の英語回答 ${i+1}`} autoCapitalize="none" autoCorrect={false} value={inputs[i] ?? ''} onChangeText={text => setInputs(values => {const copy=[...values];copy[i]=text;return copy;})} onSubmitEditing={() => submit(input)} style={[styles.input,{minWidth:100,flex:1}]} />)}</View><Action text="試験の回答を確定" onPress={() => submit(input)} /><Action text="試験：わからない" onPress={() => submit('',false,true)} /></>}
     <Text style={styles.text}>正誤・解説は全問終了後に表示します。</Text>
     <Action text="試験を中断して戻る（今回の変更は破棄）" onPress={onExit} />
   </View>;

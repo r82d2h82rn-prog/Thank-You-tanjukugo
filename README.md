@@ -1,3 +1,5 @@
+> 2026-11-12更新：単語3,900語とLEVEL1熟語300個・LEVEL2熟語500個を試用カタログへ実装。診断・セクション試験・LEVEL試験も接続済み。詳しい最新実数と検証結果は[今回の実装結果](docs/IDIOMS_L1_L2_COMPLETION_20261112.md)を参照。教材は校閲待ちです。以下の過去段階の説明より、この実装結果を優先してください。
+
 # Thank You単熟語長文3900+
 
 React Native + Expo + TypeScript の英語学習アプリ。完成版を段階的に開発中です。**全量教材・試験・長文・認証・課金が完成したアプリではありません。** 正式な現行仕様は [SPEC.md](SPEC.md)、教材の追加仕様は [docs/CONTENT_SPEC.md](docs/CONTENT_SPEC.md) です。

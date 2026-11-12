@@ -4,7 +4,7 @@ const key = 'thank-you.learning.v1';
 // Legacy sample-flow checks deliberately choose the sample catalog; new users now open the full catalog.
 test.beforeEach(async ({ page }, testInfo) => {
   if (testInfo.title.startsWith('corrupted') || testInfo.title.startsWith('level 4')) return;
-  await page.addInitScript(k => localStorage.setItem(k, JSON.stringify({ version:1, progress:{}, favorites:[], settings:{sound:true,speech:false}, permanentAwards:[], lastSection:{level:1,kind:'word',section:1,catalog:'sample'} })), key);
+  await page.addInitScript(k => localStorage.getItem(k) || localStorage.setItem(k, JSON.stringify({ version:1, progress:{}, favorites:[], settings:{sound:true,speech:false}, permanentAwards:[], lastSection:{level:1,kind:'word',section:1,catalog:'sample'} })), key);
 });
 test('browser study flow: independent mastery, sounds, storage, search, mobile', async ({ page }) => {
   const errors: string[] = []; page.on('pageerror', e => errors.push(e.message));
@@ -178,7 +178,7 @@ test('level 4 opens all ten sections and diagnostic cancellation preserves maste
   const errors: string[] = []; page.on('pageerror', e => errors.push(e.message));
   await page.goto('/');
   await expect(page.getByText('現在利用中：英単語3,900語', { exact: false })).toBeVisible();
-  await page.getByRole('button', { name: /LEVEL 4 大学受験上級/ }).click();
+  await page.getByRole('button', { name: /LEVEL 4 / }).click();
   for (let s=1;s<=10;s++) await expect(page.getByRole('button',{ name:`SECTION ${String(s).padStart(2,'0')} · 英単語`,exact:true })).toBeVisible();
   await page.getByRole('button', { name:'SECTION 10 · 英単語',exact:true }).click();
   await page.getByRole('button', { name:'初回診断を受験',exact:true }).click();

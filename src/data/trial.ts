@@ -1,3 +1,4 @@
+import authoredIdioms from '../../content/idioms/drafts.json';
 import drafts from '../../content/words/drafts.json';
 import { authoredAdditions as additions } from './authoredAdditions';
 import selection from '../../content/words/selection.json';
@@ -17,7 +18,8 @@ const lowerWords = (drafts as Entry[]).filter(e => e.level < 3);
 const reservedWords = (drafts as Entry[]).filter(e => e.level >= 3 && !selectedIds.has(e.id));
 if (selectedIds.size !== scopedWords.length || byId.size !== archivedWords.length || reservedWords.length !== selection.expectedReservedWords || lowerWords.length + scopedWords.length + reservedWords.length !== byId.size) throw new Error('教材の配置台帳に重複・欠落があります');
 export const trialWords: Entry[] = [...lowerWords, ...scopedWords];
-export const trialEntries = [...trialWords, ...samples.filter(entry => entry.kind === 'idiom')];
+export const trialEntries = [...trialWords, ...samples.filter(entry => entry.kind === 'idiom'), ...authoredIdioms as Entry[]];
 validateEntries(trialEntries);
 export const trialWordCount = trialWords.length;
-export const historicalEntries = new Map([...samples, ...archivedWords, ...trialWords].map(entry => [entry.id, entry]));
+export const trialIdiomCount = trialEntries.filter(e => e.kind === 'idiom').length;
+export const historicalEntries = new Map([...samples, ...archivedWords, ...trialWords, ...authoredIdioms as Entry[]].map(entry => [entry.id, entry]));

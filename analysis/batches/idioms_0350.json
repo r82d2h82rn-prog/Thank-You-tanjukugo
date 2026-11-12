@@ -1,0 +1,42 @@
+{
+  "updatedAt": "2026-11-12T08:29:35.981680+00:00",
+  "activeIdiomCounts": [
+    300,
+    100,
+    0,
+    0
+  ],
+  "newAuthoredIdioms": 350,
+  "protectedSampleIdioms": 50,
+  "targetCurrentScope": [
+    300,
+    500
+  ],
+  "remainingCurrentScope": [
+    0,
+    400
+  ],
+  "batches": [
+    {
+      "file": "l1_02_03.psv",
+      "count": 100,
+      "sha256": "577a0a543fcc6e61f75ff2485d3d8e77295a6f7b5f18632e8faf8be4ded9138d"
+    },
+    {
+      "file": "l1_04_05.psv",
+      "count": 100,
+      "sha256": "12b4393a58410b524149e8ad40f188685c814c121c84816644dd08875c4dccfc"
+    },
+    {
+      "file": "l1_06.psv",
+      "count": 50,
+      "sha256": "e957325d28bf32dd372f86d1fb60acaa88fce7ae8f8a2da4ed5e5e02a3ee5a6a"
+    },
+    {
+      "file": "l2_01_02.psv",
+      "count": 100,
+      "sha256": "6e11486d6b6192e22db0473fb30e26abe5e09321bd539c7ee50bcfafc1b1f769"
+    }
+  ],
+  "humanReviewed": false
+}
