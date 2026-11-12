@@ -11,7 +11,8 @@ def read_new(root=ROOT):
     words={normalized(e['english']) for e in original+samples if e['kind']=='word'}
     sources={s['id']:s for s in read_json(root/'content/sources.json')}
     seen={e['id'] for e in original+samples}; result=[]
-    for file in sorted((root/'content/authoring/reselection').glob('batch_*.tsv')):
+    for file in sorted(list((root/'content/authoring/reselection').glob('batch_*.tsv')) + list((root/'content/authoring/reselection').glob('advanced_*.tsv'))):
+        intended_level=4 if file.name.startswith('advanced_') else 3
         with file.open() as stream: rows=list(csv.DictReader(stream,delimiter='\t'))
         if len(rows)!=100: raise ValueError(f'{file.name}: 100語で保存してください')
         for row in rows:
@@ -19,7 +20,7 @@ def read_new(root=ROOT):
             if lemma in words:raise ValueError('既存語または新規バッチの重複: '+lemma)
             words.add(lemma)
             e={k:row[k] for k in FIELDS}
-            e.update(id='word-c-'+hashlib.sha256(lemma.encode()).hexdigest()[:12],kind='word',level=3,section=1,number=1,acceptedAnswers=[],content=dict(sourceIds=['original-draft-v4'],contentVersion=1,qualityStatus='review_required',autoChecked=True,humanReviewed=False,productionApproved=False,examFrequency=None,selectionReason='ユーザー改訂基準：2級中級〜準1級中級を目安とする大学受験重要語として独自選定。個別英検級・入試頻度は未検証。',sourceUsage=[dict(sourceId='original-draft-v4',fields=FIELDS+['proposedLevel'])]))
+            e.update(id='word-c-'+hashlib.sha256(lemma.encode()).hexdigest()[:12],kind='word',level=intended_level,section=1,number=1,acceptedAnswers=[],content=dict(sourceIds=['original-draft-v4'],contentVersion=1,qualityStatus='review_required',autoChecked=True,humanReviewed=False,productionApproved=False,examFrequency=None,selectionReason=('ユーザー改訂基準：2級中級〜準1級中級を目安とする大学受験重要語。' if intended_level==3 else 'ユーザー改訂基準：準1級中上級以上の難しい一般語・抽象語・学術専門語。')+'独自選定。個別英検級・入試頻度は未検証。',sourceUsage=[dict(sourceId='original-draft-v4',fields=FIELDS+['proposedLevel'])]))
             errors=validate_entry(e,sources,seen,require_approval=False)
             if errors:raise ValueError((lemma,errors))
             result.append(e)
@@ -38,7 +39,8 @@ def arrange(entries, level):
 
 def build(root=ROOT):
     original=read_json(root/'content/words/drafts.json');policy=read_json(root/'content/authoring/reselection/policy.json');new=read_new(root)
-    if len(new)!=500:raise ValueError(f'再選定の補完は500語必要: 現在{len(new)}')
+    new3=[e for e in new if e['level']==3];new4=[e for e in new if e['level']==4]
+    if len(new3)!=500 or len(new4)>900:raise ValueError(f'LEVEL3補完500語・LEVEL4追加900語以内が必要: {len(new3)}, {len(new4)}')
     promote=set(policy['promoteTo4'].split());keep4=set(policy['retainIn4'].split());reserve=set(policy['reserveBelow3'].split())
     assert len(promote)==80 and len(keep4)==20 and len(reserve)==100
     assert not promote&reserve
@@ -52,8 +54,8 @@ def build(root=ROOT):
         if level:groups[level].append(e)
         reason=policy['reserveReason'] if level is None else '準1級中上級以上の専門語・難しい一般語としてLEVEL4へ' if old==3 and level==4 else '受験重要語としてLEVEL3の範囲へ' if old==4 and level==3 else '現LEVELの対象範囲に残す編集判断'
         decisions.append(dict(id=e['id'],english=word,previousLevel=old,selectedLevel=level,reason=reason))
-    groups[3]+=new
-    assert [len(groups[l]) for l in range(1,5)]==[800,900,1200,100]
+    groups[3]+=new3;groups[4]+=new4
+    assert [len(groups[l]) for l in range(1,5)]==[800,900,1200,100+len(new4)]
     placements=[]
     for l in range(1,5):
         placements += [dict(id=e['id'],level=e['level'],section=e['section'],number=e['number']) for e in groups[l]] if l<3 else arrange(groups[l],l)
@@ -68,8 +70,8 @@ def build(root=ROOT):
         if errors:raise ValueError((e['english'],errors))
     write_json(root/'content/words/reselected_additions.json',new)
     write_json(root/'content/words/selection.json',dict(version=2,updatedAt=NOW(),policy='content/authoring/reselection/policy.json',placements=placements,reserveIds=[e['id'] for e in original if e['english'] in reserve]))
-    write_json(root/'analysis/selection_decisions.json',decisions+[dict(id=e['id'],english=e['english'],previousLevel=None,selectedLevel=3,reason='大学受験で重要な不足語の独自補完') for e in new])
-    summary=dict(updatedAt=NOW(),selectedWordCounts=[len(groups[l]) for l in range(1,5)],authoredUniqueWords=len(active),activeWords=len(placements),reservedWords=len(reserve),newWords=len(new),level3MovedTo4=len(promote),level4MovedTo3=80,level3Complete=True,editorialStatus='AI再選定・人手校閲待ち',productionApproved=False,legacyArchiveSha256=hashlib.sha256((root/'content/words/drafts.json').read_bytes()).hexdigest())
+    write_json(root/'analysis/selection_decisions.json',decisions+[dict(id=e['id'],english=e['english'],previousLevel=None,selectedLevel=e['level'],reason='改訂難易度基準による不足語の独自補完') for e in new])
+    summary=dict(updatedAt=NOW(),selectedWordCounts=[len(groups[l]) for l in range(1,5)],authoredUniqueWords=len(active),activeWords=len(placements),reservedWords=len(reserve),newWords=len(new),level3MovedTo4=len(promote),level4MovedTo3=80,level3Complete=True,level4Complete=len(new4)==900,editorialStatus='AI再選定・人手校閲待ち',productionApproved=False,legacyArchiveSha256=hashlib.sha256((root/'content/words/drafts.json').read_bytes()).hexdigest())
     write_json(root/'analysis/reselection_summary.json',summary)
     return summary
 
