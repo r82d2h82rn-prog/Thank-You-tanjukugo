@@ -26,11 +26,11 @@ export function recordReading(state:State,p:Passage,a:ReadingAttempt):State {
  return {...state,reading:{...r,records:{...r.records,[p.id]:{attempts:(old?.attempts??0)+1,first:old?.first??a,best:better?a:old!.best,latest:a}}}};
 }
 export function validateReadingState(r:ReadingState):void {
- if(!r||typeof r!=='object'||!r.unlockedByLevel||typeof r.unlockedByLevel!=='object'||!r.records||typeof r.records!=='object')throw new Error('長文の保存データが破損しています');
+ if(!r||typeof r!=='object'||Array.isArray(r)||!r.unlockedByLevel||typeof r.unlockedByLevel!=='object'||Array.isArray(r.unlockedByLevel)||!r.records||typeof r.records!=='object'||Array.isArray(r.records))throw new Error('長文の保存データが破損しています');
  for(const [level,ids] of Object.entries(r.unlockedByLevel))if(!['1','2','3','4'].includes(level)||!Array.isArray(ids)||ids.length>3||new Set(ids).size!==ids.length||ids.some(id=>typeof id!=='string'||!id))throw new Error('長文の解放記録が破損しています');
  for(const value of Object.values(r.records)) {
-  if(!value||!Number.isInteger(value.attempts)||value.attempts<1)throw new Error('長文の成績が破損しています');
-  for(const a of [value.first,value.best,value.latest])if(!a||!a.id||!Number.isInteger(a.correct)||!Number.isInteger(a.total)||a.total<1||a.correct<0||a.correct>a.total||!Number.isFinite(a.elapsedSeconds)||a.elapsedSeconds<0||typeof a.submittedAt!=='string'||!a.answers||typeof a.answers!=='object'||Object.values(a.answers).some(v=>typeof v!=='string'))throw new Error('長文の成績が破損しています');
+  if(!value||typeof value!=='object'||Array.isArray(value)||!Number.isInteger(value.attempts)||value.attempts<1)throw new Error('長文の成績が破損しています');
+  for(const a of [value.first,value.best,value.latest])if(!a||typeof a!=='object'||Array.isArray(a)||typeof a.id!=='string'||!a.id||!Number.isInteger(a.correct)||!Number.isInteger(a.total)||a.total<1||a.correct<0||a.correct>a.total||!Number.isFinite(a.elapsedSeconds)||a.elapsedSeconds<0||typeof a.submittedAt!=='string'||!a.answers||typeof a.answers!=='object'||Array.isArray(a.answers)||Object.values(a.answers).some(v=>typeof v!=='string'))throw new Error('長文の成績が破損しています');
  }
 }
 export const duration = (s:number) => `${Math.floor(s/60)}:${String(Math.floor(s%60)).padStart(2,'0')}`;

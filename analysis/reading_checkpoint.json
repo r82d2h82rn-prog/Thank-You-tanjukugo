@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T10:30:15.332663+00:00",
+  "updatedAt": "2026-11-12T10:39:48.431104+00:00",
   "level": 1,
-  "authoredPassages": 80,
+  "authoredPassages": 100,
   "countsByFormat": [
     10,
     10,
@@ -11,12 +11,12 @@
     10,
     10,
     10,
-    0,
-    0
+    10,
+    10
   ],
-  "totalQuestions": 240,
-  "totalWords": 13092,
-  "complete": false,
+  "totalQuestions": 300,
+  "totalWords": 16342,
+  "complete": true,
   "humanReviewed": false,
   "productionApproved": false,
   "batches": [
@@ -27,6 +27,8 @@
     "content/readings/l1_f05.json",
     "content/readings/l1_f06.json",
     "content/readings/l1_f07.json",
-    "content/readings/l1_f08.json"
+    "content/readings/l1_f08.json",
+    "content/readings/l1_f09.json",
+    "content/readings/l1_f10.json"
   ]
 }

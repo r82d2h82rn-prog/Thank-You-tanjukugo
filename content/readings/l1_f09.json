@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "reading-l1-f09-01",
+    "level": 1,
+    "format": 9,
+    "title": "昼休みの短い相談会",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "The school offered a weekly study help session after classes. Teachers waited in the library, but few students came. Some teachers thought students did not need help. A student representative suggested asking the people who had not attended. Their answers showed several reasons: buses left soon after school, club practice started early, and some students felt shy about entering a room alone. The school did not cancel the session. Instead, teachers tried a short lunchtime desk in the hall twice a week. Students could bring one question and leave when it was answered. Friends were welcome to come together. The after-school session continued for longer discussions. Over the next month, more students used both services. Some first asked a small question at lunch, then arranged a longer visit. The teachers learned that low attendance did not always mean a lack of need. Changing the time and first step helped students reach support that had already been available.",
+        "translation": "放課後の学習相談は参加が少なく、先生は需要がないと思った。代表が不参加者を調べるとバス、部活、一人で入る不安が理由だった。中止せず週二回昼休みの廊下に短い質問席を試し、友達と来てもよく、長い相談は放課後に残した。一か月で両方の利用が増え、昼の一問から長い相談へつながる例もあった。低参加は不要とは限らず、時間と入口を変えると既存の支援につながった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "本文の要約として最も適切なのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "需要がないと確定し、全相談をやめた。",
+            "explanation": "根拠は「Changing the time and first step helped students reach support」。需要がないと確定し、全相談をやめた。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "放課後相談を毎日必修にして参加を強制した。",
+            "explanation": "根拠は「Changing the time and first step helped students reach support」。放課後相談を毎日必修にして参加を強制した。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "友達との参加を禁じ、長い相談だけを残した。",
+            "explanation": "根拠は「Changing the time and first step helped students reach support」。友達との参加を禁じ、長い相談だけを残した。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "相談の不参加理由を調べ、時間と入口を工夫して利用を増やした。",
+            "explanation": "調査、昼の短い窓口、放課後との併用という全体をまとめる。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "調査、昼の短い窓口、放課後との併用という全体をまとめる。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Changing the time and first step helped students reach support"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "調査で分かった障害は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "教員が一人もいない",
+            "explanation": "根拠は「buses left soon after school, club practice started early」。教員が一人もいないという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "昼食の販売停止",
+            "explanation": "根拠は「buses left soon after school, club practice started early」。昼食の販売停止という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "バスや部活の時刻と心理的不安",
+            "explanation": "時間面と入りにくさがあった。"
+          },
+          {
+            "id": "d",
+            "text": "相談が全て有料",
+            "explanation": "根拠は「buses left soon after school, club practice started early」。相談が全て有料という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "時間面と入りにくさがあった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "buses left soon after school, club practice started early"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "長い相談の場はどうしたか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "一問だけに制限した",
+            "explanation": "根拠は「The after-school session continued for longer discussions.」。一問だけに制限したという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "放課後も続けた",
+            "explanation": "二つの窓口を併用した。"
+          },
+          {
+            "id": "c",
+            "text": "完全に廃止した",
+            "explanation": "根拠は「The after-school session continued for longer discussions.」。完全に廃止したという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "給食室へ売った",
+            "explanation": "根拠は「The after-school session continued for longer discussions.」。給食室へ売ったという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "二つの窓口を併用した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "The after-school session continued for longer discussions."
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "The school did not cancel the session.",
+        "start": 395,
+        "end": 433,
+        "translation": "学校は相談会を中止しなかった。",
+        "explanation": "cancelの否定過去。didが過去を担いcancelは原形。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The school",
+            "start": 395,
+            "end": 405
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not cancel",
+            "start": 406,
+            "end": 420
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 157,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "attendance",
+        "meaning": "出席・参加"
+      },
+      {
+        "english": "representative",
+        "meaning": "代表"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f09-02",
+    "level": 1,
+    "format": 9,
+    "title": "誰も読まない説明書",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A technology club built a simple game for younger students. The game worked well, but its instructions filled three pages. At a trial event, children began pressing buttons before reading and quickly became confused. The creators first blamed the players for being impatient. Their adviser asked them to watch quietly and note where each child stopped. Most children understood the goal but did not know which button to use first. The club made a short practice round with one action at a time. A picture showed the next button, and the game waited until the player tried it. The full instructions stayed available for anyone who wanted details. At the second trial, children needed less help and spent more time playing. The club learned that explaining everything in advance was not always the clearest way to teach. Giving useful information when a person needed it could make a complicated system feel easier without removing its features.",
+        "translation": "技術部のゲームは動いたが説明書が三ページあり、年少の試遊者は読まず押して混乱した。最初は性急な子を責めたが、顧問の提案で観察すると目的は分かり最初のボタンが不明だった。一動作ずつ練習し、次のボタンを絵で示して操作を待つ導入を作り、詳細説明も残した。次は補助が減って遊ぶ時間が増えた。全てを事前説明するより必要な時に情報を与えると、機能を削らず複雑さを扱いやすくできると学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "本文の要約として最も適切なのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "全機能を削り何も押せないゲームにした。",
+            "explanation": "根拠は「one action at a time」。全機能を削り何も押せないゲームにした。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "最初から全員が説明書を読めたので変更しなかった。",
+            "explanation": "根拠は「one action at a time」。最初から全員が説明書を読めたので変更しなかった。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "操作のつまずきを観察し、段階的な練習でゲームを分かりやすくした。",
+            "explanation": "観察による原因発見と段階的な導入が中心。"
+          },
+          {
+            "id": "d",
+            "text": "読まない子を除外し説明書を長くした。",
+            "explanation": "根拠は「one action at a time」。読まない子を除外し説明書を長くした。という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "観察による原因発見と段階的な導入が中心。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "one action at a time"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "多くの子が不明だったことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "部員全員の名",
+            "explanation": "根拠は「did not know which button to use first」。部員全員の名という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "最初に使うボタン",
+            "explanation": "目的より最初の操作が障害。"
+          },
+          {
+            "id": "c",
+            "text": "ゲームの存在自体",
+            "explanation": "根拠は「did not know which button to use first」。ゲームの存在自体という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "学校の場所",
+            "explanation": "根拠は「did not know which button to use first」。学校の場所という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "目的より最初の操作が障害。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "did not know which button to use first"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "詳細な説明はどうしたか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "希望者が読めるよう残した",
+            "explanation": "簡易導入と詳細を両立した。"
+          },
+          {
+            "id": "b",
+            "text": "全て隠した",
+            "explanation": "根拠は「The full instructions stayed available」。全て隠したという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "試遊前の暗記を必須にした",
+            "explanation": "根拠は「The full instructions stayed available」。試遊前の暗記を必須にしたという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "紙を四十枚に増やした",
+            "explanation": "根拠は「The full instructions stayed available」。紙を四十枚に増やしたという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "簡易導入と詳細を両立した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "The full instructions stayed available"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Their adviser asked them to watch quietly and note where each child stopped.",
+        "start": 276,
+        "end": 352,
+        "translation": "顧問は静かに見て各児童の止まる場所を記すよう求めた。",
+        "explanation": "ask 人 toの後にwatchとnoteが並ぶ。where節はnoteの内容。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Their adviser",
+            "start": 276,
+            "end": 289
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "asked",
+            "start": 290,
+            "end": 295
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 156,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "impatient",
+        "meaning": "待てない・性急な"
+      },
+      {
+        "english": "in advance",
+        "meaning": "事前に"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f09-03",
+    "level": 1,
+    "format": 9,
+    "title": "毎日の練習と週末の試合",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A basketball team practiced shooting from the same spot every afternoon. During practice, many players scored easily. In weekend games, however, they often missed when they had to move or receive a pass first. The coach asked them to compare the two situations. In practice, they already knew where to stand and when to shoot. In games, they had to make decisions while other players were moving. The coach kept a short period for basic shooting but added small games with changing positions. Players had to choose whether to pass, move, or shoot. At first, the new practice looked less successful because more balls missed the basket. After several weeks, players began making better choices in matches. They still needed basic skills, but they also needed practice using them in different situations. The team stopped judging a training session only by the number of easy baskets and started discussing which decisions had helped during real play.",
+        "translation": "同じ位置のシュート練習では入るが試合で移動やパス後に外すチームは、練習は場所と時が既知、試合は動く人の中で判断が必要と比べた。コーチは基礎を短く残し、場所を変える小ゲームでパス、移動、シュートを選ばせた。最初は失敗が増えても数週で試合の判断が改善した。基礎と応用の両方が必要で、練習を簡単な得点数だけで評価せず、本番で役立った判断を話すようになった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な要約は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "失敗を避けるため同じ位置だけで練習を続けた。",
+            "explanation": "根拠は「they also needed practice using them in different situations」。失敗を避けるため同じ位置だけで練習を続けた。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "基礎練習に状況判断の練習も加え、試合での選択を改善した。",
+            "explanation": "基礎を残し応用判断を加えた点を含む。"
+          },
+          {
+            "id": "c",
+            "text": "基礎が不要と分かり全シュート練習を廃止した。",
+            "explanation": "根拠は「they also needed practice using them in different situations」。基礎が不要と分かり全シュート練習を廃止した。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "練習の得点だけで試合に勝ったと判断した。",
+            "explanation": "根拠は「they also needed practice using them in different situations」。練習の得点だけで試合に勝ったと判断した。という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "基礎を残し応用判断を加えた点を含む。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "they also needed practice using them in different situations"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "新練習の初期に起きたことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "外す球が増えた",
+            "explanation": "見かけの成功率は一時下がった。"
+          },
+          {
+            "id": "b",
+            "text": "全試合を中止した",
+            "explanation": "根拠は「more balls missed the basket」。全試合を中止したという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "全員移動しなくなった",
+            "explanation": "根拠は「more balls missed the basket」。全員移動しなくなったという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "必ず全投球が入った",
+            "explanation": "根拠は「more balls missed the basket」。必ず全投球が入ったという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "見かけの成功率は一時下がった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "more balls missed the basket"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "練習と試合の違いは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "試合にボールがない",
+            "explanation": "根拠は「make decisions while other players were moving」。試合にボールがないという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "練習は常に夜だけ",
+            "explanation": "根拠は「make decisions while other players were moving」。練習は常に夜だけという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "試合は全員同じ位置で止まる",
+            "explanation": "根拠は「make decisions while other players were moving」。試合は全員同じ位置で止まるという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "試合では動く人の中で判断する",
+            "explanation": "状況変化への判断が異なる。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "状況変化への判断が異なる。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "make decisions while other players were moving"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "They still needed basic skills, but they also needed practice using them in different situations.",
+        "start": 705,
+        "end": 802,
+        "translation": "基礎技術は必要だったが異なる状況で使う練習も必要だった。",
+        "explanation": "butとalsoにより基礎と応用の両立を表す。themはbasic skills。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 705,
+            "end": 709
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "also needed",
+            "start": 746,
+            "end": 757
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 156,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "judge",
+        "meaning": "評価する"
+      },
+      {
+        "english": "decision",
+        "meaning": "判断"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f09-04",
+    "level": 1,
+    "format": 9,
+    "title": "野菜の形と売り場",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "At a weekend market, a farmer sold carrots in two boxes. One held straight carrots of similar size. The other held bent or unusually shaped ones at a lower price. Many customers ignored the second box, although the carrots had been grown and stored in the same way. A student helping at the stall asked the farmer if they could show how the different shapes looked after cutting. With permission, they prepared a picture board showing sliced carrots from both boxes. They also explained which sizes were convenient for soup and which could be cut into sticks. Customers began asking practical questions instead of simply choosing by appearance. Both boxes sold well that day. The farmer did not claim that every unusual vegetable was always suitable for every use. He wanted shoppers to understand what they were buying. The student learned that giving people useful information could change a choice more effectively than merely telling them that their first impression was wrong.",
+        "translation": "週末市の農家は同じ育成保管のニンジンを、形の揃う箱と安い曲がった箱で売ったが後者は無視されがちだった。手伝う生徒が許可を得て両方を切った写真を示し、スープやスティックに便利な大きさも説明した。客は外観だけでなく実用的な質問をし、両箱よく売れた。全ての変形野菜が全用途に最適と主張せず、買う物の理解を助けた。有用な情報は第一印象を間違いと責めるだけより選択を変えられると学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な要約は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "見た目で敬遠される野菜に調理の情報を添え、客が用途から選べるようにした。",
+            "explanation": "外観から実用情報へ判断を広げた。"
+          },
+          {
+            "id": "b",
+            "text": "曲がった野菜は全て食べられないと説明して捨てた。",
+            "explanation": "根拠は「Customers began asking practical questions」。曲がった野菜は全て食べられないと説明して捨てた。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "客の見方を責めるだけで販売をやめた。",
+            "explanation": "根拠は「Customers began asking practical questions」。客の見方を責めるだけで販売をやめた。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "形の違いがなくなったので二箱を分けなくなった。",
+            "explanation": "根拠は「Customers began asking practical questions」。形の違いがなくなったので二箱を分けなくなった。という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "外観から実用情報へ判断を広げた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Customers began asking practical questions"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "二箱の栽培保管方法は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "全く説明されない別手法",
+            "explanation": "根拠は「grown and stored in the same way」。全く説明されない別手法という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "一箱は必ず冷凍",
+            "explanation": "根拠は「grown and stored in the same way」。一箱は必ず冷凍という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "一箱は全て輸入",
+            "explanation": "根拠は「grown and stored in the same way」。一箱は全て輸入という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "同じだった",
+            "explanation": "外形以外は同様と述べる。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "外形以外は同様と述べる。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "grown and stored in the same way"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "表示した写真は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "農家の家族だけ",
+            "explanation": "根拠は「sliced carrots from both boxes」。農家の家族だけという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "値段を消した札だけ",
+            "explanation": "根拠は「sliced carrots from both boxes」。値段を消した札だけという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "両方のニンジンを切ったもの",
+            "explanation": "切った後の使い方を見せた。"
+          },
+          {
+            "id": "d",
+            "text": "客の顔だけ",
+            "explanation": "根拠は「sliced carrots from both boxes」。客の顔だけという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "切った後の使い方を見せた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "sliced carrots from both boxes"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Both boxes sold well that day.",
+        "start": 645,
+        "end": 675,
+        "translation": "その日は両方の箱の品がよく売れた。",
+        "explanation": "sellはここでは売れるという自動詞用法。wellは売れ行きの良さ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Both boxes",
+            "start": 645,
+            "end": 655
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "sold",
+            "start": 656,
+            "end": 660
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 162,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "appearance",
+        "meaning": "外見"
+      },
+      {
+        "english": "suitable",
+        "meaning": "適した"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f09-05",
+    "level": 1,
+    "format": 9,
+    "title": "町の名前を残す看板",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A new shopping building replaced several old shops near the station. The developer planned to give it a fashionable English name. Some residents worried that the old street name would disappear from daily conversation. Instead of demanding that the new building copy the old shops, they collected stories about the street and asked to discuss its name. A bakery had once stood there, and neighbors had used its clock as a meeting point. The developer agreed to include the old street name on the entrance sign and place a small display about the bakery inside. The building still had modern shops and its new name. At the opening, older residents shared memories with young visitors who had never seen the bakery. The project did not stop the area from changing. It gave part of its history a visible place within the change. Residents learned that preserving a connection to the past could take forms other than keeping every building exactly as it had been.",
+        "translation": "駅前の旧店舗群が新商業施設に替わり、しゃれた英名で古い通り名が消えると住民は心配した。昔の店の再現を要求せず話を集め名前を協議した。かつてパン屋の時計が待ち合わせに使われ、開発者は入口に旧通り名、内部にパン屋の小展示を加えた。現代の店と新名は残った。開業時、年配者が知らない若者に思い出を話した。変化を止めず歴史の一部を中へ見える形で置き、全建物を昔通り残す以外にも過去とつながる方法があると学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な要約は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "住民が工事を止め全ての旧店を完全再建した。",
+            "explanation": "根拠は「a visible place within the change」。住民が工事を止め全ての旧店を完全再建した。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "新名をなくし古い時計だけを販売した。",
+            "explanation": "根拠は「a visible place within the change」。新名をなくし古い時計だけを販売した。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "若者を施設から排除して昔話を隠した。",
+            "explanation": "根拠は「a visible place within the change」。若者を施設から排除して昔話を隠した。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "施設の新しさを保ちながら通り名と展示で昔の記憶も残した。",
+            "explanation": "変化と歴史の継承を両立した話。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "変化と歴史の継承を両立した話。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "a visible place within the change"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "昔の待ち合わせの目印は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "バスの車輪",
+            "explanation": "根拠は「used its clock as a meeting point」。バスの車輪という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "映画の切符",
+            "explanation": "根拠は「used its clock as a meeting point」。映画の切符という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "パン屋の時計",
+            "explanation": "住民の記憶の具体例。"
+          },
+          {
+            "id": "d",
+            "text": "新施設の屋上だけ",
+            "explanation": "根拠は「used its clock as a meeting point」。新施設の屋上だけという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "住民の記憶の具体例。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "used its clock as a meeting point"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "実現した提案は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "新名の禁止のみ",
+            "explanation": "根拠は「include the old street name on the entrance sign」。新名の禁止のみという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "入口の旧通り名と内部展示",
+            "explanation": "開発者と合意した内容。"
+          },
+          {
+            "id": "c",
+            "text": "全店の強制閉店",
+            "explanation": "根拠は「include the old street name on the entrance sign」。全店の強制閉店という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "駅の移転",
+            "explanation": "根拠は「include the old street name on the entrance sign」。駅の移転という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "開発者と合意した内容。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "include the old street name on the entrance sign"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "The building still had modern shops and its new name.",
+        "start": 561,
+        "end": 614,
+        "translation": "建物には現代的な店舗と新しい名前も残っていた。",
+        "explanation": "stillはなお〜のまま。andはhadの二つの目的語を結ぶ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The building",
+            "start": 561,
+            "end": 573
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had",
+            "start": 580,
+            "end": 583
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 164,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "preserve",
+        "meaning": "保つ"
+      },
+      {
+        "english": "resident",
+        "meaning": "住民"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f09-06",
+    "level": 1,
+    "format": 9,
+    "title": "二通の面接の手紙",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "As part of a career project, students interviewed local workers. The teacher asked them to send thank-you letters afterward. Most letters said that the visit had been interesting. Nina wrote something more specific to a carpenter she had interviewed. She described how his explanation of measuring twice before cutting had changed the way she checked her homework. The carpenter replied that he was pleased his work had helped her think about a different task. He also answered a question she had forgotten to ask during the visit. Nina showed the reply to her class. The teacher explained that a thank-you letter could be more than a polite ending. By naming what had been learned, it could help the writer remember and give the receiver a clearer understanding of the visit's value. For their next project, students kept short notes about ideas they wanted to mention later. Their letters became less general, and several workers continued the conversation with further advice.",
+        "translation": "職業調査後の礼状で多くは面白かったとだけ書いたが、ニーナは大工の二度測ってから切る話で宿題の確認が変わったと具体的に書いた。大工は別の作業に役立ち喜び、聞き忘れた質問にも答えた。先生は礼状は丁寧な終わり以上に、学びを具体化して記憶し相手にも訪問価値を伝えられると話した。次は後で書きたい案をメモし、礼状は具体的になり何人もの働き手から追加助言が届いた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な要約は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "大工の作業と学習は一切結びつかなかった。",
+            "explanation": "根拠は「several workers continued the conversation with further advice」。大工の作業と学習は一切結びつかなかった。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "追加質問は禁止され礼状も廃止された。",
+            "explanation": "根拠は「several workers continued the conversation with further advice」。追加質問は禁止され礼状も廃止された。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "学んだ具体例を書く礼状が、振り返りと相手との継続交流を助けた。",
+            "explanation": "記憶・価値の伝達・継続対話をまとめる。"
+          },
+          {
+            "id": "d",
+            "text": "礼状は決まり文句だけに統一すべきだと学んだ。",
+            "explanation": "根拠は「several workers continued the conversation with further advice」。礼状は決まり文句だけに統一すべきだと学んだ。という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "記憶・価値の伝達・継続対話をまとめる。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "several workers continued the conversation with further advice"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "大工の言葉をどう使ったか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "礼状の字数だけ数えた",
+            "explanation": "根拠は「changed the way she checked her homework」。礼状の字数だけ数えたという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "宿題を確認する姿勢に生かした",
+            "explanation": "仕事の教訓を別の課題へ応用した。"
+          },
+          {
+            "id": "c",
+            "text": "学校の机を全部切った",
+            "explanation": "根拠は「changed the way she checked her homework」。学校の机を全部切ったという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "計測を一切やめた",
+            "explanation": "根拠は「changed the way she checked her homework」。計測を一切やめたという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "仕事の教訓を別の課題へ応用した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "changed the way she checked her homework"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "次の調査で始めた工夫は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "後で伝えたい学びをメモ",
+            "explanation": "具体的な礼状の準備をした。"
+          },
+          {
+            "id": "b",
+            "text": "礼状を全て同文コピー",
+            "explanation": "根拠は「kept short notes about ideas they wanted to mention later」。礼状を全て同文コピーという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "面接を完全中止",
+            "explanation": "根拠は「kept short notes about ideas they wanted to mention later」。面接を完全中止という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "返事を全て捨てる",
+            "explanation": "根拠は「kept short notes about ideas they wanted to mention later」。返事を全て捨てるという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "具体的な礼状の準備をした。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "kept short notes about ideas they wanted to mention later"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Their letters became less general, and several workers continued the conversation with further advice.",
+        "start": 877,
+        "end": 979,
+        "translation": "礼状は具体的になり、何人もの働き手が追加助言で会話を続けた。",
+        "explanation": "less generalは一般的でなくなる、つまり具体的になる。with以下は続け方を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Their letters",
+            "start": 877,
+            "end": 890
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "became",
+            "start": 891,
+            "end": 897
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 160,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "specific",
+        "meaning": "具体的な"
+      },
+      {
+        "english": "carpenter",
+        "meaning": "大工"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f09-07",
+    "level": 1,
+    "format": 9,
+    "title": "一日の数字だけでは",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "The school shop wanted to know whether students liked its new sandwiches. On the first day, every sandwich sold before noon. The manager was ready to order twice as many for the next day. A student helper asked whether the first day was typical. There had been a sports event, and many visitors had bought lunch at school. The helper suggested recording sales for two ordinary weeks before changing the order greatly. They also noted the weather and whether other food was available. The numbers changed from day to day, but a clearer pattern appeared over time. The manager increased the order a little and kept checking unsold food. Fewer sandwiches were wasted than would have been with the original large increase. The helper did not argue that the first day's sales were useless. She showed that one unusual result needed context before it became the basis for a regular decision. The manager kept the record sheet for later new products.",
+        "translation": "売店の新サンドイッチは初日正午前に完売し店長は倍量発注しようとした。生徒はスポーツ行事の来客が多い特別な日と指摘し、普通の二週間の売上、天候、他食品の有無を記録した。日々変動しても傾向が分かり、少し増やして売れ残りも確認した。当初の大幅増より廃棄を抑えた。初日の数値を無価値とはせず、日常の判断の根拠にする前に状況を見るべきと示し、店長は新商品用に記録表を残した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な要約は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "売れたためサンドイッチの販売を永久にやめた。",
+            "explanation": "根拠は「one unusual result needed context」。売れたためサンドイッチの販売を永久にやめた。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "特別な一日の完売だけに頼らず日常の記録を集め、発注を調整した。",
+            "explanation": "文脈と複数日の観察で判断を改善した。"
+          },
+          {
+            "id": "c",
+            "text": "初日の数字は無意味なので全記録を捨てた。",
+            "explanation": "根拠は「one unusual result needed context」。初日の数字は無意味なので全記録を捨てた。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "来客の多い日を毎日の需要と決め倍量を固定した。",
+            "explanation": "根拠は「one unusual result needed context」。来客の多い日を毎日の需要と決め倍量を固定した。という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "文脈と複数日の観察で判断を改善した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "one unusual result needed context"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "初日が特殊だった理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "スポーツ行事の来客がいた",
+            "explanation": "行事で通常より購入者が増えた。"
+          },
+          {
+            "id": "b",
+            "text": "売店が閉まっていた",
+            "explanation": "根拠は「There had been a sports event」。売店が閉まっていたという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "雨で全生徒欠席した",
+            "explanation": "根拠は「There had been a sports event」。雨で全生徒欠席したという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "他校へ全部輸出した",
+            "explanation": "根拠は「There had been a sports event」。他校へ全部輸出したという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "行事で通常より購入者が増えた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "There had been a sports event"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "最終的な発注の変更は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "すぐ十倍に固定",
+            "explanation": "根拠は「increased the order a little and kept checking unsold food」。すぐ十倍に固定という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "必ずゼロにした",
+            "explanation": "根拠は「increased the order a little and kept checking unsold food」。必ずゼロにしたという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "確認せず倍増を続けた",
+            "explanation": "根拠は「increased the order a little and kept checking unsold food」。確認せず倍増を続けたという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "少し増やして残りも確認",
+            "explanation": "継続確認しながら小幅調整した。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "継続確認しながら小幅調整した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "increased the order a little and kept checking unsold food"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "The manager kept the record sheet for later new products.",
+        "start": 886,
+        "end": 943,
+        "translation": "店長は今後の新商品用にも記録表を保存した。",
+        "explanation": "forは用途を表す。keptはkeepの過去形。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The manager",
+            "start": 886,
+            "end": 897
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "kept",
+            "start": 898,
+            "end": 902
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 161,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "typical",
+        "meaning": "通常の・典型的な"
+      },
+      {
+        "english": "context",
+        "meaning": "状況・文脈"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f09-08",
+    "level": 1,
+    "format": 9,
+    "title": "二つの言葉で道を案内する",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A town welcomed visitors from an overseas sister city. Students volunteered to guide them around the main square. They prepared long English explanations about each building and practiced saying them quickly. During a rehearsal, a visiting teacher asked where she could find drinking water. The students knew the history of the fountain but had not learned the simple words needed to explain the nearest water station. Their teacher asked them to think about what visitors might need during an actual walk. They added directions, opening times, and ways to ask whether someone wanted a rest. They also practiced using a map and pointing clearly when a word was forgotten. On the real visit, the historical stories were still useful, but the short practical exchanges helped everyone move comfortably. The students learned that preparing for communication meant thinking about another person's situation, not only memorizing impressive information. Their guide notes now began with everyday needs before moving on to detailed stories.",
+        "translation": "姉妹都市の来客案内で生徒は広場の建物の長い英語説明を速く暗唱した。練習で水の場所を聞かれ、噴水の歴史は知っても給水所への簡単な案内語を用意していなかった。実際の必要を考え、道順、開館時間、休憩希望の聞き方を追加し、語を忘れた時は地図と指さしも練習した。本番は歴史も有用だが短い実用会話が快適な移動を助けた。立派な情報暗記だけでなく相手の状況を考えるのが意思疎通の準備で、案内メモも日常の必要から始めるようにした。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な要約は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "歴史の暗唱に実用的な案内も加え、訪問者の必要に応える準備をした。",
+            "explanation": "相手の必要を軸に準備を広げた。"
+          },
+          {
+            "id": "b",
+            "text": "歴史は一切不要として全説明を捨てた。",
+            "explanation": "根拠は「thinking about another person's situation」。歴史は一切不要として全説明を捨てた。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "水の質問を避けるため訪問を取り消した。",
+            "explanation": "根拠は「thinking about another person's situation」。水の質問を避けるため訪問を取り消した。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "英語を速く話すだけで全問題が解決した。",
+            "explanation": "根拠は「thinking about another person's situation」。英語を速く話すだけで全問題が解決した。という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "相手の必要を軸に準備を広げた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "thinking about another person's situation"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "練習で答えに困った質問は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "噴水の歴史",
+            "explanation": "根拠は「where she could find drinking water」。噴水の歴史という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "建物の名前全て",
+            "explanation": "根拠は「where she could find drinking water」。建物の名前全てという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "姉妹都市の人口",
+            "explanation": "根拠は「where she could find drinking water」。姉妹都市の人口という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "飲み水の場所",
+            "explanation": "実用的な案内が足りなかった。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "実用的な案内が足りなかった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "where she could find drinking water"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "言葉を忘れた時の工夫は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "速さだけを上げる",
+            "explanation": "根拠は「using a map and pointing clearly」。速さだけを上げるという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "必ず会話を中止する",
+            "explanation": "根拠は「using a map and pointing clearly」。必ず会話を中止するという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "地図と明確な指さし",
+            "explanation": "言語以外の伝達も用いた。"
+          },
+          {
+            "id": "d",
+            "text": "何も示さず去る",
+            "explanation": "根拠は「using a map and pointing clearly」。何も示さず去るという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "言語以外の伝達も用いた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "using a map and pointing clearly"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "They also practiced using a map and pointing clearly when a word was forgotten.",
+        "start": 592,
+        "end": 671,
+        "translation": "語を忘れた時に地図や指さしを使う練習もした。",
+        "explanation": "practiceの後はusing、pointingという動名詞。was forgottenは受動態。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 592,
+            "end": 596
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "practiced",
+            "start": 602,
+            "end": 611
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 160,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "practical",
+        "meaning": "実用的な"
+      },
+      {
+        "english": "memorize",
+        "meaning": "暗記する"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f09-09",
+    "level": 1,
+    "format": 9,
+    "title": "学校新聞の訂正欄",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "The school newspaper reported that the art club would hold an exhibition on Friday. After copies had been delivered, an editor discovered that the correct day was Thursday. Some members wanted to remove the online article quietly and replace it with a new one. They worried that admitting the mistake would make readers trust the newspaper less. The editor argued that readers who had already seen Friday might never notice a silent change. The team posted a clear correction at the top of the website and placed notices beside printed copies. The correction named the mistake, gave the right date, and apologized for the confusion. Several students thanked them because they had planned to visit on Friday. At the next meeting, the team added a date-checking step before printing. They could not promise never to make a mistake, but they could make errors easier to find and fix. The experience helped them understand that trust depended partly on how they responded when something went wrong.",
+        "translation": "新聞が美術展を金曜と誤報し正しくは木曜だった。信用低下を恐れオンラインだけ黙って差し替える案もあったが、既読者は変更に気づかないと編集者が指摘した。サイト上部と紙面横に誤り、正しい日付、謝意を示す訂正を出し、金曜予定の生徒から礼を言われた。次から印刷前の日付確認を加え、無誤謬は約束できなくても誤りを見つけ直しやすくした。信用は間違えた後の対応にも依存すると学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な要約は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "誤りを隠し金曜が正しいと主張し続けた。",
+            "explanation": "根拠は「trust depended partly on how they responded」。誤りを隠し金曜が正しいと主張し続けた。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "訂正すると全員が信用しなくなると確定した。",
+            "explanation": "根拠は「trust depended partly on how they responded」。訂正すると全員が信用しなくなると確定した。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "展示自体を金曜へ強制的に変更した。",
+            "explanation": "根拠は「trust depended partly on how they responded」。展示自体を金曜へ強制的に変更した。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "誤報を明示して訂正し、再確認の手順を加えることで読者への責任を果たした。",
+            "explanation": "訂正と予防の両方を行った。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "訂正と予防の両方を行った。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "trust depended partly on how they responded"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "正しい開催日は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "日曜",
+            "explanation": "根拠は「the correct day was Thursday」。日曜という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "月曜",
+            "explanation": "根拠は「the correct day was Thursday」。月曜という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "木曜",
+            "explanation": "誤報のFridayと対比される。"
+          },
+          {
+            "id": "d",
+            "text": "金曜",
+            "explanation": "根拠は「the correct day was Thursday」。金曜という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "誤報のFridayと対比される。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "the correct day was Thursday"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "黙って変更する案の問題は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "展覧会が存在しない",
+            "explanation": "根拠は「might never notice a silent change」。展覧会が存在しないという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "既読者が気づかない可能性",
+            "explanation": "誤情報を見た人への通知が必要。"
+          },
+          {
+            "id": "c",
+            "text": "新しい記事を誰も書けない",
+            "explanation": "根拠は「might never notice a silent change」。新しい記事を誰も書けないという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "印刷紙が全て消える",
+            "explanation": "根拠は「might never notice a silent change」。印刷紙が全て消えるという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "誤情報を見た人への通知が必要。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "might never notice a silent change"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "The experience helped them understand that trust depended partly on how they responded when something went wrong.",
+        "start": 881,
+        "end": 994,
+        "translation": "その体験は失敗時の対応も信用に関わると理解する助けになった。",
+        "explanation": "help 人 understandの形。how節は対応の仕方を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The experience",
+            "start": 881,
+            "end": 895
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "helped",
+            "start": 896,
+            "end": 902
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 165,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "correction",
+        "meaning": "訂正"
+      },
+      {
+        "english": "trust",
+        "meaning": "信用"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f09-10",
+    "level": 1,
+    "format": 9,
+    "title": "自分たちで選ぶ遠足",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A class had enough money for one day trip, and students suggested three places: a science museum, a farm, and a seaside park. At first, they planned to vote immediately. Their teacher asked them to check travel time, cost, and what they could do if it rained. Each group investigated one place and presented the same kinds of information. The seaside park was popular, but the bus journey would leave very little time there. The farm offered interesting work, though its indoor space was small. The museum had a longer indoor program and a shorter train journey. After discussing these points, the class chose the museum. Some students still preferred the sea, but they understood why others had changed their minds. The teacher did not say that there was one perfect destination for every class. The important result was that students had compared realistic choices using shared criteria. They saved the information so another class could use it when planning a different trip.",
+        "translation": "一日遠足の候補は科学館、農場、海辺公園だった。すぐ投票する前に先生が移動時間、費用、雨天活動を調べさせ、各班同じ項目で発表した。公園は人気でもバスで滞在が短く、農場は面白いが屋内が狭く、科学館は電車が短く屋内体験が充実していた。議論して科学館を選び、海希望の人も他の判断を理解した。全クラスに唯一の完璧解があるのでなく、共通基準で現実的な選択肢を比較したことが大切で、他のクラスへ情報を残した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な要約は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "科学館は誰にとっても唯一の正解と先生が断言した。",
+            "explanation": "根拠は「using shared criteria」。科学館は誰にとっても唯一の正解と先生が断言した。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "雨が降ると分かったので全遠足を取りやめた。",
+            "explanation": "根拠は「using shared criteria」。雨が降ると分かったので全遠足を取りやめた。という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "候補を同じ基準で調査比較し、理由を共有して行き先を選んだ。",
+            "explanation": "調査項目の共通化と根拠ある選択が中心。"
+          },
+          {
+            "id": "d",
+            "text": "人気だけで直ちに海へ決め調査をしなかった。",
+            "explanation": "根拠は「using shared criteria」。人気だけで直ちに海へ決め調査をしなかった。という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "調査項目の共通化と根拠ある選択が中心。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "using shared criteria"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "海辺公園の問題は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "屋内番組が長すぎる",
+            "explanation": "根拠は「very little time there」。屋内番組が長すぎるという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "バス移動で現地時間が短い",
+            "explanation": "移動時間による制約。"
+          },
+          {
+            "id": "c",
+            "text": "入場が全員無料で困る",
+            "explanation": "根拠は「very little time there」。入場が全員無料で困るという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "博物館より駅に近い",
+            "explanation": "根拠は「very little time there」。博物館より駅に近いという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "移動時間による制約。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "very little time there"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "最後に資料を残した目的は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "別のクラスも計画に使える",
+            "explanation": "判断材料として再利用できるようにした。"
+          },
+          {
+            "id": "b",
+            "text": "全てのクラスに同じ行き先を命令",
+            "explanation": "根拠は「another class could use it」。全てのクラスに同じ行き先を命令という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "投票結果を隠す",
+            "explanation": "根拠は「another class could use it」。投票結果を隠すという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "先生の旅費を増やす",
+            "explanation": "根拠は「another class could use it」。先生の旅費を増やすという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "判断材料として再利用できるようにした。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "another class could use it"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Each group investigated one place and presented the same kinds of information.",
+        "start": 260,
+        "end": 338,
+        "translation": "各班は一か所を調べ同種の情報を発表した。",
+        "explanation": "Each groupは各一班。andでinvestigatedとpresentedが並列する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Each group",
+            "start": 260,
+            "end": 270
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "investigated",
+            "start": 271,
+            "end": 283
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 163,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "criteria",
+        "meaning": "判断基準"
+      },
+      {
+        "english": "destination",
+        "meaning": "目的地"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  }
+]

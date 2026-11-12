@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-11-12T10:39:48.407784+00:00",
+  "file": "content/readings/l1_f10.json",
+  "format": 10,
+  "count": 10,
+  "wordCounts": [
+    163,
+    160,
+    167,
+    162,
+    165,
+    165,
+    162,
+    165,
+    169,
+    168
+  ],
+  "questions": 30,
+  "sha256": "83be7915024b6868003cf03a608a7d489b826a25b69681f2537c0f44e3c11b01",
+  "checks": [
+    "150-250 words",
+    "at most 10 original passages per format; quota checked on completion",
+    "four unique options per question",
+    "answer evidence occurs verbatim",
+    "syntax spans match original characters"
+  ],
+  "humanReviewed": false
+}
