@@ -1,10 +1,11 @@
+import type { ExamRecords } from "./exams";
 export type Mode = 'choice' | 'written';
 export type Kind = 'word' | 'idiom';
 export type Level = 1 | 2 | 3 | 4;
 export interface Entry { id: string; number: number; level: Level; section: number; kind: Kind; english: string; meaning: string; pos: string; pronunciation: string; example: string; translation: string; explanation: string; acceptedAnswers: string[] }
 export interface Attempt { id: string; at: string; correct: boolean }
 export interface Mastery { streak: number; mastered: boolean; history: Attempt[]; lastAnsweredAt?: string; lastResult?: boolean; masteredAt?: string | null }
-export interface State { version: 1; progress: Record<string, Partial<Record<Mode, Mastery>>>; favorites: string[]; settings: { sound: boolean; speech: boolean }; lastSection?: { level: Level; kind: Kind; section: number; mode?: Mode; catalog?: 'sample' | 'draft' }; permanentAwards: string[] }
+export interface State { exams?: ExamRecords; version: 1; progress: Record<string, Partial<Record<Mode, Mastery>>>; favorites: string[]; settings: { sound: boolean; speech: boolean }; lastSection?: { level: Level; kind: Kind; section: number; mode?: Mode; catalog?: 'sample' | 'draft' }; permanentAwards: string[] }
 export const emptyState = (): State => ({ version: 1, progress: {}, favorites: [], settings: { sound: true, speech: false }, permanentAwards: [] });
 export const mastery = (state: State, id: string, mode: Mode): Mastery => state.progress[id]?.[mode] ?? { streak: 0, mastered: false, history: [] };
 export function answer(state: State, id: string, mode: Mode, correct: boolean, at = new Date().toISOString()): State {
@@ -33,6 +34,12 @@ export function decodeState(raw: string | null): State {
     for (const record of Object.values(modes)) {
       const r = record as Mastery;
       if (!r || !Number.isInteger(r.streak) || r.streak < 0 || r.mastered !== (r.streak >= 2) || !Array.isArray(r.history) || !r.history.every(h => typeof h.at === 'string' && typeof h.correct === 'boolean')) throw new Error('学習履歴が破損しています');
+    }
+  }
+  if (s.exams !== undefined) {
+    if (!s.exams || typeof s.exams !== 'object' || Array.isArray(s.exams)) throw new Error('試験記録が破損しています');
+    for (const r of Object.values(s.exams) as import('./exams').ExamRecord[]) {
+      if (!r || typeof r !== 'object' || (r.passed !== undefined && typeof r.passed !== 'boolean') || (r.diagnosticUsed !== undefined && typeof r.diagnosticUsed !== 'boolean') || ['best','latest','attempts'].some(k => { const n = r[k as 'best']; return n !== undefined && (!Number.isInteger(n) || n < 0 || (k !== 'attempts' && n > 100)); })) throw new Error('試験記録が破損しています');
     }
   }
   return s as State;
