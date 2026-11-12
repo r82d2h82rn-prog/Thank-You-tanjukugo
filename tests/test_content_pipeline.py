@@ -35,7 +35,7 @@ class PipelineTests(unittest.TestCase):
         for level,section_number in sorted({(e['level'],e['section']) for e in drafts}):
             section=[e for e in drafts if e['level']==level and e['section']==section_number]
             self.assertEqual([e['number'] for e in section],list(range(1,101)))
-            order={'動詞':0,'名詞':1,'形容詞':2,'副詞':3}
+            order={'動詞':0,'名詞':1,'形容詞':2,'副詞':3,'接続詞':4,'前置詞':4,'代名詞':4,'助動詞':4,'その他':4}
             self.assertEqual([order[e['pos']] for e in section], sorted(order[e['pos']] for e in section))
         sources={s['id']:s for s in json.loads((project/'content/sources.json').read_text())}; seen=set()
         for entry in drafts:
