@@ -15,7 +15,7 @@ export function SourceCredits() {
     {sources.map(source => <View key={source.id} style={s.card}>
       <Text style={s.heading}>{source.name}</Text>
       {source.url && link(source.url)}
-      <Text style={s.text}>{source.purpose === 'sample' ? '検証用教材：独自生成・人手レビュー待ち' : source.accessStatus === 'retrieved_license_verified' ? '候補データ取得済み・正式教材の採否は未確定' : source.purpose === 'draft' ? '独自教材の草稿・人手レビュー待ち' : '参考資料・本文は製品に未導入'}</Text>
+      <Text style={s.text}>{source.purpose === 'pronunciation' ? '発音記号の参照データ・自動変換後の校閲待ち' : source.purpose === 'sample' ? '検証用教材：独自生成・人手レビュー待ち' : source.accessStatus === 'retrieved_license_verified' ? '候補データ取得済み・正式教材の採否は未確定' : source.purpose === 'draft' ? '独自教材の草稿・人手レビュー待ち' : '参考資料・本文は製品に未導入'}</Text>
       <Text style={s.small}>確認済みバージョン：{source.observedVersion ?? '未確認'} / 商用利用条件：{source.commercialUse === 'granted' ? '記録あり' : '未確認'}</Text>
       {source.license && <Text style={s.small}>ライセンス：{source.license}</Text>}
       {source.attribution && <Text selectable style={s.small}>{source.attribution}</Text>}

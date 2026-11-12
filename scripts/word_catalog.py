@@ -6,7 +6,11 @@ def authored_catalog(root):
     overlay=root/'content/words/selection.json'
     if not overlay.exists():return original
     additions=read_json(root/'content/words/reselected_additions.json')
-    selection=read_json(overlay);all_entries=original+additions
+    selection=read_json(overlay)
+    for name in selection.get('additionalBatchFiles',[]):
+        if not name.startswith('content/words/advanced_') or not name.endswith('.json'):raise ValueError('Invalid batch path')
+        additions+=read_json(root/name)
+    all_entries=original+additions
     by_id={e['id']:e for e in all_entries}
     if len(by_id)!=len(all_entries):raise ValueError('Duplicate source ID')
     placements=selection['placements'];ids=[p['id'] for p in placements]

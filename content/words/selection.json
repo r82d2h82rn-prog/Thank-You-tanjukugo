@@ -1,9 +1,12 @@
 {
   "version": 3,
-  "updatedAt": "2026-11-12T05:25:17.754665+00:00",
+  "updatedAt": "2026-11-12T05:31:24.575309+00:00",
   "scopeLevels": [
     3,
     4
+  ],
+  "additionalBatchFiles": [
+    "content/words/advanced_02.json"
   ],
   "policy": "content/authoring/reselection/policy.json",
   "placements": [
@@ -8405,6 +8408,606 @@
       "id": "word-c-093b0894373d",
       "level": 4,
       "section": 2,
+      "number": 100
+    },
+    {
+      "id": "word-c-db24c406ffe2",
+      "level": 4,
+      "section": 3,
+      "number": 1
+    },
+    {
+      "id": "word-c-7cb67be52537",
+      "level": 4,
+      "section": 3,
+      "number": 2
+    },
+    {
+      "id": "word-c-97d5313c0fdf",
+      "level": 4,
+      "section": 3,
+      "number": 3
+    },
+    {
+      "id": "word-c-4ffe8d48a9f6",
+      "level": 4,
+      "section": 3,
+      "number": 4
+    },
+    {
+      "id": "word-c-c26f1f66ef10",
+      "level": 4,
+      "section": 3,
+      "number": 5
+    },
+    {
+      "id": "word-c-8309254b6979",
+      "level": 4,
+      "section": 3,
+      "number": 6
+    },
+    {
+      "id": "word-c-adc004257cd0",
+      "level": 4,
+      "section": 3,
+      "number": 7
+    },
+    {
+      "id": "word-c-883a1767902e",
+      "level": 4,
+      "section": 3,
+      "number": 8
+    },
+    {
+      "id": "word-c-fec2d88c4815",
+      "level": 4,
+      "section": 3,
+      "number": 9
+    },
+    {
+      "id": "word-c-4a58c6bdbbf5",
+      "level": 4,
+      "section": 3,
+      "number": 10
+    },
+    {
+      "id": "word-c-c7935748bd98",
+      "level": 4,
+      "section": 3,
+      "number": 11
+    },
+    {
+      "id": "word-c-5ef21a7db8ab",
+      "level": 4,
+      "section": 3,
+      "number": 12
+    },
+    {
+      "id": "word-c-3195f351e349",
+      "level": 4,
+      "section": 3,
+      "number": 13
+    },
+    {
+      "id": "word-c-a73c2767be4e",
+      "level": 4,
+      "section": 3,
+      "number": 14
+    },
+    {
+      "id": "word-c-3c30b30005a1",
+      "level": 4,
+      "section": 3,
+      "number": 15
+    },
+    {
+      "id": "word-c-bbbfc1679871",
+      "level": 4,
+      "section": 3,
+      "number": 16
+    },
+    {
+      "id": "word-c-563e50f0ef17",
+      "level": 4,
+      "section": 3,
+      "number": 17
+    },
+    {
+      "id": "word-c-4e1568bdaf79",
+      "level": 4,
+      "section": 3,
+      "number": 18
+    },
+    {
+      "id": "word-c-daf3427e951d",
+      "level": 4,
+      "section": 3,
+      "number": 19
+    },
+    {
+      "id": "word-c-11e2595db6a3",
+      "level": 4,
+      "section": 3,
+      "number": 20
+    },
+    {
+      "id": "word-c-d5f346a544f5",
+      "level": 4,
+      "section": 3,
+      "number": 21
+    },
+    {
+      "id": "word-c-3e2d23643f4d",
+      "level": 4,
+      "section": 3,
+      "number": 22
+    },
+    {
+      "id": "word-c-014c4791eb4d",
+      "level": 4,
+      "section": 3,
+      "number": 23
+    },
+    {
+      "id": "word-c-1703e69d5070",
+      "level": 4,
+      "section": 3,
+      "number": 24
+    },
+    {
+      "id": "word-c-c8dc756c74f8",
+      "level": 4,
+      "section": 3,
+      "number": 25
+    },
+    {
+      "id": "word-c-2adacecdc80e",
+      "level": 4,
+      "section": 3,
+      "number": 26
+    },
+    {
+      "id": "word-c-2bb1216bad94",
+      "level": 4,
+      "section": 3,
+      "number": 27
+    },
+    {
+      "id": "word-c-4376b763ecd5",
+      "level": 4,
+      "section": 3,
+      "number": 28
+    },
+    {
+      "id": "word-c-4727dbae68f2",
+      "level": 4,
+      "section": 3,
+      "number": 29
+    },
+    {
+      "id": "word-c-62045c90ca1b",
+      "level": 4,
+      "section": 3,
+      "number": 30
+    },
+    {
+      "id": "word-c-17a4d9f8cf4c",
+      "level": 4,
+      "section": 3,
+      "number": 31
+    },
+    {
+      "id": "word-c-26fd2d09b66e",
+      "level": 4,
+      "section": 3,
+      "number": 32
+    },
+    {
+      "id": "word-c-0458e964e99f",
+      "level": 4,
+      "section": 3,
+      "number": 33
+    },
+    {
+      "id": "word-c-f5d4e42d30e9",
+      "level": 4,
+      "section": 3,
+      "number": 34
+    },
+    {
+      "id": "word-c-e77f5b9f6916",
+      "level": 4,
+      "section": 3,
+      "number": 35
+    },
+    {
+      "id": "word-c-01265c6c7794",
+      "level": 4,
+      "section": 3,
+      "number": 36
+    },
+    {
+      "id": "word-c-d7eae80edd22",
+      "level": 4,
+      "section": 3,
+      "number": 37
+    },
+    {
+      "id": "word-c-d5b809c05df1",
+      "level": 4,
+      "section": 3,
+      "number": 38
+    },
+    {
+      "id": "word-c-d959b638663f",
+      "level": 4,
+      "section": 3,
+      "number": 39
+    },
+    {
+      "id": "word-c-ce99528b7b40",
+      "level": 4,
+      "section": 3,
+      "number": 40
+    },
+    {
+      "id": "word-c-677b34a9a5e6",
+      "level": 4,
+      "section": 3,
+      "number": 41
+    },
+    {
+      "id": "word-c-61fb11e9a830",
+      "level": 4,
+      "section": 3,
+      "number": 42
+    },
+    {
+      "id": "word-c-fd283b4660fd",
+      "level": 4,
+      "section": 3,
+      "number": 43
+    },
+    {
+      "id": "word-c-974b5d240842",
+      "level": 4,
+      "section": 3,
+      "number": 44
+    },
+    {
+      "id": "word-c-5f44712b7d71",
+      "level": 4,
+      "section": 3,
+      "number": 45
+    },
+    {
+      "id": "word-c-19bf2c59ada7",
+      "level": 4,
+      "section": 3,
+      "number": 46
+    },
+    {
+      "id": "word-c-8748d49c743d",
+      "level": 4,
+      "section": 3,
+      "number": 47
+    },
+    {
+      "id": "word-c-7600d5712597",
+      "level": 4,
+      "section": 3,
+      "number": 48
+    },
+    {
+      "id": "word-c-ce6037741356",
+      "level": 4,
+      "section": 3,
+      "number": 49
+    },
+    {
+      "id": "word-c-9d8c967453a3",
+      "level": 4,
+      "section": 3,
+      "number": 50
+    },
+    {
+      "id": "word-c-3b6f2da621a2",
+      "level": 4,
+      "section": 3,
+      "number": 51
+    },
+    {
+      "id": "word-c-72d58a93377a",
+      "level": 4,
+      "section": 3,
+      "number": 52
+    },
+    {
+      "id": "word-c-6aaab625fa86",
+      "level": 4,
+      "section": 3,
+      "number": 53
+    },
+    {
+      "id": "word-c-3a15fed50d46",
+      "level": 4,
+      "section": 3,
+      "number": 54
+    },
+    {
+      "id": "word-c-925d63027eae",
+      "level": 4,
+      "section": 3,
+      "number": 55
+    },
+    {
+      "id": "word-c-fe09b7f231ec",
+      "level": 4,
+      "section": 3,
+      "number": 56
+    },
+    {
+      "id": "word-c-148dc5228e6b",
+      "level": 4,
+      "section": 3,
+      "number": 57
+    },
+    {
+      "id": "word-c-e6131af93485",
+      "level": 4,
+      "section": 3,
+      "number": 58
+    },
+    {
+      "id": "word-c-ff9592d1c519",
+      "level": 4,
+      "section": 3,
+      "number": 59
+    },
+    {
+      "id": "word-c-ba9c736f19e7",
+      "level": 4,
+      "section": 3,
+      "number": 60
+    },
+    {
+      "id": "word-c-126c3b743c63",
+      "level": 4,
+      "section": 3,
+      "number": 61
+    },
+    {
+      "id": "word-c-101399fedbc2",
+      "level": 4,
+      "section": 3,
+      "number": 62
+    },
+    {
+      "id": "word-c-2297db360d17",
+      "level": 4,
+      "section": 3,
+      "number": 63
+    },
+    {
+      "id": "word-c-ccbe7480cc75",
+      "level": 4,
+      "section": 3,
+      "number": 64
+    },
+    {
+      "id": "word-c-b00a44ac2671",
+      "level": 4,
+      "section": 3,
+      "number": 65
+    },
+    {
+      "id": "word-c-60e3835733b8",
+      "level": 4,
+      "section": 3,
+      "number": 66
+    },
+    {
+      "id": "word-c-e3c8794740b4",
+      "level": 4,
+      "section": 3,
+      "number": 67
+    },
+    {
+      "id": "word-c-026108257c99",
+      "level": 4,
+      "section": 3,
+      "number": 68
+    },
+    {
+      "id": "word-c-fbee05fb7d10",
+      "level": 4,
+      "section": 3,
+      "number": 69
+    },
+    {
+      "id": "word-c-b7a5a17594a1",
+      "level": 4,
+      "section": 3,
+      "number": 70
+    },
+    {
+      "id": "word-c-2e5106cc0168",
+      "level": 4,
+      "section": 3,
+      "number": 71
+    },
+    {
+      "id": "word-c-026b3bb9c3ec",
+      "level": 4,
+      "section": 3,
+      "number": 72
+    },
+    {
+      "id": "word-c-ba605542cf56",
+      "level": 4,
+      "section": 3,
+      "number": 73
+    },
+    {
+      "id": "word-c-e919cbcf513d",
+      "level": 4,
+      "section": 3,
+      "number": 74
+    },
+    {
+      "id": "word-c-53499abbfdfb",
+      "level": 4,
+      "section": 3,
+      "number": 75
+    },
+    {
+      "id": "word-c-df5bad0ca3b0",
+      "level": 4,
+      "section": 3,
+      "number": 76
+    },
+    {
+      "id": "word-c-a4571ea340a0",
+      "level": 4,
+      "section": 3,
+      "number": 77
+    },
+    {
+      "id": "word-c-86c0c46bd552",
+      "level": 4,
+      "section": 3,
+      "number": 78
+    },
+    {
+      "id": "word-c-777ac4ea0a6e",
+      "level": 4,
+      "section": 3,
+      "number": 79
+    },
+    {
+      "id": "word-c-a5d065d277bc",
+      "level": 4,
+      "section": 3,
+      "number": 80
+    },
+    {
+      "id": "word-c-cb22a511680c",
+      "level": 4,
+      "section": 3,
+      "number": 81
+    },
+    {
+      "id": "word-c-2bd259700381",
+      "level": 4,
+      "section": 3,
+      "number": 82
+    },
+    {
+      "id": "word-c-70929dc75e1f",
+      "level": 4,
+      "section": 3,
+      "number": 83
+    },
+    {
+      "id": "word-c-4256fd16bd81",
+      "level": 4,
+      "section": 3,
+      "number": 84
+    },
+    {
+      "id": "word-c-020570fef6bd",
+      "level": 4,
+      "section": 3,
+      "number": 85
+    },
+    {
+      "id": "word-c-63885fe05a1e",
+      "level": 4,
+      "section": 3,
+      "number": 86
+    },
+    {
+      "id": "word-c-d3a75f6fff1b",
+      "level": 4,
+      "section": 3,
+      "number": 87
+    },
+    {
+      "id": "word-c-e0b469e88b4c",
+      "level": 4,
+      "section": 3,
+      "number": 88
+    },
+    {
+      "id": "word-c-34a45cf9140f",
+      "level": 4,
+      "section": 3,
+      "number": 89
+    },
+    {
+      "id": "word-c-ee6297b96312",
+      "level": 4,
+      "section": 3,
+      "number": 90
+    },
+    {
+      "id": "word-c-ba11bd90a30b",
+      "level": 4,
+      "section": 3,
+      "number": 91
+    },
+    {
+      "id": "word-c-345c74edfb0c",
+      "level": 4,
+      "section": 3,
+      "number": 92
+    },
+    {
+      "id": "word-c-2823580ca7f0",
+      "level": 4,
+      "section": 3,
+      "number": 93
+    },
+    {
+      "id": "word-c-e5897ba96701",
+      "level": 4,
+      "section": 3,
+      "number": 94
+    },
+    {
+      "id": "word-c-df17c9ca6636",
+      "level": 4,
+      "section": 3,
+      "number": 95
+    },
+    {
+      "id": "word-c-b50e693e84ff",
+      "level": 4,
+      "section": 3,
+      "number": 96
+    },
+    {
+      "id": "word-c-31a989d26d0d",
+      "level": 4,
+      "section": 3,
+      "number": 97
+    },
+    {
+      "id": "word-c-dca68b5c36d4",
+      "level": 4,
+      "section": 3,
+      "number": 98
+    },
+    {
+      "id": "word-c-565f3cac19bd",
+      "level": 4,
+      "section": 3,
+      "number": 99
+    },
+    {
+      "id": "word-c-7f66bd0fcd6a",
+      "level": 4,
+      "section": 3,
       "number": 100
     }
   ],

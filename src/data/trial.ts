@@ -1,5 +1,5 @@
 import drafts from '../../content/words/drafts.json';
-import additions from '../../content/words/reselected_additions.json';
+import { authoredAdditions as additions } from './authoredAdditions';
 import selection from '../../content/words/selection.json';
 import { entries as samples } from './index';
 import { Entry, validateEntries } from '../model';

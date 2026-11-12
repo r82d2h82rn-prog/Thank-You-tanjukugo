@@ -441,5 +441,29 @@
     "availableDataTypes": [
       "独自教材"
     ]
+  },
+  {
+    "id": "cmudict-pronunciation",
+    "name": "CMU Pronouncing Dictionary（発音記号のみ）",
+    "url": "https://github.com/cmusphinx/cmudict",
+    "observedVersion": "eng-to-ipa 0.0.2 同梱辞書（上流改訂番号不明・SHA256固定）",
+    "purpose": "pronunciation",
+    "accessStatus": "retrieved_license_verified",
+    "checkedAt": "2026-11-11T22:26:04.127852+00:00",
+    "license": "CMUdict BSD-style license",
+    "termsUrl": "https://github.com/cmusphinx/cmudict/blob/master/LICENSE",
+    "licenseEvidence": "content/CMUDICT_LICENSE.txt",
+    "commercialUse": "granted",
+    "candidateExtraction": "not_applicable",
+    "analysisPermission": "not_applicable",
+    "redistribution": "granted",
+    "attribution": "Pronunciation data derived from CMUdict. Copyright (C) 1993-2015 Carnegie Mellon University.",
+    "shareAlike": null,
+    "notes": "発音記号のみを参照しIPAへ自動変換。単語選定・意味・例文・和訳・解説は独自制作。自動変換した発音は校閲待ち。\n\nCopyright (C) 1993-2015 Carnegie Mellon University. All rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n\n1. Redistributions of source code must retain the above copyright\n   notice, this list of conditions and the following disclaimer.\n   The contents of this file are deemed to be source code.\n\n2. Redistributions in binary form must reproduce the above copyright\n   notice, this list of conditions and the following disclaimer in\n   the documentation and/or other materials provided with the\n   distribution.\n\nThis work was supported in part by funding from the Defense Advanced\nResearch Projects Agency, the Office of Naval Research and the National\nScience Foundation of the United States of America, and by member\ncompanies of the Carnegie Mellon Sphinx Speech Consortium. We acknowledge\nthe contributions of many volunteers to the expansion and improvement of\nthis dictionary.\n\nTHIS SOFTWARE IS PROVIDED BY CARNEGIE MELLON UNIVERSITY ``AS IS'' AND\nANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,\nTHE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR\nPURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL CARNEGIE MELLON UNIVERSITY\nNOR ITS EMPLOYEES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT\nLIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,\nDATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY\nTHEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n",
+    "publisher": "Carnegie Mellon University",
+    "retrievedAt": null,
+    "availableDataTypes": [
+      "pronunciation"
+    ]
   }
 ]

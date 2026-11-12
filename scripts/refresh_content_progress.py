@@ -14,8 +14,12 @@ def refresh(root=ROOT):
   m=e.get('content') or metadata[e['id']]
   rows.append(dict(id=e['id'],kind=e['kind'],level=e['level'],section=e['section'],number=e['number'],english=e['english'],meaning=e['meaning'],pos=e['pos'],pronunciation=e['pronunciation'],example=e['example'],translation=e['translation'],review_status=m['qualityStatus'],human_reviewed=str(m['humanReviewed']).lower(),source_ids=json.dumps(m['sourceIds'],ensure_ascii=False),dictionary_check='not_fully_verified'))
  if (root/'content/words/selection.json').exists():
-  added_ids={e['id'] for e in read_json(root/'content/words/reselected_additions.json')}
-  write_csv(root/'content/reselection_review_queue.csv',[r for r in rows if r['id'] in added_ids],list(rows[0]))
+  base_ids={e['id'] for e in read_json(root/'content/words/reselected_additions.json')}
+  if not (root/'content/reselection_review_queue.csv').exists():
+   write_csv(root/'content/reselection_review_queue.csv',[r for r in rows if r['id'] in base_ids],list(rows[0]))
+  for name in read_json(root/'content/words/selection.json').get('additionalBatchFiles',[]):
+   batch_ids={e['id'] for e in read_json(root/name)}
+   write_csv(root/('content/review_batches/'+name.rsplit('/',1)[1].replace('.json','.csv')),[r for r in rows if r['id'] in batch_ids],list(rows[0]))
  else:
   write_csv(root/'content/review_queue.csv',rows,list(rows[0]))
  summary=dict(updatedAt=NOW(),wordTargets=TARGETS['word'],authoredWordDrafts=plan['authoredCounts'],unwrittenWords=plan['unwrittenCounts'],approved=report['approvedCounts'],humanReviewPending=report['humanReviewPending'],source='ID-based selection overlay; analysis/content_audit.json and analysis/word_plan_summary.json',releaseReady=report['releaseReady'])

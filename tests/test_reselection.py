@@ -7,6 +7,7 @@ from content_pipeline import validate_entry
 class ReselectionTests(unittest.TestCase):
  def test_overlay_preserves_every_source_and_completes_level3(self):
   old=json.loads((ROOT/'content/words/drafts.json').read_text());new=json.loads((ROOT/'content/words/reselected_additions.json').read_text());selection=json.loads((ROOT/'content/words/selection.json').read_text());active=authored_catalog(ROOT)
+  for name in selection.get('additionalBatchFiles',[]):new+=json.loads((ROOT/name).read_text())
   sources={e['id']:e for e in old+new}
   self.assertEqual(len(sources),len(old)+len(new))
   self.assertEqual(set(sources),{e['id'] for e in active}|{e['id'] for e in old if e['level']>=3 and e['id'] not in {a['id'] for a in active}})
