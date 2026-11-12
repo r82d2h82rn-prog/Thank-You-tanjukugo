@@ -4,7 +4,7 @@ export type Level = 1 | 2 | 3 | 4;
 export interface Entry { id: string; number: number; level: Level; section: number; kind: Kind; english: string; meaning: string; pos: string; pronunciation: string; example: string; translation: string; explanation: string; acceptedAnswers: string[] }
 export interface Attempt { id: string; at: string; correct: boolean }
 export interface Mastery { streak: number; mastered: boolean; history: Attempt[]; lastAnsweredAt?: string; lastResult?: boolean; masteredAt?: string | null }
-export interface State { version: 1; progress: Record<string, Partial<Record<Mode, Mastery>>>; favorites: string[]; settings: { sound: boolean; speech: boolean }; lastSection?: { level: Level; kind: Kind; section: number; mode?: Mode }; permanentAwards: string[] }
+export interface State { version: 1; progress: Record<string, Partial<Record<Mode, Mastery>>>; favorites: string[]; settings: { sound: boolean; speech: boolean }; lastSection?: { level: Level; kind: Kind; section: number; mode?: Mode; catalog?: 'sample' | 'draft' }; permanentAwards: string[] }
 export const emptyState = (): State => ({ version: 1, progress: {}, favorites: [], settings: { sound: true, speech: false }, permanentAwards: [] });
 export const mastery = (state: State, id: string, mode: Mode): Mastery => state.progress[id]?.[mode] ?? { streak: 0, mastered: false, history: [] };
 export function answer(state: State, id: string, mode: Mode, correct: boolean, at = new Date().toISOString()): State {
