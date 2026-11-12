@@ -1,0 +1,101 @@
+level	section	number	english	pos	pronunciation	meaning	example	translation	explanation
+3	6	1	encode	動詞	/ɪnˈkoʊd/	符号化する	The system encodes each letter as a series of numbers.	システムは各文字を一連の数値に符号化する。	情報を別の表現形式に変える。
+3	6	2	decode	動詞	/diːˈkoʊd/	解読する	The students decoded the message using the chart.	生徒たちは表を使ってメッセージを解読した。	符号などを理解可能な形に戻す。
+3	6	3	encrypt	動詞	/ɪnˈkrɪpt/	暗号化する	The application encrypts messages before sending them.	アプリは送信前にメッセージを暗号化する。	内容を読めない形式に変換する。
+3	6	4	upload	動詞	/ˌʌpˈloʊd/	アップロードする	She uploaded the photographs to the class website.	彼女は写真をクラスのウェブサイトにアップロードした。	手元のデータをサーバーなどへ送る。
+3	6	5	download	動詞	/ˌdaʊnˈloʊd/	ダウンロードする	Visitors can download a map before arriving at the museum.	来館者は博物館に来る前に地図をダウンロードできる。	ネット上などから手元へデータを取得する。
+3	6	6	upgrade	動詞	/ˌʌpˈɡreɪd/	性能を高める；格上げする	The school upgraded its computers to support new software.	学校は新しいソフトに対応するためコンピューターの性能を高めた。	より良い段階や版へ改良する。
+3	6	7	update	動詞	/ˌʌpˈdeɪt/	更新する；最新情報を伝える	Please update the list when a new member joins.	新しい会員が入ったら名簿を更新してください。	情報やソフトを新しい状態にする。
+3	6	8	input	動詞	/ˈɪnpʊt/	入力する	The operator input the results into the database.	担当者は結果をデータベースに入力した。	過去形はinputとinputtedがある。
+3	6	9	output	動詞	/ˈaʊtpʊt/	出力する	The program outputs a summary after checking the figures.	プログラムは数値を確認した後に要約を出力する。	名詞では出力・生産量を表す。
+3	6	10	retrieve	動詞	/rɪˈtriːv/	取り戻す；検索して得る	The librarian retrieved the record from the digital archive.	司書は電子文書館から記録を検索して取り出した。	保存場所から必要な物や情報を再び得る。
+3	6	11	link	動詞	/lɪŋk/	結びつける	The study links noise levels to changes in concentration.	その研究は騒音の大きさを集中力の変化と関連づける。	link A to BでAをBに結びつける。
+3	6	12	interact	動詞	/ˌɪntərˈækt/	交流する；相互に作用する	The design lets visitors interact with the exhibits.	その設計により来館者は展示物に働きかけられる。	interact withで〜と相互に関わる。
+3	6	13	interfere	動詞	/ˌɪntərˈfɪr/	干渉する；妨げる	Nearby electrical equipment interfered with the recording.	近くの電気機器が録音を妨げた。	interfere withは妨げる、interfere inは干渉する。
+3	6	14	intervene	動詞	/ˌɪntərˈviːn/	介入する；間に入る	The teacher intervened before the disagreement became personal.	意見の不一致が個人攻撃になる前に先生が間に入った。	対立や問題を変えるため途中に入る。
+3	6	15	automate	動詞	/ˈɔːtəmeɪt/	自動化する	The library automated its reminder service.	図書館は返却通知サービスを自動化した。	人が行っていた作業を機械などに任せる。
+3	6	16	innovate	動詞	/ˈɪnəveɪt/	革新する；新しい方法を導入する	Small teams can innovate without owning expensive equipment.	小さなチームでも高価な設備を持たずに革新を起こせる。	新しい方法や製品を作り出す。
+3	6	17	optimize	動詞	/ˈɑːptɪmaɪz/	最適化する	The engineers optimized the route to reduce energy use.	技師たちはエネルギー消費を減らすよう経路を最適化した。	目的や条件の下で最も良い状態にする。
+3	6	18	customize	動詞	/ˈkʌstəmaɪz/	要望に合わせて変更する	Users can customize the display to suit their needs.	利用者は必要に応じて表示を変更できる。	個々の用途に合わせて調整する。
+3	6	19	personalize	動詞	/ˈpɜːrsənəlaɪz/	個人に合わせる	The service personalizes suggestions using a reader's choices.	そのサービスは読者の選択に応じて提案を個人に合わせる。	特定個人に適した内容や形式にする。
+3	6	20	execute	動詞	/ˈeksɪkjuːt/	実行する；執行する	The computer executes the instructions in a fixed order.	コンピューターは決められた順序で命令を実行する。	計画・命令・刑罰などの実行を表す。
+3	6	21	browse	動詞	/braʊz/	拾い読みする；見て回る	She browsed the shelves before choosing a book.	彼女は本を選ぶ前に書棚を見て回った。	目的を絞りすぎず本やサイトを見て回る。
+3	6	22	click	動詞	/klɪk/	クリックする；カチッと音がする	Click the title to read the full explanation.	説明全文を読むには題名をクリックしてください。	マウス操作と短い音を表す。
+3	6	23	scroll	動詞	/skroʊl/	画面をスクロールする	Scroll down to see the remaining questions.	残りの問題を見るには画面を下へ動かしてください。	表示内容を上下左右へ移動させる。
+3	6	24	subscribe	動詞	/səbˈskraɪb/	定期購読する；同意する	My uncle subscribes to a magazine about architecture.	叔父は建築雑誌を定期購読している。	subscribe toで定期購読や意見への賛同を表す。
+3	6	25	notify	動詞	/ˈnoʊtɪfaɪ/	知らせる；通知する	The school notified parents of the change by email.	学校は変更を保護者にメールで通知した。	notify 人 of 事で人に知らせる。
+3	6	26	authorize	動詞	/ˈɔːθəraɪz/	許可する；権限を与える	Only the manager can authorize a refund.	払い戻しを承認できるのは管理者だけだ。	authorize 人 to doで人に〜する権限を与える。
+3	6	27	compile	動詞	/kəmˈpaɪl/	編集してまとめる	The students compiled a guide to local historical sites.	生徒たちは地域の史跡案内を編集した。	多くの資料や情報を集めて一つにまとめる。
+3	6	28	configure	動詞	/kənˈfɪɡjər/	構成する；設定する	The technician configured the devices for use in the classroom.	技術者は機器を教室で使えるよう設定した。	目的に合うよう構成や設定を整える。
+3	6	29	replicate	動詞	/ˈreplɪkeɪt/	再現する；複製する	The team could not replicate the result under different conditions.	チームは条件を変えると結果を再現できなかった。	研究の再現性や同様のものを作る場面で使う。
+3	6	30	clone	動詞	/kloʊn/	複製する；クローンを作る	The technician cloned the drive before testing the old computer.	技術者は古いコンピューターを試験する前にドライブを複製した。	生物とデータの複製の両方に使う。
+3	6	31	algorithm	名詞	/ˈælɡərɪðəm/	アルゴリズム；計算手順	The algorithm sorts the names into alphabetical order.	そのアルゴリズムは名前をアルファベット順に並べる。	問題を解くための定まった手順。
+3	6	32	software	名詞	/ˈsɔːftwer/	ソフトウェア	The software turns spoken words into written text.	そのソフトは話された言葉を文字に変える。	通常不可算で、a softwareとはしない。
+3	6	33	hardware	名詞	/ˈhɑːrdwer/	ハードウェア；金物	The project reused hardware from older computers.	その計画は古いコンピューターの機器部品を再利用した。	装置の物理的な部分を表し、通常不可算。
+3	6	34	database	名詞	/ˈdeɪtəbeɪs/	データベース	The database contains records of local weather observations.	そのデータベースには地域の気象観測記録が入っている。	整理され検索可能な情報の集まり。
+3	6	35	interface	名詞	/ˈɪntərfeɪs/	接点；操作画面	A simple interface makes the tool easier to learn.	単純な操作画面はその道具の使い方を覚えやすくする。	異なるものの接点や人と機器の接点。
+3	6	36	platform	名詞	/ˈplætfɔːrm/	プラットフォーム；基盤；演壇	The website provides a platform for student writing.	そのサイトは生徒が文章を発表する場を提供する。	駅のホーム以外に活動・技術の基盤を表す。
+3	6	37	server	名詞	/ˈsɜːrvər/	サーバー；給仕する人	The school stores the files on a secure server.	学校は安全なサーバーにファイルを保存する。	情報サービスを提供する機器やプログラム。
+3	6	38	browser	名詞	/ˈbraʊzər/	ブラウザー	The page looks different in an older browser.	そのページは古いブラウザーでは違って見える。	ウェブページなどを閲覧するソフト。
+3	6	39	website	名詞	/ˈwebsaɪt/	ウェブサイト	The website includes interviews with local craftspeople.	そのサイトには地元の職人へのインタビューがある。	関連するウェブページのまとまり。
+3	6	40	internet	名詞	/ˈɪntərnet/	インターネット	The village gained faster internet access last year.	村では昨年、より高速なインターネット接続が利用可能になった。	the internetが基本で、名詞を修飾する用法もある。
+3	6	41	keyboard	名詞	/ˈkiːbɔːrd/	キーボード；鍵盤	The student used a keyboard to enter the notes.	その生徒はキーボードで音符を入力した。	文字入力装置と楽器の鍵盤を表す。
+3	6	42	mouse	名詞	/maʊs/	ネズミ；マウス	The cursor moved when she pushed the mouse.	彼女がマウスを動かすとカーソルが移動した。	複数形は通常mice。操作機器ではmousesもある。
+3	6	43	icon	名詞	/ˈaɪkɑːn/	図記号；象徴的人物	A small icon shows whether sound is enabled.	小さな図記号が音声の有効・無効を示す。	画面上の記号と文化的な象徴に使う。
+3	6	44	menu	名詞	/ˈmenjuː/	献立；選択項目一覧	The settings menu lets users change the text size.	設定メニューで利用者は文字サイズを変えられる。	料理以外に画面上の選択肢一覧も指す。
+3	6	45	folder	名詞	/ˈfoʊldər/	書類入れ；フォルダー	Keep the original files in a separate folder.	元のファイルは別のフォルダーに保存しなさい。	紙の整理具と電子データの整理単位。
+3	6	46	password	名詞	/ˈpæswɜːrd/	暗証文字列；合言葉	The old document was protected by a password.	その古い文書はパスワードで保護されていた。	本人確認や閲覧制限に使う秘密の文字列。
+3	6	47	storage	名詞	/ˈstɔːrɪdʒ/	保管；記憶容量	The tablets have enough storage for the course materials.	そのタブレットには講座の教材を保存する十分な容量がある。	物の保管とデータを保存する容量を表す。
+3	6	48	processor	名詞	/ˈprɑːsesər/	処理装置；加工業者	The new processor handles images more quickly.	新しい処理装置は画像をより速く処理する。	情報・素材などを処理する装置や事業者。
+3	6	49	chip	名詞	/tʃɪp/	小片；半導体チップ	A tiny chip inside the card stores the information.	カード内部の小さなチップが情報を記憶する。	薄片や欠けた破片と電子部品を表す。
+3	6	50	disk	名詞	/dɪsk/	円盤；記憶ディスク	The archive transferred the files from an old disk.	文書館は古いディスクからファイルを移した。	平らな円盤と記録媒体を指す。
+3	6	51	journalism	名詞	/ˈdʒɜːrnəlɪzəm/	報道活動；ジャーナリズム	The course examines the role of journalism in public debate.	その講座は公的議論における報道の役割を検討する。	ニュースの取材・編集・報道という活動。
+3	6	52	medium	名詞	/ˈmiːdiəm/	媒体；手段；中間	Radio became an important medium for public education.	ラジオは公衆教育の重要な媒体となった。	媒体の複数形はmedia。中程度の、という形容詞用法もある。
+3	6	53	communication	名詞	/kəˌmjuːnɪˈkeɪʃn/	伝達；意思疎通	Good communication helped the group resolve the misunderstanding.	十分な意思疎通によって集団は誤解を解けた。	情報のやり取りや伝達過程を表す。
+3	6	54	privacy	名詞	/ˈpraɪvəsi/	私生活の自由；個人情報の保護	The debate balanced convenience against personal privacy.	討論では利便性と個人のプライバシーを比較検討した。	他人に知られたり干渉されたりしないこと。
+3	6	55	cybersecurity	名詞	/ˌsaɪbərsɪˈkjʊrəti/	サイバーセキュリティ	The lecture introduced cybersecurity through everyday examples.	講義は日常の例を通じてサイバーセキュリティを紹介した。	コンピューターや情報を不正利用から守ること。
+3	6	56	automation	名詞	/ˌɔːtəˈmeɪʃn/	自動化	Automation changed the kinds of tasks performed by workers.	自動化は労働者が担う作業の種類を変えた。	automateに対応する名詞。
+3	6	57	robot	名詞	/ˈroʊbɑːt/	ロボット	The robot sorted objects by color and shape.	ロボットは物を色と形で分類した。	一定の作業を自動で行う機械。
+3	6	58	simulation	名詞	/ˌsɪmjəˈleɪʃn/	模擬実験；シミュレーション	The simulation lets students explore the effects of different choices.	その模擬実験では生徒が異なる選択の影響を探れる。	現実の条件を模型や計算で再現すること。
+3	6	59	feedback	名詞	/ˈfiːdbæk/	意見；結果の反映	Specific feedback helped her improve the second draft.	具体的な助言が第二稿の改善に役立った。	通常不可算。結果を次の行動へ戻す意味。
+3	6	60	protocol	名詞	/ˈproʊtəkɔːl/	手順；通信規約；儀礼	The team followed a clear protocol for recording interviews.	チームは面接の記録について明確な手順に従った。	研究手順・通信規則・外交儀礼などに使う。
+3	6	61	user	名詞	/ˈjuːzər/	利用者	The design was tested with users of different ages.	その設計は異なる年齢の利用者によって試された。	製品やサービスを実際に使う人。
+3	6	62	profile	名詞	/ˈproʊfaɪl/	人物紹介；横顔；特徴	The article includes a profile of the young inventor.	その記事には若い発明家の人物紹介が含まれる。	人の紹介とデータ上の特徴、横から見た形を表す。
+3	6	63	identification	名詞	/aɪˌdentɪfɪˈkeɪʃn/	身元確認；特定；身分証明	The photograph allowed the identification of the missing object.	写真によってなくなった品物を特定できた。	誰・何であるか確認すること。
+3	6	64	verification	名詞	/ˌverɪfɪˈkeɪʃn/	検証；確認	The figures require independent verification.	その数値には独立した検証が必要だ。	正しいことを証拠で確かめる作業。
+3	6	65	notification	名詞	/ˌnoʊtɪfɪˈkeɪʃn/	通知；届け出	A notification appeared when the upload was complete.	アップロードが完了すると通知が表示された。	notifyに対応する名詞。
+3	6	66	subscription	名詞	/səbˈskrɪpʃn/	定期購読；定額利用契約	The library provides access through an annual subscription.	図書館は年間契約によって閲覧を提供している。	定期的な支払いによる利用や購読。
+3	6	67	inclusion	名詞	/ɪnˈkluːʒn/	包含；参加の保障	The school reviewed its policy on the inclusion of new students.	学校は新入生が参加できるようにする方針を見直した。	集団や内容の中に含めること。
+3	6	68	participation	名詞	/pɑːrˌtɪsɪˈpeɪʃn/	参加	Participation in the workshop is voluntary.	体験教室への参加は任意だ。	participation inで〜への参加。
+3	6	69	anonymity	名詞	/ˌænəˈnɪməti/	匿名性	The survey protected the anonymity of its participants.	調査は参加者の匿名性を守った。	名前や身元が明かされない状態。
+3	6	70	misinformation	名詞	/ˌmɪsɪnfərˈmeɪʃn/	誤情報	The class discussed how misinformation can spread online.	クラスは誤情報がネット上でどう広がるかを話し合った。	誤った情報で、作成者の意図を必ずしも含意しない。
+3	6	71	artificial	形容詞	/ˌɑːrtɪˈfɪʃl/	人工の；不自然な	The plants grew under artificial light.	植物は人工照明の下で育った。	naturalと対比される。
+3	6	72	virtual	形容詞	/ˈvɜːrtʃuəl/	仮想の；事実上の	A virtual tour lets students explore the museum from home.	仮想見学により生徒は自宅から博物館を探れる。	デジタル上の仮想と、ほぼそうと言える状態。
+3	6	73	online	形容詞	/ˌɑːnˈlaɪn/	オンラインの	The online archive includes letters and old maps.	オンライン文書館には手紙や古地図がある。	副詞でも使い、ネットに接続していることを表す。
+3	6	74	offline	形容詞	/ˌɔːfˈlaɪn/	オフラインの	An offline copy remained available during the network failure.	ネットワーク障害中もオフラインの写しは利用できた。	ネットに接続せず利用する状態。
+3	6	75	interactive	形容詞	/ˌɪntərˈæktɪv/	双方向の；対話型の	The interactive display changes when visitors touch the map.	対話型展示は来館者が地図に触れると変化する。	利用者の操作や反応を受けて変わること。
+3	6	76	innovative	形容詞	/ˈɪnəveɪtɪv/	革新的な	The students proposed an innovative use for the empty building.	生徒たちは空き建物の革新的な利用法を提案した。	新しい考えや方法を取り入れた性質。
+3	6	77	automated	形容詞	/ˈɔːtəmeɪtɪd/	自動化された	An automated system sorts the returned books.	自動化されたシステムが返却本を分類する。	automateの過去分詞からできた形容詞。
+3	6	78	autonomous	形容詞	/ɔːˈtɑːnəməs/	自律した；自治の	The project tests autonomous vehicles on a closed track.	計画は閉鎖された走路で自律走行車を試験する。	外部の直接制御なしに動くことや自治を表す。
+3	6	79	wireless	形容詞	/ˈwaɪərləs/	無線の	A wireless microphone gave the speaker more freedom to move.	無線マイクによって講演者は動きやすくなった。	信号の伝達に配線を使わないこと。
+3	6	80	accessible	形容詞	/əkˈsesəbl/	利用できる；分かりやすい	The guide makes complex ideas accessible to younger readers.	その案内書は複雑な考えを若い読者にも分かりやすくしている。	accessible toで〜が利用・理解できる。
+3	6	81	inaccessible	形容詞	/ˌɪnəkˈsesəbl/	到達できない；利用できない	The upper floor remained inaccessible during repairs.	修理中、上階には入れなかった。	物理的な接近と情報などの利用ができないこと。
+3	6	82	unavailable	形容詞	/ˌʌnəˈveɪləbl/	利用できない；手に入らない	Several records were unavailable when the study began.	研究開始時にいくつかの記録は利用できなかった。	必要な時に入手・利用できない状態。
+3	6	83	portable	形容詞	/ˈpɔːrtəbl/	携帯できる	A portable recorder captured sounds from the market.	携帯録音機が市場の音を記録した。	持ち運んで使えること。
+3	6	84	incompatible	形容詞	/ˌɪnkəmˈpætəbl/	両立しない；互換性のない	The two proposals are incompatible with each other.	二つの提案は互いに両立しない。	incompatible withで〜と両立しない。
+3	6	85	technological	形容詞	/ˌteknəˈlɑːdʒɪkl/	技術の	Technological change can alter the skills needed at work.	技術変化は仕事で必要な技能を変えることがある。	technologyに対応する形容詞。
+3	6	86	programmable	形容詞	/ˈproʊɡræməbl/	プログラム可能な	The class used a programmable toy to explore directions.	クラスはプログラム可能な玩具で方向を学んだ。	動作を命令として設定できること。
+3	6	87	robotic	形容詞	/roʊˈbɑːtɪk/	ロボットの；機械的な	A robotic arm moved the objects into separate trays.	ロボットアームが物を別々のトレーへ移した。	ロボット技術と人の機械的な動作に使う。
+3	6	88	mobile	形容詞	/ˈmoʊbl/	移動できる；携帯用の	A mobile library visits the village every week.	移動図書館が毎週その村を訪れる。	携帯電話だけでなく移動式設備も修飾する。
+3	6	89	encrypted	形容詞	/ɪnˈkrɪptɪd/	暗号化された	The archive stores sensitive records in encrypted files.	文書館は機微な記録を暗号化したファイルに保存している。	encryptの過去分詞による形容詞。
+3	6	90	insecure	形容詞	/ˌɪnsɪˈkjʊr/	不安な；安全でない	He felt insecure about speaking a new language.	彼は新しい言語を話すことに自信が持てなかった。	心の不安と保護の不十分さを表す。
+3	6	91	anonymous	形容詞	/əˈnɑːnɪməs/	匿名の；無名の	An anonymous donor paid for the new library shelves.	匿名の寄付者が図書館の新しい本棚の費用を負担した。	名前を明かさない人やその行為を修飾する。
+3	6	92	confidential	形容詞	/ˌkɑːnfɪˈdenʃl/	秘密の；機密の	The report contains confidential information about the company.	報告書には会社についての機密情報が含まれる。	限られた相手だけに共有する情報。
+3	6	93	obsolete	形容詞	/ˌɑːbsəˈliːt/	時代遅れの；使われなくなった	The new method made the old equipment obsolete.	新しい方法の登場で古い設備は使われなくなった。	新しいものに置き換わって役立たなくなった状態。
+3	6	94	outdated	形容詞	/ˌaʊtˈdeɪtɪd/	古くなった；時代遅れの	The map contained outdated information about bus routes.	地図にはバス路線について古い情報が載っていた。	現在の状況に合わなくなったこと。
+3	6	95	collaborative	形容詞	/kəˈlæbəreɪtɪv/	共同の；協力的な	The mural was a collaborative project involving three schools.	壁画は三校が参加する共同制作だった。	複数の人や団体が協力して行うこと。
+3	6	96	electronically	副詞	/ɪˌlekˈtrɑːnɪkli/	電子的に	Applicants may submit the form electronically.	応募者は用紙を電子的に提出できる。	電子機器や電子データを通じる方法。
+3	6	97	digitally	副詞	/ˈdɪdʒɪtəli/	デジタル形式で	The old photographs were restored digitally.	古い写真はデジタル技術で修復された。	デジタル情報として扱うこと。
+3	6	98	remotely	副詞	/rɪˈmoʊtli/	遠隔で；わずかでも	The researcher operated the camera remotely.	研究者はカメラを遠隔操作した。	not remotelyは少しも〜ない、という強い否定にもなる。
+3	6	99	interactively	副詞	/ˌɪntərˈæktɪvli/	対話形式で	Students explored the model interactively by changing its settings.	生徒たちは設定を変えながら対話形式でモデルを調べた。	操作と応答を繰り返す方法。
+3	6	100	technologically	副詞	/ˌteknəˈlɑːdʒɪkli/	技術的に	The two cities were technologically advanced in different ways.	二つの都市は異なる面で技術的に進んでいた。	技術の水準や手段という観点。

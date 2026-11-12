@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T00:38:01.025972+00:00",
+  "updatedAt": "2026-11-12T00:57:53.957164+00:00",
   "wordTargets": [
     800,
     900,
@@ -9,13 +9,13 @@
   "authoredWordDrafts": [
     800,
     900,
-    200,
+    700,
     100
   ],
   "unwrittenWords": [
     0,
     0,
-    1000,
+    500,
     900
   ],
   "approved": {
@@ -38,7 +38,7 @@
       0
     ]
   },
-  "humanReviewPending": 2150,
+  "humanReviewPending": 2650,
   "source": "analysis/content_audit.json and analysis/word_plan_summary.json",
   "releaseReady": false
 }
