@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-12T05:31:24.584490+00:00",
+  "updatedAt": "2026-11-12T05:35:43.222958+00:00",
   "selectedWordCounts": [
     800,
     900,
     1200,
-    300
+    400
   ],
-  "authoredUniqueWords": 3300,
-  "activeWords": 3200,
+  "authoredUniqueWords": 3400,
+  "activeWords": 3300,
   "reservedWords": 100,
-  "newWords": 700,
+  "newWords": 800,
   "level3MovedTo4": 80,
   "level4MovedTo3": 80,
   "level3Complete": true,
