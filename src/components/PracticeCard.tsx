@@ -17,7 +17,7 @@ export function PracticeCard(p: Props) {
       <Text style={s.text}>あなたの回答：{feedback.response || '（空欄）'}</Text>
       <Text style={s.answer}>正解：{entry.meaning}</Text>
       <Text style={s.word}>{entry.english}</Text>
-      <Text style={s.muted}>{entry.pos}　/{entry.pronunciation}/</Text>
+      <Text style={s.muted}>{entry.pos}　/{entry.pronunciation.replace(/^\/|\/$/g, '')}/</Text>
       <View style={s.controls}><Control label="発音を聴く" action={p.onSpeech} disabled={!p.speechEnabled} /><Control label={p.favorite ? '★ お気に入り解除' : '☆ お気に入り登録'} action={p.onFavorite} disabled={!p.premium} /></View>
       <Text style={s.example}>{entry.example}</Text><Text style={s.text}>{entry.translation}</Text><Text style={s.muted}>{entry.explanation}</Text>
       <Text style={s.text}>{mode === 'choice' ? '選択式' : '記述式'}：連続正解 {p.record.streak}回 · {p.record.mastered ? '✓ 習得済み' : '未習得'}</Text>
@@ -26,7 +26,7 @@ export function PracticeCard(p: Props) {
       <Text style={s.muted}>{mode === 'choice' ? '日本語の意味を選びましょう' : '対応する英語を入力しましょう'}</Text>
       <Text style={s.word}>{mode === 'choice' ? entry.english : entry.meaning}</Text>
       {mode === 'choice' ? <>
-        <Text style={s.muted}>/{entry.pronunciation}/ · {p.record.mastered ? '習得済み' : '未習得'}</Text>
+        <Text style={s.muted}>/{entry.pronunciation.replace(/^\/|\/$/g, '')}/ · {p.record.mastered ? '習得済み' : '未習得'}</Text>
         <View style={s.controls}><Control label="発音を聴く" action={p.onSpeech} disabled={!p.speechEnabled} /><Control label={p.favorite ? '★ お気に入り解除' : '☆ お気に入り登録'} action={p.onFavorite} disabled={!p.premium} /></View>
         {p.options.map((option, i) => <Pressable key={option} accessibilityRole="button" accessibilityLabel={option} onPress={event => { event.stopPropagation(); p.onAnswer(option); }} style={s.option}><Text style={s.letter}>{String.fromCharCode(65 + i)}</Text><Text style={[s.text, { flex: 1 }]}>{option}</Text></Pressable>)}
       </> : <>
