@@ -1,0 +1,23 @@
+{
+  "baselineCommit": "eaf6e063c7fb48040036a733cd4f484ada4815ce",
+  "baselineDrafts": 2500,
+  "preservedDrafts": 2500,
+  "addedDrafts": 0,
+  "totalDrafts": 2500,
+  "levels": [
+    800,
+    900,
+    700,
+    100
+  ],
+  "baselineItemsSha256": "34250ad52964a5df0056e584d9c1c858044f9d2180b1a2823b6f623932d55fd0",
+  "currentItemsSha256": "34250ad52964a5df0056e584d9c1c858044f9d2180b1a2823b6f623932d55fd0",
+  "protectedFilesUnchanged": [
+    "src/data/entries.json",
+    "content/provenance.json",
+    "content/words/approved.json",
+    "content/idioms/approved.json",
+    "content/readings/approved.json"
+  ],
+  "existingItemsUnchanged": true
+}
