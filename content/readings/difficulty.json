@@ -3922,6 +3922,116 @@
       "method": "ai_author_editorial_v1",
       "status": "author_assessed_independent_review_pending",
       "rationale": "歴史的基準の選択性と、柔軟性を説明責任で支える論理を読む。"
+    },
+    "reading-l4-f06-01": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "that節の対比にwhat節が入れ子になり、結果の情報価値と責任基準を分離する推論を要求する。"
+    },
+    "reading-l4-f06-02": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "可視性と異議申立ての循環的制限を区別する。条件節内の多重後置修飾を処理し、必要条件と十分条件を読む。"
+    },
+    "reading-l4-f06-03": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "文学解釈の複数候補を文脈で比較し、形式・作者意図・道徳的評価の混同を避ける。"
+    },
+    "reading-l4-f06-04": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "金額の多様性と問いの前提の閉鎖性を区別する。二段階の合意と受動・間接疑問の階層を読む。"
+    },
+    "reading-l4-f06-05": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 4,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "組織上の独立性と誤差源の独立性を区別し、反論の検証可能性を複数段落から統合する。"
+    },
+    "reading-l4-f06-06": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "恒久性対可変性という二択を崩し、将来の人の同意と異議申立能力を区別する。"
+    },
+    "reading-l4-f06-07": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 4,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "文単位の正確さと発話行為全体の忠実さを区別し、複数箇所に分散した限定を統合する。"
+    },
+    "reading-l4-f06-08": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "認知が必要であることと義務の完了を証明することを区別し、象徴行為と後続制度の関係を推論する。"
+    },
+    "reading-l4-f06-09": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 4,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "集団予測・個人の不確実性・分配原理を三段階で分離し、事実判断から規範への飛躍を識別する。"
+    },
+    "reading-l4-f06-10": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "旧指標の不完全性から旧能力の無用性を導かず、通常時と例外時の役割を統合する。"
     }
   }
 }

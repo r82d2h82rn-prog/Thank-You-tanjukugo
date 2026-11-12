@@ -1,0 +1,2265 @@
+[
+  {
+    "id": "reading-l4-f06-01",
+    "level": 4,
+    "format": 6,
+    "title": "結果を知らない審査員",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Imagine two inspectors who approve identical designs after overlooking the same defect. One structure later encounters an unusual storm and fails; the other, exposed to no comparable event, remains standing. A review board judges the first inspector severely and praises the second for a successful record. What the board calls a record of competence is therefore partly a record of circumstances in which competence has, or has not, been tested.",
+        "translation": "二人の検査員が、同じ欠陥を見落として同一の設計を承認したと想像してほしい。一方の構造物は後に異常な嵐に遭って壊れ、他方は同程度の事象にさらされず立ち続ける。審査委員会は第一の検査員を厳しく評価し、第二の検査員を成功実績があるとして褒める。したがって委員会が能力の実績と呼んでいるものは、能力が試された、または試されなかった状況の記録でもある。"
+      },
+      {
+        "id": "p2",
+        "english": "It would be tempting to correct the injustice by excluding consequences altogether. Yet consequences can reveal defects that no examination of the decision alone has disclosed. The difficulty is not that outcomes tell us nothing, but that what they tell us about a design need not be identical to what they tell us about the care with which it was approved. To discover that a bridge was unsafe is not, without further inquiry, to discover that its inspector was less careful than another whose bridge happened to survive.",
+        "translation": "不公平を正すために結果を完全に除外したくなるかもしれない。しかし結果は、意思決定そのものの検討では発見されなかった欠陥を明らかにすることがある。難しいのは結果が何も教えないことではなく、設計について結果が教えることと、どれだけ注意深く承認されたかについて教えることが同じとは限らないことだ。橋が危険だったと分かることは、さらに調べもせずに、その検査員が、たまたま無事だった別の橋の検査員より不注意だったと分かることではない。"
+      },
+      {
+        "id": "p3",
+        "english": "A defensible review would accordingly distinguish the reason to reopen an investigation from the reason to assign blame. Failure might supply the former without settling the latter. Nor would such a distinction excuse an inspector merely because others made the same mistake: a shared failure of care could warrant criticism of both. The point is that judgements of responsibility should respond to what agents could reasonably have recognized, even while investigations remain sensitive to facts that became visible only later. Outcomes would retain evidential importance without being allowed to determine, by themselves, the standard of attention that a past decision should have met.",
+        "translation": "したがって擁護可能な審査では、調査を再開する理由と非難を割り当てる理由を区別するだろう。失敗は後者を決着させなくても前者を与え得る。また、この区別は、他の人も同じ誤りを犯したというだけで検査員を免責するものではない。共通の注意不足なら両者への批判を正当化し得る。要点は、調査が後になって初めて見えた事実に敏感であり続ける一方で、責任の判断は行為者が合理的に認識できたことに応じるべきだということだ。結果は証拠として重要であり続けるが、過去の判断が満たすべきだった注意の水準を、結果だけで決めることは認められないだろう。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "筆者の立場から、嵐による破損が直接正当化するものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "承認過程を調べ直すこと",
+            "explanation": "第三段落は再調査の契機と非難の根拠を区別し、失敗は前者になり得るとする。"
+          },
+          {
+            "id": "b",
+            "text": "検査員間の注意力の順位の確定",
+            "explanation": "同じ見落としで結果が異なるため結果だけで順位づけできない。"
+          },
+          {
+            "id": "c",
+            "text": "無事な橋の承認の正しさの確定",
+            "explanation": "無事なのは試されなかったためかもしれない。"
+          },
+          {
+            "id": "d",
+            "text": "結果を審査から排除すること",
+            "explanation": "欠陥発見に役立つので結果の排除は支持しない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "第三段落は再調査の契機と非難の根拠を区別し、失敗は前者になり得るとする。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "Failure might supply the former without settling the latter."
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "第一段落の同一設計という設定の役割はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "全ての設計が安全だという前提を置く",
+            "explanation": "欠陥があるという設定に反する。"
+          },
+          {
+            "id": "b",
+            "text": "検査員の責任を制度へ全て移す",
+            "explanation": "両者への批判もあり得るため全面的責任転嫁ではない。"
+          },
+          {
+            "id": "c",
+            "text": "結果の差だけでは判断の質の差を説明できないと示す",
+            "explanation": "設計と見落としをそろえ、試された状況だけを変える思考実験である。"
+          },
+          {
+            "id": "d",
+            "text": "嵐が承認時に確実に予見されたと示す",
+            "explanation": "異常な嵐であり予見可能性を確定しない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "設計と見落としをそろえ、試された状況だけを変える思考実験である。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "overlooking the same defect"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "筆者が退ける推論はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "他の検査員も見落としたので、自分は批判されない",
+            "explanation": "共通の失敗は両者への批判を正当化し得ると明記し、同類の存在による免責を退ける。"
+          },
+          {
+            "id": "b",
+            "text": "後からの結果は調査開始の材料になり得る",
+            "explanation": "結果の証拠価値は維持される。"
+          },
+          {
+            "id": "c",
+            "text": "二人がともに注意不足だった可能性はある",
+            "explanation": "shared failure of careを明示的に認める。"
+          },
+          {
+            "id": "d",
+            "text": "当時認識可能だった事実を検討する必要がある",
+            "explanation": "第三段落の責任判断の基準に合致する。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "共通の失敗は両者への批判を正当化し得ると明記し、同類の存在による免責を退ける。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "a shared failure of care could warrant criticism of both"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The difficulty is not that outcomes tell us nothing, but that what they tell us about a design need not be identical to what they tell us about the care with which it was approved.",
+        "translation": "難しいのは結果が何も教えないことではなく、結果が設計について教えることと、どれだけ注意深く承認されたかについて教えることが同じとは限らないことだ。",
+        "explanation": "not that A, but that Bで補語となる内容節を対比。B内の最初のwhat節がneed not be identicalの主語、二つ目がtoの目的語。with which節はcareを修飾し、itはdesignを指す。need notは同一である必然性の否定で、常に異なるという断定ではない。",
+        "start": 177,
+        "end": 357,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The difficulty",
+            "start": 177,
+            "end": 191
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "is",
+            "start": 192,
+            "end": 194
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that outcomes tell us nothing",
+            "start": 199,
+            "end": 228
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "what they tell us about a design",
+            "start": 239,
+            "end": 271
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "the care",
+            "start": 321,
+            "end": 329
+          },
+          {
+            "id": "n6",
+            "role": "clause",
+            "text": "with which it was approved",
+            "start": 330,
+            "end": 356
+          }
+        ],
+        "relations": [
+          {
+            "from": "n6",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 261,
+    "recommendedSeconds": 420,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l4-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l4-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "that節の対比にwhat節が入れ子になり、結果の情報価値と責任基準を分離する推論を要求する。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l4-f06-02",
+    "level": 4,
+    "format": 6,
+    "title": "透明な理由と動かせる理由",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Suppose a housing cooperative uses a program to allocate rooms and publishes the factors that determine each applicant's score. The publication is welcomed as an advance on decisions previously made behind closed doors. Applicants can now see that distance from work is weighted heavily. What they cannot do is challenge the assumption that the shortest journey is the most relevant indication of need, even when caring responsibilities make an indirect route unavoidable.",
+        "translation": "住宅協同組合が部屋を配分するプログラムを用い、各申請者の点数を決める要因を公開するとしよう。その公開は、以前の非公開の決定からの前進として歓迎される。申請者は通勤距離に大きな重みがあると分かるようになる。しかし介護上の責任によって遠回りが避けられない場合でも、最短の移動が必要度を示す最も重要な指標だという前提に異議を唱えることはできない。"
+      },
+      {
+        "id": "p2",
+        "english": "A committee claims that this objection concerns policy rather than transparency: the program is transparent because its operation can be described. In one sense, the claim is correct. An exact description, however, need not give the people governed by a rule any means of contesting the reasons for choosing it. A perfectly visible rule may remain inaccessible to criticism if only evidence already expressible in its categories is accepted as a reason to revise those categories.",
+        "translation": "委員会は、その異議は透明性ではなく方針の問題だと主張する。動作を説明できるのでプログラムは透明なのだという。ある意味では正しい。しかし正確な記述があっても、規則に従う人々が、なぜその規則を選んだかという理由を争う手段を得るとは限らない。その分類を見直す理由として、既にその分類で表現できる証拠だけを認めるなら、完全に見える規則でも批判を受けつけないままであり得る。"
+      },
+      {
+        "id": "p3",
+        "english": "The cooperative therefore adds a procedure through which applicants may explain circumstances that the score does not represent. This procedure does not require every account to prevail, and it cannot guarantee that all disagreements will be resolved. Its significance lies elsewhere: it makes the boundaries of the scoring system themselves available for public justification. If transparency is to support accountability rather than merely observation, knowing how a decision was generated must be connected to an opportunity to question why that method was appropriate. Disclosure can be necessary for this purpose without being sufficient, much as opening a door provides little access when no one is permitted to cross its threshold.",
+        "translation": "そこで組合は、点数に表れない事情を申請者が説明できる手続きを加える。その手続きは全ての説明が勝つことを求めず、全ての不一致の解消も保証できない。意義は別のところにある。点数制そのものの境界について、公に正当化を求められるようにすることだ。透明性が単なる観察でなく説明責任を支えるには、決定の生成方法を知ることを、なぜその方法が適切だったかを問う機会に結びつけなければならない。公開はその目的に必要であっても十分とは限らない。それは扉を開けても、その敷居を越えることを誰にも許さなければ、ほとんど出入りの助けにならないのと似ている。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "第二段落で批判される制度の閉鎖性はどこにあるか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "点数の計算方法を全く記述しない点",
+            "explanation": "動作は正確に記述されているという設定。"
+          },
+          {
+            "id": "b",
+            "text": "全申請者が部屋を得られる保証をしない点",
+            "explanation": "配分の不足そのものではなく異議の受容可能性が論点。"
+          },
+          {
+            "id": "c",
+            "text": "申請者が同じ計算結果を再現できる点",
+            "explanation": "再現できる透明性を批判の十分条件とはしないが、それ自体が閉鎖の理由ではない。"
+          },
+          {
+            "id": "d",
+            "text": "分類への異議も、既存の分類で表せる証拠に限定する点",
+            "explanation": "分類自体を疑う証拠を既存分類で審査すると、異議の入口が閉ざされる。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "分類自体を疑う証拠を既存分類で審査すると、異議の入口が閉ざされる。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "only evidence already expressible in its categories"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "委員会への筆者の応答を最もよく表すものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "方針の検討には動作の情報は不要だとする",
+            "explanation": "公開は必要であり得るとして無用とはしない。"
+          },
+          {
+            "id": "b",
+            "text": "動作の記述可能性は認めつつ、説明責任には足りないとする",
+            "explanation": "one senseでは正しいと譲歩した後、記述と理由を争う機会を区別する。"
+          },
+          {
+            "id": "c",
+            "text": "動作を記述できるという事実そのものを否定する",
+            "explanation": "記述可能性は否定していない。"
+          },
+          {
+            "id": "d",
+            "text": "透明であれば方針は自動的に正当だとする",
+            "explanation": "可視性から正当性への飛躍を退ける。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "one senseでは正しいと譲歩した後、記述と理由を争う機会を区別する。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "Disclosure can be necessary for this purpose without being sufficient"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "追加手続きが達成すれば本文の狙いに最も近いものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "例外を述べた人全員を機械的に最優先する",
+            "explanation": "全ての説明の勝利は求めないと明記する。"
+          },
+          {
+            "id": "b",
+            "text": "計算を非公開に戻して委員会だけで判断する",
+            "explanation": "公開を撤回する提案はない。"
+          },
+          {
+            "id": "c",
+            "text": "全ての意見の不一致を無条件でなくす",
+            "explanation": "不一致解消の保証を明示的に否定する。"
+          },
+          {
+            "id": "d",
+            "text": "点数に含まれない事情を、分類の妥当性を問う理由として検討する",
+            "explanation": "境界を公的な正当化に開くことが目的で、異議の自動採用ではない。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "境界を公的な正当化に開くことが目的で、異議の自動採用ではない。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "the boundaries of the scoring system themselves available for public justification"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "A perfectly visible rule may remain inaccessible to criticism if only evidence already expressible in its categories is accepted as a reason to revise those categories.",
+        "translation": "その分類を見直す理由として、既にその分類で表現できる証拠だけが認められるなら、完全に見える規則でも批判を受けつけないままであり得る。",
+        "explanation": "主節はrule may remain inaccessible。if節の主語はonly evidence already expressible in its categoriesで、expressible以下がevidenceを後置修飾する。to reviseはreasonを限定する。onlyはevidenceの範囲を限定し、if節自体は倒置ではない。",
+        "start": 312,
+        "end": 480,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A perfectly visible rule",
+            "start": 312,
+            "end": 336
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "may remain",
+            "start": 337,
+            "end": 347
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "inaccessible to criticism",
+            "start": 348,
+            "end": 373
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "if only evidence already expressible in its categories is accepted as a reason to revise those categories",
+            "start": 374,
+            "end": 479
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 258,
+    "recommendedSeconds": 420,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l4-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l4-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "可視性と異議申立ての循環的制限を区別する。条件節内の多重後置修飾を処理し、必要条件と十分条件を読む。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l4-f06-03",
+    "level": 4,
+    "format": 6,
+    "title": "語られなかった結末",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A novel ends with a daughter standing outside her father's room, holding a letter whose contents the reader has seen but whose delivery is never described. One reviewer calls the ending evasive: a story that has prepared a confrontation should reveal whether it takes place. Another argues that the missing action shifts attention from what the daughter does to the reader's desire to have her uncertainty resolved. Both interpretations can cite features of the text.",
+        "translation": "ある小説は、読者が中身を知っているが、届けられたかどうかは書かれない手紙を持って、娘が父の部屋の外に立つところで終わる。ある批評家は結末を逃げだと呼ぶ。対決を準備してきた物語なら、実際に起こるかを明らかにすべきだという。別の批評家は、欠けた行為が、娘のすることから、彼女の不確実さを解消してほしいという読者の欲求へ注意を移すと論じる。両解釈とも本文の特徴を挙げられる。"
+      },
+      {
+        "id": "p2",
+        "english": "The second reading, however, would be weakened if every omission were automatically treated as an invitation to reflect on the act of reading. An accidental gap and a deliberately unresolved action can look alike when detached from their surroundings. Here, earlier scenes repeatedly show the daughter rehearsing conversations that she subsequently abandons. The ending does not merely withhold an event; it places the reader in a position resembling the character's repeated inability to turn a possible conversation into a completed one.",
+        "translation": "しかし、どの省略も自動的に読む行為について考える誘いとみなすなら、第二の読みは弱まるだろう。周囲から切り離せば、偶然の抜けと意図的に未解決にされた行為は似て見え得る。ここでは、それ以前の場面が、娘が後で断念する会話を繰り返し練習する姿を何度も示している。結末は出来事を単に伏せるだけでなく、可能な会話を完了した会話へ変えられない登場人物の繰り返す状態に似た位置へ読者を置く。"
+      },
+      {
+        "id": "p3",
+        "english": "This correspondence does not prove that the author consciously planned every effect, nor does it establish that the daughter's hesitation is morally admirable. It gives a reason to regard the unresolved ending as formally connected to the rest of the novel rather than as an isolated failure to finish it. Interpretation proceeds neither by recovering a single private intention nor by granting equal authority to every response. What matters is whether a proposed account can explain relations among details that would otherwise remain separate, without requiring the critic to ignore details that resist it. The absence of a delivered letter becomes meaningful through a pattern, not through absence alone.",
+        "translation": "この対応は、作者が全効果を意識して計画したと証明するわけでも、娘のためらいが道徳的に立派だと立証するわけでもない。未解決の結末を、孤立した未完の失敗ではなく、小説の他の部分と形式上つながるものとみなす理由を与える。解釈は、唯一の私的意図を取り戻すことによっても、全ての反応に等しい権威を認めることによっても進むのではない。重要なのは、提案された説明が、それに抵抗する細部を批評家に無視させることなく、そうでなければ別々のままの細部間の関係を説明できるかどうかだ。届いた手紙の不在は、不在だけによってでなく、パターンを通じて意味を持つ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "第二の解釈を単なる思いつき以上にする根拠はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "作者が意図を公表していること",
+            "explanation": "作者の私的意図の復元を根拠としていない。"
+          },
+          {
+            "id": "b",
+            "text": "娘の判断の道徳的正しさが確認されていること",
+            "explanation": "道徳的評価をこの解釈は確定しないと第三段落で区別する。"
+          },
+          {
+            "id": "c",
+            "text": "未完の会話が以前の場面でも反復されていること",
+            "explanation": "前半の反復と結末の対応が、形式上のつながりの根拠になる。"
+          },
+          {
+            "id": "d",
+            "text": "読者がどの結末にも必ず不満を持つこと",
+            "explanation": "読者全員の必然的反応は述べない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "前半の反復と結末の対応が、形式上のつながりの根拠になる。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "earlier scenes repeatedly show the daughter rehearsing conversations"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "筆者が許容しない推論はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "説明されない出来事は全て、読む行為を問い直す装置である",
+            "explanation": "第二段落はevery omissionの自動的な同一解釈を退け、文脈的根拠を要求する。"
+          },
+          {
+            "id": "b",
+            "text": "未解決の行為は前の場面との関係から解釈できる",
+            "explanation": "この作品について反復を根拠に認める。"
+          },
+          {
+            "id": "c",
+            "text": "形式的効果の説明と作者の意図の断定は異なる",
+            "explanation": "第三段落の限定に沿う。"
+          },
+          {
+            "id": "d",
+            "text": "有力な解釈でも抵抗する細部を吟味する必要がある",
+            "explanation": "resist itの細部を無視してはならないという基準に沿う。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "第二段落はevery omissionの自動的な同一解釈を退け、文脈的根拠を要求する。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "if every omission were automatically treated"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "末段落から導ける解釈の評価基準はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "異なる読者の反応を全て同程度に正しいとすること",
+            "explanation": "全反応への等しい権威付与も否定する。"
+          },
+          {
+            "id": "b",
+            "text": "結末の感情的満足度のみで判断すること",
+            "explanation": "満足度だけの評価基準ではない。"
+          },
+          {
+            "id": "c",
+            "text": "複数の細部の関係を説明し、反証的な細部を切り捨てないこと",
+            "explanation": "説明力と抵抗する細部への応答が並行して要求される。"
+          },
+          {
+            "id": "d",
+            "text": "作者の意識した効果だけを唯一の意味と認めること",
+            "explanation": "単一の私的意図の回収だけにはよらない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "説明力と抵抗する細部への応答が並行して要求される。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "without requiring the critic to ignore details that resist it"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "What matters is whether a proposed account can explain relations among details that would otherwise remain separate, without requiring the critic to ignore details that resist it.",
+        "translation": "重要なのは、提案された説明が、それに抵抗する細部を批評家に無視させることなく、そうでなければ別々のままの細部間の関係を説明できるかどうかである。",
+        "explanation": "What mattersが名詞節の主語、whether以下が補語。最初のthat節はdetailsを修飾し、後半のthat resist itは二度目のdetailsを修飾する。itはa proposed accountを指す。二つのdetailsと関係節の対応を混同しない。",
+        "start": 430,
+        "end": 609,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "What matters",
+            "start": 430,
+            "end": 442
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "is",
+            "start": 443,
+            "end": 445
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "whether a proposed account can explain relations among details that would otherwise remain separate",
+            "start": 446,
+            "end": 545
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "without requiring the critic to ignore details that resist it",
+            "start": 547,
+            "end": 608
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 265,
+    "recommendedSeconds": 435,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l4-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l4-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "文学解釈の複数候補を文脈で比較し、形式・作者意図・道徳的評価の混同を避ける。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l4-f06-04",
+    "level": 4,
+    "format": 6,
+    "title": "補償の前に決まっていたこと",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "In a hypothetical transport consultation, residents are asked how much compensation would make the loss of a neighbourhood garden acceptable. The question seems generous because it permits a range of answers and makes no assumption about the amount. It nevertheless assumes that the loss can be rendered acceptable by some payment. A resident who regards the garden as a place whose value depends on its continued common use has difficulty expressing that position within the question offered.",
+        "translation": "仮想の交通計画の意見募集で、地域の庭園を失うことを受け入れ可能にする補償額を住民に尋ねるとする。その問いは、幅広い回答を許し、金額を決めつけないので寛大に見える。それでも、何らかの支払いで喪失を受け入れ可能にできると前提している。庭園の価値は共同利用が続くことに依存すると考える住民は、提示された問いの中でその立場を表しにくい。"
+      },
+      {
+        "id": "p2",
+        "english": "This is not evidence that money is irrelevant to every loss or that all residents share an identical attachment. Someone facing immediate financial hardship might reasonably prefer payment. The objection concerns the prior organization of the choice: a disagreement about whether the garden should be removed is translated into a disagreement about the price of removal. Once responses have been collected only in monetary terms, the resulting agreement on a payment can be reported as though the more fundamental question had already been settled.",
+        "translation": "これは、どんな喪失にも金銭が無関係だとか、全住民が同じ愛着を持つことの証拠ではない。差し迫った経済的困難のある人が支払いを選ぶのは合理的かもしれない。異議は、それ以前の選択の組み立て方に関わる。庭園を除去すべきかという不一致が、除去の価格についての不一致へ置き換えられるのである。回答を金額だけで集めてしまうと、支払いについて得られた合意を、より根本的な問題が既に決着したかのように報告できてしまう。"
+      },
+      {
+        "id": "p3",
+        "english": "The consultation would become more open if it distinguished these questions and allowed reasons for rejecting the conversion itself to be recorded. Such openness would not guarantee preservation of the garden, especially where other public needs conflict with it. What it would prevent is the disappearance of a disagreement through the design of the answer form. A procedure may offer many options while excluding the issue about which people most need to disagree. Its fairness therefore cannot be assessed solely by asking whether everyone was permitted to choose; one must also ask what had to be accepted before any of the available choices could count as an answer.",
+        "translation": "こうした問いを区別し、換算自体を拒む理由も記録できれば、意見募集はより開かれたものになるだろう。その開放性は、特に他の公共的必要と衝突する場合、庭園の存続を保証しない。しかし、回答様式の設計によって不一致が消えることは防げるだろう。手続きは多くの選択肢を用意しながら、人々が最も意見を異にする必要のある問題を排除し得る。したがってその公平さは、全員が選択を許されたかだけでは評価できない。用意された選択が答えとして認められるためには、その前に何を受け入れなければならなかったかも問う必要がある。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "回答金額の幅が広くても除かれている立場はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "他の住民と異なる金額を回答する立場",
+            "explanation": "金額の相違は許容されるという設定である。"
+          },
+          {
+            "id": "b",
+            "text": "庭園の喪失を金銭で受容可能にする換算自体を拒む立場",
+            "explanation": "あらゆる額の提示が補償可能性を受け入れる枠内にあり、換算拒否を表せない。"
+          },
+          {
+            "id": "c",
+            "text": "現在の提案より高い補償を要求する立場",
+            "explanation": "金額の幅は制限されていない。"
+          },
+          {
+            "id": "d",
+            "text": "経済的事情から補償の受領を優先する立場",
+            "explanation": "金銭の有用性や合理的選好は否定されない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "あらゆる額の提示が補償可能性を受け入れる枠内にあり、換算拒否を表せない。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "the loss can be rendered acceptable by some payment"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "支払額の合意から除去への合意を推定できない理由はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "回答者全員が補償額について虚偽を述べるため",
+            "explanation": "回答者の虚偽は仮定していない。"
+          },
+          {
+            "id": "b",
+            "text": "公共計画では補償という手段を常に使えないため",
+            "explanation": "金銭が全てに無関係とは否定している。"
+          },
+          {
+            "id": "c",
+            "text": "住民の価値観は事前に全く存在しなかったため",
+            "explanation": "住民の異なる価値観が存在する設定である。"
+          },
+          {
+            "id": "d",
+            "text": "除去の是非を問う前提段階が回答形式に組み込まれていたため",
+            "explanation": "第二段落の論点は二つの問いのすり替えで、金額の合意は除去の是非を決めない。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "第二段落の論点は二つの問いのすり替えで、金額の合意は除去の是非を決めない。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "a disagreement about the price of removal"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "筆者の望む手続き変更の意義はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "金額による回答を全て無効とする",
+            "explanation": "金銭的希望も合理的であり得ると認める。"
+          },
+          {
+            "id": "b",
+            "text": "結論に反対する理由が手続き上見えなくなるのを防ぐ",
+            "explanation": "開放性は存続を保証せず、不一致を記録可能にする点が意義。"
+          },
+          {
+            "id": "c",
+            "text": "庭園をどんな事情でも保存することを先に決める",
+            "explanation": "存続の保証は明示的に否定する。"
+          },
+          {
+            "id": "d",
+            "text": "全住民が同じ価値観に至るまで計画を禁じる",
+            "explanation": "全員一致の義務は述べない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "開放性は存続を保証せず、不一致を記録可能にする点が意義。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "the disappearance of a disagreement through the design of the answer form"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "Its fairness therefore cannot be assessed solely by asking whether everyone was permitted to choose; one must also ask what had to be accepted before any of the available choices could count as an answer.",
+        "translation": "したがってその公平さは全員が選択を許されたかだけでは評価できず、用意された選択が答えとして認められるためには、その前に何を受け入れなければならなかったかも問わねばならない。",
+        "explanation": "cannot ... solelyは評価基準が不十分だという部分否定。後半のaskの目的語はwhat節。before節はそのwhat節に入り、選ぶ前の前提受容を時間的・論理的な先行段階として示す。oneは一般の評価者。",
+        "start": 467,
+        "end": 671,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Its fairness",
+            "start": 467,
+            "end": 479
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "cannot be assessed",
+            "start": 490,
+            "end": 508
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "solely by asking whether everyone was permitted to choose",
+            "start": 509,
+            "end": 566
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "what had to be accepted before any of the available choices could count as an answer",
+            "start": 586,
+            "end": 670
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 269,
+    "recommendedSeconds": 435,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l4-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l4-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "金額の多様性と問いの前提の閉鎖性を区別する。二段階の合意と受動・間接疑問の階層を読む。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l4-f06-05",
+    "level": 4,
+    "format": 6,
+    "title": "一致した研究者たち",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Suppose several laboratories obtain similar results while using an instrument built from the same design. Their agreement is initially treated as evidence that the reported effect is robust. A younger researcher asks whether a feature common to the instruments could be generating the pattern. Her objection does not allege that any laboratory has fabricated data. It questions whether the sources of apparent confirmation are independent in the respect relevant to the claim.",
+        "translation": "複数の研究室が、同じ設計で作られた機器を使って似た結果を得たとしよう。その一致は当初、報告された効果が頑健である証拠とされる。若い研究者が、機器に共通する特徴がそのパターンを生んでいないかと問う。彼女の異議は、どこかの研究室がデータを捏造したと主張するものではない。見かけの確認の源が、その主張に関係する点で独立しているかを問うものだ。"
+      },
+      {
+        "id": "p2",
+        "english": "The researchers respond by comparing instruments that operate on different principles. Agreement persists for some measurements but disappears for others. It would now be misleading either to dismiss the entire original body of work or to regard the unchanged portion as a vindication of every earlier interpretation. The comparison has altered the reasons for confidence differently across the claims, even though those claims once shared a single appearance of support.",
+        "translation": "研究者たちは、異なる原理で動く機器を比較して応じる。ある測定では一致が続くが、他では消える。この段階では、元の研究全体を退けるのも、変わらなかった部分を全ての以前の解釈の正しさの証明とみなすのも、誤解を招くだろう。以前は一つの支持の外観を共有していた主張であっても、この比較によって、自信を持つ理由は主張ごとに異なる形で変わったのだ。"
+      },
+      {
+        "id": "p3",
+        "english": "What makes the younger researcher's contribution valuable is not simply that she disagreed. An objection can be novel and still fail to identify a relevant vulnerability. Here, the proposed alternative explained how agreement could arise without the assumed effect, and the subsequent comparison gave that possibility a way of being examined. Scientific criticism, on this account, is neither a ritual refusal to trust others nor a demand that every result be established without reliance on anyone else. It is an effort to identify which dependencies matter for a particular inference, and to find out whether confidence survives when those dependencies are varied. Agreement becomes more informative when we understand what could have produced it besides the explanation we prefer.",
+        "translation": "若い研究者の貢献を価値あるものにするのは、単に反対したことではない。異議は新しくても、関係のある弱点を特定できないことがある。ここでは、提案された代案は、想定された効果がなくても一致が起こる仕組みを説明し、その後の比較はその可能性を調べる方法を与えた。この考えでは、科学的批判は、儀礼的に他者を信頼するのを拒むことでも、どの結果も他者への依存なしに確立せよと要求することでもない。ある特定の推論にどの依存関係が重要かを見極め、それを変えても確信が保たれるか調べる努力である。一致が、好ましい説明以外に何から生じ得たかを理解するとき、一致はより多くの情報を持つようになる。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最初の一致から頑健さを推定する際の弱点はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "研究室が別でも、結果を生む機器の特徴を共有していた可能性",
+            "explanation": "組織が別であることと、関連する誤差源の独立性は同じではない。"
+          },
+          {
+            "id": "b",
+            "text": "研究室の数が一つしかなかったという事実",
+            "explanation": "複数の研究室という設定に反する。"
+          },
+          {
+            "id": "c",
+            "text": "結果の似かたが弱すぎて測定できなかったこと",
+            "explanation": "似た結果自体が解釈される設定である。"
+          },
+          {
+            "id": "d",
+            "text": "全研究者が同じ仮説を意識的に偽ったという事実",
+            "explanation": "捏造の告発ではないと明示する。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "組織が別であることと、関連する誤差源の独立性は同じではない。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "independent in the respect relevant to the claim"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "異原理の機器による比較後に妥当な態度はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "一部が一致したので元の全解釈を無条件に確定する",
+            "explanation": "全面的な追認も同様に退けられる。"
+          },
+          {
+            "id": "b",
+            "text": "全ての主張が同じ証拠を持つと扱い続ける",
+            "explanation": "一つの支持の外観が分解されたという論旨に反する。"
+          },
+          {
+            "id": "c",
+            "text": "比較の影響に応じ、主張ごとに確信の根拠を評価し直す",
+            "explanation": "一致が続く測定と消える測定があり、確信の理由が主張ごとに異なった。"
+          },
+          {
+            "id": "d",
+            "text": "一部が変わったので元の全測定を無条件に棄却する",
+            "explanation": "全文否定は第二段落で退けられる。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "一致が続く測定と消える測定があり、確信の理由が主張ごとに異なった。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "altered the reasons for confidence differently across the claims"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "筆者の基準で異議が有益になるために必要なのはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "一致を生む代替経路を示し、調べられる比較につなげること",
+            "explanation": "代案は同じ一致を別の仕組みで説明し、比較で検討可能にした。"
+          },
+          {
+            "id": "b",
+            "text": "従来の研究者を信頼しない姿勢を表明すること自体",
+            "explanation": "儀礼的な不信ではないとする。"
+          },
+          {
+            "id": "c",
+            "text": "誰にも依存せず全測定を一人で行うこと",
+            "explanation": "他者への依存を全排除する要求も否定する。"
+          },
+          {
+            "id": "d",
+            "text": "従来と反対の結論を出すことだけ",
+            "explanation": "単なる不一致や新しさと価値を区別する。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "代案は同じ一致を別の仕組みで説明し、比較で検討可能にした。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "a way of being examined"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "It is an effort to identify which dependencies matter for a particular inference, and to find out whether confidence survives when those dependencies are varied.",
+        "translation": "それは、特定の推論にどの依存関係が重要かを見極め、それらを変えたときにも確信が保たれるかを調べる努力である。",
+        "explanation": "Itは前文のScientific criticism。effortをto identifyとto find outの二つの不定詞が並列で修飾する。which dependenciesは間接疑問内の主語。whether節内にwhen節が入り、are variedは実験的に変えられることを表す受動態。",
+        "start": 505,
+        "end": 666,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "It",
+            "start": 505,
+            "end": 507
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "is",
+            "start": 508,
+            "end": 510
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "an effort",
+            "start": 511,
+            "end": 520
+          },
+          {
+            "id": "n4",
+            "role": "phrase",
+            "text": "to identify which dependencies matter for a particular inference",
+            "start": 521,
+            "end": 585
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "to find out whether confidence survives when those dependencies are varied",
+            "start": 591,
+            "end": 665
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 261,
+    "recommendedSeconds": 420,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l4-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l4-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 4,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "組織上の独立性と誤差源の独立性を区別し、反論の検証可能性を複数段落から統合する。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l4-f06-06",
+    "level": 4,
+    "format": 6,
+    "title": "将来の同意を代弁する",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A city designing a public square asks current residents which features should remain unchanged for the next fifty years. Some participants argue that a strong commitment will protect the square from short-term commercial pressure. Others reply that future residents, whose needs cannot now be fully described, should not be bound by a decision in which they could take no part. Each side appeals to the interests of people not present.",
+        "translation": "ある市が公共広場を設計する際、今後五十年間どの特徴を変えずに残すべきか現在の住民に尋ねる。強い約束が短期的な商業圧力から広場を守ると主張する参加者がいる。一方、現在完全には記述できない必要を持つ将来の住民を、参加できなかった決定で縛るべきでないと言う人もいる。両者とも、その場にいない人々の利益を訴えている。"
+      },
+      {
+        "id": "p2",
+        "english": "The conflict cannot be resolved merely by replacing a permanent design with an easily altered one. A space that can be sold or rebuilt at little cost may leave future residents fewer genuine options if powerful actors can transform it before those residents are able to object. Conversely, preserving every present feature may protect a form of public life while preventing the different uses through which later generations would make that life their own. Neither physical permanence nor physical flexibility is identical to freedom for future users.",
+        "translation": "この対立は、恒久的な設計を簡単に変更できる設計に置き換えるだけでは解決できない。売却や改築が低費用でできる空間は、将来の住民が異議を述べられるようになる前に、強い主体が変えてしまえるなら、将来の住民の実質的な選択肢を減らすかもしれない。逆に、現在の特徴を全て保存すると、公共生活のある形を守る一方で、後の世代がその生活を自分たちのものにする異なる使い方を妨げるかもしれない。物理的な恒久性も柔軟性も、将来の利用者の自由と同じではない。"
+      },
+      {
+        "id": "p3",
+        "english": "The relevant question is therefore what kinds of revision remain possible, for whom, and under what conditions. A protected public status combined with revisable internal arrangements might preserve a capacity for collective choice without prescribing each eventual choice. This would still involve assumptions about future needs, and no design could secure the consent of people who do not yet exist. But acknowledging that limit need not make present responsibility meaningless. It may instead shift responsibility from imagining that future people would endorse our preferred outcome to maintaining procedures through which they could contest it. What is preserved would be less a finished answer than a means of asking the question again.",
+        "translation": "したがって重要な問いは、どんな改定が、誰に、どんな条件で可能なまま残るかだ。公共的地位を保護し、内部配置は改定できるようにすれば、将来の個々の選択を規定せずに、共同で選ぶ能力を保てるかもしれない。それでも将来の必要についての前提は伴い、まだ存在しない人々の同意を確保できる設計はない。しかし、その限界を認めることで現在の責任が無意味になる必要はない。責任を、自分たちの好む結果を将来の人々も支持すると想像することから、彼らがそれに異議を唱えられる手続きを維持することへ移せるかもしれない。保存されるのは完成した答えというより、同じ問いを再び立てる手段なのだろう。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "簡単に改築できる設計でも将来の自由を減らし得る理由はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "将来の人々が現在と必ず同じ使い方を望む",
+            "explanation": "将来の必要を完全には記述できないのが出発点。"
+          },
+          {
+            "id": "b",
+            "text": "どの物理的変更も公共生活を完全に破壊する",
+            "explanation": "全変更が破壊だとはしない。"
+          },
+          {
+            "id": "c",
+            "text": "恒久設計だけが住民の同意を正確に再現する",
+            "explanation": "まだ存在しない人の同意は確保できないと明記する。"
+          },
+          {
+            "id": "d",
+            "text": "変更する力を持つ者が、将来の利用者の発言前に選択肢を失わせ得る",
+            "explanation": "第二段落は可変性そのものと変更を支配する主体・時期を区別する。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "第二段落は可変性そのものと変更を支配する主体・時期を区別する。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "before those residents are able to object"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "公共的地位の保護と内部配置の改定可能性の組合せが狙うものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "商業的主体が自由に売却できる状態を守ること",
+            "explanation": "公共的地位を保護する案である。"
+          },
+          {
+            "id": "b",
+            "text": "共同で決め直す力を守りつつ、個々の使い方は固定しないこと",
+            "explanation": "手続き的能力を保存し、結果の全指定を避けるという区別に対応する。"
+          },
+          {
+            "id": "c",
+            "text": "現在の細部を全て永久に保存すること",
+            "explanation": "内部配置を改定可能にする点と逆。"
+          },
+          {
+            "id": "d",
+            "text": "将来の人々の必要について一切仮定しないこと",
+            "explanation": "前提がなお伴うと限定される。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "手続き的能力を保存し、結果の全指定を避けるという区別に対応する。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "without prescribing each eventual choice"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "筆者の現在の責任についての見解はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "未来の同意が取れない以上、現在は何も決めてはならない",
+            "explanation": "責任が無意味になる必要はないとする。"
+          },
+          {
+            "id": "b",
+            "text": "将来の住民の希望を現在の多数派と同一視する",
+            "explanation": "endorse our preferred outcomeという想像を相対化する。"
+          },
+          {
+            "id": "c",
+            "text": "共同の選択手続きより物理的な可変性だけを優先する",
+            "explanation": "物理的柔軟性だけでは自由と等しくないと第二段落で論じる。"
+          },
+          {
+            "id": "d",
+            "text": "将来の賛成を想定するより、将来の異議を可能にすることへ重点を移す",
+            "explanation": "最終段落は責任をなくさず、contestする手続きの維持へ焦点を移す。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "最終段落は責任をなくさず、contestする手続きの維持へ焦点を移す。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "procedures through which they could contest it"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "It may instead shift responsibility from imagining that future people would endorse our preferred outcome to maintaining procedures through which they could contest it.",
+        "translation": "それはむしろ、未来の人々も私たちの好む結果を支持すると想像することから、彼らがそれに異議を唱えられる手続きを維持することへ、責任を移すかもしれない。",
+        "explanation": "shift A from B to Cの構造で、BとCはともに動名詞句。that節はimaginingの内容、through which節はproceduresを修飾する。最後のitはour preferred outcomeであり、文頭のItが指す限界の認識とは異なる。",
+        "start": 481,
+        "end": 649,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "It",
+            "start": 481,
+            "end": 483
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "may instead shift",
+            "start": 484,
+            "end": 501
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "responsibility",
+            "start": 502,
+            "end": 516
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "from imagining that future people would endorse our preferred outcome",
+            "start": 517,
+            "end": 586
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "to maintaining procedures through which they could contest it",
+            "start": 587,
+            "end": 648
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 268,
+    "recommendedSeconds": 435,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l4-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l4-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "恒久性対可変性という二択を崩し、将来の人の同意と異議申立能力を区別する。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l4-f06-07",
+    "level": 4,
+    "format": 6,
+    "title": "不確実さを消した議事録",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "At an international meeting, a speaker says that a proposal might work if two conditions are met. The interpreter, pressed for time, renders the statement as a cautious recommendation but omits the conditions, which have been discussed earlier. Most listeners understand that the speaker is not offering a guarantee. The written minutes, however, later record only that she recommended the proposal. What was recoverable from a shared conversation is no longer recoverable from the document that travels beyond it.",
+        "translation": "国際会議で、発言者が二条件を満たせば提案はうまくいくかもしれないと述べる。時間に追われる通訳者は、その発言を慎重な推奨として訳すが、先に議論された条件は省く。ほとんどの聞き手は、発言者が保証をしているのでないと理解する。しかし後の議事録には、彼女が提案を推奨したことだけが記録される。共有された会話からは取り戻せたものが、その場を越えて伝わる文書からは取り戻せなくなる。"
+      },
+      {
+        "id": "p2",
+        "english": "The omission cannot be evaluated solely by asking whether the interpreter selected an equivalent word for might. The force of the statement depended on how uncertainty was distributed across a qualification, an earlier exchange and an expectation of further discussion. Once those relations were broken, retaining a single cautious expression would not necessarily preserve the limits of the original claim. A document can reproduce each surviving sentence accurately while representing the exchange inaccurately as a whole.",
+        "translation": "この省略は、通訳者がmightに相当する語を選んだかどうかだけでは評価できない。発言の効力は、限定条件、先のやり取り、さらに議論するという予想に、不確実性がどう分布していたかに依存していた。その関係が切られると、慎重な表現を一語残しても、元の主張の限界を必ず保てるとは限らない。文書は、残された文を一つずつ正確に再現しながら、やり取り全体を不正確に表し得る。"
+      },
+      {
+        "id": "p3",
+        "english": "Nor does this mean that minutes should reproduce every hesitation or that interpreters must repeat the entire preceding discussion. Selection is unavoidable. The question is which dependencies a shortened account must carry with it if readers absent from the meeting are to distinguish a conditional possibility from an endorsed course of action. An effective record might attach the relevant conditions directly to the recommendation. That choice would add words while preventing a stronger commitment from being attributed to the speaker than she had undertaken. Fidelity would then be a matter not merely of conserving expressions, but of preserving the relations that determine what those expressions commit someone to.",
+        "translation": "また、これは、議事録が全てのためらいを再現すべきとか、通訳者が直前までの全議論を繰り返すべきということでもない。取捨選択は避けられない。問題は、会議に不在だった読者が、条件付きの可能性と支持された行動方針を区別するために、短縮した説明がどの依存関係を伴わなければならないかだ。効果的な記録では、関係する条件を推奨に直接付ける方法があるだろう。その選択は語数を増やすが、本人が引き受けたより強い責任を帰すことを防ぐ。そのとき忠実さとは、表現を保存することだけでなく、その表現が誰かに何を引き受けさせるかを決める関係を保つことになるだろう。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "会議中より議事録で誤解が生じやすい理由はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "会議参加者は発言を保証として理解した",
+            "explanation": "参加者の多くは保証でないと理解していた。"
+          },
+          {
+            "id": "b",
+            "text": "可能性を示す語には言語間の対応語が存在しない",
+            "explanation": "対応語不存在という主張ではない。"
+          },
+          {
+            "id": "c",
+            "text": "会話に参加した人が補えた条件を、文書だけ読む人は補えない",
+            "explanation": "文脈から回復できた限定が、移動する文書には付いてこない点が第一段落の対比。"
+          },
+          {
+            "id": "d",
+            "text": "文書に残った文が必ず全て誤訳されている",
+            "explanation": "残った文の正確さと全体の不正確さは両立すると論じる。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "文脈から回復できた限定が、移動する文書には付いてこない点が第一段落の対比。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "the document that travels beyond it"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "mightの相当語だけを残しても不十分となるのはなぜか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "発言の限定が複数の文脈的関係によって支えられていたため",
+            "explanation": "限定条件・先の交換・議論継続の予想に不確実性が分布していた。"
+          },
+          {
+            "id": "b",
+            "text": "慎重な語を使うと必ず約束が強くなるため",
+            "explanation": "単一語が必ず責任を強めるという因果ではない。"
+          },
+          {
+            "id": "c",
+            "text": "後の議論は最初の発言を必ず取り消すため",
+            "explanation": "議論の継続が必ず取消しを意味するとは述べない。"
+          },
+          {
+            "id": "d",
+            "text": "条件は発言者の意図と無関係だったため",
+            "explanation": "条件こそ主張の限界を支える。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "限定条件・先の交換・議論継続の予想に不確実性が分布していた。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "how uncertainty was distributed across a qualification"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "筆者の忠実な短縮についての考えに合うものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "元の表現が一語ずつ残れば常に十分である",
+            "explanation": "表現保存だけでは足りないという結論と逆。"
+          },
+          {
+            "id": "b",
+            "text": "発言者の責任を強めるよう曖昧さを除く",
+            "explanation": "本人以上の強いcommitmentを帰さないことを目指す。"
+          },
+          {
+            "id": "c",
+            "text": "省略は許容しつつ、責任の範囲を定める関係を残す",
+            "explanation": "第三段落は選択の不可避性を認め、条件の付加で限界を保持する。"
+          },
+          {
+            "id": "d",
+            "text": "語数を減らした記録は必ず原発言を裏切る",
+            "explanation": "全ての省略を否定せず、むしろ短縮方法を提示する。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "第三段落は選択の不可避性を認め、条件の付加で限界を保持する。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "than she had undertaken"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "A document can reproduce each surviving sentence accurately while representing the exchange inaccurately as a whole.",
+        "translation": "文書は、残された文を一つずつ正確に再現しながら、やり取り全体を不正確に表し得る。",
+        "explanation": "while representingはwhile it representsと補える主語省略の節で、主語はA document。accuratelyとinaccuratelyは矛盾ではなく、一文単位と交換全体という評価対象の違いを示す。as a wholeはthe exchangeの全体としての扱い。",
+        "start": 408,
+        "end": 524,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A document",
+            "start": 408,
+            "end": 418
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "can reproduce",
+            "start": 419,
+            "end": 432
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "each surviving sentence",
+            "start": 433,
+            "end": 456
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "accurately",
+            "start": 457,
+            "end": 467
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "while representing the exchange inaccurately as a whole",
+            "start": 468,
+            "end": 523
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 263,
+    "recommendedSeconds": 435,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l4-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l4-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 4,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "文単位の正確さと発話行為全体の忠実さを区別し、複数箇所に分散した限定を統合する。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l4-f06-08",
+    "level": 4,
+    "format": 6,
+    "title": "記念碑が終わらせる議論",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A town plans a monument to people displaced by an earlier redevelopment project. Its inscription acknowledges that the policy caused suffering and expresses a commitment never to repeat it. Some residents welcome the monument as a public correction to decades of silence. Others worry that the very clarity of the apology will encourage the town to regard the injustice as a completed episode whose obligations have now been discharged.",
+        "translation": "ある町が、以前の再開発事業で移住させられた人々の記念碑を計画している。碑文は政策が苦しみを生んだと認め、二度と繰り返さないという約束を表す。長年の沈黙を公に正すものとして歓迎する住民がいる。他方、謝罪が明快であることそのものが、不正を、今や義務を果たし終えた完了済みの出来事と町にみなさせるのではないかと心配する人もいる。"
+      },
+      {
+        "id": "p2",
+        "english": "The worry does not depend on denying the importance of recognition. Indeed, without public acknowledgement, displaced families may continue to find their experiences treated as private misfortunes rather than consequences of a collective decision. Yet an act that recognizes a wrong can also acquire the appearance of settling it, particularly when the ceremony is celebrated more visibly than the continuing requests of those affected. The same public form may open a question in one respect while closing it in another.",
+        "translation": "この懸念は、承認の重要性を否定することに依存しない。実際、公的な承認がなければ、移住させられた家族は、自分たちの経験を共同の決定の結果ではなく私的な不運として扱われ続けるかもしれない。しかし不正を認める行為は、それを決着させた外観も帯び得る。とりわけ、影響を受けた人々の続く要求よりも式典の方が目立って祝われる場合がそうである。同じ公的な形式が、ある面では問いを開き、別の面では閉じるかもしれない。"
+      },
+      {
+        "id": "p3",
+        "english": "One proposal links the monument to a regularly renewed forum in which residents can examine the redevelopment's continuing effects. The forum is not offered as a substitute for material remedies, nor is discussion expected to produce agreement on every claim. Its purpose is to prevent the town's expression of regret from becoming the sole measure of its response. Acknowledgement would mark the beginning of an obligation to listen rather than certify that listening had already been sufficient. Whether the monument functions this way cannot be inferred from its inscription alone; it depends on the institutions and practices that determine what people are able to ask of the town after the ceremony has ended.",
+        "translation": "一案では、再開発の続く影響を住民が検討できる、定期的に開催し直される討論の場と記念碑を結びつける。その場は物質的な救済の代わりとして提案されるのではなく、議論が全ての主張について合意を生むと期待されるわけでもない。目的は、遺憾の表明が町の対応を測る唯一の尺度になることを防ぐことだ。承認は、十分聞き終えたと証明するのでなく、聞く義務の始まりを示すだろう。記念碑がそう機能するかは碑文だけからは推定できない。式典後に人々が町に何を求められるかを決める制度や実践に依存する。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "謝罪の明快さへの懸念が承認の否定ではない理由はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "記念碑にいかなる公的効果もないとするため",
+            "explanation": "公的な形式が問いを開閉するという効果を論じている。"
+          },
+          {
+            "id": "b",
+            "text": "公的認知の必要性と、認知で義務が完了するかを別問題にするため",
+            "explanation": "第二段落は承認の必要性を認めつつ、決着済みの外観が生じる危険を分ける。"
+          },
+          {
+            "id": "c",
+            "text": "碑文が当初から被害を否定しているため",
+            "explanation": "碑文は苦痛を認めるという設定。"
+          },
+          {
+            "id": "d",
+            "text": "私的な不運と公的な決定を同じだとみなすため",
+            "explanation": "私的な不運への還元こそ承認なしの問題として挙げる。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "第二段落は承認の必要性を認めつつ、決着済みの外観が生じる危険を分ける。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "an act that recognizes a wrong can also acquire the appearance of settling it"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "定期的な討論の場が主に防ぐことはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "被害者が物質的救済を要求すること",
+            "explanation": "物質的救済の代わりではないと明記する。"
+          },
+          {
+            "id": "b",
+            "text": "再開発の影響について意見が異なること",
+            "explanation": "全ての合意は期待していない。"
+          },
+          {
+            "id": "c",
+            "text": "政策の苦痛を公的に認めること",
+            "explanation": "承認を撤回せず義務の始まりに位置づける。"
+          },
+          {
+            "id": "d",
+            "text": "遺憾の表明だけで町の対応を十分と測ること",
+            "explanation": "表明をsole measureにしないことが第三段落に示される目的。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "表明をsole measureにしないことが第三段落に示される目的。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "the sole measure of its response"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "筆者の観点で記念碑の働きを評価する最も有効な情報はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "記念碑が過去の政策名を完全に省いたかだけ",
+            "explanation": "語の省略だけでは継続する義務への制度的応答を測れない。"
+          },
+          {
+            "id": "b",
+            "text": "式典後も住民が町に異議や要求を届けられる仕組み",
+            "explanation": "末文は式典後に求め得るものを規定する制度・実践を評価対象にする。"
+          },
+          {
+            "id": "c",
+            "text": "碑文中の謝罪の語の数だけ",
+            "explanation": "碑文だけでは推定できないとする。"
+          },
+          {
+            "id": "d",
+            "text": "式典で拍手した住民の数だけ",
+            "explanation": "式典の祝福と継続する要求を区別するので拍手は十分でない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "末文は式典後に求め得るものを規定する制度・実践を評価対象にする。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "after the ceremony has ended"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Others worry that the very clarity of the apology will encourage the town to regard the injustice as a completed episode whose obligations have now been discharged.",
+        "translation": "謝罪の明快さそのものが、不正を、今や義務を果たし終えた完了済みの出来事と町にみなさせるのではないかと心配する人もいる。",
+        "explanation": "worryの内容がthat節。その中のencourage O to Vはtownにregardするよう促す構造。regard A as BのBにwhose関係詞節が付き、completed episodeに関わる義務が完了扱いされるという含意を表す。veryは明快さそのものへの焦点。",
+        "start": 272,
+        "end": 436,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Others",
+            "start": 272,
+            "end": 278
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "worry",
+            "start": 279,
+            "end": 284
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that the very clarity of the apology will encourage the town to regard the injustice as a completed episode whose obligations have now been discharged",
+            "start": 285,
+            "end": 435
+          },
+          {
+            "id": "n4",
+            "role": "phrase",
+            "text": "a completed episode",
+            "start": 373,
+            "end": 392
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "whose obligations have now been discharged",
+            "start": 393,
+            "end": 435
+          }
+        ],
+        "relations": [
+          {
+            "from": "n5",
+            "to": "n4",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 262,
+    "recommendedSeconds": 420,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l4-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l4-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "認知が必要であることと義務の完了を証明することを区別し、象徴行為と後続制度の関係を推論する。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l4-f06-09",
+    "level": 4,
+    "format": 6,
+    "title": "分類の中の危険、分類の外の人",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Consider an imaginary mutual-aid scheme that groups members according to the probability that they will need assistance. Grouping helps the scheme predict its total costs, and a category may be statistically accurate even though it describes no individual's future with certainty. Difficulty arises when an accurate forecast for a group is treated as a complete explanation of why a particular person should bear a particular burden.",
+        "translation": "構成員を援助が必要になる確率で分類する架空の相互扶助制度を考えよう。分類は総費用の予測に役立ち、どの個人の将来も確実には記述しなくても、分類は統計的に正確であり得る。ある集団についての正確な予測を、なぜ特定の個人が特定の負担を負うべきかの完全な説明として扱うと問題が生じる。"
+      },
+      {
+        "id": "p2",
+        "english": "A defender argues that abandoning categories would make collective provision impossible. That reply identifies a genuine constraint but does not settle how the costs associated with a category ought to be distributed. The ability to predict that a group will require more support is one claim; the judgement that its members alone should finance the difference is another. Nothing in the numerical accuracy of the first claim, by itself, determines the justification of the second.",
+        "translation": "擁護者は、分類を捨てれば共同の保障は不可能になると論じる。その応答は実在する制約を指摘するが、分類に伴う費用をどう分配すべきかを決めはしない。ある集団により多くの支援が必要と予測できることと、その構成員だけが差額を賄うべきだという判断は別の主張である。第一の主張の数値上の正確さそれ自体から、第二の主張の正当性は決まらない。"
+      },
+      {
+        "id": "p3",
+        "english": "This distinction does not show that categories should never influence contributions. It requires an additional account of what members owe one another and why, rather than allowing a predictive tool to stand in for that account. Nor can the problem be solved merely by adding more personal detail until each category contains a single member. Greater precision might improve a forecast while leaving the distributive question exactly where it was. A useful model of collective risk can therefore be indispensable to an institution without being entitled to define its conception of fairness. Knowing more accurately what is likely to happen does not eliminate the need to decide which of its consequences people should share.",
+        "translation": "この区別は、分類が掛金に一切影響すべきでないことを示すのではない。予測用の道具に代わりをさせるのでなく、構成員が互いに何を、なぜ負うかを追加で説明することを求める。また、個人情報を増やして各分類が一人だけになるようにしても解決しない。精度を高めれば予測は改善しても、分配の問題は元のままかもしれない。したがって共同リスクの有用なモデルは、制度に不可欠でも、その公平さの概念を定義する権限を持つわけではない。起こりそうなことをより正確に知っても、その結果のどれを人々が分かち合うべきかを決める必要はなくならない。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "予測の正確さだけでは決まらないのはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "予測された費用を当該集団だけで負担すべきか",
+            "explanation": "費用の予測と分配の規範的判断が第二段落で区別される。"
+          },
+          {
+            "id": "b",
+            "text": "当該集団について予測を作成できるか",
+            "explanation": "作成可能性は設定上認めている。"
+          },
+          {
+            "id": "c",
+            "text": "分類が費用予測に何の役割もないか",
+            "explanation": "費用予測に役立つと認める。"
+          },
+          {
+            "id": "d",
+            "text": "全個人の将来が確実に予測されるか",
+            "explanation": "個人について確実でなくても統計的に正確であり得るとする。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "費用の予測と分配の規範的判断が第二段落で区別される。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "its members alone should finance the difference"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "分類擁護者の応答が議論を決着させない理由はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "統計が個人の将来を確実に示すため",
+            "explanation": "確実性と統計的正確さを区別している。"
+          },
+          {
+            "id": "b",
+            "text": "共同の保障と費用の予測は全く関係ないため",
+            "explanation": "両者の関係は認め、そこから分配原理への飛躍を問う。"
+          },
+          {
+            "id": "c",
+            "text": "分類の必要性を示しても、負担配分の原理は示さないため",
+            "explanation": "真正の制約と認める譲歩の後、分配の問いは未解決とする。"
+          },
+          {
+            "id": "d",
+            "text": "分類が予測に必要だという制約が必ず虚偽だから",
+            "explanation": "genuine constraintとして認めている。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "真正の制約と認める譲歩の後、分配の問いは未解決とする。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "identifies a genuine constraint but does not settle"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "分類を一人単位まで細分化する案に対する筆者の見解はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "予測を改善しても、何を共有するかの判断を不要にはしない",
+            "explanation": "精度向上と分配判断の独立性が第三段落で再確認される。"
+          },
+          {
+            "id": "b",
+            "text": "個別化すれば負担配分の正義も自動的に決まる",
+            "explanation": "正確さから正当性への飛躍を再現する誤答。"
+          },
+          {
+            "id": "c",
+            "text": "個別化は予測精度を必ず悪化させる",
+            "explanation": "might improve a forecastと認める。"
+          },
+          {
+            "id": "d",
+            "text": "分類の細分化だけで相互扶助の目的は消滅する",
+            "explanation": "制度の目的が消えるとは主張しない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "精度向上と分配判断の独立性が第三段落で再確認される。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "leaving the distributive question exactly where it was"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "A useful model of collective risk can therefore be indispensable to an institution without being entitled to define its conception of fairness.",
+        "translation": "共同リスクの有用なモデルは、制度に不可欠であっても、その公平さの概念を定義する権限を持つわけではない。",
+        "explanation": "主語の中心はmodelでof collective riskが後置修飾する。without being entitledは同じmodelを意味上の主語とし、不可欠であることと規範的権限がないことを両立させる。itsはan institutionを受け、公平観を定めるのはモデルの予測力だけではない。",
+        "start": 448,
+        "end": 591,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A useful model of collective risk",
+            "start": 448,
+            "end": 481
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "can therefore be",
+            "start": 482,
+            "end": 498
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "indispensable to an institution",
+            "start": 499,
+            "end": 530
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "without being entitled to define its conception of fairness",
+            "start": 531,
+            "end": 590
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 255,
+    "recommendedSeconds": 420,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l4-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l4-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 4,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "集団予測・個人の不確実性・分配原理を三段階で分離し、事実判断から規範への飛躍を識別する。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l4-f06-10",
+    "level": 4,
+    "format": 6,
+    "title": "失われた技能を測る試験",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A translation team begins using a system that drafts routine documents automatically. Editors correct the drafts, and overall accuracy improves. After two years, a test conducted without the system finds that some editors translate unfamiliar material less confidently than before. Managers conclude that automation has reduced skill. Several editors object that the test measures a task they no longer perform, while ignoring abilities they have acquired in detecting plausible but misleading suggestions.",
+        "translation": "ある翻訳チームが、定型文書を自動で下書きするシステムを使い始める。編集者が下書きを修正し、全体の正確さは向上する。二年後、システムなしでの試験では、一部の編集者が以前より不慣れな素材を自信なく訳すことが分かる。管理者は自動化が技能を低下させたと結論する。複数の編集者は、試験はもう行わない仕事を測り、もっともらしいが誤解を招く提案を見抜くため獲得した能力を無視していると異議を唱える。"
+      },
+      {
+        "id": "p2",
+        "english": "Neither conclusion follows from the test alone. A change in working practice can make an old measure incomplete without making the ability it measures irrelevant. If the system becomes unavailable, or produces an error that only an independent translation would expose, the neglected ability may still matter. Conversely, the fact that a manual task remains valuable in some circumstances does not establish that every hour formerly spent practising it should be restored unchanged.",
+        "translation": "どちらの結論も試験だけからは導かれない。実務の変化は、古い尺度を不完全にするが、それが測る能力を無関係にはしない場合がある。システムが使えなくなったり、独立に訳すことでしか露見しない誤りを出したりすれば、顧みられなかった能力も依然として重要かもしれない。逆に、手作業がある状況で有用なままであることは、以前の練習時間を一時間残らず同じ形で復活させるべきことを立証しない。"
+      },
+      {
+        "id": "p3",
+        "english": "The team's problem is to identify which capacities must survive alongside the new division of labour. That requires attention both to ordinary performance and to failures for which ordinary performance provides little rehearsal. Not until these roles have been distinguished can an apparent decline be interpreted as a loss that the organization should prevent, rather than a change it can reasonably accept. The choice is not simply between preserving all earlier skills and trusting the system entirely. It concerns the resources needed to remain capable of questioning an apparently successful process, including forms of understanding whose value may be concealed precisely because the process usually works.",
+        "translation": "チームの課題は、新たな分業とともにどの能力を残さなければならないかを見極めることだ。そのためには通常の実績と、通常の仕事ではほとんど練習できない故障の両方に注意が要る。こうした役割を区別して初めて、見かけの低下を、合理的に受け入れられる変化でなく、組織が防ぐべき喪失と解釈できる。選択は、以前の全技能の保存とシステムへの全面的信頼との単純な二択ではない。普段は成功しているまさにそのために価値が隠され得る理解も含め、一見成功している過程に疑問を投げかけられ続けるための資源が問題なのだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "試験が古い仕事を測っているという編集者の反論だけでは不十分なのはなぜか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "下書きの精度向上が数値上存在しなかったから",
+            "explanation": "overall accuracy improvesという設定は否定していない。"
+          },
+          {
+            "id": "b",
+            "text": "全ての新技能が旧技能より無価値だから",
+            "explanation": "編集者が獲得した能力の価値も認めている。"
+          },
+          {
+            "id": "c",
+            "text": "普段の作業回数だけで必要な能力が決まるから",
+            "explanation": "稀な失敗への備えがあるため通常の頻度だけでは決めない。"
+          },
+          {
+            "id": "d",
+            "text": "普段不要でも、障害や特殊な誤りの検出にはその能力が必要かもしれない",
+            "explanation": "第二段落は尺度の不完全性を認めても、独立翻訳の役割が消えたとは限らないとする。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "第二段落は尺度の不完全性を認めても、独立翻訳の役割が消えたとは限らないとする。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "only an independent translation would expose"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "筆者が管理者にも求める追加検討はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "新しい分業が存在しないと扱うこと",
+            "explanation": "新たな分業の下での維持能力が課題である。"
+          },
+          {
+            "id": "b",
+            "text": "手作業のどの役割をどれだけ維持すべきか",
+            "explanation": "手作業の役割はあり得るが全復活を自動には導かず、必要な能力を識別する。"
+          },
+          {
+            "id": "c",
+            "text": "以前の練習を例外なく全時間復活させること",
+            "explanation": "every hourのそのままの復活は論証されないとする。"
+          },
+          {
+            "id": "d",
+            "text": "試験を今後全て禁止すること",
+            "explanation": "尺度の再解釈を求めるので全面禁止ではない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "手作業の役割はあり得るが全復活を自動には導かず、必要な能力を識別する。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "which capacities must survive alongside the new division of labour"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "末文のprecisely becauseの働きとして最も適切なのはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "通常の成功があるので吟味の能力は不要だと結論する",
+            "explanation": "concealedは無用と同義ではなく維持の議論の一部。"
+          },
+          {
+            "id": "b",
+            "text": "システムは普段から常に失敗するとの設定に変える",
+            "explanation": "usually worksとあり常時失敗ではない。"
+          },
+          {
+            "id": "c",
+            "text": "成功した処理は独立した理解を必ず育てると保証する",
+            "explanation": "独立理解の自動形成は述べず、むしろ維持資源を問う。"
+          },
+          {
+            "id": "d",
+            "text": "通常の成功が、成功を吟味する能力の必要性を見えにくくする逆説を示す",
+            "explanation": "成功で検証機会が少ないほど、備えとしての理解の価値が隠れるという論理。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "成功で検証機会が少ないほど、備えとしての理解の価値が隠れるという論理。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "concealed precisely because the process usually works"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "Not until these roles have been distinguished can an apparent decline be interpreted as a loss that the organization should prevent, rather than a change it can reasonably accept.",
+        "translation": "こうした役割を区別して初めて、見かけの低下を、合理的に受け入れられる変化でなく、組織が防ぐべき喪失と解釈できる。",
+        "explanation": "否定的なNot until節の前置で主節がcan＋主語＋be interpretedの倒置になる。have been distinguishedはuntil節内の受動完了形。a lossをthat節、a changeを関係詞省略のit can reasonably acceptが修飾する。rather thanは二種類の評価を対比し、全低下が防止対象だと断定はしない。",
+        "start": 229,
+        "end": 408,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "Not until these roles have been distinguished",
+            "start": 229,
+            "end": 274
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "an apparent decline",
+            "start": 279,
+            "end": 298
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "be interpreted",
+            "start": 299,
+            "end": 313
+          },
+          {
+            "id": "n4",
+            "role": "phrase",
+            "text": "a loss",
+            "start": 317,
+            "end": 323
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "that the organization should prevent",
+            "start": 324,
+            "end": 360
+          },
+          {
+            "id": "n6",
+            "role": "phrase",
+            "text": "a change it can reasonably accept",
+            "start": 374,
+            "end": 407
+          },
+          {
+            "id": "n7",
+            "role": "V",
+            "text": "can",
+            "start": 275,
+            "end": 278
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n4",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 251,
+    "recommendedSeconds": 420,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l4-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l4-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 5,
+        "logic": 5,
+        "questions": 5
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "旧指標の不完全性から旧能力の無用性を導かず、通常時と例外時の役割を統合する。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  }
+]

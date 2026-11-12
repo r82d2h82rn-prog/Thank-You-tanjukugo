@@ -1,7 +1,7 @@
 {
-  "authoredPassages": 210,
-  "totalQuestions": 630,
-  "totalWords": 36432,
+  "authoredPassages": 220,
+  "totalQuestions": 660,
+  "totalWords": 39045,
   "complete": false,
   "levels": {
     "1": {
@@ -53,14 +53,14 @@
       "complete": false
     },
     "4": {
-      "authoredPassages": 0,
+      "authoredPassages": 10,
       "countsByFormat": [
         0,
         0,
         0,
         0,
         0,
-        0,
+        10,
         0,
         0,
         0,

@@ -1,0 +1,33 @@
+{
+  "ids": [
+    "reading-l4-f06-01",
+    "reading-l4-f06-02",
+    "reading-l4-f06-03",
+    "reading-l4-f06-04",
+    "reading-l4-f06-05",
+    "reading-l4-f06-06",
+    "reading-l4-f06-07",
+    "reading-l4-f06-08",
+    "reading-l4-f06-09",
+    "reading-l4-f06-10"
+  ],
+  "authored": 10,
+  "structurallyVerified": 10,
+  "aiAuthorChecked": 10,
+  "independentlyHumanReviewed": 0,
+  "questions": 30,
+  "wordCounts": [
+    261,
+    258,
+    265,
+    269,
+    261,
+    268,
+    263,
+    262,
+    255,
+    251
+  ],
+  "protectedExistingUnchanged": 200,
+  "sha256": "40a1f8a975d0aa56f91aaca21f1c638543bfc4d2c15349700ff55934cb22c3be"
+}

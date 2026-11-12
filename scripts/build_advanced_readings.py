@@ -24,7 +24,7 @@ def build(level,form):
   sentence,jp,explanation,parts,edges=a['syntax'];para=next(p for p in paragraphs if sentence in p['english']);assert para['english'].count(sentence)==1
   start=para['english'].index(sentence);spans=[]
   for j,part in enumerate(parts):
-   role,text=part[:2];hits=[m.start() for m in re.finditer(re.escape(text),sentence)]
+   role,text=part[:2];hits=[m.start() for m in re.finditer(r'(?<!\w)'+re.escape(text)+r'(?!\w)',sentence)]
    assert len(hits)==1 or len(part)==3,(pid,text)
    n=start+hits[part[2] if len(part)==3 else 0];spans.append({'id':f'n{j+1}','role':role,'text':text,'start':n,'end':n+len(text)})
   syntax={'id':'s1','paragraphId':para['id'],'sentence':sentence,'translation':jp,'explanation':explanation,'start':start,'end':start+len(sentence),'spans':spans,'relations':[{'from':f'n{x+1}','to':f'n{y+1}','type':kind} for x,y,kind in edges]}
