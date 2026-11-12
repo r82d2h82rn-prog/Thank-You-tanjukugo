@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-12T09:53:37.758428+00:00",
+  "updatedAt": "2026-11-12T09:59:57.482815+00:00",
   "level": 1,
-  "authoredPassages": 12,
+  "authoredPassages": 20,
   "countsByFormat": [
     10,
-    2,
+    10,
     0,
     0,
     0,
@@ -14,8 +14,8 @@
     0,
     0
   ],
-  "totalQuestions": 36,
-  "totalWords": 1913,
+  "totalQuestions": 60,
+  "totalWords": 3256,
   "complete": false,
   "humanReviewed": false,
   "productionApproved": false,

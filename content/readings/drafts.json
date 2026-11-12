@@ -2449,5 +2449,1660 @@
         }
       ]
     }
+  },
+  {
+    "id": "reading-l1-f02-03",
+    "level": 1,
+    "format": 2,
+    "title": "迷子の犬のカード",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "On her way home, Emi found a small dog beside a closed shop. It had a red collar but no name card. Emi did not try to take it home. She called her father and waited with him near the shop. They asked a nearby worker whether anyone had been looking for a dog. The worker had heard nothing, so they contacted the town's animal office.",
+        "translation": "帰宅途中、エミは閉店した店の横で小犬を見つけた。赤い首輪はあるが名札はなかった。家に連れて帰ろうとせず、父に電話して一緒に店の近くで待った。近くの作業員に犬を探す人がいないか尋ねたが、何も聞いていなかったので町の動物担当窓口に連絡した。"
+      },
+      {
+        "id": "p2",
+        "english": "An officer arrived and checked the dog's collar. Inside it was a small card with a telephone number. The card was [1] from the outside, which explained why Emi had missed it. The officer called the number, and the owner arrived soon afterward. He thanked Emi for staying nearby rather than walking away with the dog.",
+        "translation": "担当者が来て首輪を調べると、内側に電話番号の小カードがあった。外側からは見えなかったので、エミは気づかなかった。担当者が電話すると飼い主は間もなく来た。犬を連れ去らず近くにいたことを感謝した。"
+      },
+      {
+        "id": "p3",
+        "english": "The next day, Emi described the experience in class. She said that wanting to help was important, but getting help from the right adults had made the situation easier. Her classmates asked several questions, and the teacher wrote useful local contact information on the board.",
+        "translation": "翌日エミはクラスで体験を話した。助けたい気持ちは大切だが、適切な大人に頼れたので対処しやすかったと言った。級友が質問し、先生は役立つ地域の連絡先を板に書いた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "空所[1]に合う語は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "invisible",
+            "explanation": "内側にあり外から見えなかった。"
+          },
+          {
+            "id": "b",
+            "text": "bright",
+            "explanation": "明るさの話ではない。"
+          },
+          {
+            "id": "c",
+            "text": "huge",
+            "explanation": "大きなカードではない。"
+          },
+          {
+            "id": "d",
+            "text": "empty",
+            "explanation": "電話番号があり空白でない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "内側にあり外から見えなかった。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "Inside it was a small card with a telephone number."
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "エミが最初に頼った人は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The dog's owner.",
+            "explanation": "飼い主は後で分かった。"
+          },
+          {
+            "id": "b",
+            "text": "A train driver.",
+            "explanation": "運転手ではない。"
+          },
+          {
+            "id": "c",
+            "text": "Her cousin abroad.",
+            "explanation": "いとこは出てこない。"
+          },
+          {
+            "id": "d",
+            "text": "Her father.",
+            "explanation": "まず父に電話した。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "まず父に電話した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "She called her father"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "飼い主への連絡に使ったものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The dog's new name.",
+            "explanation": "名前は分からない。"
+          },
+          {
+            "id": "b",
+            "text": "A ticket from the shop.",
+            "explanation": "切符は使っていない。"
+          },
+          {
+            "id": "c",
+            "text": "A number inside the collar.",
+            "explanation": "首輪内の番号を使った。"
+          },
+          {
+            "id": "d",
+            "text": "A map on a classroom wall.",
+            "explanation": "地図ではない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "首輪内の番号を使った。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "The officer called the number"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "Her classmates asked several questions, and the teacher wrote useful local contact information on the board.",
+        "start": 168,
+        "end": 276,
+        "translation": "級友がいくつも質問し、先生は役立つ地域の連絡先を板に書いた。",
+        "explanation": "andが二つの節を結ぶ。前半はSVO、後半の節には別の主語the teacherがある。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Her classmates",
+            "start": 168,
+            "end": 182
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "asked",
+            "start": 183,
+            "end": 188
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "several questions",
+            "start": 189,
+            "end": 206
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "the teacher wrote useful local contact information on the board",
+            "start": 212,
+            "end": 275
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 166,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "collar",
+        "meaning": "首輪"
+      },
+      {
+        "english": "invisible",
+        "meaning": "見えない"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f02-04",
+    "level": 1,
+    "format": 2,
+    "title": "学校放送の速さ",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Daichi joined the school radio team because he liked talking. His first job was to announce the rules for a music competition. He practiced reading the message as fast as the older members. During the real announcement, he finished early and felt proud. Later, however, several students came to the radio room to ask when they had to send in their names. They had not caught the date.",
+        "translation": "ダイチは話すのが好きで放送部に入った。初仕事は音楽大会の規則の案内だった。上級生並みに速く読む練習をし、本番は早く終えて誇らしかった。ところが後で、生徒が何人も名前の提出期限を尋ねに来た。日付を聞き取れなかったのだ。"
+      },
+      {
+        "id": "p2",
+        "english": "A senior member listened to the recording with him. She said that speed was less important than speaking [1]. Daichi added short pauses before dates and place names. He asked a friend to listen without looking at the written message. This time, the friend could repeat all the important details correctly.",
+        "translation": "上級生と録音を聞くと、速さより明瞭に話すことが重要だと言われた。日付や場所の名の前に短い間を入れた。原稿を見ず聞くよう友人に頼むと、今度は重要な詳細を全て正しく言い直せた。"
+      },
+      {
+        "id": "p3",
+        "english": "For his next announcement, Daichi spoke more slowly. He still sounded lively, but he gave listeners time to understand. Only one student asked a question afterward, and it was about a rule that was not included in the message. Daichi began judging his work by what listeners understood, not by how quickly he finished.",
+        "translation": "次の放送ではゆっくり話した。元気な調子は保ちつつ、聞く人に理解する時間を与えた。後の質問は一人だけで、原稿に含まれない規則の話だった。速く終えたかでなく、何が伝わったかで仕事を評価するようになった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "空所[1]に入る語は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "angrily",
+            "explanation": "怒りの必要はない。"
+          },
+          {
+            "id": "b",
+            "text": "secretly",
+            "explanation": "秘密の放送ではない。"
+          },
+          {
+            "id": "c",
+            "text": "silently",
+            "explanation": "黙っては伝えられない。"
+          },
+          {
+            "id": "d",
+            "text": "clearly",
+            "explanation": "聞き手が理解できる明瞭さ。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "聞き手が理解できる明瞭さ。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "the friend could repeat all the important details correctly"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "最初の放送で伝わらなかったものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The school's address abroad.",
+            "explanation": "海外の住所は無関係。"
+          },
+          {
+            "id": "b",
+            "text": "A new lunch menu.",
+            "explanation": "給食案内ではない。"
+          },
+          {
+            "id": "c",
+            "text": "The date for sending names.",
+            "explanation": "名前の提出日が不明だった。"
+          },
+          {
+            "id": "d",
+            "text": "Daichi's favorite song.",
+            "explanation": "好みの曲の放送でない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "名前の提出日が不明だった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "They had not caught the date."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "改善のため友人に何を頼んだ？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Stop the competition.",
+            "explanation": "大会を中止していない。"
+          },
+          {
+            "id": "b",
+            "text": "Listen without reading the message.",
+            "explanation": "原稿を見ずに聞いてもらった。"
+          },
+          {
+            "id": "c",
+            "text": "Write a new competition rule.",
+            "explanation": "規則を作らせていない。"
+          },
+          {
+            "id": "d",
+            "text": "Speak faster than everyone.",
+            "explanation": "速さを競っていない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "原稿を見ずに聞いてもらった。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "listen without looking at the written message"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "Daichi added short pauses before dates and place names.",
+        "start": 110,
+        "end": 165,
+        "translation": "ダイチは日付や地名の前に短い間を入れた。",
+        "explanation": "beforeはここでは前置詞。日付と地名という二種類の名詞をつなぐ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Daichi",
+            "start": 110,
+            "end": 116
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "added",
+            "start": 117,
+            "end": 122
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "short pauses",
+            "start": 123,
+            "end": 135
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "before dates and place names",
+            "start": 136,
+            "end": 164
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 172,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "announcement",
+        "meaning": "放送・告知"
+      },
+      {
+        "english": "pauses",
+        "meaning": "間・休止"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f02-05",
+    "level": 1,
+    "format": 2,
+    "title": "同じ景色を描く三人",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Three friends joined an outdoor painting class by a lake. They sat close together and looked at the same bridge. When they finished their first pictures, their work looked very different. Jun painted the shape of the bridge carefully. Miki used bright colors to show the sunlight. Leo included a family walking across the bridge. Jun worried that two of them must have done the task incorrectly.",
+        "translation": "友人三人は湖畔の屋外絵画教室に参加し、近くに座って同じ橋を見た。最初の絵が完成すると全く違った。ジュンは橋の形を丁寧に描き、ミキは日光を明るい色で表し、レオは橋を渡る家族を描いた。ジュンは二人が課題を間違えたのではと心配した。"
+      },
+      {
+        "id": "p2",
+        "english": "Their teacher placed the pictures side by side. She asked each person what had first attracted their attention. The answers were [1], just like the pictures. She explained that the task was to observe the scene, not to produce three copies of one painting. Each person had noticed a real part of the same place.",
+        "translation": "先生は絵を並べ、最初に何に目を引かれたか一人ずつ尋ねた。答えも絵のように異なっていた。課題は景色を観察することで、一枚の絵の複製を三つ作ることではないと説明した。それぞれ同じ場所の本当の一面に気づいていたのだ。"
+      },
+      {
+        "id": "p3",
+        "english": "For the next picture, the friends moved to another seat and shared what they could see. Jun added people to his painting for the first time. He did not stop caring about shapes, but he began looking for details that he had ignored before.",
+        "translation": "次は別の席へ移り、見えるものを共有した。ジュンは初めて人を描き加えた。形を気にしなくなったのではなく、それまで見落とした細部も探すようになった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "空所[1]に合う語は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "silent",
+            "explanation": "実際に答えている。"
+          },
+          {
+            "id": "b",
+            "text": "broken",
+            "explanation": "壊れた答えではない。"
+          },
+          {
+            "id": "c",
+            "text": "different",
+            "explanation": "注目した対象が人ごとに違う。"
+          },
+          {
+            "id": "d",
+            "text": "identical",
+            "explanation": "同じ答えではない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "注目した対象が人ごとに違う。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Jun painted the shape of the bridge carefully."
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "先生が求めていたことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Painting without looking outside.",
+            "explanation": "実際の景色を見る。"
+          },
+          {
+            "id": "b",
+            "text": "Observing the scene.",
+            "explanation": "景色を観察する課題だった。"
+          },
+          {
+            "id": "c",
+            "text": "Making identical copies.",
+            "explanation": "同じ複製が目的でない。"
+          },
+          {
+            "id": "d",
+            "text": "Avoiding all bright colors.",
+            "explanation": "明るい色は禁じていない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "景色を観察する課題だった。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "the task was to observe the scene"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "次の絵でジュンが初めて加えたものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "People.",
+            "explanation": "初めて人を加えた。"
+          },
+          {
+            "id": "b",
+            "text": "A new lake.",
+            "explanation": "湖を新設したのではない。"
+          },
+          {
+            "id": "c",
+            "text": "A written price list.",
+            "explanation": "値札ではない。"
+          },
+          {
+            "id": "d",
+            "text": "Three identical bridges.",
+            "explanation": "同じ橋を三つ描いていない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "初めて人を加えた。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "Jun added people to his painting for the first time."
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "Jun added people to his painting for the first time.",
+        "start": 88,
+        "end": 140,
+        "translation": "ジュンは初めて自分の絵に人を加えた。",
+        "explanation": "add A to BでAをBに加える。for the first timeは初回の経験を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Jun",
+            "start": 88,
+            "end": 91
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "added",
+            "start": 92,
+            "end": 97
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "people",
+            "start": 98,
+            "end": 104
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "to his painting",
+            "start": 105,
+            "end": 120
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "for the first time",
+            "start": 121,
+            "end": 139
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 165,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "observe",
+        "meaning": "観察する"
+      },
+      {
+        "english": "scene",
+        "meaning": "景色・場面"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f02-06",
+    "level": 1,
+    "format": 2,
+    "title": "坂道の自転車地図",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A town gave new residents a map of bicycle routes. The map showed the shortest way between the station and the swimming pool. Yuto followed it on his first visit. The route was short, but one hill was so steep that he had to walk beside his bicycle. At the pool, he met a girl who had arrived by another road. Her route was longer, yet she said it was easier.",
+        "translation": "町は新しい住民に自転車道の地図を配った。駅とプール間の最短経路が示され、ユウトは初訪問でたどった。短いが急坂で自転車を押す必要があった。プールで別の道を来た女子に会った。距離は長いが楽だという。"
+      },
+      {
+        "id": "p2",
+        "english": "Yuto tried her route the next weekend. It followed a river and had almost no hills. He reached the pool feeling less tired. He realized that the [1] route was not always the most comfortable one. Distance was only one thing that mattered when choosing a road.",
+        "translation": "翌週末にその道を試すと、川沿いで坂がほとんどなかった。前より疲れず着き、最短が常に最も快適とは限らないと気づいた。道を選ぶ時、距離は大切な要素の一つにすぎなかった。"
+      },
+      {
+        "id": "p3",
+        "english": "He sent the town office a suggestion. Instead of showing only one route, the map could mark hills and offer a flatter choice. The office later added small hill symbols to its online map. Yuto was pleased that his own difficult ride had helped make the information more useful for others.",
+        "translation": "町の窓口に提案を送り、一本道だけでなく坂を記して平坦な選択肢も示してはどうかと伝えた。窓口は後にオンライン地図に小さな坂の記号を加えた。自分の苦労した走行が、他人に役立つ情報につながりうれしかった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "空所[1]に合う語は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "darkest",
+            "explanation": "明暗の比較ではない。"
+          },
+          {
+            "id": "b",
+            "text": "shortest",
+            "explanation": "最短でも楽とは限らない。"
+          },
+          {
+            "id": "c",
+            "text": "wettest",
+            "explanation": "雨やぬれ具合は論点でない。"
+          },
+          {
+            "id": "d",
+            "text": "oldest",
+            "explanation": "道の古さではない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "最短でも楽とは限らない。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "The route was short, but one hill was so steep"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "女子の経路はどこを通った？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Along a river.",
+            "explanation": "川沿いだった。"
+          },
+          {
+            "id": "b",
+            "text": "Inside the swimming pool.",
+            "explanation": "プール内部の道でない。"
+          },
+          {
+            "id": "c",
+            "text": "Across a steep mountain.",
+            "explanation": "坂がほとんどなかった。"
+          },
+          {
+            "id": "d",
+            "text": "Through a closed station.",
+            "explanation": "閉鎖駅を通っていない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "川沿いだった。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "It followed a river"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "町のオンライン地図に加わったものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Only swimming prices.",
+            "explanation": "料金の変更でない。"
+          },
+          {
+            "id": "b",
+            "text": "Photographs of every bicycle.",
+            "explanation": "全自転車の写真でない。"
+          },
+          {
+            "id": "c",
+            "text": "A list of residents' names.",
+            "explanation": "個人名を掲載していない。"
+          },
+          {
+            "id": "d",
+            "text": "Hill symbols.",
+            "explanation": "坂の記号を加えた。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "坂の記号を加えた。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "small hill symbols"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "He sent the town office a suggestion.",
+        "start": 0,
+        "end": 37,
+        "translation": "彼は町の窓口に提案を送った。",
+        "explanation": "sendの後に受取人と送る物が並ぶ。Heはユウトを指す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "He",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "sent",
+            "start": 3,
+            "end": 7
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the town office",
+            "start": 8,
+            "end": 23
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "a suggestion",
+            "start": 24,
+            "end": 36
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 168,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "steep",
+        "meaning": "急な"
+      },
+      {
+        "english": "flatter",
+        "meaning": "より平坦な"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f02-07",
+    "level": 1,
+    "format": 2,
+    "title": "道具を貸す店",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A small shop near Haru's home began lending tools on Sundays. People could borrow a drill or a ladder instead of buying one for a single job. Haru's family needed a ladder to clean a high window. At the shop, his mother filled out a form and chose a return time. The owner explained that the tools had to be checked before they were lent to another customer.",
+        "translation": "ハルの家の近くの小さな店は日曜に工具の貸出しを始めた。一回の作業のため買わず、ドリルやはしごを借りられた。家族は高い窓の掃除にはしごが必要だった。母は店で用紙に記入し返却時刻を選んだ。店主は次の客に貸す前に点検が必要だと説明した。"
+      },
+      {
+        "id": "p2",
+        "english": "After cleaning the window, Haru wanted to keep the ladder until the following weekend. His mother pointed to the form. Someone else had already booked it for Monday. Returning it on time was [1] because the service worked only when each family respected the next person's plan. They brought it back that afternoon.",
+        "translation": "掃除後、ハルは翌週末まで持っていたかった。母が用紙を示すと、既に月曜の予約があった。各家庭が次の人の計画を尊重してこそ成り立つため、時間どおりの返却が重要だった。その午後に返した。"
+      },
+      {
+        "id": "p3",
+        "english": "The owner checked the ladder and thanked them. Haru saw that borrowing was not simply a way to save money. It also connected different households. A small delay for one family could become a much larger problem for another. He remembered this when he borrowed other things later.",
+        "translation": "店主ははしごを点検して感謝した。借りることは節約だけでなく家庭同士をつなぐのだとハルは気づいた。一家の小さな遅れが別の家の大問題になりうる。後で他の物を借りる時もそれを思い出した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "空所[1]に合う語は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "important",
+            "explanation": "次の利用者の予定を守るため重要。"
+          },
+          {
+            "id": "b",
+            "text": "impossible",
+            "explanation": "実際に返却できた。"
+          },
+          {
+            "id": "c",
+            "text": "meaningless",
+            "explanation": "意味がないのではない。"
+          },
+          {
+            "id": "d",
+            "text": "dangerous",
+            "explanation": "返却自体は危険でない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "次の利用者の予定を守るため重要。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "Someone else had already booked it for Monday."
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "貸出し前に店がすることは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Paint every tool red.",
+            "explanation": "毎回の塗装はない。"
+          },
+          {
+            "id": "b",
+            "text": "Give tools away permanently.",
+            "explanation": "返却が必要な貸出しだ。"
+          },
+          {
+            "id": "c",
+            "text": "Close for a whole month.",
+            "explanation": "月単位で閉めない。"
+          },
+          {
+            "id": "d",
+            "text": "Check the tools.",
+            "explanation": "次の貸出し前に点検する。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "次の貸出し前に点検する。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "the tools had to be checked"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "はしごはいつ返した？",
+        "options": [
+          {
+            "id": "a",
+            "text": "After keeping it for a month.",
+            "explanation": "一カ月保有していない。"
+          },
+          {
+            "id": "b",
+            "text": "Never.",
+            "explanation": "きちんと返却した。"
+          },
+          {
+            "id": "c",
+            "text": "That afternoon.",
+            "explanation": "同じ日の午後に返した。"
+          },
+          {
+            "id": "d",
+            "text": "The following winter.",
+            "explanation": "冬まで待っていない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "同じ日の午後に返した。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "They brought it back that afternoon."
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "The owner checked the ladder and thanked them.",
+        "start": 0,
+        "end": 46,
+        "translation": "店主ははしごを点検し、彼らに感謝した。",
+        "explanation": "一つの主語にcheckedとthankedという二つの動詞がandで並ぶ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The owner",
+            "start": 0,
+            "end": 9
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "checked",
+            "start": 10,
+            "end": 17
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the ladder",
+            "start": 18,
+            "end": 28
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "thanked",
+            "start": 33,
+            "end": 40
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "them",
+            "start": 41,
+            "end": 45
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 168,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "ladder",
+        "meaning": "はしご"
+      },
+      {
+        "english": "households",
+        "meaning": "家庭"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f02-08",
+    "level": 1,
+    "format": 2,
+    "title": "手作りの新聞",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "The students in Class Two decided to make a monthly newspaper. At the first meeting, nearly everyone wanted to write about the school's best football player. Their teacher asked whether the newspaper should tell readers only things they already knew. The class made a list of people whose work was useful but not often discussed. It included a cook, a library helper, and a student who watered the classroom plants.",
+        "translation": "二組は月刊新聞を作ることにした。初会議ではほぼ全員が学校一のサッカー選手を扱いたがった。先生は既知の話だけを伝えるべきかと尋ねた。クラスは役立つのにあまり話題にならない人を挙げ、調理員、図書係、教室の植物に水をやる生徒を入れた。"
+      },
+      {
+        "id": "p2",
+        "english": "They chose the cook for their first interview. She explained how she planned meals for hundreds of students while avoiding waste. The reporters asked [1] questions and wrote down her exact answers. Before printing, they showed her the article to make sure that they had understood her work correctly.",
+        "translation": "初回は調理員に取材し、大勢の生徒の食事を無駄を避けながら計画する話を聞いた。記者は注意深く質問し、正確な答えを記録した。印刷前には、仕事を正しく理解したか確認するため記事を本人に見せた。"
+      },
+      {
+        "id": "p3",
+        "english": "Many students said that they had never thought about the work behind lunch. The football player enjoyed the article too. For the next issue, the class looked for another story that could help readers notice something familiar in a new way. Being well known was no longer their only reason for choosing a subject.",
+        "translation": "給食の裏の仕事を考えたことがなかったという生徒が多かった。サッカー選手も記事を楽しんだ。次号では身近なものを新しい見方で気づかせる記事を探した。知名度だけが取材対象を選ぶ理由ではなくなった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "空所[1]に合う語は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "careless",
+            "explanation": "雑な取材ではない。"
+          },
+          {
+            "id": "b",
+            "text": "silent",
+            "explanation": "質問は声に出している。"
+          },
+          {
+            "id": "c",
+            "text": "broken",
+            "explanation": "質問が壊れる文脈でない。"
+          },
+          {
+            "id": "d",
+            "text": "careful",
+            "explanation": "正確な答えと理解を重視した。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "正確な答えと理解を重視した。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "wrote down her exact answers"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "最初に取材した相手は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The town's mayor.",
+            "explanation": "市長は登場しない。"
+          },
+          {
+            "id": "b",
+            "text": "A visiting singer.",
+            "explanation": "歌手ではない。"
+          },
+          {
+            "id": "c",
+            "text": "A cook.",
+            "explanation": "調理員を選んだ。"
+          },
+          {
+            "id": "d",
+            "text": "The football player.",
+            "explanation": "選手は初案だった。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "調理員を選んだ。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "They chose the cook for their first interview."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "印刷前にしたことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Print without checking anything.",
+            "explanation": "内容を確認している。"
+          },
+          {
+            "id": "b",
+            "text": "Show the article to the interviewee.",
+            "explanation": "本人に記事を確認してもらった。"
+          },
+          {
+            "id": "c",
+            "text": "Remove all questions.",
+            "explanation": "質問の全削除ではない。"
+          },
+          {
+            "id": "d",
+            "text": "Ask readers to buy football tickets.",
+            "explanation": "切符販売は無関係。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "本人に記事を確認してもらった。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "they showed her the article"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "They chose the cook for their first interview.",
+        "start": 0,
+        "end": 46,
+        "translation": "彼らは初回の取材相手に調理員を選んだ。",
+        "explanation": "choseはchooseの過去形。for以下は何のための選択かを示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "chose",
+            "start": 5,
+            "end": 10
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the cook",
+            "start": 11,
+            "end": 19
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "for their first interview",
+            "start": 20,
+            "end": 45
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 172,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "article",
+        "meaning": "記事"
+      },
+      {
+        "english": "issue",
+        "meaning": "号"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f02-09",
+    "level": 1,
+    "format": 2,
+    "title": "水を集めるタンク",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A community garden used a long hose to water its plants. During a dry summer, the gardeners wanted to use less drinking water. One member suggested collecting rain from the roof of their small storehouse. They placed a tank under a pipe and waited for the next rainy day. The tank filled quickly, and everyone was pleased until they noticed leaves floating on the surface.",
+        "translation": "共同菜園では長いホースで水やりをしていた。乾燥した夏、飲料水の使用を減らそうと、物置の屋根の雨を集める案が出た。管の下にタンクを置いて雨を待つとすぐ満ちたが、水面に葉が浮いていることに気づいた。"
+      },
+      {
+        "id": "p2",
+        "english": "The group covered the opening with a strong net. Water could pass through it, [1] most leaves stayed outside. They also put a clear label on the tank. The collected water was for the garden, not for drinking. Children could help water the plants, but an adult always checked the tank first.",
+        "translation": "一同は口を丈夫な網で覆った。水は通るが大半の葉は入らなかった。分かりやすいラベルも付けた。集めた水は菜園用で、飲料用ではない。子供も水やりを手伝えるが、大人が必ず先にタンクを確認した。"
+      },
+      {
+        "id": "p3",
+        "english": "By the end of the summer, the gardeners were using the hose less often. They had not stopped needing water, and the tank was sometimes empty. Still, it gave them another source when rain had fallen. They planned to keep a simple record of rainy days and water use the following year.",
+        "translation": "夏の終わりにはホースを使う回数が減った。水が不要になったわけではなく、タンクが空の時もあった。それでも雨の後は別の水源になった。翌年は雨の日と使用量の簡単な記録を残す計画を立てた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "空所[1]に入る語は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "unless",
+            "explanation": "例外条件ではない。"
+          },
+          {
+            "id": "b",
+            "text": "before",
+            "explanation": "時間順序を述べていない。"
+          },
+          {
+            "id": "c",
+            "text": "but",
+            "explanation": "水は通るが葉は残るという対比。"
+          },
+          {
+            "id": "d",
+            "text": "because",
+            "explanation": "葉が残ることが水の通過原因でない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "水は通るが葉は残るという対比。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "most leaves stayed outside"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "タンクの水の用途は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Filling a swimming pool.",
+            "explanation": "プール用ではない。"
+          },
+          {
+            "id": "b",
+            "text": "Watering the garden.",
+            "explanation": "菜園への水やり用。"
+          },
+          {
+            "id": "c",
+            "text": "Drinking at lunch.",
+            "explanation": "飲まないと明記。"
+          },
+          {
+            "id": "d",
+            "text": "Washing library books.",
+            "explanation": "本洗いの記述はない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "菜園への水やり用。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "The collected water was for the garden, not for drinking."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "翌年にする予定は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Record rainy days and water use.",
+            "explanation": "雨と使用量を記録する。"
+          },
+          {
+            "id": "b",
+            "text": "Throw away all plants.",
+            "explanation": "植物は捨てない。"
+          },
+          {
+            "id": "c",
+            "text": "Use only bottled water.",
+            "explanation": "ペットボトル限定でない。"
+          },
+          {
+            "id": "d",
+            "text": "Remove every safety label.",
+            "explanation": "ラベルは注意喚起に使う。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "雨と使用量を記録する。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "keep a simple record of rainy days and water use"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The group covered the opening with a strong net.",
+        "start": 0,
+        "end": 48,
+        "translation": "一同は口を丈夫な網で覆った。",
+        "explanation": "withは手段・道具を表す。coveredの目的語はthe opening。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The group",
+            "start": 0,
+            "end": 9
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "covered",
+            "start": 10,
+            "end": 17
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the opening",
+            "start": 18,
+            "end": 29
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "with a strong net",
+            "start": 30,
+            "end": 47
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 168,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "surface",
+        "meaning": "表面"
+      },
+      {
+        "english": "source",
+        "meaning": "供給源"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "reading-l1-f02-10",
+    "level": 1,
+    "format": 2,
+    "title": "音のない映画の夕べ",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "The film club planned to show a short movie at a school event. Some scenes depended on quiet conversation, but the hall was close to a busy street. During practice, passing buses made the words difficult to hear. The members first thought about turning the speakers up. Their teacher suggested another way: adding written lines at the bottom of the screen.",
+        "translation": "映画部は学校行事で短編を上映する計画だった。静かな会話が重要な場面もあったが、会場は交通量の多い通りの近くだった。練習ではバスの音で言葉が聞こえにくかった。最初は音量を上げようとしたが、先生は画面下に文字を付ける別案を出した。"
+      },
+      {
+        "id": "p2",
+        "english": "The club added subtitles and checked them carefully. The words had to remain on screen long enough to read. They also had to match what the characters were saying. This took more time than expected. [1], the club finished the work before the event and invited students to watch from the back of the hall.",
+        "translation": "部は字幕を付けて丁寧に確認した。読める時間だけ画面に残し、登場人物の発言にも合わせる必要があった。予想より時間がかかったが、行事前には完成し、会場の後ろから見るよう生徒を招いた。"
+      },
+      {
+        "id": "p3",
+        "english": "The viewers could follow the story even when a bus passed outside. One student said that the subtitles also helped her understand an unfamiliar word. The club decided to keep them in future films. A change made for one problem had turned out to be useful in several ways.",
+        "translation": "外をバスが通っても観客は筋を追えた。字幕で知らない語も分かったという生徒がいた。部は今後も字幕を残すことにした。一つの問題への変更が、複数の点で役立ったのだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "空所[1]に合う語は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Otherwise",
+            "explanation": "別条件の結果ではない。"
+          },
+          {
+            "id": "b",
+            "text": "However",
+            "explanation": "時間はかかったが間に合ったという逆接。"
+          },
+          {
+            "id": "c",
+            "text": "Therefore",
+            "explanation": "時間超過から直接完成する因果ではない。"
+          },
+          {
+            "id": "d",
+            "text": "For example",
+            "explanation": "完成は具体例としての提示でない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "時間はかかったが間に合ったという逆接。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "This took more time than expected."
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "聞き取りを妨げたものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Buses passing the hall.",
+            "explanation": "近くを通るバスの音。"
+          },
+          {
+            "id": "b",
+            "text": "A silent screen.",
+            "explanation": "無音画面が原因ではない。"
+          },
+          {
+            "id": "c",
+            "text": "Students reading at home.",
+            "explanation": "家庭での読書は無関係。"
+          },
+          {
+            "id": "d",
+            "text": "A broken classroom clock.",
+            "explanation": "時計の故障ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "近くを通るバスの音。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "passing buses made the words difficult to hear"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "字幕にはどんな別の効果があった？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Making every film shorter.",
+            "explanation": "映画自体を短くしていない。"
+          },
+          {
+            "id": "b",
+            "text": "Stopping all traffic.",
+            "explanation": "交通は止めていない。"
+          },
+          {
+            "id": "c",
+            "text": "Removing the need for a screen.",
+            "explanation": "画面は依然必要。"
+          },
+          {
+            "id": "d",
+            "text": "Helping with an unfamiliar word.",
+            "explanation": "知らない語の理解にも役立った。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "知らない語の理解にも役立った。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "the subtitles also helped her understand an unfamiliar word"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The club added subtitles and checked them carefully.",
+        "start": 0,
+        "end": 52,
+        "translation": "部は字幕を付け、丁寧に確認した。",
+        "explanation": "themはsubtitlesを受ける。carefullyは確認の仕方を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The club",
+            "start": 0,
+            "end": 8
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "added",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "subtitles",
+            "start": 15,
+            "end": 24
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "checked",
+            "start": 29,
+            "end": 36
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "them",
+            "start": 37,
+            "end": 41
+          },
+          {
+            "id": "n6",
+            "role": "M",
+            "text": "carefully",
+            "start": 42,
+            "end": 51
+          }
+        ],
+        "relations": [
+          {
+            "from": "n6",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 164,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "subtitles",
+        "meaning": "字幕"
+      },
+      {
+        "english": "viewers",
+        "meaning": "観客・視聴者"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    }
   }
 ]
