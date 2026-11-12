@@ -1,22 +1,47 @@
 {
-  "updatedAt": "2026-11-12T10:39:48.431104+00:00",
-  "level": 1,
-  "authoredPassages": 100,
-  "countsByFormat": [
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    10
-  ],
-  "totalQuestions": 300,
-  "totalWords": 16342,
-  "complete": true,
+  "updatedAt": "2026-11-12T14:14:58.763232+00:00",
+  "authoredPassages": 120,
+  "totalQuestions": 360,
+  "totalWords": 19886,
+  "levels": {
+    "1": {
+      "authoredPassages": 100,
+      "countsByFormat": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "totalQuestions": 300,
+      "totalWords": 16342,
+      "complete": true
+    },
+    "2": {
+      "authoredPassages": 20,
+      "countsByFormat": [
+        10,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "totalQuestions": 60,
+      "totalWords": 3544,
+      "complete": false
+    }
+  },
+  "complete": false,
   "humanReviewed": false,
   "productionApproved": false,
   "batches": [
@@ -29,6 +54,8 @@
     "content/readings/l1_f07.json",
     "content/readings/l1_f08.json",
     "content/readings/l1_f09.json",
-    "content/readings/l1_f10.json"
+    "content/readings/l1_f10.json",
+    "content/readings/l2_f01.json",
+    "content/readings/l2_f02.json"
   ]
 }
