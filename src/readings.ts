@@ -2,7 +2,7 @@ import type { Level, State } from './model';
 export const readingFormats = ['内容一致','語句空所補充','文・節の空所補充','主題・タイトル','指示語','推論','文挿入','段落整序','要約','語句の意味推測'];
 export interface Paragraph { id: string; english: string; translation: string }
 export interface ReadingQuestion { id: string; prompt: string; options: { id: string; text: string; explanation: string }[]; correctOptionId: string; explanation: string; evidence: { paragraphId: string; quote: string } }
-export interface SyntaxNode { id: string; role: 'S'|'V'|'O'|'C'|'M'|'clause'|'phrase'; text: string; start: number; end: number }
+export interface SyntaxNode { depth?:number; kind?:string; id: string; role: 'S'|'V'|'O'|'C'|'M'|'clause'|'phrase'; text: string; start: number; end: number }
 export interface ReadingSyntax { sentenceId?:string; skeleton?:string; grammarPoints?:string[]; readingOrder?:string; id: string; paragraphId: string; sentence: string; start: number; end: number; translation: string; explanation: string; spans: SyntaxNode[]; relations: {from:string;to:string;type:string}[] }
 export interface ReadingDifficulty { scores: { vocabulary:number; syntax:number; logic:number; questions:number }; method:string; status:string; rationale?:string }
 export interface Passage { difficulty?: ReadingDifficulty; id: string; level: Level; format: number; title: string; paragraphs: Paragraph[]; questions: ReadingQuestion[]; syntax: ReadingSyntax[]; recommendedSeconds: number; wordCount: number; vocabulary: {english:string;meaning:string}[]; paragraphOrder?: string[]; insert?: {sentence:string;translation:string} }

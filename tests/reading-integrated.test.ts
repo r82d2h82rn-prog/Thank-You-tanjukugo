@@ -10,7 +10,7 @@ test('sentence splitting keeps abbreviations, decimal numbers and quoted endings
  assert.deepEqual(sentenceRanges('p1',text).map(x=>x.english),['Dr. Lee measured 3.5 cm.','"Is it ready?"','Yes, it is.']);
  for(const s of sentenceRanges('p1',text))assert.equal(text.slice(s.start,s.end),s.english);
 });
-test('five preserved texts have aligned translations and syntax for every sentence',()=>{
+test('preserved revision texts have aligned translations and syntax for every sentence',()=>{
  for(const p of enriched){
   const old=legacy.find(x=>x.id===p.id)!;assert.equal(p.content.contentVersion,old.content.contentVersion+1);
   assert.deepEqual(p.questions.slice(0,old.questions.length),old.questions);
@@ -25,4 +25,12 @@ test('adding questions never recalculates the score saved for an earlier version
  const attempt=gradeReading(old,answers,300,'old');const before=recordReading(emptyState(),old,attempt);const snapshot=structuredClone(before.reading!.records[old.id]);
  const next=recordReading(before,current,gradeReading(current,Object.fromEntries(current.questions.map(q=>[q.id,q.correctOptionId])),500,'new'));
  assert.deepEqual(next.reading!.records[old.id].first,snapshot.first);assert.equal(next.reading!.records[old.id].first.total,3);assert.equal(next.reading!.records[old.id].latest.total,5);assert.equal(next.reading!.records[old.id].latest.contentVersion,2);assert.deepEqual(decodeState(JSON.stringify(next)),next);
+});
+test('authored nested modifier links point to their actual antecedents',()=>{
+ const sample=enriched.find(p=>p.id==='reading-l1-f01-07')!;
+ const syntax=sample.syntax.find(x=>x.sentence.includes('places where'))!;
+ const relative=syntax.spans.find(x=>x.text==='where people needed light for safety')!;
+ const head=syntax.spans.find(x=>x.text==='places')!;
+ assert.ok(syntax.relations.some(x=>x.from===relative.id&&x.to===head.id&&x.type==='modifies'));
+ for(const p of enriched)for(const syntax of p.syntax){const ids=new Set(syntax.spans.map(n=>n.id));for(const link of syntax.relations){assert.ok(ids.has(link.from));assert.ok(ids.has(link.to));assert.notEqual(link.from,link.to);}}
 });

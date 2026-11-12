@@ -6223,5 +6223,5922 @@
       "fullSyntax": "ai_checked_human_pending",
       "questionUniqueness": "ai_checked_human_pending"
     }
+  },
+  {
+    "id": "reading-l1-f01-06",
+    "level": 1,
+    "format": 1,
+    "title": "昼食を残さない工夫",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "At West School, the lunch team measured the food left on students' plates for one week. They did not write down any student's name. They only wanted to know which dishes were often left unfinished. The results surprised them. Many students left rice on Mondays, but they ate nearly all of it on Fridays. The amount of rice served was the same on both days.",
+        "translation": "ウェスト校では、給食班が一週間、生徒の皿に残った食べ物の量を測った。彼らはどの生徒の名前も書き留めなかった。知りたかったのは、どの料理が食べ終わらずに残されることが多いかだけだった。結果は彼らを驚かせた。多くの生徒は月曜日にご飯を残したが、金曜日にはそのほとんど全てを食べた。出されたご飯の量は、両日とも同じだった。"
+      },
+      {
+        "id": "p2",
+        "english": "The team asked students about their lunch break. On Mondays, a popular ball game started soon after lunch. Some students ate quickly so that they could join it. On Fridays, the library opened later, and students felt less hurried. The problem was not simply that they disliked the food.",
+        "translation": "給食班は生徒たちに昼休みについて尋ねた。月曜日には人気のある球技が昼食のすぐ後に始まった。一部の生徒は、それに参加できるように急いで食べた。金曜日には図書館がもっと遅く開き、生徒たちはそれほど急かされていると感じなかった。問題は、単に生徒が食べ物を嫌っていたということではなかった。"
+      },
+      {
+        "id": "p3",
+        "english": "The school moved the Monday game ten minutes later. During the next month, less rice was thrown away. The lunch team learned to look at students' schedules as well as their plates. They continued measuring leftovers once each month to see whether the change still helped.",
+        "translation": "学校は月曜の球技の開始を十分遅らせた。次の一か月の間には、捨てられるご飯が少なくなった。給食班は、皿だけでなく生徒の予定にも目を向けることを学んだ。彼らは変更がまだ役立っているか確かめるため、毎月一度、食べ残しを測り続けた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "調査で記録しなかったものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Differences between days.",
+            "explanation": "曜日を比較した。"
+          },
+          {
+            "id": "b",
+            "text": "The amount of rice.",
+            "explanation": "ご飯の量も確認した。"
+          },
+          {
+            "id": "c",
+            "text": "Students' names.",
+            "explanation": "個人名は記録しなかった。"
+          },
+          {
+            "id": "d",
+            "text": "The food left on plates.",
+            "explanation": "残食は調べた。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "個人名は記録しなかった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "They did not write down any student's name."
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "月曜にご飯が残りやすかった理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Everyone disliked rice.",
+            "explanation": "嫌いと決めつけられない。"
+          },
+          {
+            "id": "b",
+            "text": "Some students hurried to join a game.",
+            "explanation": "球技に参加するため急いだ。"
+          },
+          {
+            "id": "c",
+            "text": "Rice was never served on Fridays.",
+            "explanation": "金曜もご飯は出る。"
+          },
+          {
+            "id": "d",
+            "text": "The plates were smaller on Mondays.",
+            "explanation": "皿の大きさは理由でない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "球技に参加するため急いだ。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "Some students ate quickly so that they could join it."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "学校が変えたものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The starting time of a game.",
+            "explanation": "球技の開始を遅らせた。"
+          },
+          {
+            "id": "b",
+            "text": "Every student's name.",
+            "explanation": "名前は変えない。"
+          },
+          {
+            "id": "c",
+            "text": "The library building.",
+            "explanation": "建物は変えていない。"
+          },
+          {
+            "id": "d",
+            "text": "All the lunch dishes.",
+            "explanation": "料理全ての変更ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "球技の開始を遅らせた。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "The school moved the Monday game ten minutes later."
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "変更後の効果を確かめ続けるため、給食班は何をしたか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "毎月一度、食べ残しを測った",
+            "explanation": "once each monthに対応し、変更後の効果を継続して調べた。"
+          },
+          {
+            "id": "b",
+            "text": "生徒ごとの成績を公表した",
+            "explanation": "個人名も記録しない調査であり、成績の公表はしていない。"
+          },
+          {
+            "id": "c",
+            "text": "金曜の図書館を閉鎖した",
+            "explanation": "金曜の図書館の開館が遅いことは説明されるが、閉鎖はしていない。"
+          },
+          {
+            "id": "d",
+            "text": "毎週ご飯の量を倍にした",
+            "explanation": "両日のご飯の量は同じであり、量を倍にする変更ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "once each monthに対応し、変更後の効果を継続して調べた。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "once each month"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f01-06:p1-s001",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "At West School, the lunch team measured the food left on students' plates for one week.",
+        "start": 0,
+        "end": 87,
+        "translation": "ウェスト校では、給食班が一週間、生徒の皿に残った食べ物の量を測った。",
+        "explanation": "leftはfoodを後ろから修飾する過去分詞で『残された』。measuredが主節の動詞。for one weekは測定を続けた期間。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "At West School",
+            "start": 0,
+            "end": 14
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the lunch team",
+            "start": 16,
+            "end": 30
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "measured",
+            "start": 31,
+            "end": 39
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "the food",
+            "start": 40,
+            "end": 48
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "left on students' plates",
+            "start": 49,
+            "end": 73
+          },
+          {
+            "id": "n6",
+            "role": "M",
+            "text": "for one week",
+            "start": 74,
+            "end": 86
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n4",
+            "type": "modifies"
+          },
+          {
+            "from": "n6",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: the lunch team / V: measured / O: the food",
+        "grammarPoints": [
+          "leftはfoodを後ろから修飾する過去分詞で『残された』。measuredが主節の動詞。for one weekは測定を続けた期間。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p1-s002",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "They did not write down any student's name.",
+        "start": 88,
+        "end": 131,
+        "translation": "彼らはどの生徒の名前も書き留めなかった。",
+        "explanation": "否定文のanyは一人も例外を認めない範囲を示す。write downで記録するという意味。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 88,
+            "end": 92
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not write down",
+            "start": 93,
+            "end": 111
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "any student's name",
+            "start": 112,
+            "end": 130
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: They / V: did not write down / O: any student's name",
+        "grammarPoints": [
+          "否定文のanyは一人も例外を認めない範囲を示す。write downで記録するという意味。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p1-s003",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "They only wanted to know which dishes were often left unfinished.",
+        "start": 132,
+        "end": 197,
+        "translation": "知りたかったのは、どの料理が食べ終わらずに残されることが多いかだけだった。",
+        "explanation": "which dishesが間接疑問節の主語、were leftが受動態、unfinishedが残った料理の状態。onlyは知りたい内容の限定。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 132,
+            "end": 136
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "only wanted",
+            "start": 137,
+            "end": 148
+          },
+          {
+            "id": "n3",
+            "role": "phrase",
+            "text": "to know",
+            "start": 149,
+            "end": 156
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "which dishes were often left unfinished",
+            "start": 157,
+            "end": 196
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: They / V: only wanted",
+        "grammarPoints": [
+          "which dishesが間接疑問節の主語、were leftが受動態、unfinishedが残った料理の状態。onlyは知りたい内容の限定。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p1-s004",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "The results surprised them.",
+        "start": 198,
+        "end": 225,
+        "translation": "結果は彼らを驚かせた。",
+        "explanation": "surpriseは『人を驚かせる』という他動詞。themは給食班。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The results",
+            "start": 198,
+            "end": 209
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "surprised",
+            "start": 210,
+            "end": 219
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "them",
+            "start": 220,
+            "end": 224
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The results / V: surprised / O: them",
+        "grammarPoints": [
+          "surpriseは『人を驚かせる』という他動詞。themは給食班。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p1-s005",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s005",
+        "sentence": "Many students left rice on Mondays, but they ate nearly all of it on Fridays.",
+        "start": 226,
+        "end": 303,
+        "translation": "多くの生徒は月曜日にご飯を残したが、金曜日にはそのほとんど全てを食べた。",
+        "explanation": "butで曜日ごとの行動を対比。itはrice。nearly allはほぼ全部であり、例外なく全部とまでは断定しない。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Many students",
+            "start": 226,
+            "end": 239
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "left",
+            "start": 240,
+            "end": 244
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "rice",
+            "start": 245,
+            "end": 249
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "on Mondays",
+            "start": 250,
+            "end": 260
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "they ate nearly all of it on Fridays",
+            "start": 266,
+            "end": 302
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: Many students / V: left / O: rice",
+        "grammarPoints": [
+          "butで曜日ごとの行動を対比。itはrice。nearly allはほぼ全部であり、例外なく全部とまでは断定しない。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p1-s006",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s006",
+        "sentence": "The amount of rice served was the same on both days.",
+        "start": 304,
+        "end": 356,
+        "translation": "出されたご飯の量は、両日とも同じだった。",
+        "explanation": "主語の中心はamountで単数。servedはriceを修飾する過去分詞。both daysは月曜日と金曜日。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The amount of rice",
+            "start": 304,
+            "end": 322
+          },
+          {
+            "id": "n2",
+            "role": "phrase",
+            "text": "served",
+            "start": 323,
+            "end": 329,
+            "depth": 2,
+            "kind": "past-participle"
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "was",
+            "start": 330,
+            "end": 333
+          },
+          {
+            "id": "n4",
+            "role": "C",
+            "text": "the same",
+            "start": 334,
+            "end": 342
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "on both days",
+            "start": 343,
+            "end": 355
+          },
+          {
+            "id": "n6",
+            "role": "phrase",
+            "text": "rice",
+            "start": 318,
+            "end": 322,
+            "depth": 1,
+            "kind": "noun"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n5",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n2",
+            "to": "n6",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The amount of rice / V: was / C: the same",
+        "grammarPoints": [
+          "主語の中心はamountで単数。servedはriceを修飾する過去分詞。both daysは月曜日と金曜日。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p2-s001",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "The team asked students about their lunch break.",
+        "start": 0,
+        "end": 48,
+        "translation": "給食班は生徒たちに昼休みについて尋ねた。",
+        "explanation": "ask 人 about 話題の形。theirは生徒たちを指す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The team",
+            "start": 0,
+            "end": 8
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "asked",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "students",
+            "start": 15,
+            "end": 23
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "about their lunch break",
+            "start": 24,
+            "end": 47
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The team / V: asked / O: students",
+        "grammarPoints": [
+          "ask 人 about 話題の形。theirは生徒たちを指す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p2-s002",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "On Mondays, a popular ball game started soon after lunch.",
+        "start": 49,
+        "end": 106,
+        "translation": "月曜日には人気のある球技が昼食のすぐ後に始まった。",
+        "explanation": "startedはここでは自動詞。soonはafter lunchを強め、昼食との時間の近さを示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "On Mondays",
+            "start": 49,
+            "end": 59
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "a popular ball game",
+            "start": 61,
+            "end": 80
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "started",
+            "start": 81,
+            "end": 88
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "soon after lunch",
+            "start": 89,
+            "end": 105
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: a popular ball game / V: started",
+        "grammarPoints": [
+          "startedはここでは自動詞。soonはafter lunchを強め、昼食との時間の近さを示す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p2-s003",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "Some students ate quickly so that they could join it.",
+        "start": 107,
+        "end": 160,
+        "translation": "一部の生徒は、それに参加できるように急いで食べた。",
+        "explanation": "so that節は目的。couldは過去の目的における可能性。itは球技を指す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Some students",
+            "start": 107,
+            "end": 120
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "ate",
+            "start": 121,
+            "end": 124
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "quickly",
+            "start": 125,
+            "end": 132
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "so that they could join it",
+            "start": 133,
+            "end": 159
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: Some students / V: ate",
+        "grammarPoints": [
+          "so that節は目的。couldは過去の目的における可能性。itは球技を指す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p2-s004",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "On Fridays, the library opened later, and students felt less hurried.",
+        "start": 161,
+        "end": 230,
+        "translation": "金曜日には図書館がもっと遅く開き、生徒たちはそれほど急かされていると感じなかった。",
+        "explanation": "andで二つの主節を接続。後半はstudentsが主語、feltが動詞、less hurriedが状態を示す補語。lessは月曜との比較。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "On Fridays",
+            "start": 161,
+            "end": 171
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the library",
+            "start": 173,
+            "end": 184
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "opened",
+            "start": 185,
+            "end": 191
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "later",
+            "start": 192,
+            "end": 197
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "students felt less hurried",
+            "start": 203,
+            "end": 229
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n3",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: the library / V: opened",
+        "grammarPoints": [
+          "andで二つの主節を接続。後半はstudentsが主語、feltが動詞、less hurriedが状態を示す補語。lessは月曜との比較。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p2-s005",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s005",
+        "sentence": "The problem was not simply that they disliked the food.",
+        "start": 231,
+        "end": 286,
+        "translation": "問題は、単に生徒が食べ物を嫌っていたということではなかった。",
+        "explanation": "that節は問題の内容を示す補語。not simplyなので、嫌いであることだけを理由にしてはいけないのであって、誰も嫌っていないと断定はしない。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The problem",
+            "start": 231,
+            "end": 242
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was not",
+            "start": 243,
+            "end": 250
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "simply",
+            "start": 251,
+            "end": 257
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "that they disliked the food",
+            "start": 258,
+            "end": 285
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: The problem / V: was not",
+        "grammarPoints": [
+          "that節は問題の内容を示す補語。not simplyなので、嫌いであることだけを理由にしてはいけないのであって、誰も嫌っていないと断定はしない。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p3-s001",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "The school moved the Monday game ten minutes later.",
+        "start": 0,
+        "end": 51,
+        "translation": "学校は月曜の球技の開始を十分遅らせた。",
+        "explanation": "moveはここでは開催時刻をずらす意味。ten minutesはlaterの差の大きさ。 既存解説：movedは予定を移したという意味。ten minutes laterが変更後の時刻差を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The school",
+            "start": 0,
+            "end": 10
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "moved",
+            "start": 11,
+            "end": 16
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the Monday game",
+            "start": 17,
+            "end": 32
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "ten minutes later",
+            "start": 33,
+            "end": 50
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The school / V: moved / O: the Monday game",
+        "grammarPoints": [
+          "moveはここでは開催時刻をずらす意味。ten minutesはlaterの差の大きさ。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p3-s002",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "During the next month, less rice was thrown away.",
+        "start": 52,
+        "end": 101,
+        "translation": "次の一か月の間には、捨てられるご飯が少なくなった。",
+        "explanation": "was thrown awayは受動態。riceは数えない名詞なので量の比較にlessを使う。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "During the next month",
+            "start": 52,
+            "end": 73
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "less rice",
+            "start": 75,
+            "end": 84
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "was thrown away",
+            "start": 85,
+            "end": 100
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: less rice / V: was thrown away",
+        "grammarPoints": [
+          "was thrown awayは受動態。riceは数えない名詞なので量の比較にlessを使う。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p3-s003",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "The lunch team learned to look at students' schedules as well as their plates.",
+        "start": 102,
+        "end": 180,
+        "translation": "給食班は、皿だけでなく生徒の予定にも目を向けることを学んだ。",
+        "explanation": "as well asで予定と皿の両方を見ることを示す。look atの目的にあたる対象は前置詞atの後ろ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The lunch team",
+            "start": 102,
+            "end": 116
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "learned",
+            "start": 117,
+            "end": 124
+          },
+          {
+            "id": "n3",
+            "role": "phrase",
+            "text": "to look at students' schedules as well as their plates",
+            "start": 125,
+            "end": 179
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The lunch team / V: learned",
+        "grammarPoints": [
+          "as well asで予定と皿の両方を見ることを示す。look atの目的にあたる対象は前置詞atの後ろ。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-06:p3-s004",
+        "passageId": "reading-l1-f01-06",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s004",
+        "sentence": "They continued measuring leftovers once each month to see whether the change still helped.",
+        "start": 181,
+        "end": 271,
+        "translation": "彼らは変更がまだ役立っているか確かめるため、毎月一度、食べ残しを測り続けた。",
+        "explanation": "continuedの目的語は動名詞句。to seeは測定の目的で、その内部のwhether節は『変更がなお役立ったかどうか』というseeの内容。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 181,
+            "end": 185
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "continued",
+            "start": 186,
+            "end": 195
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "measuring leftovers",
+            "start": 196,
+            "end": 215
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "once each month",
+            "start": 216,
+            "end": 231
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "to see whether the change still helped",
+            "start": 232,
+            "end": 270
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: They / V: continued / O: measuring leftovers",
+        "grammarPoints": [
+          "continuedの目的語は動名詞句。to seeは測定の目的で、その内部のwhether節は『変更がなお役立ったかどうか』というseeの内容。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      }
+    ],
+    "wordCount": 160,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "measured",
+        "meaning": "量った"
+      },
+      {
+        "english": "leftovers",
+        "meaning": "食べ残し"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "The school moved the Monday game ten minutes later.",
+        "start": 0,
+        "end": 51,
+        "translation": "学校は月曜の球技を十分遅らせた。",
+        "explanation": "movedは予定を移したという意味。ten minutes laterが変更後の時刻差を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The school",
+            "start": 0,
+            "end": 10
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "moved",
+            "start": 11,
+            "end": 16
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the Monday game",
+            "start": 17,
+            "end": 32
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "ten minutes later",
+            "start": 33,
+            "end": 50
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "At West School, the lunch team measured the food left on students' plates for one week.",
+        "translation": "ウェスト校では、給食班が一週間、生徒の皿に残った食べ物の量を測った。",
+        "start": 0,
+        "end": 87,
+        "syntaxId": "reading-l1-f01-06:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "They did not write down any student's name.",
+        "translation": "彼らはどの生徒の名前も書き留めなかった。",
+        "start": 88,
+        "end": 131,
+        "syntaxId": "reading-l1-f01-06:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "They only wanted to know which dishes were often left unfinished.",
+        "translation": "知りたかったのは、どの料理が食べ終わらずに残されることが多いかだけだった。",
+        "start": 132,
+        "end": 197,
+        "syntaxId": "reading-l1-f01-06:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "The results surprised them.",
+        "translation": "結果は彼らを驚かせた。",
+        "start": 198,
+        "end": 225,
+        "syntaxId": "reading-l1-f01-06:p1-s004"
+      },
+      {
+        "id": "p1-s005",
+        "paragraphId": "p1",
+        "english": "Many students left rice on Mondays, but they ate nearly all of it on Fridays.",
+        "translation": "多くの生徒は月曜日にご飯を残したが、金曜日にはそのほとんど全てを食べた。",
+        "start": 226,
+        "end": 303,
+        "syntaxId": "reading-l1-f01-06:p1-s005"
+      },
+      {
+        "id": "p1-s006",
+        "paragraphId": "p1",
+        "english": "The amount of rice served was the same on both days.",
+        "translation": "出されたご飯の量は、両日とも同じだった。",
+        "start": 304,
+        "end": 356,
+        "syntaxId": "reading-l1-f01-06:p1-s006"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "The team asked students about their lunch break.",
+        "translation": "給食班は生徒たちに昼休みについて尋ねた。",
+        "start": 0,
+        "end": 48,
+        "syntaxId": "reading-l1-f01-06:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "On Mondays, a popular ball game started soon after lunch.",
+        "translation": "月曜日には人気のある球技が昼食のすぐ後に始まった。",
+        "start": 49,
+        "end": 106,
+        "syntaxId": "reading-l1-f01-06:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "Some students ate quickly so that they could join it.",
+        "translation": "一部の生徒は、それに参加できるように急いで食べた。",
+        "start": 107,
+        "end": 160,
+        "syntaxId": "reading-l1-f01-06:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "On Fridays, the library opened later, and students felt less hurried.",
+        "translation": "金曜日には図書館がもっと遅く開き、生徒たちはそれほど急かされていると感じなかった。",
+        "start": 161,
+        "end": 230,
+        "syntaxId": "reading-l1-f01-06:p2-s004"
+      },
+      {
+        "id": "p2-s005",
+        "paragraphId": "p2",
+        "english": "The problem was not simply that they disliked the food.",
+        "translation": "問題は、単に生徒が食べ物を嫌っていたということではなかった。",
+        "start": 231,
+        "end": 286,
+        "syntaxId": "reading-l1-f01-06:p2-s005"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "The school moved the Monday game ten minutes later.",
+        "translation": "学校は月曜の球技の開始を十分遅らせた。",
+        "start": 0,
+        "end": 51,
+        "syntaxId": "reading-l1-f01-06:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "During the next month, less rice was thrown away.",
+        "translation": "次の一か月の間には、捨てられるご飯が少なくなった。",
+        "start": 52,
+        "end": 101,
+        "syntaxId": "reading-l1-f01-06:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "The lunch team learned to look at students' schedules as well as their plates.",
+        "translation": "給食班は、皿だけでなく生徒の予定にも目を向けることを学んだ。",
+        "start": 102,
+        "end": 180,
+        "syntaxId": "reading-l1-f01-06:p3-s003"
+      },
+      {
+        "id": "p3-s004",
+        "paragraphId": "p3",
+        "english": "They continued measuring leftovers once each month to see whether the change still helped.",
+        "translation": "彼らは変更がまだ役立っているか確かめるため、毎月一度、食べ残しを測り続けた。",
+        "start": 181,
+        "end": 271,
+        "syntaxId": "reading-l1-f01-06:p3-s004"
+      }
+    ],
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f01-07",
+    "level": 1,
+    "format": 1,
+    "title": "夜の明かりを調べる",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Riku's science club wanted to save electricity at school. Members first suggested turning off every light after classes. Their teacher asked them to check how the building was used before making a rule. For three afternoons, they walked through the school with a map. They marked empty rooms, busy rooms, and places where people needed light for safety.",
+        "translation": "リクの科学部は学校で電気を節約したかった。部員たちは最初、授業後に全ての明かりを消すことを提案した。先生は規則を作る前に、建物がどのように使われているか調べるよう彼らに頼んだ。三日間、彼らは午後に地図を持って校内を歩いて回った。彼らは空き教室、利用中の部屋、そして安全のため明かりが必要な場所に印を付けた。"
+      },
+      {
+        "id": "p2",
+        "english": "They found that some empty classrooms were bright for hours. However, the stairs near the gym were dark even when sports teams were still practicing. Simply turning off everything would not solve both problems. The club placed reminder cards near classroom switches and asked for a small light on the gym stairs.",
+        "translation": "彼らは、いくつかの空き教室が何時間も明るいままだと分かった。しかし体育館近くの階段は、運動部がまだ練習しているときでさえ暗かった。単に全て消しても、二つの問題を両方とも解決することにはならなかった。部は教室のスイッチの近くに注意カードを置き、体育館の階段に小さな明かりを求めた。"
+      },
+      {
+        "id": "p3",
+        "english": "A month later, teachers reported fewer lights left on in empty rooms. Students also said the stairs felt safer. Riku learned that using less energy did not mean using no energy. The important question was where and when electricity was really needed. The club kept its maps for the following year's members.",
+        "translation": "一か月後、先生たちは空き教室でつけたままの明かりが減ったと報告した。生徒たちも、階段がより安全に感じられるようになったと述べた。リクは、エネルギーを少なく使うことは、全く使わないことではないと学んだ。大切な問いは、どこでいつ本当に電気が必要なのかだった。部は翌年の部員のために地図を取っておいた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "規則を作る前に何を調べた？",
+        "options": [
+          {
+            "id": "a",
+            "text": "How to close the gym permanently.",
+            "explanation": "体育館閉鎖が目的でない。"
+          },
+          {
+            "id": "b",
+            "text": "How people used the building.",
+            "explanation": "建物の利用状況を調べた。"
+          },
+          {
+            "id": "c",
+            "text": "The price of every desk.",
+            "explanation": "机の値段ではない。"
+          },
+          {
+            "id": "d",
+            "text": "The colors of the classrooms.",
+            "explanation": "色の調査ではない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "建物の利用状況を調べた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "check how the building was used before making a rule"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "暗くて問題だった場所は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The stairs near the gym.",
+            "explanation": "体育館近くの階段。"
+          },
+          {
+            "id": "b",
+            "text": "Every empty classroom.",
+            "explanation": "空の教室は明るすぎた。"
+          },
+          {
+            "id": "c",
+            "text": "The science club's map.",
+            "explanation": "地図は場所ではない。"
+          },
+          {
+            "id": "d",
+            "text": "The playground at noon.",
+            "explanation": "昼の校庭ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "体育館近くの階段。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "the stairs near the gym were dark"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "本文の結論に合うものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Never use any electricity.",
+            "explanation": "全く使わない意味でない。"
+          },
+          {
+            "id": "b",
+            "text": "Keep every light on all night.",
+            "explanation": "全灯の継続ではない。"
+          },
+          {
+            "id": "c",
+            "text": "Do not check empty classrooms.",
+            "explanation": "空室の調査も重要。"
+          },
+          {
+            "id": "d",
+            "text": "Use electricity where it is needed.",
+            "explanation": "必要な時と場所を考える。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "必要な時と場所を考える。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "where and when electricity was really needed"
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "部が空き教室の消灯を促すためにしたことは何か。",
+        "options": [
+          {
+            "id": "a",
+            "text": "スイッチの近くに注意カードを置いた",
+            "explanation": "教室スイッチの近くにreminder cardsを置いたと明記される。"
+          },
+          {
+            "id": "b",
+            "text": "全ての階段を閉鎖した",
+            "explanation": "階段は閉鎖でなく安全用の照明を求めた。"
+          },
+          {
+            "id": "c",
+            "text": "電気を一日中つけた",
+            "explanation": "空き教室のつけっぱなしを減らす目的に反する。"
+          },
+          {
+            "id": "d",
+            "text": "全ての教室を暗い色に塗った",
+            "explanation": "教室の塗装を変えたという記述はない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "教室スイッチの近くにreminder cardsを置いたと明記される。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "reminder cards near classroom switches"
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "翌年の部員のために残したものは何か。",
+        "options": [
+          {
+            "id": "a",
+            "text": "調査に使った地図",
+            "explanation": "its mapsを翌年の部員のために保存したとある。"
+          },
+          {
+            "id": "b",
+            "text": "練習中の試合の記録だけ",
+            "explanation": "調査対象は校内の利用状況で、試合の記録だけを残したとはない。"
+          },
+          {
+            "id": "c",
+            "text": "全員の電気代の請求書",
+            "explanation": "電気代の個別請求書を作成・保存したとはない。"
+          },
+          {
+            "id": "d",
+            "text": "植物の写真",
+            "explanation": "植物の写真はこの長文に登場しない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "its mapsを翌年の部員のために保存したとある。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "its maps"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f01-07:p1-s001",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "Riku's science club wanted to save electricity at school.",
+        "start": 0,
+        "end": 57,
+        "translation": "リクの科学部は学校で電気を節約したかった。",
+        "explanation": "want to Vで望む行動を示す。electricityはsaveの目的語。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Riku's science club",
+            "start": 0,
+            "end": 19
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "wanted",
+            "start": 20,
+            "end": 26
+          },
+          {
+            "id": "n3",
+            "role": "phrase",
+            "text": "to save electricity at school",
+            "start": 27,
+            "end": 56
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Riku's science club / V: wanted",
+        "grammarPoints": [
+          "want to Vで望む行動を示す。electricityはsaveの目的語。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p1-s002",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "Members first suggested turning off every light after classes.",
+        "start": 58,
+        "end": 120,
+        "translation": "部員たちは最初、授業後に全ての明かりを消すことを提案した。",
+        "explanation": "suggestの後ろは動名詞句。every lightは一つ残らず全てという強い範囲を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Members",
+            "start": 58,
+            "end": 65
+          },
+          {
+            "id": "n2",
+            "role": "M",
+            "text": "first",
+            "start": 66,
+            "end": 71
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "suggested",
+            "start": 72,
+            "end": 81
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "turning off every light after classes",
+            "start": 82,
+            "end": 119
+          }
+        ],
+        "relations": [
+          {
+            "from": "n2",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Members / V: suggested / O: turning off every light after classes",
+        "grammarPoints": [
+          "suggestの後ろは動名詞句。every lightは一つ残らず全てという強い範囲を表す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p1-s003",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "Their teacher asked them to check how the building was used before making a rule.",
+        "start": 121,
+        "end": 202,
+        "translation": "先生は規則を作る前に、建物がどのように使われているか調べるよう彼らに頼んだ。",
+        "explanation": "ask O to V。how節はcheckの内容で、was usedは受動態。before making a ruleは規則を作る前の確認を求める句。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Their teacher",
+            "start": 121,
+            "end": 134
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "asked",
+            "start": 135,
+            "end": 140
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "them",
+            "start": 141,
+            "end": 145
+          },
+          {
+            "id": "n4",
+            "role": "phrase",
+            "text": "to check how the building was used before making a rule",
+            "start": 146,
+            "end": 201
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Their teacher / V: asked / O: them",
+        "grammarPoints": [
+          "ask O to V。how節はcheckの内容で、was usedは受動態。before making a ruleは規則を作る前の確認を求める句。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p1-s004",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "For three afternoons, they walked through the school with a map.",
+        "start": 203,
+        "end": 267,
+        "translation": "三日間、彼らは午後に地図を持って校内を歩いて回った。",
+        "explanation": "three afternoonsは三回の午後にわたる調査。throughは校内を通り巡る経路。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "For three afternoons",
+            "start": 203,
+            "end": 223
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "they",
+            "start": 225,
+            "end": 229
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "walked",
+            "start": 230,
+            "end": 236
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "through the school",
+            "start": 237,
+            "end": 255
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "with a map",
+            "start": 256,
+            "end": 266
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: they / V: walked",
+        "grammarPoints": [
+          "three afternoonsは三回の午後にわたる調査。throughは校内を通り巡る経路。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p1-s005",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s005",
+        "sentence": "They marked empty rooms, busy rooms, and places where people needed light for safety.",
+        "start": 268,
+        "end": 353,
+        "translation": "彼らは空き教室、利用中の部屋、そして安全のため明かりが必要な場所に印を付けた。",
+        "explanation": "where節はplacesを修飾する関係副詞節。節内はpeopleがS、neededがV、lightがO。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 268,
+            "end": 272
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "marked",
+            "start": 273,
+            "end": 279
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "empty rooms, busy rooms, and places",
+            "start": 280,
+            "end": 315
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "where people needed light for safety",
+            "start": 316,
+            "end": 352,
+            "depth": 2,
+            "kind": "relative-adverb"
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "places",
+            "start": 309,
+            "end": 315,
+            "depth": 1,
+            "kind": "antecedent"
+          },
+          {
+            "id": "n6",
+            "role": "S",
+            "text": "people",
+            "start": 322,
+            "end": 328,
+            "depth": 3,
+            "kind": "subject"
+          },
+          {
+            "id": "n7",
+            "role": "V",
+            "text": "needed",
+            "start": 329,
+            "end": 335,
+            "depth": 3,
+            "kind": "predicate"
+          },
+          {
+            "id": "n8",
+            "role": "O",
+            "text": "light",
+            "start": 336,
+            "end": 341,
+            "depth": 3,
+            "kind": "object"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: They / V: marked / O: empty rooms, busy rooms, and places",
+        "grammarPoints": [
+          "where節はplacesを修飾する関係副詞節。節内はpeopleがS、neededがV、lightがO。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p2-s001",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "They found that some empty classrooms were bright for hours.",
+        "start": 0,
+        "end": 60,
+        "translation": "彼らは、いくつかの空き教室が何時間も明るいままだと分かった。",
+        "explanation": "that節全体がfoundの目的語。節内はSVCで、for hoursは状態の継続期間。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "found",
+            "start": 5,
+            "end": 10
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that some empty classrooms were bright for hours",
+            "start": 11,
+            "end": 59
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: They / V: found",
+        "grammarPoints": [
+          "that節全体がfoundの目的語。節内はSVCで、for hoursは状態の継続期間。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p2-s002",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "However, the stairs near the gym were dark even when sports teams were still practicing.",
+        "start": 61,
+        "end": 149,
+        "translation": "しかし体育館近くの階段は、運動部がまだ練習しているときでさえ暗かった。",
+        "explanation": "even whenは本来なら明かりが必要と予想される条件でも、という意外性を示す。were practicingは節内の過去進行形。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "the stairs near the gym",
+            "start": 70,
+            "end": 93
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "were",
+            "start": 94,
+            "end": 98
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "dark",
+            "start": 99,
+            "end": 103
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "even when sports teams were still practicing",
+            "start": 104,
+            "end": 148
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: the stairs near the gym / V: were / C: dark",
+        "grammarPoints": [
+          "even whenは本来なら明かりが必要と予想される条件でも、という意外性を示す。were practicingは節内の過去進行形。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p2-s003",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "Simply turning off everything would not solve both problems.",
+        "start": 150,
+        "end": 210,
+        "translation": "単に全て消しても、二つの問題を両方とも解決することにはならなかった。",
+        "explanation": "動名詞句全体が主語。二つの問題とは空き教室の無駄な明かりと、使用中の階段の暗さ。wouldは提案を実行した場合の見込み。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Simply turning off everything",
+            "start": 150,
+            "end": 179
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "would not solve",
+            "start": 180,
+            "end": 195
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "both problems",
+            "start": 196,
+            "end": 209
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Simply turning off everything / V: would not solve / O: both problems",
+        "grammarPoints": [
+          "動名詞句全体が主語。二つの問題とは空き教室の無駄な明かりと、使用中の階段の暗さ。wouldは提案を実行した場合の見込み。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p2-s004",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "The club placed reminder cards near classroom switches and asked for a small light on the gym stairs.",
+        "start": 211,
+        "end": 312,
+        "translation": "部は教室のスイッチの近くに注意カードを置き、体育館の階段に小さな明かりを求めた。",
+        "explanation": "placedとaskedがandで並列。ask forで物を求める。on the gym stairsは明かりが必要な位置。 既存解説：The clubがplacedとaskedの共通の主語。ここでは前半のSVOと場所を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The club",
+            "start": 211,
+            "end": 219
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "placed",
+            "start": 220,
+            "end": 226
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "reminder cards",
+            "start": 227,
+            "end": 241
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "near classroom switches",
+            "start": 242,
+            "end": 265
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "asked",
+            "start": 270,
+            "end": 275
+          },
+          {
+            "id": "n6",
+            "role": "M",
+            "text": "for a small light on the gym stairs",
+            "start": 276,
+            "end": 311
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n6",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The club / V: placed / O: reminder cards / V: asked",
+        "grammarPoints": [
+          "placedとaskedがandで並列。ask forで物を求める。on the gym stairsは明かりが必要な位置。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p3-s001",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "A month later, teachers reported fewer lights left on in empty rooms.",
+        "start": 0,
+        "end": 69,
+        "translation": "一か月後、先生たちは空き教室でつけたままの明かりが減ったと報告した。",
+        "explanation": "left onはlightsを後置修飾する過去分詞句。fewerは数えられる明かりの数の減少。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "A month later",
+            "start": 0,
+            "end": 13
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "teachers",
+            "start": 15,
+            "end": 23
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "reported",
+            "start": 24,
+            "end": 32
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "fewer lights",
+            "start": 33,
+            "end": 45
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "left on in empty rooms",
+            "start": 46,
+            "end": 68
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n4",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: teachers / V: reported / O: fewer lights",
+        "grammarPoints": [
+          "left onはlightsを後置修飾する過去分詞句。fewerは数えられる明かりの数の減少。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p3-s002",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "Students also said the stairs felt safer.",
+        "start": 70,
+        "end": 111,
+        "translation": "生徒たちも、階段がより安全に感じられるようになったと述べた。",
+        "explanation": "thatを省略した内容節がsaidの目的語。節内はthe stairsがS、feltがV、saferがC。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Students",
+            "start": 70,
+            "end": 78
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "also said",
+            "start": 79,
+            "end": 88
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "the stairs felt safer",
+            "start": 89,
+            "end": 110
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: Students / V: also said",
+        "grammarPoints": [
+          "thatを省略した内容節がsaidの目的語。節内はthe stairsがS、feltがV、saferがC。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p3-s003",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "Riku learned that using less energy did not mean using no energy.",
+        "start": 112,
+        "end": 177,
+        "translation": "リクは、エネルギーを少なく使うことは、全く使わないことではないと学んだ。",
+        "explanation": "that節の主語は動名詞using less energy、目的語も動名詞using no energy。lessとnoの範囲を区別する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Riku",
+            "start": 112,
+            "end": 116
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "learned",
+            "start": 117,
+            "end": 124
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that using less energy did not mean using no energy",
+            "start": 125,
+            "end": 176
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: Riku / V: learned",
+        "grammarPoints": [
+          "that節の主語は動名詞using less energy、目的語も動名詞using no energy。lessとnoの範囲を区別する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p3-s004",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s004",
+        "sentence": "The important question was where and when electricity was really needed.",
+        "start": 178,
+        "end": 250,
+        "translation": "大切な問いは、どこでいつ本当に電気が必要なのかだった。",
+        "explanation": "whereとwhenを並べた間接疑問が補語。内部のwas neededは受動態で、where/whenの後は通常の主語・動詞の語順。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The important question",
+            "start": 178,
+            "end": 200
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was",
+            "start": 201,
+            "end": 204
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "where and when electricity was really needed",
+            "start": 205,
+            "end": 249
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: The important question / V: was",
+        "grammarPoints": [
+          "whereとwhenを並べた間接疑問が補語。内部のwas neededは受動態で、where/whenの後は通常の主語・動詞の語順。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-07:p3-s005",
+        "passageId": "reading-l1-f01-07",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s005",
+        "sentence": "The club kept its maps for the following year's members.",
+        "start": 251,
+        "end": 307,
+        "translation": "部は翌年の部員のために地図を取っておいた。",
+        "explanation": "itsは部を指す。following yearは調査した年の翌年。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The club",
+            "start": 251,
+            "end": 259
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "kept",
+            "start": 260,
+            "end": 264
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "its maps",
+            "start": 265,
+            "end": 273
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "for the following year's members",
+            "start": 274,
+            "end": 306
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The club / V: kept / O: its maps",
+        "grammarPoints": [
+          "itsは部を指す。following yearは調査した年の翌年。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      }
+    ],
+    "wordCount": 162,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "electricity",
+        "meaning": "電気"
+      },
+      {
+        "english": "reminder",
+        "meaning": "思い出させるもの"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The club placed reminder cards near classroom switches and asked for a small light on the gym stairs.",
+        "start": 211,
+        "end": 312,
+        "translation": "部は教室のスイッチ近くに注意カードを置き、体育館の階段に小さな照明を求めた。",
+        "explanation": "The clubがplacedとaskedの共通の主語。ここでは前半のSVOと場所を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The club",
+            "start": 211,
+            "end": 219
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "placed",
+            "start": 220,
+            "end": 226
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "reminder cards",
+            "start": 227,
+            "end": 241
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "near classroom switches",
+            "start": 242,
+            "end": 265
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "Riku's science club wanted to save electricity at school.",
+        "translation": "リクの科学部は学校で電気を節約したかった。",
+        "start": 0,
+        "end": 57,
+        "syntaxId": "reading-l1-f01-07:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "Members first suggested turning off every light after classes.",
+        "translation": "部員たちは最初、授業後に全ての明かりを消すことを提案した。",
+        "start": 58,
+        "end": 120,
+        "syntaxId": "reading-l1-f01-07:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "Their teacher asked them to check how the building was used before making a rule.",
+        "translation": "先生は規則を作る前に、建物がどのように使われているか調べるよう彼らに頼んだ。",
+        "start": 121,
+        "end": 202,
+        "syntaxId": "reading-l1-f01-07:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "For three afternoons, they walked through the school with a map.",
+        "translation": "三日間、彼らは午後に地図を持って校内を歩いて回った。",
+        "start": 203,
+        "end": 267,
+        "syntaxId": "reading-l1-f01-07:p1-s004"
+      },
+      {
+        "id": "p1-s005",
+        "paragraphId": "p1",
+        "english": "They marked empty rooms, busy rooms, and places where people needed light for safety.",
+        "translation": "彼らは空き教室、利用中の部屋、そして安全のため明かりが必要な場所に印を付けた。",
+        "start": 268,
+        "end": 353,
+        "syntaxId": "reading-l1-f01-07:p1-s005"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "They found that some empty classrooms were bright for hours.",
+        "translation": "彼らは、いくつかの空き教室が何時間も明るいままだと分かった。",
+        "start": 0,
+        "end": 60,
+        "syntaxId": "reading-l1-f01-07:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "However, the stairs near the gym were dark even when sports teams were still practicing.",
+        "translation": "しかし体育館近くの階段は、運動部がまだ練習しているときでさえ暗かった。",
+        "start": 61,
+        "end": 149,
+        "syntaxId": "reading-l1-f01-07:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "Simply turning off everything would not solve both problems.",
+        "translation": "単に全て消しても、二つの問題を両方とも解決することにはならなかった。",
+        "start": 150,
+        "end": 210,
+        "syntaxId": "reading-l1-f01-07:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "The club placed reminder cards near classroom switches and asked for a small light on the gym stairs.",
+        "translation": "部は教室のスイッチの近くに注意カードを置き、体育館の階段に小さな明かりを求めた。",
+        "start": 211,
+        "end": 312,
+        "syntaxId": "reading-l1-f01-07:p2-s004"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "A month later, teachers reported fewer lights left on in empty rooms.",
+        "translation": "一か月後、先生たちは空き教室でつけたままの明かりが減ったと報告した。",
+        "start": 0,
+        "end": 69,
+        "syntaxId": "reading-l1-f01-07:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "Students also said the stairs felt safer.",
+        "translation": "生徒たちも、階段がより安全に感じられるようになったと述べた。",
+        "start": 70,
+        "end": 111,
+        "syntaxId": "reading-l1-f01-07:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "Riku learned that using less energy did not mean using no energy.",
+        "translation": "リクは、エネルギーを少なく使うことは、全く使わないことではないと学んだ。",
+        "start": 112,
+        "end": 177,
+        "syntaxId": "reading-l1-f01-07:p3-s003"
+      },
+      {
+        "id": "p3-s004",
+        "paragraphId": "p3",
+        "english": "The important question was where and when electricity was really needed.",
+        "translation": "大切な問いは、どこでいつ本当に電気が必要なのかだった。",
+        "start": 178,
+        "end": 250,
+        "syntaxId": "reading-l1-f01-07:p3-s004"
+      },
+      {
+        "id": "p3-s005",
+        "paragraphId": "p3",
+        "english": "The club kept its maps for the following year's members.",
+        "translation": "部は翌年の部員のために地図を取っておいた。",
+        "start": 251,
+        "end": 307,
+        "syntaxId": "reading-l1-f01-07:p3-s005"
+      }
+    ],
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f01-08",
+    "level": 1,
+    "format": 1,
+    "title": "博物館の短い説明",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A local museum invited students to help prepare a room about old kitchens. Nao's group wrote explanations for a heavy iron pot. They listed its size, weight, and the year when it was made. The museum worker said that the information was correct, but she asked the students to imagine a visitor who knew nothing about the object.",
+        "translation": "地域の博物館は、昔の台所についての部屋を準備する手伝いに生徒を招いた。ナオの班は重い鉄鍋の説明を書いた。彼らはその大きさ、重さ、作られた年を列挙した。博物館の職員は情報は正しいと言ったが、その物について何も知らない来館者を想像するよう生徒に頼んだ。"
+      },
+      {
+        "id": "p2",
+        "english": "The students watched several visitors looking at the pot. Most people asked how one person could lift it and why the bottom was black. The group rewrote the card. They explained that the pot was usually left above a fire and that families cooked enough food for several people at once. They kept the old facts in a smaller box below.",
+        "translation": "生徒たちは何人かの来館者が鍋を見ているのを観察した。多くの人は、一人でどう持ち上げるのか、底がなぜ黒いのかを尋ねた。班は説明カードを書き直した。彼らは、鍋はふだん火の上に置かれたままで、家族が一度に何人分もの十分な食事を作ったと説明した。以前の事実情報は下の小さな欄に残した。"
+      },
+      {
+        "id": "p3",
+        "english": "Visitors began spending more time at the display. Some talked about their grandparents' kitchens. Nao discovered that a good explanation does more than list facts. It answers questions that people actually have and helps them connect an unfamiliar object with ordinary life.",
+        "translation": "来館者は展示の前でより長く時間を過ごし始めた。祖父母の台所について話す人もいた。ナオは、よい説明は事実を並べる以上の働きをすると気づいた。それは人々が実際に持つ問いに答え、なじみのない物を日常生活に結びつける手助けをする。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最初の説明にあった情報は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The pot's size and weight.",
+            "explanation": "大きさや重さを挙げた。"
+          },
+          {
+            "id": "b",
+            "text": "Every visitor's name.",
+            "explanation": "個人名は書いていない。"
+          },
+          {
+            "id": "c",
+            "text": "A recipe for tomorrow's lunch.",
+            "explanation": "翌日の料理ではない。"
+          },
+          {
+            "id": "d",
+            "text": "The price of a modern kitchen.",
+            "explanation": "現代の台所の価格でない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "大きさや重さを挙げた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "They listed its size, weight"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "来館者の多くが尋ねたことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Why the museum was closed.",
+            "explanation": "博物館は開いている。"
+          },
+          {
+            "id": "b",
+            "text": "Where Nao bought her shoes.",
+            "explanation": "靴は無関係。"
+          },
+          {
+            "id": "c",
+            "text": "When the next bus arrived.",
+            "explanation": "バスの時刻ではない。"
+          },
+          {
+            "id": "d",
+            "text": "Why the bottom was black.",
+            "explanation": "底が黒い理由を尋ねた。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "底が黒い理由を尋ねた。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "why the bottom was black"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "説明を書き直した後に起きたことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The pot was sold immediately.",
+            "explanation": "売却はしていない。"
+          },
+          {
+            "id": "b",
+            "text": "Visitors stopped asking anything.",
+            "explanation": "会話や関心が生まれた。"
+          },
+          {
+            "id": "c",
+            "text": "Visitors stayed longer at the display.",
+            "explanation": "展示を見る時間が増えた。"
+          },
+          {
+            "id": "d",
+            "text": "All old facts were removed.",
+            "explanation": "以前の情報も残した。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "展示を見る時間が増えた。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "Visitors began spending more time at the display."
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "説明を書き直したとき、以前の事実情報はどう扱ったか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "下の小さな欄に残した",
+            "explanation": "kept the old facts in a smaller box belowが直接の根拠。"
+          },
+          {
+            "id": "b",
+            "text": "全て削除した",
+            "explanation": "元の情報を残したと明示され、全削除と矛盾する。"
+          },
+          {
+            "id": "c",
+            "text": "来館者には秘密にした",
+            "explanation": "来館者に見える小さい欄であり秘密にしていない。"
+          },
+          {
+            "id": "d",
+            "text": "誤りだと断定した",
+            "explanation": "元の情報はcorrectと認められている。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "kept the old facts in a smaller box belowが直接の根拠。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "They kept the old facts in a smaller box below."
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f01-08:p1-s001",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "A local museum invited students to help prepare a room about old kitchens.",
+        "start": 0,
+        "end": 74,
+        "translation": "地域の博物館は、昔の台所についての部屋を準備する手伝いに生徒を招いた。",
+        "explanation": "invite O to V。helpの後ろのprepareは原形で、手伝う作業を表す。about以下は展示する部屋の主題。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A local museum",
+            "start": 0,
+            "end": 14
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "invited",
+            "start": 15,
+            "end": 22
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "students",
+            "start": 23,
+            "end": 31
+          },
+          {
+            "id": "n4",
+            "role": "phrase",
+            "text": "to help prepare a room about old kitchens",
+            "start": 32,
+            "end": 73
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: A local museum / V: invited / O: students",
+        "grammarPoints": [
+          "invite O to V。helpの後ろのprepareは原形で、手伝う作業を表す。about以下は展示する部屋の主題。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p1-s002",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "Nao's group wrote explanations for a heavy iron pot.",
+        "start": 75,
+        "end": 127,
+        "translation": "ナオの班は重い鉄鍋の説明を書いた。",
+        "explanation": "SVOに説明対象を示すfor句が付く。heavyとironはpotを限定する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Nao's group",
+            "start": 75,
+            "end": 86
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "wrote",
+            "start": 87,
+            "end": 92
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "explanations",
+            "start": 93,
+            "end": 105
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "for a heavy iron pot",
+            "start": 106,
+            "end": 126
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Nao's group / V: wrote / O: explanations",
+        "grammarPoints": [
+          "SVOに説明対象を示すfor句が付く。heavyとironはpotを限定する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p1-s003",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "They listed its size, weight, and the year when it was made.",
+        "start": 128,
+        "end": 188,
+        "translation": "彼らはその大きさ、重さ、作られた年を列挙した。",
+        "explanation": "when節はthe yearを修飾する関係副詞節。itは鍋、was madeは受動態。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 128,
+            "end": 132
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "listed",
+            "start": 133,
+            "end": 139
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "its size, weight, and the year",
+            "start": 140,
+            "end": 170
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "when it was made",
+            "start": 171,
+            "end": 187,
+            "depth": 2,
+            "kind": "relative-adverb"
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "the year",
+            "start": 162,
+            "end": 170,
+            "depth": 1,
+            "kind": "antecedent"
+          },
+          {
+            "id": "n6",
+            "role": "S",
+            "text": "it",
+            "start": 176,
+            "end": 178,
+            "depth": 3,
+            "kind": "subject"
+          },
+          {
+            "id": "n7",
+            "role": "V",
+            "text": "was made",
+            "start": 179,
+            "end": 187,
+            "depth": 3,
+            "kind": "passive"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: They / V: listed / O: its size, weight, and the year",
+        "grammarPoints": [
+          "when節はthe yearを修飾する関係副詞節。itは鍋、was madeは受動態。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p1-s004",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "The museum worker said that the information was correct, but she asked the students to imagine a visitor who knew nothing about the object.",
+        "start": 189,
+        "end": 328,
+        "translation": "博物館の職員は情報は正しいと言ったが、その物について何も知らない来館者を想像するよう生徒に頼んだ。",
+        "explanation": "butで二つの主節を対比。後半はask O to Vの形で、who節はvisitorを修飾する。正確な事実だけでは十分でないという文脈。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The museum worker",
+            "start": 189,
+            "end": 206
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "said",
+            "start": 207,
+            "end": 211
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that the information was correct",
+            "start": 212,
+            "end": 244
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "she asked the students to imagine a visitor who knew nothing about the object",
+            "start": 250,
+            "end": 327
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "a visitor",
+            "start": 284,
+            "end": 293,
+            "depth": 1,
+            "kind": "antecedent"
+          },
+          {
+            "id": "n6",
+            "role": "clause",
+            "text": "who knew nothing about the object",
+            "start": 294,
+            "end": 327,
+            "depth": 2,
+            "kind": "relative"
+          },
+          {
+            "id": "n7",
+            "role": "S",
+            "text": "who",
+            "start": 294,
+            "end": 297,
+            "depth": 3,
+            "kind": "relative-subject"
+          },
+          {
+            "id": "n8",
+            "role": "V",
+            "text": "knew",
+            "start": 298,
+            "end": 302,
+            "depth": 3,
+            "kind": "predicate"
+          },
+          {
+            "id": "n9",
+            "role": "O",
+            "text": "nothing",
+            "start": 303,
+            "end": 310,
+            "depth": 3,
+            "kind": "object"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          },
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "clause"
+          },
+          {
+            "from": "n6",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The museum worker / V: said",
+        "grammarPoints": [
+          "butで二つの主節を対比。後半はask O to Vの形で、who節はvisitorを修飾する。正確な事実だけでは十分でないという文脈。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p2-s001",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "The students watched several visitors looking at the pot.",
+        "start": 0,
+        "end": 57,
+        "translation": "生徒たちは何人かの来館者が鍋を見ているのを観察した。",
+        "explanation": "watch O＋現在分詞で、進行中の動作を見ていることを表す。鍋を見る主体は来館者。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The students",
+            "start": 0,
+            "end": 12
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "watched",
+            "start": 13,
+            "end": 20
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "several visitors",
+            "start": 21,
+            "end": 37
+          },
+          {
+            "id": "n4",
+            "role": "phrase",
+            "text": "looking at the pot",
+            "start": 38,
+            "end": 56
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The students / V: watched / O: several visitors",
+        "grammarPoints": [
+          "watch O＋現在分詞で、進行中の動作を見ていることを表す。鍋を見る主体は来館者。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p2-s002",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "Most people asked how one person could lift it and why the bottom was black.",
+        "start": 58,
+        "end": 134,
+        "translation": "多くの人は、一人でどう持ち上げるのか、底がなぜ黒いのかを尋ねた。",
+        "explanation": "二つの間接疑問をandで並列。how節はSVO、why節はSVCで、疑問文の倒置はしない。itは鍋。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Most people",
+            "start": 58,
+            "end": 69
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "asked",
+            "start": 70,
+            "end": 75
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "how one person could lift it and why the bottom was black",
+            "start": 76,
+            "end": 133
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: Most people / V: asked",
+        "grammarPoints": [
+          "二つの間接疑問をandで並列。how節はSVO、why節はSVCで、疑問文の倒置はしない。itは鍋。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p2-s003",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "The group rewrote the card.",
+        "start": 135,
+        "end": 162,
+        "translation": "班は説明カードを書き直した。",
+        "explanation": "rewroteはrewriteの過去形。既に作った説明を変更したことを示す。 既存解説：rewroteはrewriteの過去形。主語・動詞・目的語が並ぶ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The group",
+            "start": 135,
+            "end": 144
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "rewrote",
+            "start": 145,
+            "end": 152
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the card",
+            "start": 153,
+            "end": 161
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The group / V: rewrote / O: the card",
+        "grammarPoints": [
+          "rewroteはrewriteの過去形。既に作った説明を変更したことを示す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p2-s004",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "They explained that the pot was usually left above a fire and that families cooked enough food for several people at once.",
+        "start": 163,
+        "end": 285,
+        "translation": "彼らは、鍋はふだん火の上に置かれたままで、家族が一度に何人分もの十分な食事を作ったと説明した。",
+        "explanation": "explainedの目的語となる二つのthat節をandで接続。最初のwas leftは受動態。at onceは一度に。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 163,
+            "end": 167
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "explained",
+            "start": 168,
+            "end": 177
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that the pot was usually left above a fire",
+            "start": 178,
+            "end": 220
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "that families cooked enough food for several people at once",
+            "start": 225,
+            "end": 284
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          },
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: They / V: explained",
+        "grammarPoints": [
+          "explainedの目的語となる二つのthat節をandで接続。最初のwas leftは受動態。at onceは一度に。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p2-s005",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s005",
+        "sentence": "They kept the old facts in a smaller box below.",
+        "start": 286,
+        "end": 333,
+        "translation": "以前の事実情報は下の小さな欄に残した。",
+        "explanation": "keptなので元の情報を全て削ったのではない。smallerは主たる説明欄との比較、belowは下方の位置。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 286,
+            "end": 290
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "kept",
+            "start": 291,
+            "end": 295
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the old facts",
+            "start": 296,
+            "end": 309
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "in a smaller box below",
+            "start": 310,
+            "end": 332
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: They / V: kept / O: the old facts",
+        "grammarPoints": [
+          "keptなので元の情報を全て削ったのではない。smallerは主たる説明欄との比較、belowは下方の位置。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p3-s001",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "Visitors began spending more time at the display.",
+        "start": 0,
+        "end": 49,
+        "translation": "来館者は展示の前でより長く時間を過ごし始めた。",
+        "explanation": "beganの目的語は動名詞句。more timeは書換え前より長い時間。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Visitors",
+            "start": 0,
+            "end": 8
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "began",
+            "start": 9,
+            "end": 14
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "spending more time at the display",
+            "start": 15,
+            "end": 48
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Visitors / V: began / O: spending more time at the display",
+        "grammarPoints": [
+          "beganの目的語は動名詞句。more timeは書換え前より長い時間。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p3-s002",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "Some talked about their grandparents' kitchens.",
+        "start": 50,
+        "end": 97,
+        "translation": "祖父母の台所について話す人もいた。",
+        "explanation": "SomeはSome visitorsの省略。grandparents'は複数形の所有格。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Some",
+            "start": 50,
+            "end": 54
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "talked",
+            "start": 55,
+            "end": 61
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "about their grandparents' kitchens",
+            "start": 62,
+            "end": 96
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Some / V: talked",
+        "grammarPoints": [
+          "SomeはSome visitorsの省略。grandparents'は複数形の所有格。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p3-s003",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "Nao discovered that a good explanation does more than list facts.",
+        "start": 98,
+        "end": 163,
+        "translation": "ナオは、よい説明は事実を並べる以上の働きをすると気づいた。",
+        "explanation": "that節が発見した内容。does more than＋動詞原形で、単に列挙することを超える役割を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Nao",
+            "start": 98,
+            "end": 101
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "discovered",
+            "start": 102,
+            "end": 112
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that a good explanation does more than list facts",
+            "start": 113,
+            "end": 162
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: Nao / V: discovered",
+        "grammarPoints": [
+          "that節が発見した内容。does more than＋動詞原形で、単に列挙することを超える役割を表す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-08:p3-s004",
+        "passageId": "reading-l1-f01-08",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s004",
+        "sentence": "It answers questions that people actually have and helps them connect an unfamiliar object with ordinary life.",
+        "start": 164,
+        "end": 274,
+        "translation": "それは人々が実際に持つ問いに答え、なじみのない物を日常生活に結びつける手助けをする。",
+        "explanation": "that節はquestionsを修飾。Itはgood explanation、themはpeople。help O＋原形connectは、人が結びつけるのを助ける。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "It",
+            "start": 164,
+            "end": 166
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "answers",
+            "start": 167,
+            "end": 174
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "questions",
+            "start": 175,
+            "end": 184
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "that people actually have",
+            "start": 185,
+            "end": 210
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "helps",
+            "start": 215,
+            "end": 220
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "them",
+            "start": 221,
+            "end": 225
+          },
+          {
+            "id": "n7",
+            "role": "phrase",
+            "text": "connect an unfamiliar object with ordinary life",
+            "start": 226,
+            "end": 273
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "clause"
+          },
+          {
+            "from": "n7",
+            "to": "n6",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: It / V: answers / O: questions / V: helps / O: them",
+        "grammarPoints": [
+          "that節はquestionsを修飾。Itはgood explanation、themはpeople。help O＋原形connectは、人が結びつけるのを助ける。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      }
+    ],
+    "wordCount": 161,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "display",
+        "meaning": "展示"
+      },
+      {
+        "english": "unfamiliar",
+        "meaning": "なじみのない"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "The group rewrote the card.",
+        "start": 135,
+        "end": 162,
+        "translation": "班は説明カードを書き直した。",
+        "explanation": "rewroteはrewriteの過去形。主語・動詞・目的語が並ぶ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The group",
+            "start": 135,
+            "end": 144
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "rewrote",
+            "start": 145,
+            "end": 152
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the card",
+            "start": 153,
+            "end": 161
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "A local museum invited students to help prepare a room about old kitchens.",
+        "translation": "地域の博物館は、昔の台所についての部屋を準備する手伝いに生徒を招いた。",
+        "start": 0,
+        "end": 74,
+        "syntaxId": "reading-l1-f01-08:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "Nao's group wrote explanations for a heavy iron pot.",
+        "translation": "ナオの班は重い鉄鍋の説明を書いた。",
+        "start": 75,
+        "end": 127,
+        "syntaxId": "reading-l1-f01-08:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "They listed its size, weight, and the year when it was made.",
+        "translation": "彼らはその大きさ、重さ、作られた年を列挙した。",
+        "start": 128,
+        "end": 188,
+        "syntaxId": "reading-l1-f01-08:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "The museum worker said that the information was correct, but she asked the students to imagine a visitor who knew nothing about the object.",
+        "translation": "博物館の職員は情報は正しいと言ったが、その物について何も知らない来館者を想像するよう生徒に頼んだ。",
+        "start": 189,
+        "end": 328,
+        "syntaxId": "reading-l1-f01-08:p1-s004"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "The students watched several visitors looking at the pot.",
+        "translation": "生徒たちは何人かの来館者が鍋を見ているのを観察した。",
+        "start": 0,
+        "end": 57,
+        "syntaxId": "reading-l1-f01-08:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "Most people asked how one person could lift it and why the bottom was black.",
+        "translation": "多くの人は、一人でどう持ち上げるのか、底がなぜ黒いのかを尋ねた。",
+        "start": 58,
+        "end": 134,
+        "syntaxId": "reading-l1-f01-08:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "The group rewrote the card.",
+        "translation": "班は説明カードを書き直した。",
+        "start": 135,
+        "end": 162,
+        "syntaxId": "reading-l1-f01-08:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "They explained that the pot was usually left above a fire and that families cooked enough food for several people at once.",
+        "translation": "彼らは、鍋はふだん火の上に置かれたままで、家族が一度に何人分もの十分な食事を作ったと説明した。",
+        "start": 163,
+        "end": 285,
+        "syntaxId": "reading-l1-f01-08:p2-s004"
+      },
+      {
+        "id": "p2-s005",
+        "paragraphId": "p2",
+        "english": "They kept the old facts in a smaller box below.",
+        "translation": "以前の事実情報は下の小さな欄に残した。",
+        "start": 286,
+        "end": 333,
+        "syntaxId": "reading-l1-f01-08:p2-s005"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "Visitors began spending more time at the display.",
+        "translation": "来館者は展示の前でより長く時間を過ごし始めた。",
+        "start": 0,
+        "end": 49,
+        "syntaxId": "reading-l1-f01-08:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "Some talked about their grandparents' kitchens.",
+        "translation": "祖父母の台所について話す人もいた。",
+        "start": 50,
+        "end": 97,
+        "syntaxId": "reading-l1-f01-08:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "Nao discovered that a good explanation does more than list facts.",
+        "translation": "ナオは、よい説明は事実を並べる以上の働きをすると気づいた。",
+        "start": 98,
+        "end": 163,
+        "syntaxId": "reading-l1-f01-08:p3-s003"
+      },
+      {
+        "id": "p3-s004",
+        "paragraphId": "p3",
+        "english": "It answers questions that people actually have and helps them connect an unfamiliar object with ordinary life.",
+        "translation": "それは人々が実際に持つ問いに答え、なじみのない物を日常生活に結びつける手助けをする。",
+        "start": 164,
+        "end": 274,
+        "syntaxId": "reading-l1-f01-08:p3-s004"
+      }
+    ],
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f01-09",
+    "level": 1,
+    "format": 1,
+    "title": "走らない運動会",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Mai hurt her ankle a week before the school sports day. She was disappointed because she could not join the relay. Her class teacher said that there were other ways to take part, but Mai thought this was only something adults said to make her feel better. She agreed to help at the information table, although she expected to have a boring day.",
+        "translation": "マイは学校の運動会の一週間前に足首を痛めた。彼女はリレーに参加できなかったので落胆した。担任はほかの参加の仕方もあると言ったが、マイは、それは大人が彼女を元気づけるためだけに言うことだと思った。退屈な日になると思っていたものの、彼女は案内係の机で手伝うことに同意した。"
+      },
+      {
+        "id": "p2",
+        "english": "Soon after the first event, a visitor asked where to find drinking water. Another parent needed a quiet place for a small child. Mai used a map to guide them. When the schedule changed because of the heat, she wrote the new starting times on a board. Her friends checked the board before going to their events.",
+        "translation": "最初の種目のすぐ後に、来場者が飲み水をどこで見つけられるか尋ねた。別の保護者は小さい子供のための静かな場所を必要としていた。マイは地図を使ってその人たちを案内した。暑さのため日程が変わると、彼女は新しい開始時刻を掲示板に書いた。友達は自分たちの種目へ行く前に掲示板を確認した。"
+      },
+      {
+        "id": "p3",
+        "english": "At the end of the day, the teacher thanked Mai for helping the event run smoothly. Mai still wished she had been able to race. However, she understood that supporting other people was a real part of the sports day, not simply a second choice for someone who could not run.",
+        "translation": "その日の終わりに、先生は運動会が順調に進むのを助けたことについてマイに感謝した。マイはなお、競走に参加できていたらよかったと思った。しかし彼女は、人を支えることが、走れない人の単なる次善策ではなく、運動会の本当の一部なのだと理解した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "マイがリレーに出られなかった理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "She forgot the date.",
+            "explanation": "日付の勘違いでない。"
+          },
+          {
+            "id": "b",
+            "text": "Her class had no relay team.",
+            "explanation": "チームがないとはない。"
+          },
+          {
+            "id": "c",
+            "text": "She disliked her friends.",
+            "explanation": "友人への嫌悪でない。"
+          },
+          {
+            "id": "d",
+            "text": "She hurt her ankle.",
+            "explanation": "足首を痛めたため。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "足首を痛めたため。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Mai hurt her ankle"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "暑さで予定が変わると何をした？",
+        "options": [
+          {
+            "id": "a",
+            "text": "She ran in the relay.",
+            "explanation": "リレーは走れない。"
+          },
+          {
+            "id": "b",
+            "text": "She moved the school building.",
+            "explanation": "建物を動かしていない。"
+          },
+          {
+            "id": "c",
+            "text": "She wrote new starting times.",
+            "explanation": "変更時刻を板に書いた。"
+          },
+          {
+            "id": "d",
+            "text": "She stopped every event herself.",
+            "explanation": "全競技を自分で中止していない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "変更時刻を板に書いた。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "she wrote the new starting times on a board"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "最後のマイの理解は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Visitors should never ask questions.",
+            "explanation": "質問への案内が役立った。"
+          },
+          {
+            "id": "b",
+            "text": "Helping others is also participation.",
+            "explanation": "支えることも参加だと理解。"
+          },
+          {
+            "id": "c",
+            "text": "Only runners matter at sports days.",
+            "explanation": "走者だけではない。"
+          },
+          {
+            "id": "d",
+            "text": "Information tables are always boring.",
+            "explanation": "予想は変わった。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "支えることも参加だと理解。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "supporting other people was a real part of the sports day"
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "案内係で手伝うことに同意したとき、マイは一日をどう予想したか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "退屈になると思った",
+            "explanation": "although she expected to have a boring dayに対応する。"
+          },
+          {
+            "id": "b",
+            "text": "必ずリレーで優勝すると思った",
+            "explanation": "足首を痛めてリレーに出られないことが導入で示される。"
+          },
+          {
+            "id": "c",
+            "text": "競技が全て中止になると思った",
+            "explanation": "暑さによる予定変更は後で起きることで、全中止の予想ではない。"
+          },
+          {
+            "id": "d",
+            "text": "学校へ行く必要がないと思った",
+            "explanation": "案内係の手伝いに同意しており、欠席する話ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "although she expected to have a boring dayに対応する。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "she expected to have a boring day"
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "案内係を経験した後も残っていた気持ちはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "競走に出られたらよかったという気持ち",
+            "explanation": "still wished she had been able to raceは参加できなかったことへの願い。"
+          },
+          {
+            "id": "b",
+            "text": "先生に感謝されることへの怒り",
+            "explanation": "先生への怒りは述べず、先生は最後に感謝している。"
+          },
+          {
+            "id": "c",
+            "text": "案内板を使う友人への不信",
+            "explanation": "友達は掲示板を確認しており、それを不信とする記述はない。"
+          },
+          {
+            "id": "d",
+            "text": "運動会をなくしたいという希望",
+            "explanation": "運動会をなくすのでなく、支える役割の価値を認めた。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "still wished she had been able to raceは参加できなかったことへの願い。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "Mai still wished she had been able to race."
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f01-09:p1-s001",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "Mai hurt her ankle a week before the school sports day.",
+        "start": 0,
+        "end": 55,
+        "translation": "マイは学校の運動会の一週間前に足首を痛めた。",
+        "explanation": "hurtは現在形と過去形が同形だが、ここは物語の過去。a weekは運動会までの時間差。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mai",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "hurt",
+            "start": 4,
+            "end": 8
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "her ankle",
+            "start": 9,
+            "end": 18
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "a week before the school sports day",
+            "start": 19,
+            "end": 54
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Mai / V: hurt / O: her ankle",
+        "grammarPoints": [
+          "hurtは現在形と過去形が同形だが、ここは物語の過去。a weekは運動会までの時間差。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p1-s002",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "She was disappointed because she could not join the relay.",
+        "start": 56,
+        "end": 114,
+        "translation": "彼女はリレーに参加できなかったので落胆した。",
+        "explanation": "disappointedは本人の感情の状態を表す。because節はその理由。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 56,
+            "end": 59
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was",
+            "start": 60,
+            "end": 63
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "disappointed",
+            "start": 64,
+            "end": 76
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "because she could not join the relay",
+            "start": 77,
+            "end": 113
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "adverbial"
+          }
+        ],
+        "skeleton": "S: She / V: was / C: disappointed",
+        "grammarPoints": [
+          "disappointedは本人の感情の状態を表す。because節はその理由。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p1-s003",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "Her class teacher said that there were other ways to take part, but Mai thought this was only something adults said to make her feel better.",
+        "start": 115,
+        "end": 255,
+        "translation": "担任はほかの参加の仕方もあると言ったが、マイは、それは大人が彼女を元気づけるためだけに言うことだと思った。",
+        "explanation": "butで二主節を対比。somethingの後ろは関係代名詞を省略したadults said。to make以下は言う目的で、make O＋原形feel。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Her class teacher",
+            "start": 115,
+            "end": 132
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "said",
+            "start": 133,
+            "end": 137
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that there were other ways to take part",
+            "start": 138,
+            "end": 177
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "Mai thought this was only something adults said to make her feel better",
+            "start": 183,
+            "end": 254
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          },
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: Her class teacher / V: said",
+        "grammarPoints": [
+          "butで二主節を対比。somethingの後ろは関係代名詞を省略したadults said。to make以下は言う目的で、make O＋原形feel。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p1-s004",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "She agreed to help at the information table, although she expected to have a boring day.",
+        "start": 256,
+        "end": 344,
+        "translation": "退屈な日になると思っていたものの、彼女は案内係の机で手伝うことに同意した。",
+        "explanation": "agree to V。although節は期待と行動が食い違う譲歩。boringは日が退屈さを与える性質。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 256,
+            "end": 259
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "agreed",
+            "start": 260,
+            "end": 266
+          },
+          {
+            "id": "n3",
+            "role": "phrase",
+            "text": "to help at the information table",
+            "start": 267,
+            "end": 299
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "although she expected to have a boring day",
+            "start": 301,
+            "end": 343
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: She / V: agreed",
+        "grammarPoints": [
+          "agree to V。although節は期待と行動が食い違う譲歩。boringは日が退屈さを与える性質。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p2-s001",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "Soon after the first event, a visitor asked where to find drinking water.",
+        "start": 0,
+        "end": 73,
+        "translation": "最初の種目のすぐ後に、来場者が飲み水をどこで見つけられるか尋ねた。",
+        "explanation": "where＋不定詞がaskedの目的語で場所を問う内容。drinkingはwaterの用途を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "Soon after the first event",
+            "start": 0,
+            "end": 26
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "a visitor",
+            "start": 28,
+            "end": 37
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "asked",
+            "start": 38,
+            "end": 43
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "where to find drinking water",
+            "start": 44,
+            "end": 72
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: a visitor / V: asked",
+        "grammarPoints": [
+          "where＋不定詞がaskedの目的語で場所を問う内容。drinkingはwaterの用途を示す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p2-s002",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "Another parent needed a quiet place for a small child.",
+        "start": 74,
+        "end": 128,
+        "translation": "別の保護者は小さい子供のための静かな場所を必要としていた。",
+        "explanation": "Anotherは前の来場者と別の人を導入する。for以下は場所が必要な対象。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Another parent",
+            "start": 74,
+            "end": 88
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "needed",
+            "start": 89,
+            "end": 95
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a quiet place",
+            "start": 96,
+            "end": 109
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "for a small child",
+            "start": 110,
+            "end": 127
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Another parent / V: needed / O: a quiet place",
+        "grammarPoints": [
+          "Anotherは前の来場者と別の人を導入する。for以下は場所が必要な対象。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p2-s003",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "Mai used a map to guide them.",
+        "start": 129,
+        "end": 158,
+        "translation": "マイは地図を使ってその人たちを案内した。",
+        "explanation": "to guideは地図を使う目的。themは質問した来場者たち。 既存解説：to guide themは目的を表す不定詞で、usedを補う。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mai",
+            "start": 129,
+            "end": 132
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "used",
+            "start": 133,
+            "end": 137
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a map",
+            "start": 138,
+            "end": 143
+          },
+          {
+            "id": "n4",
+            "role": "phrase",
+            "text": "to guide them",
+            "start": 144,
+            "end": 157
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Mai / V: used / O: a map",
+        "grammarPoints": [
+          "to guideは地図を使う目的。themは質問した来場者たち。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p2-s004",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "When the schedule changed because of the heat, she wrote the new starting times on a board.",
+        "start": 159,
+        "end": 250,
+        "translation": "暑さのため日程が変わると、彼女は新しい開始時刻を掲示板に書いた。",
+        "explanation": "When節内のbecause ofは名詞the heatを伴う理由の句。主節はshe wroteで、startingはtimesを修飾する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "clause",
+            "text": "When the schedule changed because of the heat",
+            "start": 159,
+            "end": 204
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "she",
+            "start": 206,
+            "end": 209
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "wrote",
+            "start": 210,
+            "end": 215
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "the new starting times",
+            "start": 216,
+            "end": 238
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "on a board",
+            "start": 239,
+            "end": 249
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "clause"
+          },
+          {
+            "from": "n5",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: she / V: wrote / O: the new starting times",
+        "grammarPoints": [
+          "When節内のbecause ofは名詞the heatを伴う理由の句。主節はshe wroteで、startingはtimesを修飾する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p2-s005",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s005",
+        "sentence": "Her friends checked the board before going to their events.",
+        "start": 251,
+        "end": 310,
+        "translation": "友達は自分たちの種目へ行く前に掲示板を確認した。",
+        "explanation": "before＋動名詞の意味上の主語はHer friends。theirも友達を受ける。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Her friends",
+            "start": 251,
+            "end": 262
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "checked",
+            "start": 263,
+            "end": 270
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the board",
+            "start": 271,
+            "end": 280
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "before going to their events",
+            "start": 281,
+            "end": 309
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Her friends / V: checked / O: the board",
+        "grammarPoints": [
+          "before＋動名詞の意味上の主語はHer friends。theirも友達を受ける。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p3-s001",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "At the end of the day, the teacher thanked Mai for helping the event run smoothly.",
+        "start": 0,
+        "end": 82,
+        "translation": "その日の終わりに、先生は運動会が順調に進むのを助けたことについてマイに感謝した。",
+        "explanation": "thank 人 for＋動名詞。help O＋原形で、the eventがrunする主体。smoothlyはrunを修飾。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "At the end of the day",
+            "start": 0,
+            "end": 21
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the teacher",
+            "start": 23,
+            "end": 34
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "thanked",
+            "start": 35,
+            "end": 42
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "Mai",
+            "start": 43,
+            "end": 46
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "for helping the event run smoothly",
+            "start": 47,
+            "end": 81
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: the teacher / V: thanked / O: Mai",
+        "grammarPoints": [
+          "thank 人 for＋動名詞。help O＋原形で、the eventがrunする主体。smoothlyはrunを修飾。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p3-s002",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "Mai still wished she had been able to race.",
+        "start": 83,
+        "end": 126,
+        "translation": "マイはなお、競走に参加できていたらよかったと思った。",
+        "explanation": "wishの後ろは過去完了で、実際にはできなかった過去への願いを表す。be able toは能力・可能性。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mai",
+            "start": 83,
+            "end": 86
+          },
+          {
+            "id": "n2",
+            "role": "M",
+            "text": "still",
+            "start": 87,
+            "end": 92
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "wished",
+            "start": 93,
+            "end": 99
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "she had been able to race",
+            "start": 100,
+            "end": 125,
+            "depth": 1,
+            "kind": "counterfactual-content"
+          },
+          {
+            "id": "n5",
+            "role": "S",
+            "text": "she",
+            "start": 100,
+            "end": 103,
+            "depth": 2,
+            "kind": "subject"
+          },
+          {
+            "id": "n6",
+            "role": "V",
+            "text": "had been",
+            "start": 104,
+            "end": 112,
+            "depth": 2,
+            "kind": "past-perfect"
+          },
+          {
+            "id": "n7",
+            "role": "C",
+            "text": "able to race",
+            "start": 113,
+            "end": 125,
+            "depth": 2,
+            "kind": "complement"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n2",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "content"
+          }
+        ],
+        "skeleton": "S: Mai / V: wished",
+        "grammarPoints": [
+          "wishの後ろは過去完了で、実際にはできなかった過去への願いを表す。be able toは能力・可能性。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-09:p3-s003",
+        "passageId": "reading-l1-f01-09",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "However, she understood that supporting other people was a real part of the sports day, not simply a second choice for someone who could not run.",
+        "start": 127,
+        "end": 272,
+        "translation": "しかし彼女は、人を支えることが、走れない人の単なる次善策ではなく、運動会の本当の一部なのだと理解した。",
+        "explanation": "that節の主語は動名詞句supporting other people。not simplyは単なる代替という評価を退ける。who節はsomeoneを修飾。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "she",
+            "start": 136,
+            "end": 139
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "understood",
+            "start": 140,
+            "end": 150
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that supporting other people was a real part of the sports day, not simply a second choice for someone who could not run",
+            "start": 151,
+            "end": 271
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: she / V: understood",
+        "grammarPoints": [
+          "that節の主語は動名詞句supporting other people。not simplyは単なる代替という評価を退ける。who節はsomeoneを修飾。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      }
+    ],
+    "wordCount": 171,
+    "recommendedSeconds": 225,
+    "vocabulary": [
+      {
+        "english": "ankle",
+        "meaning": "足首"
+      },
+      {
+        "english": "smoothly",
+        "meaning": "円滑に"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "Mai used a map to guide them.",
+        "start": 129,
+        "end": 158,
+        "translation": "マイは彼らを案内するため地図を使った。",
+        "explanation": "to guide themは目的を表す不定詞で、usedを補う。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mai",
+            "start": 129,
+            "end": 132
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "used",
+            "start": 133,
+            "end": 137
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a map",
+            "start": 138,
+            "end": 143
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "to guide them",
+            "start": 144,
+            "end": 157
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "Mai hurt her ankle a week before the school sports day.",
+        "translation": "マイは学校の運動会の一週間前に足首を痛めた。",
+        "start": 0,
+        "end": 55,
+        "syntaxId": "reading-l1-f01-09:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "She was disappointed because she could not join the relay.",
+        "translation": "彼女はリレーに参加できなかったので落胆した。",
+        "start": 56,
+        "end": 114,
+        "syntaxId": "reading-l1-f01-09:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "Her class teacher said that there were other ways to take part, but Mai thought this was only something adults said to make her feel better.",
+        "translation": "担任はほかの参加の仕方もあると言ったが、マイは、それは大人が彼女を元気づけるためだけに言うことだと思った。",
+        "start": 115,
+        "end": 255,
+        "syntaxId": "reading-l1-f01-09:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "She agreed to help at the information table, although she expected to have a boring day.",
+        "translation": "退屈な日になると思っていたものの、彼女は案内係の机で手伝うことに同意した。",
+        "start": 256,
+        "end": 344,
+        "syntaxId": "reading-l1-f01-09:p1-s004"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "Soon after the first event, a visitor asked where to find drinking water.",
+        "translation": "最初の種目のすぐ後に、来場者が飲み水をどこで見つけられるか尋ねた。",
+        "start": 0,
+        "end": 73,
+        "syntaxId": "reading-l1-f01-09:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "Another parent needed a quiet place for a small child.",
+        "translation": "別の保護者は小さい子供のための静かな場所を必要としていた。",
+        "start": 74,
+        "end": 128,
+        "syntaxId": "reading-l1-f01-09:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "Mai used a map to guide them.",
+        "translation": "マイは地図を使ってその人たちを案内した。",
+        "start": 129,
+        "end": 158,
+        "syntaxId": "reading-l1-f01-09:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "When the schedule changed because of the heat, she wrote the new starting times on a board.",
+        "translation": "暑さのため日程が変わると、彼女は新しい開始時刻を掲示板に書いた。",
+        "start": 159,
+        "end": 250,
+        "syntaxId": "reading-l1-f01-09:p2-s004"
+      },
+      {
+        "id": "p2-s005",
+        "paragraphId": "p2",
+        "english": "Her friends checked the board before going to their events.",
+        "translation": "友達は自分たちの種目へ行く前に掲示板を確認した。",
+        "start": 251,
+        "end": 310,
+        "syntaxId": "reading-l1-f01-09:p2-s005"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "At the end of the day, the teacher thanked Mai for helping the event run smoothly.",
+        "translation": "その日の終わりに、先生は運動会が順調に進むのを助けたことについてマイに感謝した。",
+        "start": 0,
+        "end": 82,
+        "syntaxId": "reading-l1-f01-09:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "Mai still wished she had been able to race.",
+        "translation": "マイはなお、競走に参加できていたらよかったと思った。",
+        "start": 83,
+        "end": 126,
+        "syntaxId": "reading-l1-f01-09:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "However, she understood that supporting other people was a real part of the sports day, not simply a second choice for someone who could not run.",
+        "translation": "しかし彼女は、人を支えることが、走れない人の単なる次善策ではなく、運動会の本当の一部なのだと理解した。",
+        "start": 127,
+        "end": 272,
+        "syntaxId": "reading-l1-f01-09:p3-s003"
+      }
+    ],
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f01-10",
+    "level": 1,
+    "format": 1,
+    "title": "種を交換する箱",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A gardening club placed a seed box in the town library. Anyone could take a small packet and grow flowers or vegetables at home. The club hoped that people would bring seeds back after their plants grew. At first, the packets only showed plant names. Some people took seeds that needed a large garden, even though they had only a small balcony.",
+        "translation": "園芸クラブは町の図書館に種の箱を置いた。誰でも小さな袋を一つ取り、自宅で花や野菜を育てることができた。クラブは、植物が育った後に人々が種を持ち帰ってくることを望んでいた。最初、袋には植物名しか書かれていなかった。一部の人は、小さいバルコニーしかないのに、大きな庭を必要とする種を取った。"
+      },
+      {
+        "id": "p2",
+        "english": "Club member Sora noticed that many plants were not growing well. She asked several users about their homes. Then she added three kinds of information to each packet: the space needed, the best month to plant, and how much sunlight the plant liked. She also put photographs of fully grown plants beside the box.",
+        "translation": "クラブのソラは、多くの植物がうまく育っていないことに気づいた。彼女は何人かの利用者に住まいについて尋ねた。それから彼女は各袋に、必要な広さ、植えるのに最適な月、植物が好む日光の量という三種類の情報を加えた。彼女は十分に育った植物の写真も箱の横に置いた。"
+      },
+      {
+        "id": "p3",
+        "english": "The following season, more people returned seeds. A man with a tiny balcony proudly brought back seeds from a pot of beans. The club's goal was not to give everyone the same plant. It was to help people choose one that suited their own space and daily life.",
+        "translation": "次の季節には、より多くの人が種を返した。とても小さいバルコニーのある男性は、鉢植えの豆から採った種を誇らしげに持ち帰った。クラブの目標は、全員に同じ植物を与えることではなかった。目標は、それぞれの場所や日常生活に合う植物を選ぶのを手助けすることだった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "クラブが利用者に期待したことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Growing only flowers.",
+            "explanation": "野菜も育てられる。"
+          },
+          {
+            "id": "b",
+            "text": "Moving to larger houses.",
+            "explanation": "引っ越しを求めていない。"
+          },
+          {
+            "id": "c",
+            "text": "Bringing seeds back later.",
+            "explanation": "育てた後の種の返却。"
+          },
+          {
+            "id": "d",
+            "text": "Buying a new library.",
+            "explanation": "図書館購入でない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "育てた後の種の返却。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "people would bring seeds back after their plants grew"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "追加した情報に含まれないものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "The sunlight a plant likes.",
+            "explanation": "日光の情報も追加した。"
+          },
+          {
+            "id": "b",
+            "text": "The price of a new house.",
+            "explanation": "住宅価格は追加していない。"
+          },
+          {
+            "id": "c",
+            "text": "The space a plant needs.",
+            "explanation": "必要な広さは追加した。"
+          },
+          {
+            "id": "d",
+            "text": "A good planting month.",
+            "explanation": "植える月も追加した。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "住宅価格は追加していない。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "the space needed, the best month to plant, and how much sunlight the plant liked"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "クラブの目標に合うものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "Helping people choose suitable plants.",
+            "explanation": "暮らしに合う選択を支援。"
+          },
+          {
+            "id": "b",
+            "text": "Giving everyone the same seeds.",
+            "explanation": "同じ植物が目標でない。"
+          },
+          {
+            "id": "c",
+            "text": "Removing all balcony plants.",
+            "explanation": "ベランダでも育てた。"
+          },
+          {
+            "id": "d",
+            "text": "Keeping all seeds inside the library.",
+            "explanation": "持ち帰れる仕組みだ。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "暮らしに合う選択を支援。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "help people choose one that suited their own space and daily life"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f01-10:p1-s001",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "A gardening club placed a seed box in the town library.",
+        "start": 0,
+        "end": 55,
+        "translation": "園芸クラブは町の図書館に種の箱を置いた。",
+        "explanation": "SVOの骨格に場所の句が付く。seedはboxの用途を限定する名詞。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A gardening club",
+            "start": 0,
+            "end": 16
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "placed",
+            "start": 17,
+            "end": 23
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a seed box",
+            "start": 24,
+            "end": 34
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "in the town library",
+            "start": 35,
+            "end": 54
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: A gardening club / V: placed / O: a seed box",
+        "grammarPoints": [
+          "SVOの骨格に場所の句が付く。seedはboxの用途を限定する名詞。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p1-s002",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "Anyone could take a small packet and grow flowers or vegetables at home.",
+        "start": 56,
+        "end": 128,
+        "translation": "誰でも小さな袋を一つ取り、自宅で花や野菜を育てることができた。",
+        "explanation": "couldはtakeとgrowの両方にかかる。orは育てる物の選択肢を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Anyone",
+            "start": 56,
+            "end": 62
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "could take",
+            "start": 63,
+            "end": 73
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a small packet",
+            "start": 74,
+            "end": 88
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "grow",
+            "start": 93,
+            "end": 97
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "flowers or vegetables",
+            "start": 98,
+            "end": 119
+          },
+          {
+            "id": "n6",
+            "role": "M",
+            "text": "at home",
+            "start": 120,
+            "end": 127
+          }
+        ],
+        "relations": [
+          {
+            "from": "n6",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Anyone / V: could take / O: a small packet / V: grow / O: flowers or vegetables",
+        "grammarPoints": [
+          "couldはtakeとgrowの両方にかかる。orは育てる物の選択肢を示す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p1-s003",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "The club hoped that people would bring seeds back after their plants grew.",
+        "start": 129,
+        "end": 203,
+        "translation": "クラブは、植物が育った後に人々が種を持ち帰ってくることを望んでいた。",
+        "explanation": "that内容節内にafter時節が入る。wouldは望んだ時点から先の行動。backは種を箱へ戻すこと。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The club",
+            "start": 129,
+            "end": 137
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "hoped",
+            "start": 138,
+            "end": 143
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that people would bring seeds back after their plants grew",
+            "start": 144,
+            "end": 202
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: The club / V: hoped",
+        "grammarPoints": [
+          "that内容節内にafter時節が入る。wouldは望んだ時点から先の行動。backは種を箱へ戻すこと。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p1-s004",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "At first, the packets only showed plant names.",
+        "start": 204,
+        "end": 250,
+        "translation": "最初、袋には植物名しか書かれていなかった。",
+        "explanation": "onlyは情報が植物名に限られることを示す。袋が情報を示すという物を主語にした表現。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "At first",
+            "start": 204,
+            "end": 212
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the packets",
+            "start": 214,
+            "end": 225
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "only showed",
+            "start": 226,
+            "end": 237
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "plant names",
+            "start": 238,
+            "end": 249
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: the packets / V: only showed / O: plant names",
+        "grammarPoints": [
+          "onlyは情報が植物名に限られることを示す。袋が情報を示すという物を主語にした表現。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p1-s005",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s005",
+        "sentence": "Some people took seeds that needed a large garden, even though they had only a small balcony.",
+        "start": 251,
+        "end": 344,
+        "translation": "一部の人は、小さいバルコニーしかないのに、大きな庭を必要とする種を取った。",
+        "explanation": "that節はseedsを修飾し、生育条件を表す。even though節は譲歩で、広い庭と小さいバルコニーを対比する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Some people",
+            "start": 251,
+            "end": 262
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "took",
+            "start": 263,
+            "end": 267
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "seeds",
+            "start": 268,
+            "end": 273
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "that needed a large garden",
+            "start": 274,
+            "end": 300,
+            "depth": 1,
+            "kind": "relative"
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "even though they had only a small balcony",
+            "start": 302,
+            "end": 343,
+            "depth": 1,
+            "kind": "concessive-adverb"
+          },
+          {
+            "id": "n6",
+            "role": "S",
+            "text": "that",
+            "start": 274,
+            "end": 278,
+            "depth": 2,
+            "kind": "relative-subject"
+          },
+          {
+            "id": "n7",
+            "role": "V",
+            "text": "needed",
+            "start": 279,
+            "end": 285,
+            "depth": 2,
+            "kind": "predicate"
+          },
+          {
+            "id": "n8",
+            "role": "O",
+            "text": "a large garden",
+            "start": 286,
+            "end": 300,
+            "depth": 2,
+            "kind": "object"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n2",
+            "type": "concession"
+          }
+        ],
+        "skeleton": "S: Some people / V: took / O: seeds",
+        "grammarPoints": [
+          "that節はseedsを修飾し、生育条件を表す。even though節は譲歩で、広い庭と小さいバルコニーを対比する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p2-s001",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "Club member Sora noticed that many plants were not growing well.",
+        "start": 0,
+        "end": 64,
+        "translation": "クラブのソラは、多くの植物がうまく育っていないことに気づいた。",
+        "explanation": "Club memberはSoraの役割を示す。内容節のwere growingは過去進行形でnotにより否定。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Club member Sora",
+            "start": 0,
+            "end": 16
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "noticed",
+            "start": 17,
+            "end": 24
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "that many plants were not growing well",
+            "start": 25,
+            "end": 63
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "clause"
+          }
+        ],
+        "skeleton": "S: Club member Sora / V: noticed",
+        "grammarPoints": [
+          "Club memberはSoraの役割を示す。内容節のwere growingは過去進行形でnotにより否定。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p2-s002",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "She asked several users about their homes.",
+        "start": 65,
+        "end": 107,
+        "translation": "彼女は何人かの利用者に住まいについて尋ねた。",
+        "explanation": "ask 人 about 話題。theirは利用者たちを受ける。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 65,
+            "end": 68
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "asked",
+            "start": 69,
+            "end": 74
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "several users",
+            "start": 75,
+            "end": 88
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "about their homes",
+            "start": 89,
+            "end": 106
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: She / V: asked / O: several users",
+        "grammarPoints": [
+          "ask 人 about 話題。theirは利用者たちを受ける。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p2-s003",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "Then she added three kinds of information to each packet: the space needed, the best month to plant, and how much sunlight the plant liked.",
+        "start": 108,
+        "end": 247,
+        "translation": "それから彼女は各袋に、必要な広さ、植えるのに最適な月、植物が好む日光の量という三種類の情報を加えた。",
+        "explanation": "コロン以降が三種類の内訳。neededはspaceを後置修飾し、to plantはmonthの用途。how much以下は間接疑問で必要な日光の量を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "Then",
+            "start": 108,
+            "end": 112
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "she",
+            "start": 113,
+            "end": 116
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "added",
+            "start": 117,
+            "end": 122
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "three kinds of information",
+            "start": 123,
+            "end": 149
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "to each packet",
+            "start": 150,
+            "end": 164
+          },
+          {
+            "id": "n6",
+            "role": "phrase",
+            "text": "the space needed, the best month to plant, and how much sunlight the plant liked",
+            "start": 166,
+            "end": 246
+          },
+          {
+            "id": "n7",
+            "role": "phrase",
+            "text": "the space needed",
+            "start": 166,
+            "end": 182,
+            "depth": 1,
+            "kind": "appositional-noun-phrase"
+          },
+          {
+            "id": "n8",
+            "role": "phrase",
+            "text": "the best month to plant",
+            "start": 184,
+            "end": 207,
+            "depth": 1,
+            "kind": "appositional-noun-phrase"
+          },
+          {
+            "id": "n9",
+            "role": "clause",
+            "text": "how much sunlight the plant liked",
+            "start": 213,
+            "end": 246,
+            "depth": 1,
+            "kind": "embedded-question"
+          },
+          {
+            "id": "n10",
+            "role": "S",
+            "text": "the plant",
+            "start": 231,
+            "end": 240,
+            "depth": 2,
+            "kind": "subject"
+          },
+          {
+            "id": "n11",
+            "role": "V",
+            "text": "liked",
+            "start": 241,
+            "end": 246,
+            "depth": 2,
+            "kind": "predicate"
+          },
+          {
+            "id": "n12",
+            "role": "O",
+            "text": "how much sunlight",
+            "start": 213,
+            "end": 230,
+            "depth": 2,
+            "kind": "fronted-object"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n6",
+            "to": "n4",
+            "type": "modifies"
+          },
+          {
+            "from": "n7",
+            "to": "n4",
+            "type": "apposition"
+          },
+          {
+            "from": "n8",
+            "to": "n4",
+            "type": "apposition"
+          },
+          {
+            "from": "n9",
+            "to": "n4",
+            "type": "apposition"
+          }
+        ],
+        "skeleton": "S: she / V: added / O: three kinds of information",
+        "grammarPoints": [
+          "コロン以降が三種類の内訳。neededはspaceを後置修飾し、to plantはmonthの用途。how much以下は間接疑問で必要な日光の量を表す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p2-s004",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "She also put photographs of fully grown plants beside the box.",
+        "start": 248,
+        "end": 310,
+        "translation": "彼女は十分に育った植物の写真も箱の横に置いた。",
+        "explanation": "fully grownはplantsを修飾する過去分詞句。fullyはgrownの程度。 既存解説：putの目的語はphotographsからplantsまで。beside以下が置き場所を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 248,
+            "end": 251
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "also put",
+            "start": 252,
+            "end": 260
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "photographs of fully grown plants",
+            "start": 261,
+            "end": 294
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "beside the box",
+            "start": 295,
+            "end": 309
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: She / V: also put / O: photographs of fully grown plants",
+        "grammarPoints": [
+          "fully grownはplantsを修飾する過去分詞句。fullyはgrownの程度。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p3-s001",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "The following season, more people returned seeds.",
+        "start": 0,
+        "end": 49,
+        "translation": "次の季節には、より多くの人が種を返した。",
+        "explanation": "returnedはここでは物を返す他動詞。moreは情報追加前との人数の比較。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "The following season",
+            "start": 0,
+            "end": 20
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "more people",
+            "start": 22,
+            "end": 33
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "returned",
+            "start": 34,
+            "end": 42
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "seeds",
+            "start": 43,
+            "end": 48
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: more people / V: returned / O: seeds",
+        "grammarPoints": [
+          "returnedはここでは物を返す他動詞。moreは情報追加前との人数の比較。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p3-s002",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "A man with a tiny balcony proudly brought back seeds from a pot of beans.",
+        "start": 50,
+        "end": 123,
+        "translation": "とても小さいバルコニーのある男性は、鉢植えの豆から採った種を誇らしげに持ち帰った。",
+        "explanation": "with句は男性の住環境を説明する。from以下は種の出所。brought backの戻す先は交換箱。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A man",
+            "start": 50,
+            "end": 55
+          },
+          {
+            "id": "n2",
+            "role": "phrase",
+            "text": "with a tiny balcony",
+            "start": 56,
+            "end": 75
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "proudly",
+            "start": 76,
+            "end": 83
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "brought back",
+            "start": 84,
+            "end": 96
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "seeds",
+            "start": 97,
+            "end": 102
+          },
+          {
+            "id": "n6",
+            "role": "M",
+            "text": "from a pot of beans",
+            "start": 103,
+            "end": 122
+          }
+        ],
+        "relations": [
+          {
+            "from": "n2",
+            "to": "n1",
+            "type": "modifies"
+          },
+          {
+            "from": "n3",
+            "to": "n4",
+            "type": "modifies"
+          },
+          {
+            "from": "n6",
+            "to": "n4",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: A man / V: brought back / O: seeds",
+        "grammarPoints": [
+          "with句は男性の住環境を説明する。from以下は種の出所。brought backの戻す先は交換箱。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p3-s003",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "The club's goal was not to give everyone the same plant.",
+        "start": 124,
+        "end": 180,
+        "translation": "クラブの目標は、全員に同じ植物を与えることではなかった。",
+        "explanation": "to不定詞句が補語。内部はgive 人 物の二目的語で、everyoneとthe same plantを取る。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The club's goal",
+            "start": 124,
+            "end": 139
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was not",
+            "start": 140,
+            "end": 147
+          },
+          {
+            "id": "n3",
+            "role": "phrase",
+            "text": "to give everyone the same plant",
+            "start": 148,
+            "end": 179
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The club's goal / V: was not",
+        "grammarPoints": [
+          "to不定詞句が補語。内部はgive 人 物の二目的語で、everyoneとthe same plantを取る。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      },
+      {
+        "id": "reading-l1-f01-10:p3-s004",
+        "passageId": "reading-l1-f01-10",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s004",
+        "sentence": "It was to help people choose one that suited their own space and daily life.",
+        "start": 181,
+        "end": 257,
+        "translation": "目標は、それぞれの場所や日常生活に合う植物を選ぶのを手助けすることだった。",
+        "explanation": "Itはgoal、oneはplantの代用。help O＋原形choose。that関係詞節はoneを修飾し、theirはpeopleを指す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "It",
+            "start": 181,
+            "end": 183
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was",
+            "start": 184,
+            "end": 187
+          },
+          {
+            "id": "n3",
+            "role": "phrase",
+            "text": "to help people choose one that suited their own space and daily life",
+            "start": 188,
+            "end": 256
+          },
+          {
+            "id": "n4",
+            "role": "phrase",
+            "text": "one",
+            "start": 210,
+            "end": 213,
+            "depth": 1,
+            "kind": "antecedent"
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "that suited their own space and daily life",
+            "start": 214,
+            "end": 256,
+            "depth": 2,
+            "kind": "relative"
+          },
+          {
+            "id": "n6",
+            "role": "S",
+            "text": "that",
+            "start": 214,
+            "end": 218,
+            "depth": 3,
+            "kind": "relative-subject"
+          },
+          {
+            "id": "n7",
+            "role": "V",
+            "text": "suited",
+            "start": 219,
+            "end": 225,
+            "depth": 3,
+            "kind": "predicate"
+          },
+          {
+            "id": "n8",
+            "role": "O",
+            "text": "their own space and daily life",
+            "start": 226,
+            "end": 256,
+            "depth": 3,
+            "kind": "object"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n5",
+            "to": "n4",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: It / V: was",
+        "grammarPoints": [
+          "Itはgoal、oneはplantの代用。help O＋原形choose。that関係詞節はoneを修飾し、theirはpeopleを指す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、並列・句節の役割を説明に従って読み、日本語訳で意味を確認する。",
+        "reviewStatus": "ai_author_checked_human_pending"
+      }
+    ],
+    "wordCount": 164,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "seeds",
+        "meaning": "種"
+      },
+      {
+        "english": "suited",
+        "meaning": "に適した"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "She also put photographs of fully grown plants beside the box.",
+        "start": 248,
+        "end": 310,
+        "translation": "彼女は成長した植物の写真も箱の横に置いた。",
+        "explanation": "putの目的語はphotographsからplantsまで。beside以下が置き場所を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 248,
+            "end": 251
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "put",
+            "start": 257,
+            "end": 260
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "photographs of fully grown plants",
+            "start": 261,
+            "end": 294
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "beside the box",
+            "start": 295,
+            "end": 309
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "A gardening club placed a seed box in the town library.",
+        "translation": "園芸クラブは町の図書館に種の箱を置いた。",
+        "start": 0,
+        "end": 55,
+        "syntaxId": "reading-l1-f01-10:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "Anyone could take a small packet and grow flowers or vegetables at home.",
+        "translation": "誰でも小さな袋を一つ取り、自宅で花や野菜を育てることができた。",
+        "start": 56,
+        "end": 128,
+        "syntaxId": "reading-l1-f01-10:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "The club hoped that people would bring seeds back after their plants grew.",
+        "translation": "クラブは、植物が育った後に人々が種を持ち帰ってくることを望んでいた。",
+        "start": 129,
+        "end": 203,
+        "syntaxId": "reading-l1-f01-10:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "At first, the packets only showed plant names.",
+        "translation": "最初、袋には植物名しか書かれていなかった。",
+        "start": 204,
+        "end": 250,
+        "syntaxId": "reading-l1-f01-10:p1-s004"
+      },
+      {
+        "id": "p1-s005",
+        "paragraphId": "p1",
+        "english": "Some people took seeds that needed a large garden, even though they had only a small balcony.",
+        "translation": "一部の人は、小さいバルコニーしかないのに、大きな庭を必要とする種を取った。",
+        "start": 251,
+        "end": 344,
+        "syntaxId": "reading-l1-f01-10:p1-s005"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "Club member Sora noticed that many plants were not growing well.",
+        "translation": "クラブのソラは、多くの植物がうまく育っていないことに気づいた。",
+        "start": 0,
+        "end": 64,
+        "syntaxId": "reading-l1-f01-10:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "She asked several users about their homes.",
+        "translation": "彼女は何人かの利用者に住まいについて尋ねた。",
+        "start": 65,
+        "end": 107,
+        "syntaxId": "reading-l1-f01-10:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "Then she added three kinds of information to each packet: the space needed, the best month to plant, and how much sunlight the plant liked.",
+        "translation": "それから彼女は各袋に、必要な広さ、植えるのに最適な月、植物が好む日光の量という三種類の情報を加えた。",
+        "start": 108,
+        "end": 247,
+        "syntaxId": "reading-l1-f01-10:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "She also put photographs of fully grown plants beside the box.",
+        "translation": "彼女は十分に育った植物の写真も箱の横に置いた。",
+        "start": 248,
+        "end": 310,
+        "syntaxId": "reading-l1-f01-10:p2-s004"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "The following season, more people returned seeds.",
+        "translation": "次の季節には、より多くの人が種を返した。",
+        "start": 0,
+        "end": 49,
+        "syntaxId": "reading-l1-f01-10:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "A man with a tiny balcony proudly brought back seeds from a pot of beans.",
+        "translation": "とても小さいバルコニーのある男性は、鉢植えの豆から採った種を誇らしげに持ち帰った。",
+        "start": 50,
+        "end": 123,
+        "syntaxId": "reading-l1-f01-10:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "The club's goal was not to give everyone the same plant.",
+        "translation": "クラブの目標は、全員に同じ植物を与えることではなかった。",
+        "start": 124,
+        "end": 180,
+        "syntaxId": "reading-l1-f01-10:p3-s003"
+      },
+      {
+        "id": "p3-s004",
+        "paragraphId": "p3",
+        "english": "It was to help people choose one that suited their own space and daily life.",
+        "translation": "目標は、それぞれの場所や日常生活に合う植物を選ぶのを手助けすることだった。",
+        "start": 181,
+        "end": 257,
+        "syntaxId": "reading-l1-f01-10:p3-s004"
+      }
+    ],
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
   }
 ]

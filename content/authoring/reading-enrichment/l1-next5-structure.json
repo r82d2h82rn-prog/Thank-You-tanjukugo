@@ -1,0 +1,321 @@
+{
+  "reading-l1-f01-06:p1-s006": {
+    "nodes": [
+      [
+        "phrase",
+        "rice",
+        1,
+        "noun"
+      ],
+      [
+        "phrase",
+        "served",
+        2,
+        "past-participle"
+      ]
+    ],
+    "edges": [
+      [
+        "served",
+        "rice",
+        "modifies"
+      ]
+    ]
+  },
+  "reading-l1-f01-07:p1-s005": {
+    "nodes": [
+      [
+        "phrase",
+        "places",
+        1,
+        "antecedent"
+      ],
+      [
+        "clause",
+        "where people needed light for safety",
+        2,
+        "relative-adverb"
+      ],
+      [
+        "S",
+        "people",
+        3,
+        "subject"
+      ],
+      [
+        "V",
+        "needed",
+        3,
+        "predicate"
+      ],
+      [
+        "O",
+        "light",
+        3,
+        "object"
+      ]
+    ],
+    "edges": [
+      [
+        "where people needed light for safety",
+        "places",
+        "modifies"
+      ]
+    ]
+  },
+  "reading-l1-f01-08:p1-s003": {
+    "nodes": [
+      [
+        "phrase",
+        "the year",
+        1,
+        "antecedent"
+      ],
+      [
+        "clause",
+        "when it was made",
+        2,
+        "relative-adverb"
+      ],
+      [
+        "S",
+        "it",
+        3,
+        "subject"
+      ],
+      [
+        "V",
+        "was made",
+        3,
+        "passive"
+      ]
+    ],
+    "edges": [
+      [
+        "when it was made",
+        "the year",
+        "modifies"
+      ]
+    ]
+  },
+  "reading-l1-f01-08:p1-s004": {
+    "nodes": [
+      [
+        "phrase",
+        "a visitor",
+        1,
+        "antecedent"
+      ],
+      [
+        "clause",
+        "who knew nothing about the object",
+        2,
+        "relative"
+      ],
+      [
+        "S",
+        "who",
+        3,
+        "relative-subject"
+      ],
+      [
+        "V",
+        "knew",
+        3,
+        "predicate"
+      ],
+      [
+        "O",
+        "nothing",
+        3,
+        "object"
+      ]
+    ],
+    "edges": [
+      [
+        "who knew nothing about the object",
+        "a visitor",
+        "modifies"
+      ]
+    ]
+  },
+  "reading-l1-f01-09:p3-s002": {
+    "nodes": [
+      [
+        "clause",
+        "she had been able to race",
+        1,
+        "counterfactual-content"
+      ],
+      [
+        "S",
+        "she",
+        2,
+        "subject"
+      ],
+      [
+        "V",
+        "had been",
+        2,
+        "past-perfect"
+      ],
+      [
+        "C",
+        "able to race",
+        2,
+        "complement"
+      ]
+    ],
+    "edges": [
+      [
+        "she had been able to race",
+        "wished",
+        "content"
+      ]
+    ]
+  },
+  "reading-l1-f01-10:p1-s005": {
+    "nodes": [
+      [
+        "clause",
+        "that needed a large garden",
+        1,
+        "relative"
+      ],
+      [
+        "clause",
+        "even though they had only a small balcony",
+        1,
+        "concessive-adverb"
+      ],
+      [
+        "S",
+        "that",
+        2,
+        "relative-subject"
+      ],
+      [
+        "V",
+        "needed",
+        2,
+        "predicate"
+      ],
+      [
+        "O",
+        "a large garden",
+        2,
+        "object"
+      ]
+    ],
+    "edges": [
+      [
+        "that needed a large garden",
+        "seeds",
+        "modifies"
+      ],
+      [
+        "even though they had only a small balcony",
+        "took",
+        "concession"
+      ]
+    ]
+  },
+  "reading-l1-f01-10:p2-s003": {
+    "nodes": [
+      [
+        "phrase",
+        "the space needed",
+        1,
+        "appositional-noun-phrase"
+      ],
+      [
+        "phrase",
+        "the best month to plant",
+        1,
+        "appositional-noun-phrase"
+      ],
+      [
+        "clause",
+        "how much sunlight the plant liked",
+        1,
+        "embedded-question"
+      ],
+      [
+        "S",
+        "the plant",
+        2,
+        "subject"
+      ],
+      [
+        "V",
+        "liked",
+        2,
+        "predicate"
+      ],
+      [
+        "O",
+        "how much sunlight",
+        2,
+        "fronted-object"
+      ]
+    ],
+    "edges": [
+      [
+        "the space needed",
+        "three kinds of information",
+        "apposition"
+      ],
+      [
+        "the best month to plant",
+        "three kinds of information",
+        "apposition"
+      ],
+      [
+        "how much sunlight the plant liked",
+        "three kinds of information",
+        "apposition"
+      ]
+    ]
+  },
+  "reading-l1-f01-10:p3-s004": {
+    "nodes": [
+      [
+        "phrase",
+        "one",
+        1,
+        "antecedent"
+      ],
+      [
+        "clause",
+        "that suited their own space and daily life",
+        2,
+        "relative"
+      ],
+      [
+        "S",
+        "that",
+        3,
+        "relative-subject"
+      ],
+      [
+        "V",
+        "suited",
+        3,
+        "predicate"
+      ],
+      [
+        "O",
+        "their own space and daily life",
+        3,
+        "object"
+      ]
+    ],
+    "edges": [
+      [
+        "that suited their own space and daily life",
+        "one",
+        "modifies"
+      ]
+    ]
+  }
+}

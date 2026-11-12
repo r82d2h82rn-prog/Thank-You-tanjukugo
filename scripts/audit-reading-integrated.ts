@@ -3,7 +3,7 @@ import { readingCatalog } from '../src/readingCatalog';
 import { sentenceRanges } from '../src/readingSentences';
 import enriched from '../content/readings/enriched.json';
 const distribution=(xs:number[])=>Object.fromEntries([...new Set(xs)].sort((a,b)=>a-b).map(v=>[v,xs.filter(x=>x===v).length]));
-const report={baseCommit:'06ff8eeaf1b45693f40f6d04ac6c6a07ec29f6ee',scope:'220 saved readings; pilot 5 enriched, not full completion',humanReviewed:0,levels:{} as Record<string,unknown>,passages:[] as unknown[]};
+const report={baseCommit:'1eba13cd88c186a30bf22dc87bbe0c14a9bc0605',scope:`220 saved readings; ${enriched.length} enriched, not full completion`,humanReviewed:0,levels:{} as Record<string,unknown>,passages:[] as unknown[]};
 for(const level of [1,2,3,4]){
  const pool=readingCatalog.filter(p=>p.level===level);let sentences=0,syntax=0,translations=0;
  for(const p of pool){

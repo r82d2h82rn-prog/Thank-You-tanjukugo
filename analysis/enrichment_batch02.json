@@ -1,0 +1,25 @@
+{
+  "baseCommit": "1eba13cd88c186a30bf22dc87bbe0c14a9bc0605",
+  "newIds": [
+    "reading-l1-f01-06",
+    "reading-l1-f01-07",
+    "reading-l1-f01-08",
+    "reading-l1-f01-09",
+    "reading-l1-f01-10"
+  ],
+  "newReadings": 5,
+  "newSentences": 67,
+  "totalEnriched": 10,
+  "totalAlignedSentences": 142,
+  "previous5Unchanged": true,
+  "oldTextAndQuestionsUnchanged": true,
+  "humanReviewed": 0,
+  "screenTests": "blocked by previously observed Chromium socket() EPERM; not verified",
+  "previousRecordFingerprints": {
+    "reading-l1-f01-01": "bcb0bf2de0086f8dd0c6020c2891cde979cddcc1d7c622090c5404579f9317fb",
+    "reading-l1-f01-02": "96d6a642f1c0a8cf4c792afc0608a50180c2b1df7580e45ecd6c47c980c7f839",
+    "reading-l1-f01-03": "271396a161ba1cdbb927e4bfd55b9680e90197f24e155a44a6f09edacff5ea04",
+    "reading-l1-f01-04": "7b329bcb451bbc77506c3bde9eb79ad910b10157f0e765d76549c76837e830f2",
+    "reading-l1-f01-05": "d54d5a890d8a98badd11f3956acb075eeb8c4d9e144f1f0c4bb8042321772ff4"
+  }
+}
