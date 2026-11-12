@@ -94,9 +94,20 @@ def validate_reading(p):
         evidence=q.get('evidence',{})
         para=paragraphs.get(evidence.get('paragraphId'),{})
         if not q.get('prompt') or not q.get('explanation') or not evidence.get('quote') or evidence['quote'] not in para.get('english',''): errors.append('answer evidence invalid')
+    syntax_paragraphs=paragraphs
+    if p.get('reviewParagraphs') is not None:
+        review=p['reviewParagraphs'];syntax_paragraphs={x['id']:x for x in review}
+        if len(review)!=len(paragraphs) or set(syntax_paragraphs)!=set(paragraphs):errors.append('review paragraph IDs differ')
+        for pid,para in paragraphs.items():
+            completed=para['english']
+            for token,value in p.get('gapSolutions',{}).items():
+                q=next((q for q in p['questions'] if q['id']==value.get('questionId')),None)
+                if not q or not any(o['id']==q['correctOptionId'] and o['text']==value.get('answer') for o in q['options']):errors.append('gap solution not equal to correct option')
+                completed=completed.replace(token,value.get('answer',''))
+            if syntax_paragraphs.get(pid,{}).get('english')!=completed:errors.append('review completion differs from original and solutions')
     if not p['syntax']: errors.append('syntax missing')
     for syntax in p['syntax']:
-        para=paragraphs.get(syntax.get('paragraphId'),{}); text=para.get('english',''); spans=syntax.get('spans',[])
+        para=syntax_paragraphs.get(syntax.get('paragraphId'),{}); text=para.get('english',''); spans=syntax.get('spans',[])
         ids={span.get('id') for span in spans}
         if not syntax.get('explanation') or not spans or len(ids)!=len(spans): errors.append('syntax explanation/spans invalid')
         for span in spans:

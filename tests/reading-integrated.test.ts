@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import enriched from '../content/readings/enriched.json';
 import legacy from '../content/readings/drafts.json';
 import { sentenceRanges } from '../src/readingSentences';
-import { gradeReading, recordReading } from '../src/readings';
+import { gradeReading, recordReading, readingParagraphs } from '../src/readings';
 import { emptyState, decodeState } from '../src/model';
 test('sentence splitting keeps abbreviations, decimal numbers and quoted endings',()=>{
  const text='Dr. Lee measured 3.5 cm. "Is it ready?" Yes, it is.';
@@ -15,7 +15,7 @@ test('preserved revision texts have aligned translations and syntax for every se
   const old=legacy.find(x=>x.id===p.id)!;assert.equal(p.content.contentVersion,old.content.contentVersion+1);
   assert.deepEqual(p.questions.slice(0,old.questions.length),old.questions);
   assert.deepEqual(p.paragraphs.map(x=>x.english),old.paragraphs.map(x=>x.english));
-  for(const para of p.paragraphs){const ranges=sentenceRanges(para.id,para.english);assert.equal(ranges.length,p.sentences.filter(s=>s.paragraphId===para.id).length);
+  for(const para of readingParagraphs(p,true)){const ranges=sentenceRanges(para.id,para.english);assert.equal(ranges.length,p.sentences.filter(s=>s.paragraphId===para.id).length);
    for(const r of ranges){const s=p.syntax.find(s=>s.paragraphId===para.id&&s.start===r.start&&s.end===r.end)!;assert.ok(s);assert.equal(s.sentence,r.english);assert.ok(s.translation);assert.ok(s.explanation);assert.ok(s.spans.some(x=>x.role==='S'));assert.ok(s.spans.some(x=>x.role==='V'));for(const span of s.spans)assert.equal(para.english.slice(span.start,span.end),span.text);}
   }
  }
@@ -33,4 +33,17 @@ test('authored nested modifier links point to their actual antecedents',()=>{
  const head=syntax.spans.find(x=>x.text==='places')!;
  assert.ok(syntax.relations.some(x=>x.from===relative.id&&x.to===head.id&&x.type==='modifies'));
  for(const p of enriched)for(const syntax of p.syntax){const ids=new Set(syntax.spans.map(n=>n.id));for(const link of syntax.relations){assert.ok(ids.has(link.from));assert.ok(ids.has(link.to));assert.notEqual(link.from,link.to);}}
+});
+test('gap answers and their coordinates are used only in submitted review',()=>{
+ const gaps=enriched.filter(p=>'reviewParagraphs' in p);
+ assert.equal(gaps.length,5);
+ for(const p of gaps){
+  const original=legacy.find(x=>x.id===p.id)!;
+  assert.deepEqual(readingParagraphs(p,false).map(x=>x.english),original.paragraphs.map(x=>x.english));
+  assert.ok(readingParagraphs(p,false).some(x=>x.english.includes('[1]')));
+  assert.ok(readingParagraphs(p,true).every(x=>!x.english.includes('[1]')));
+  const gap=p.questions[0];const answer=gap.options.find(x=>x.id===gap.correctOptionId)!.text;
+  for(const [i,para] of readingParagraphs(p,true).entries())assert.equal(para.english,original.paragraphs[i].english.replace('[1]',answer));
+  for(const sentence of p.sentences){if(!('sourceEnglish' in sentence))throw new Error('source alignment missing');const para=original.paragraphs.find(x=>x.id===sentence.paragraphId)!;assert.equal(para.english.slice(sentence.sourceStart,sentence.sourceEnd),sentence.sourceEnglish);assert.equal(sentence.sourceEnglish.replace('[1]',answer),sentence.english);}
+ }
 });

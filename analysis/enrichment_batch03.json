@@ -1,0 +1,33 @@
+{
+  "baseCommit": "465210990b05864cd0dc61725740b3935a25b459",
+  "ids": [
+    "reading-l1-f02-01",
+    "reading-l1-f02-02",
+    "reading-l1-f02-03",
+    "reading-l1-f02-04",
+    "reading-l1-f02-05"
+  ],
+  "newReadings": 5,
+  "newSentences": 71,
+  "totalEnriched": 15,
+  "totalAlignedSentences": 213,
+  "previous10Unchanged": true,
+  "originalEnglishAndQuestionIdsPreserved": true,
+  "questionCounts": [
+    5,
+    4,
+    5,
+    3,
+    4
+  ],
+  "reviewWordCounts": [
+    163,
+    162,
+    167,
+    173,
+    166
+  ],
+  "humanReviewed": 0,
+  "screenVerification": "not verified: local Chromium socket() EPERM previously; shared browser local preview ERR_CONNECTION_REFUSED this batch",
+  "previous10Sha256": "1334c0dc78cbfb513691f5fc588d2a91ac794003d681f9e8196b1a86e83ce380"
+}
