@@ -151,6 +151,13 @@ def audit(root=ROOT, release=False):
     reading_drafts=read_json(reading_path) if reading_path.exists() else []
     advanced_path=root/'content/readings/advanced.json'
     if advanced_path.exists(): reading_drafts+=read_json(advanced_path)
+    enriched_path=root/'content/readings/enriched.json'
+    if enriched_path.exists():
+        replacements={p['id']:p for p in read_json(enriched_path)}
+        for original in reading_drafts:
+            replacement=replacements.get(original['id'])
+            if replacement and replacement['questions'][:len(original['questions'])]!=original['questions']: issues.append({'id':original['id'],'error':'original question identity changed'})
+        reading_drafts=[replacements.get(p['id'],p) for p in reading_drafts]
     draft_counts['reading']=[sum(p.get('level')==l for p in reading_drafts) for l in range(1,5)]
     for entry in reading_drafts:
         errors=validate_reading(entry)+validate_provenance(entry.get('content',{}),sources,False)

@@ -9,6 +9,8 @@ def write(path,value):path.parent.mkdir(parents=True,exist_ok=True);path.write_t
 def build(level,form):
  path=ROOT/f'content/authoring/readings/advanced_l{level}_f{form:02}.jsonl'
  authored=[json.loads(x) for x in path.read_text().splitlines() if x.strip()];assert len(authored)==10
+ for a in authored:
+  assert a.get('standardVersion')==2 and a.get('sentences') and a.get('fullSyntax'),'新基準: 全文の文別和訳・全構文データを先に用意する。旧上級原稿は要補完。'
  legacy=json.loads((ROOT/'content/readings/drafts.json').read_text());advanced_path=ROOT/'content/readings/advanced.json';data=legacy+(json.loads(advanced_path.read_text()) if advanced_path.exists() else []);protect(data)
  sources=json.loads((ROOT/'content/sources.json').read_text());source_id=f'original-reading-l{level}-v1'
  if not any(x['id']==source_id for x in sources):
@@ -16,7 +18,7 @@ def build(level,form):
  batch=[]
  for i,a in enumerate(authored):
   pid=f'reading-l{level}-f{form:02}-{i+1:02}';paragraphs=[{'id':f'p{j+1}','english':en,'translation':jp} for j,(en,jp) in enumerate(zip(a['en'],a['jp']))];assert len(a['en'])==len(a['jp'])
-  body=' '.join(a['en']);wc=len(re.findall(r"[A-Za-z]+(?:['-][A-Za-z]+)*",body));assert (190 if level==3 else 210)<=wc<=420,(pid,wc)
+  body=' '.join(a['en']);wc=len(re.findall(r"[A-Za-z]+(?:['-][A-Za-z]+)*",body));assert (400 if level==3 else 600)<=wc<=(600 if level==3 else 900),(pid,wc)
   questions=[]
   for j,(prompt,options,reasons,quote) in enumerate(a['questions']):
    order=list(range(4));shift=(i+2*j+level)%4;order=order[shift:]+order[:shift]
@@ -30,6 +32,10 @@ def build(level,form):
   syntax={'id':'s1','paragraphId':para['id'],'sentence':sentence,'translation':jp,'explanation':explanation,'start':start,'end':start+len(sentence),'spans':spans,'relations':[{'from':f'n{x+1}','to':f'n{y+1}','type':kind} for x,y,kind in edges]}
   content={'sourceIds':[source_id],'contentVersion':1,'qualityStatus':'review_required','autoChecked':True,'humanReviewed':False,'productionApproved':False,'examFrequency':None,'selectionReason':'大学受験標準〜難関の構文と根拠・限定の読解' if level==3 else '最難関を想定した暗黙の前提・譲歩・多重修飾の統合読解','sourceUsage':[{'sourceId':source_id,'fields':['title','paragraphs','questions','syntax','vocabulary']}]}
   p={'id':pid,'level':level,'format':form,'title':a['title'],'paragraphs':paragraphs,'questions':questions,'syntax':[syntax],'wordCount':wc,'recommendedSeconds':round((wc/(75 if level==3 else 60)*60+len(questions)*55)/15)*15,'vocabulary':[{'english':en,'meaning':jp} for en,jp in a.get('vocabulary',[])],'content':content,'difficulty':{'scores':dict(zip(['vocabulary','syntax','logic','questions'],a['scores'])),'method':'ai_author_editorial_v1','status':'author_assessed_independent_review_pending','rationale':a['rationale']},'editorialReview':{'status':'author_checked','reviewer':'AI author; not independent human review','checks':['paragraph-by-paragraph complete translation','all four options compared against text','evidence and limitation of each inference','syntax head/embedded clause and relation targets'],'independentHumanReviewed':False}}
+  p['syntax']=a['fullSyntax'];p['sentences']=a['sentences']
+  assert (4 if level==3 else 5)<=len(paragraphs)<=(8 if level==3 else 11)
+  assert (5 if level==3 else 6)<=len(questions)<=(8 if level==3 else 10)
+  assert all(any(s.get('sentenceId')==r['id'] and s.get('paragraphId')==r['paragraphId'] and s.get('translation')==r['translation'] for s in p['syntax']) for r in p['sentences'])
   errors=validate_reading(p)+validate_provenance(content,{s['id']:s for s in sources},False);assert not errors,(pid,errors)
   assert all(type(v)==int and 1<=v<=5 for v in a['scores']);batch.append(p)
  existing={p['id']:p for p in data}

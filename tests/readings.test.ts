@@ -1,5 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
+import enriched from '../content/readings/enriched.json';
 import { readingCatalog as data } from '../src/readingCatalog';
 import checkpoint from '../analysis/reading_checkpoint.json';
 import { emptyState, decodeState, answer } from '../src/model';
@@ -8,7 +9,7 @@ const passages=data as Passage[];
 test('reading drafts match the measured quota, have evidence and exact syntax offsets',()=>{
  assert.ok(passages.length>=200 && passages.length<=400);
  assert.equal(checkpoint.complete,passages.length===400);
- assert.equal(passages.reduce((n,p)=>n+p.questions.length,0),checkpoint.totalQuestions);
+ assert.equal(passages.reduce((n,p)=>n+p.questions.length,0),checkpoint.totalQuestions+enriched.reduce((n,p)=>n+p.questions.length-3,0));
  assert.equal(passages.length,checkpoint.authoredPassages);
  assert.equal(new Set(passages.map(p=>p.id)).size,passages.length);
  for(const level of [1,2] as const){

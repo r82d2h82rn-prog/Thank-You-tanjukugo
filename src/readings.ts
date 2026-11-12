@@ -3,10 +3,10 @@ export const readingFormats = ['内容一致','語句空所補充','文・節の
 export interface Paragraph { id: string; english: string; translation: string }
 export interface ReadingQuestion { id: string; prompt: string; options: { id: string; text: string; explanation: string }[]; correctOptionId: string; explanation: string; evidence: { paragraphId: string; quote: string } }
 export interface SyntaxNode { id: string; role: 'S'|'V'|'O'|'C'|'M'|'clause'|'phrase'; text: string; start: number; end: number }
-export interface ReadingSyntax { id: string; paragraphId: string; sentence: string; start: number; end: number; translation: string; explanation: string; spans: SyntaxNode[]; relations: {from:string;to:string;type:string}[] }
+export interface ReadingSyntax { sentenceId?:string; skeleton?:string; grammarPoints?:string[]; readingOrder?:string; id: string; paragraphId: string; sentence: string; start: number; end: number; translation: string; explanation: string; spans: SyntaxNode[]; relations: {from:string;to:string;type:string}[] }
 export interface ReadingDifficulty { scores: { vocabulary:number; syntax:number; logic:number; questions:number }; method:string; status:string; rationale?:string }
 export interface Passage { difficulty?: ReadingDifficulty; id: string; level: Level; format: number; title: string; paragraphs: Paragraph[]; questions: ReadingQuestion[]; syntax: ReadingSyntax[]; recommendedSeconds: number; wordCount: number; vocabulary: {english:string;meaning:string}[]; paragraphOrder?: string[]; insert?: {sentence:string;translation:string} }
-export interface ReadingAttempt { id: string; correct: number; total: number; elapsedSeconds: number; submittedAt: string; answers: Record<string,string> }
+export interface ReadingAttempt { contentVersion?:number; questionIds?:string[]; id: string; correct: number; total: number; elapsedSeconds: number; submittedAt: string; answers: Record<string,string> }
 export interface ReadingRecord { attempts: number; first: ReadingAttempt; best: ReadingAttempt; latest: ReadingAttempt }
 export interface ReadingState { unlockedByLevel: Partial<Record<Level,string[]>>; records: Record<string,ReadingRecord> }
 export const emptyReading = (): ReadingState => ({unlockedByLevel:{},records:{}});
@@ -18,7 +18,7 @@ export function unlockReading(state:State,p:Passage):State {
 }
 export function gradeReading(p:Passage,answers:Record<string,string>,elapsedSeconds:number,id:string,at=new Date().toISOString()):ReadingAttempt {
  if(!id||!Number.isFinite(elapsedSeconds)||elapsedSeconds<0||Object.keys(answers).length!==p.questions.length||p.questions.some(q=>!q.options.some(o=>o.id===answers[q.id])))throw new Error('全設問への有効な回答が必要です');
- return {id,correct:p.questions.filter(q=>answers[q.id]===q.correctOptionId).length,total:p.questions.length,elapsedSeconds:Math.round(elapsedSeconds),submittedAt:at,answers:{...answers}};
+ return {contentVersion:(p as Passage & {content?:{contentVersion?:number}}).content?.contentVersion??1,questionIds:p.questions.map(q=>q.id),id,correct:p.questions.filter(q=>answers[q.id]===q.correctOptionId).length,total:p.questions.length,elapsedSeconds:Math.round(elapsedSeconds),submittedAt:at,answers:{...answers}};
 }
 export function recordReading(state:State,p:Passage,a:ReadingAttempt):State {
  const r=state.reading??emptyReading(),old=r.records[p.id];

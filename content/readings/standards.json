@@ -1,0 +1,68 @@
+{
+  "standardVersion": 2,
+  "levels": {
+    "1": {
+      "words": [
+        150,
+        250
+      ],
+      "paragraphs": [
+        2,
+        5
+      ],
+      "questions": [
+        3,
+        5
+      ]
+    },
+    "2": {
+      "words": [
+        250,
+        400
+      ],
+      "paragraphs": [
+        3,
+        6
+      ],
+      "questions": [
+        4,
+        7
+      ]
+    },
+    "3": {
+      "words": [
+        400,
+        600
+      ],
+      "paragraphs": [
+        4,
+        8
+      ],
+      "questions": [
+        5,
+        8
+      ]
+    },
+    "4": {
+      "words": [
+        600,
+        900
+      ],
+      "paragraphs": [
+        5,
+        11
+      ],
+      "questions": [
+        6,
+        10
+      ]
+    }
+  },
+  "formalQuestionRange": [
+    3,
+    10
+  ],
+  "sentenceTranslationCoverage": 1,
+  "sentenceSyntaxCoverage": 1,
+  "humanReviewRequiredForFinalApproval": true
+}
