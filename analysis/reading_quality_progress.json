@@ -1,0 +1,87 @@
+{
+  "levels": {
+    "1": {
+      "authored": 100,
+      "structurallyVerified": 100,
+      "difficultyRated": 100,
+      "aiEditoriallyChecked": 0,
+      "independentlyHumanReviewed": 0,
+      "target": 100,
+      "formats": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ]
+    },
+    "2": {
+      "authored": 100,
+      "structurallyVerified": 100,
+      "difficultyRated": 100,
+      "aiEditoriallyChecked": 0,
+      "independentlyHumanReviewed": 0,
+      "target": 100,
+      "formats": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ]
+    },
+    "3": {
+      "authored": 0,
+      "structurallyVerified": 0,
+      "difficultyRated": 0,
+      "aiEditoriallyChecked": 0,
+      "independentlyHumanReviewed": 0,
+      "target": 100,
+      "formats": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "4": {
+      "authored": 0,
+      "structurallyVerified": 0,
+      "difficultyRated": 0,
+      "aiEditoriallyChecked": 0,
+      "independentlyHumanReviewed": 0,
+      "target": 100,
+      "formats": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "protectedExistingRecords": 200,
+  "complete": false,
+  "note": "構造検証と意味・難易度の編集確認は別工程。既存200題の評価は自動一次評価、確定品質確認は未完了。"
+}

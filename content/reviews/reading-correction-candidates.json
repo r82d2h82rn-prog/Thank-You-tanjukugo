@@ -1,0 +1,15 @@
+{
+  "policy": "既存教材は変更しない。確定修正はバックアップとID・履歴対応の検証後に別コミットで行う。自動難易度評価だけを根拠に本文を書き換えない。",
+  "reviewScope": "限定的な構文チェック。全200題の和訳・全選択肢を意味的に精査済みとは扱わない。",
+  "candidates": [
+    {
+      "id": "reading-l2-f01-01",
+      "category": "syntax_relation",
+      "status": "recorded_not_applied",
+      "evidence": "Even a skilled volunteer could not easily repair the second group.",
+      "current": "s1.relations の n1(Even) → n3(could not easily repair)",
+      "proposed": "n1(Even) → n2(a skilled volunteer)",
+      "reason": "この文のEvenは『熟練者でさえ』と主語名詞句を焦点化する。現在の矢印は修理という述語への修飾を示しており、説明と焦点の対応がずれる。本文・訳・設問・IDの変更は不要。"
+    }
+  ]
+}

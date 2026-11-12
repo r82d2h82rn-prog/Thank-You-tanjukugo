@@ -1,0 +1,3817 @@
+{
+  "scale": {
+    "1": "高校入試の基本",
+    "2": "高校初級〜中級",
+    "3": "大学受験標準",
+    "4": "難関大学",
+    "5": "最難関大学"
+  },
+  "dimensions": [
+    "vocabulary",
+    "syntax",
+    "logic",
+    "questions"
+  ],
+  "ratings": {
+    "reading-l1-f01-01": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 18,
+        "meanSentenceWords": 10.4,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f01-02": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 10.9,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f01-03": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 18,
+        "meanSentenceWords": 10.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f01-04": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 15,
+        "meanSentenceWords": 9.6,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 4,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f01-05": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 17,
+        "meanSentenceWords": 10.2,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f01-06": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 16,
+        "meanSentenceWords": 10.7,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 1,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f01-07": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 18,
+        "meanSentenceWords": 11.6,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f01-08": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 12.4,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f01-09": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 26,
+        "meanSentenceWords": 14.2,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 5,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f01-10": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 12.6,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 0,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f02-01": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 15,
+        "meanSentenceWords": 10.9,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f02-02": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 13.5,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f02-03": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 11.9,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 3,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f02-04": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 11.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f02-05": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 18,
+        "meanSentenceWords": 11.1,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f02-06": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 18,
+        "meanSentenceWords": 11.3,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f02-07": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 11.3,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f02-08": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 13.3,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f02-09": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 16,
+        "meanSentenceWords": 12.1,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f02-10": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 11.8,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f03-01": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 12.7,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 5,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f03-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 18,
+        "meanSentenceWords": 12.1,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f03-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 10,
+        "longestSentenceWords": 18,
+        "meanSentenceWords": 13,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f03-04": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 17,
+        "meanSentenceWords": 11.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f03-05": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f03-06": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 12.9,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f03-07": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 13.7,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 1,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f03-08": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 13.7,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 4,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f03-09": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 13.1,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 1,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f03-10": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 10.6,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f04-01": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 12.9,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 5,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f04-02": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 13.5,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f04-03": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 17,
+        "meanSentenceWords": 12,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f04-04": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 12.4,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f04-05": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 16,
+        "meanSentenceWords": 12.2,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f04-06": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 14.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f04-07": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 14.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f04-08": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 13.3,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f04-09": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 12.6,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f04-10": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 14.5,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f05-01": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 12.4,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f05-02": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 13.3,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f05-03": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 13.1,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f05-04": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 11.8,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f05-05": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 13.2,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f05-06": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 26,
+        "meanSentenceWords": 13.3,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f05-07": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 11.6,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f05-08": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 10.9,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f05-09": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 18,
+        "meanSentenceWords": 12.3,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f05-10": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 1,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f06-01": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 13.4,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f06-02": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 13.4,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f06-03": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 26,
+        "meanSentenceWords": 10.7,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 1,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f06-04": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 3,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 32,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 0,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f06-05": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 18,
+        "meanSentenceWords": 13.5,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f06-06": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 14.6,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f06-07": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 18,
+        "meanSentenceWords": 13.7,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f06-08": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 14.9,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 1,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f06-09": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 0,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f06-10": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 12.6,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f07-01": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 13.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f07-02": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 1,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 13.6,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f07-03": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 13.9,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 4,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f07-04": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 15.1,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 1,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f07-05": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 0,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 15.3,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 3,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f07-06": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 27,
+        "meanSentenceWords": 15.5,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 1,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f07-07": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 15,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f07-08": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 15.4,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 1,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f07-09": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 27,
+        "meanSentenceWords": 15.9,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 0,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f07-10": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 13,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f08-01": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 13.2,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f08-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 14.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f08-03": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 15.9,
+        "subordinationSignals": 4,
+        "contrastAndCausalSignals": 3,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f08-04": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 14.6,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f08-05": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 5,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f08-06": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 13.9,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f08-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 26,
+        "meanSentenceWords": 14.4,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 0,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f08-08": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 14.4,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f08-09": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 14.2,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f08-10": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 27,
+        "meanSentenceWords": 13.3,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 4,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f09-01": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 11.2,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f09-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 13,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f09-03": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 13,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 5,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f09-04": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 13.5,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 2,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f09-05": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 14.9,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f09-06": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 13.3,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 0,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f09-07": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 17,
+        "meanSentenceWords": 12.4,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 1,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f09-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 14.5,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f09-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 15,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f09-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 13.6,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f10-01": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 13.6,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f10-02": {
+      "scores": {
+        "vocabulary": 1,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 2,
+        "longestSentenceWords": 16,
+        "meanSentenceWords": 11.4,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f10-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 15.2,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 0,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f10-04": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 3,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 14.7,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 5,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f10-05": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f10-06": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 3,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 15,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f10-07": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 14.7,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f10-08": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f10-09": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 26,
+        "meanSentenceWords": 15.4,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 0,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l1-f10-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 10,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 14,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f01-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 14.4,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f01-02": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 14.2,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f01-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 12,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 16.1,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 6,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f01-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 13.4,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f01-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 14.6,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 1,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f01-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 10,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 14.4,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 3,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f01-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 29,
+        "meanSentenceWords": 16,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f01-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 14.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 1,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f01-09": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 13,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f01-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 12,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 14.3,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 1
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f02-01": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 17,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 12.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f02-02": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 1,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f02-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 12,
+        "longestSentenceWords": 34,
+        "meanSentenceWords": 15.1,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f02-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 12,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 13.1,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 5,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f02-05": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 14.9,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f02-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 13,
+        "longestSentenceWords": 19,
+        "meanSentenceWords": 15,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 0,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f02-07": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 15,
+        "longestSentenceWords": 31,
+        "meanSentenceWords": 13.1,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f02-08": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 15,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 12.9,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f02-09": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 5,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f02-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 10,
+        "longestSentenceWords": 27,
+        "meanSentenceWords": 15,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 2
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f03-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 13,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 14.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f03-02": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 16,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 14.6,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f03-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 29,
+        "meanSentenceWords": 12.6,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 5,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f03-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 30,
+        "meanSentenceWords": 14.8,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 3,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f03-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 10,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 16.6,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f03-06": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 15,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 14.4,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 3,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f03-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 14.8,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f03-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 26,
+        "meanSentenceWords": 16.6,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f03-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 31,
+        "meanSentenceWords": 13.9,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f03-10": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 27,
+        "meanSentenceWords": 16,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 3
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f04-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 13,
+        "longestSentenceWords": 32,
+        "meanSentenceWords": 14.9,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 3,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f04-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 12,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 15,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 4,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f04-03": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 3,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 15,
+        "longestSentenceWords": 37,
+        "meanSentenceWords": 13.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 5,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f04-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 14,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 13.3,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f04-05": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 14.4,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f04-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 14,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 15,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 7,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f04-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 13,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 15.7,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 4,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f04-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 10,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 16.1,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 5,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f04-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 14.7,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f04-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 12,
+        "longestSentenceWords": 30,
+        "meanSentenceWords": 15.1,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 4
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f05-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 14,
+        "longestSentenceWords": 27,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f05-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 14.4,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 2,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f05-03": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 18,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 14.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f05-04": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 3,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 17,
+        "longestSentenceWords": 34,
+        "meanSentenceWords": 14.2,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f05-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 24,
+        "meanSentenceWords": 14.6,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 4,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f05-06": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 16,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 15.1,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 4,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f05-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 14,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f05-08": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 17,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 13.9,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f05-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 12.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f05-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 10,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 13.9,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 4,
+        "format": 5
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f06-01": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 21,
+        "meanSentenceWords": 14.3,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f06-02": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 4,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 15,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f06-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 12,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 15.2,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f06-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 10,
+        "longestSentenceWords": 27,
+        "meanSentenceWords": 14.7,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 1,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f06-05": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 15.5,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f06-06": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 15.2,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f06-07": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 26,
+        "meanSentenceWords": 14.4,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f06-08": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 5,
+        "longestSentenceWords": 27,
+        "meanSentenceWords": 15.2,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 6,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f06-09": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 16,
+        "longestSentenceWords": 31,
+        "meanSentenceWords": 15.2,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 7,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f06-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 31,
+        "meanSentenceWords": 16.3,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 6
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f07-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 27,
+        "meanSentenceWords": 15.4,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 6,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f07-02": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 15,
+        "longestSentenceWords": 29,
+        "meanSentenceWords": 16.2,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 4,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f07-03": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 3,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 16,
+        "longestSentenceWords": 35,
+        "meanSentenceWords": 15.7,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f07-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 29,
+        "meanSentenceWords": 14.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 4,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f07-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 15.5,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 4,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f07-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 14.6,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 3,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f07-07": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 15,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 14.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f07-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 30,
+        "meanSentenceWords": 16.3,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 1,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f07-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 13,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 2,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f07-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 10,
+        "longestSentenceWords": 30,
+        "meanSentenceWords": 13.7,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 3,
+        "format": 7
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f08-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 10,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 16.2,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 1,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f08-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 13,
+        "longestSentenceWords": 33,
+        "meanSentenceWords": 17.4,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 3,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f08-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 14.8,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 3,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f08-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 14,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 16.2,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 3,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f08-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 12,
+        "longestSentenceWords": 31,
+        "meanSentenceWords": 13.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f08-06": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 18,
+        "longestSentenceWords": 29,
+        "meanSentenceWords": 14.8,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f08-07": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 15,
+        "longestSentenceWords": 31,
+        "meanSentenceWords": 15.5,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f08-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 30,
+        "meanSentenceWords": 16.5,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 4,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f08-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 14,
+        "longestSentenceWords": 34,
+        "meanSentenceWords": 15.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f08-10": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 29,
+        "meanSentenceWords": 16.8,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 3,
+        "format": 8
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f09-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 14.6,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 2,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f09-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 14,
+        "longestSentenceWords": 30,
+        "meanSentenceWords": 14.9,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 4,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f09-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 30,
+        "meanSentenceWords": 15.3,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 4,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f09-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 22,
+        "meanSentenceWords": 16.6,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 5,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f09-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 31,
+        "meanSentenceWords": 16,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 5,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f09-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 33,
+        "meanSentenceWords": 17.5,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 2,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f09-07": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 20,
+        "longestSentenceWords": 27,
+        "meanSentenceWords": 14.2,
+        "subordinationSignals": 0,
+        "contrastAndCausalSignals": 3,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f09-08": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 6,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 13.6,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 7,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f09-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 12,
+        "longestSentenceWords": 23,
+        "meanSentenceWords": 12.8,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f09-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 3
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 25,
+        "meanSentenceWords": 13.9,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 3,
+        "format": 9
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f10-01": {
+      "scores": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 7,
+        "longestSentenceWords": 29,
+        "meanSentenceWords": 14.3,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f10-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 13,
+        "longestSentenceWords": 37,
+        "meanSentenceWords": 15.8,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 4,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f10-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 1,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 13,
+        "longestSentenceWords": 20,
+        "meanSentenceWords": 14.9,
+        "subordinationSignals": 4,
+        "contrastAndCausalSignals": 3,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f10-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 9,
+        "longestSentenceWords": 33,
+        "meanSentenceWords": 16,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 4,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f10-05": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 16,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 15.9,
+        "subordinationSignals": 5,
+        "contrastAndCausalSignals": 1,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f10-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 29,
+        "meanSentenceWords": 13.7,
+        "subordinationSignals": 3,
+        "contrastAndCausalSignals": 4,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f10-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 8,
+        "longestSentenceWords": 28,
+        "meanSentenceWords": 14.6,
+        "subordinationSignals": 2,
+        "contrastAndCausalSignals": 4,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f10-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 3,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 11,
+        "longestSentenceWords": 35,
+        "meanSentenceWords": 16.1,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 6,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f10-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 14,
+        "longestSentenceWords": 31,
+        "meanSentenceWords": 15,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 3,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l2-f10-10": {
+      "scores": {
+        "vocabulary": 4,
+        "syntax": 2,
+        "logic": 1,
+        "questions": 2
+      },
+      "method": "transparent-screening-v1",
+      "status": "provisional_not_editorially_confirmed",
+      "evidence": {
+        "wordsAtLeast10Letters": 16,
+        "longestSentenceWords": 30,
+        "meanSentenceWords": 16.3,
+        "subordinationSignals": 1,
+        "contrastAndCausalSignals": 1,
+        "format": 10
+      },
+      "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    }
+  }
+}
