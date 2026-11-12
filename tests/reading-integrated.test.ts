@@ -47,3 +47,20 @@ test('gap answers and their coordinates are used only in submitted review',()=>{
   for(const sentence of p.sentences){if(!('sourceEnglish' in sentence))throw new Error('source alignment missing');const para=original.paragraphs.find(x=>x.id===sentence.paragraphId)!;assert.equal(para.english.slice(sentence.sourceStart,sentence.sourceEnd),sentence.sourceEnglish);assert.equal(sentence.sourceEnglish.replace('[1]',answer),sentence.english);}
  }
 });
+test('revised attempts retain the previously stored first, best and latest snapshots',()=>{
+ const old=legacy[0],p=enriched[0],right=Object.fromEntries(old.questions.map(q=>[q.id,q.correctOptionId]));
+ const wrong=(id:string)=>old.questions.find(q=>q.id===id)!.options.find(o=>o.id!==right[id])!.id;
+ const first=gradeReading(old,{...right,q1:wrong('q1')},500,'first-old');
+ const best=gradeReading(old,right,400,'best-old');const latest=gradeReading(old,{...right,q1:wrong('q1'),q2:wrong('q2')},300,'latest-old');
+ const state={...emptyState(),reading:{unlockedByLevel:{},records:{[p.id]:{attempts:3,first,best,latest}}}};
+ const next=recordReading(state,p,gradeReading(p,Object.fromEntries(p.questions.map(q=>[q.id,q.correctOptionId])),100,'new-version'));
+ assert.equal(next.reading!.records[p.id].best.id,'new-version');
+ for(const a of [first,best,latest])assert.deepEqual(next.reading!.records[p.id].archivedAttempts!.find(x=>x.id===a.id),a);
+ assert.deepEqual(state.reading.records[p.id],{attempts:3,first,best,latest});
+ assert.deepEqual(decodeState(JSON.stringify(next)),next);
+ assert.equal(recordReading(next,old,first),next);
+});
+test('malformed archived attempts are rejected instead of silently restored',()=>{
+ const p=enriched[0];const state=recordReading(emptyState(),p,gradeReading(p,Object.fromEntries(p.questions.map(q=>[q.id,q.correctOptionId])),10,'valid'));
+ for(const archive of [{},[{}]]){const corrupted=JSON.parse(JSON.stringify(state));corrupted.reading.records[p.id].archivedAttempts=archive;assert.throws(()=>decodeState(JSON.stringify(corrupted)));}
+});

@@ -12410,14 +12410,14 @@
           },
           {
             "id": "n3",
-            "role": "phrase",
+            "role": "C",
             "text": "to show people the way from the station to the concert field",
             "start": 78,
             "end": 138
           }
         ],
         "relations": [],
-        "skeleton": "S: Their job / V: was",
+        "skeleton": "S: Their job / V: was / C: to show people the way from the station to the concert field",
         "grammarPoints": [
           "to不定詞句が仕事の内容を示す補語。show 人 物の形で、peopleとthe wayが二つの目的語。"
         ],
@@ -16091,14 +16091,14 @@
           },
           {
             "id": "n3",
-            "role": "phrase",
+            "role": "C",
             "text": "to announce the rules for a music competition",
             "start": 80,
             "end": 125
           }
         ],
         "relations": [],
-        "skeleton": "S: His first job / V: was",
+        "skeleton": "S: His first job / V: was / C: to announce the rules for a music competition",
         "grammarPoints": [
           "to不定詞句が仕事の内容を示す補語。for a music competitionはrulesの対象。"
         ],

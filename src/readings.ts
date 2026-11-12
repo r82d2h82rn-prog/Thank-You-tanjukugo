@@ -7,7 +7,7 @@ export interface ReadingSyntax { sentenceId?:string; skeleton?:string; grammarPo
 export interface ReadingDifficulty { scores: { vocabulary:number; syntax:number; logic:number; questions:number }; method:string; status:string; rationale?:string }
 export interface Passage { reviewParagraphs?:Paragraph[]; reviewWordCount?:number; difficulty?: ReadingDifficulty; id: string; level: Level; format: number; title: string; paragraphs: Paragraph[]; questions: ReadingQuestion[]; syntax: ReadingSyntax[]; recommendedSeconds: number; wordCount: number; vocabulary: {english:string;meaning:string}[]; paragraphOrder?: string[]; insert?: {sentence:string;translation:string} }
 export interface ReadingAttempt { contentVersion?:number; questionIds?:string[]; id: string; correct: number; total: number; elapsedSeconds: number; submittedAt: string; answers: Record<string,string> }
-export interface ReadingRecord { attempts: number; first: ReadingAttempt; best: ReadingAttempt; latest: ReadingAttempt }
+export interface ReadingRecord { archivedAttempts?:ReadingAttempt[]; attempts: number; first: ReadingAttempt; best: ReadingAttempt; latest: ReadingAttempt }
 export interface ReadingState { unlockedByLevel: Partial<Record<Level,string[]>>; records: Record<string,ReadingRecord> }
 export const emptyReading = (): ReadingState => ({unlockedByLevel:{},records:{}});
 export const readingAccess = (state: State,p: Passage,premium:boolean) => premium || !!state.reading?.unlockedByLevel[p.level]?.includes(p.id);
@@ -22,16 +22,18 @@ export function gradeReading(p:Passage,answers:Record<string,string>,elapsedSeco
 }
 export function recordReading(state:State,p:Passage,a:ReadingAttempt):State {
  const r=state.reading??emptyReading(),old=r.records[p.id];
- if(old?.latest.id===a.id)return state;
+ if(old?.latest.id===a.id||old?.archivedAttempts?.some(x=>x.id===a.id))return state;
+ const archivedAttempts=[...new Map([...(old?.archivedAttempts??[]),...(old?[old.first,old.best,old.latest]:[]),a].map(x=>[x.id,x])).values()];
  const better=!old||a.correct/a.total>old.best.correct/old.best.total||(a.correct/a.total===old.best.correct/old.best.total&&a.elapsedSeconds<old.best.elapsedSeconds);
- return {...state,reading:{...r,records:{...r.records,[p.id]:{attempts:(old?.attempts??0)+1,first:old?.first??a,best:better?a:old!.best,latest:a}}}};
+ return {...state,reading:{...r,records:{...r.records,[p.id]:{archivedAttempts,attempts:(old?.attempts??0)+1,first:old?.first??a,best:better?a:old!.best,latest:a}}}};
 }
 export function validateReadingState(r:ReadingState):void {
  if(!r||typeof r!=='object'||Array.isArray(r)||!r.unlockedByLevel||typeof r.unlockedByLevel!=='object'||Array.isArray(r.unlockedByLevel)||!r.records||typeof r.records!=='object'||Array.isArray(r.records))throw new Error('長文の保存データが破損しています');
  for(const [level,ids] of Object.entries(r.unlockedByLevel))if(!['1','2','3','4'].includes(level)||!Array.isArray(ids)||ids.length>3||new Set(ids).size!==ids.length||ids.some(id=>typeof id!=='string'||!id))throw new Error('長文の解放記録が破損しています');
  for(const value of Object.values(r.records)) {
   if(!value||typeof value!=='object'||Array.isArray(value)||!Number.isInteger(value.attempts)||value.attempts<1)throw new Error('長文の成績が破損しています');
-  for(const a of [value.first,value.best,value.latest])if(!a||typeof a!=='object'||Array.isArray(a)||typeof a.id!=='string'||!a.id||!Number.isInteger(a.correct)||!Number.isInteger(a.total)||a.total<1||a.correct<0||a.correct>a.total||!Number.isFinite(a.elapsedSeconds)||a.elapsedSeconds<0||typeof a.submittedAt!=='string'||!a.answers||typeof a.answers!=='object'||Array.isArray(a.answers)||Object.values(a.answers).some(v=>typeof v!=='string'))throw new Error('長文の成績が破損しています');
+  if(value.archivedAttempts!==undefined&&(!Array.isArray(value.archivedAttempts)||new Set(value.archivedAttempts.map(a=>a?.id)).size!==value.archivedAttempts.length))throw new Error('長文の受験履歴が破損しています');
+  for(const a of [value.first,value.best,value.latest,...(value.archivedAttempts??[])])if(!a||typeof a!=='object'||Array.isArray(a)||typeof a.id!=='string'||!a.id||!Number.isInteger(a.correct)||!Number.isInteger(a.total)||a.total<1||a.correct<0||a.correct>a.total||!Number.isFinite(a.elapsedSeconds)||a.elapsedSeconds<0||typeof a.submittedAt!=='string'||!a.answers||typeof a.answers!=='object'||Array.isArray(a.answers)||Object.values(a.answers).some(v=>typeof v!=='string'))throw new Error('長文の成績が破損しています');
  }
 }
 export const duration = (s:number) => `${Math.floor(s/60)}:${String(Math.floor(s%60)).padStart(2,'0')}`;
