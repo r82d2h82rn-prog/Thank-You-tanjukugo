@@ -41,14 +41,14 @@
       ]
     },
     "3": {
-      "authored": 0,
-      "structurallyVerified": 0,
-      "difficultyRated": 0,
-      "aiEditoriallyChecked": 0,
+      "authored": 10,
+      "structurallyVerified": 10,
+      "difficultyRated": 10,
+      "aiEditoriallyChecked": 10,
       "independentlyHumanReviewed": 0,
       "target": 100,
       "formats": [
-        0,
+        10,
         0,
         0,
         0,

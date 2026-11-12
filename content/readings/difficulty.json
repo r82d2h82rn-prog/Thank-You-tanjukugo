@@ -3812,6 +3812,116 @@
         "format": 10
       },
       "limitation": "語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。"
+    },
+    "reading-l3-f01-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "測定の正確さと適用範囲を区別する対比、所有格関係詞と分詞構文を読む。"
+    },
+    "reading-l3-f01-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "記録にないことと存在しなかったことを区別し、強調構文と条件付き結論を読む。"
+    },
+    "reading-l3-f01-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "Onlyによる倒置と入れ子の関係詞を、暗黙知の条件依存性と結びつける。"
+    },
+    "reading-l3-f01-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "二種類の評価指標と目的依存の結論を区別し、関係節内の受動進行形を読む。"
+    },
+    "reading-l3-f01-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "真正性の単一尺度から証拠の用途へ論点が移る対比を読む。"
+    },
+    "reading-l3-f01-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "余剰と備えを区別する反実仮想。倒置を伴う仮定法と指標の限界を読む。"
+    },
+    "reading-l3-f01-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "代表性と賛成割合の違い、沈黙からの過剰推論を問う。"
+    },
+    "reading-l3-f01-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "精度と地域代表性を区別し、誤差補正後も残る証拠の限界を読む。"
+    },
+    "reading-l3-f01-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "長い前置修飾と入れ子の間接疑問、未観測の便益と資源配分を扱う。"
+    },
+    "reading-l3-f01-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "歴史的基準の選択性と、柔軟性を説明責任で支える論理を読む。"
     }
   }
 }

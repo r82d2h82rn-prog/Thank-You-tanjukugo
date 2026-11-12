@@ -149,6 +149,8 @@ def audit(root=ROOT, release=False):
             draft_review+=not entry.get('content',{}).get('humanReviewed',False)
     reading_path=root/'content/readings/drafts.json'
     reading_drafts=read_json(reading_path) if reading_path.exists() else []
+    advanced_path=root/'content/readings/advanced.json'
+    if advanced_path.exists(): reading_drafts+=read_json(advanced_path)
     draft_counts['reading']=[sum(p.get('level')==l for p in reading_drafts) for l in range(1,5)]
     for entry in reading_drafts:
         errors=validate_reading(entry)+validate_provenance(entry.get('content',{}),sources,False)

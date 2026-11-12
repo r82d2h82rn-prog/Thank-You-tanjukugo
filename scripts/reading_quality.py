@@ -24,7 +24,7 @@ def estimate(p):
  question=2 if p['format'] in (1,2,5,10) else 3
  return {'scores':{'vocabulary':int(vocab),'syntax':int(syntax),'logic':int(logic),'questions':question},'method':'transparent-screening-v1','status':'provisional_not_editorially_confirmed','evidence':{'wordsAtLeast10Letters':long,'longestSentenceWords':maxlen,'meanSentenceWords':round(avg,1),'subordinationSignals':subordinate,'contrastAndCausalSignals':contrast,'format':p['format']},'limitation':'語彙の頻度・従属節の深さ・全選択肢の意味的一意性を自動確定しない。本文の難易度適合・修正の要否は編集確認待ち。'}
 def main():
- data=json.loads((ROOT/'content/readings/drafts.json').read_text());protect(data)
+ data=json.loads((ROOT/'content/readings/drafts.json').read_text());advanced=ROOT/'content/readings/advanced.json';data+=(json.loads(advanced.read_text()) if advanced.exists() else []);protect(data)
  ratings={p['id']:p.get('difficulty',estimate(p)) for p in data}
  out=ROOT/'content/readings/difficulty.json';out.write_text(json.dumps({'scale':{'1':'高校入試の基本','2':'高校初級〜中級','3':'大学受験標準','4':'難関大学','5':'最難関大学'},'dimensions':['vocabulary','syntax','logic','questions'],'ratings':ratings},ensure_ascii=False,indent=2)+'\n')
  summary={str(l):{'authored':sum(p['level']==l for p in data),'structurallyVerified':sum(p['level']==l for p in data),'difficultyRated':sum(p['level']==l for p in data),'aiEditoriallyChecked':sum(p['level']==l and p.get('editorialReview',{}).get('status')=='author_checked' for p in data),'independentlyHumanReviewed':0,'target':100,'formats':[sum(p['level']==l and p['format']==f for p in data) for f in range(1,11)]} for l in range(1,5)}

@@ -1,34 +1,74 @@
 {
-  "updatedAt": "2026-11-12T10:39:48.431104+00:00",
-  "level": 1,
-  "authoredPassages": 100,
-  "countsByFormat": [
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    10
-  ],
-  "totalQuestions": 300,
-  "totalWords": 16342,
-  "complete": true,
+  "authoredPassages": 210,
+  "totalQuestions": 630,
+  "totalWords": 36432,
+  "complete": false,
+  "levels": {
+    "1": {
+      "authoredPassages": 100,
+      "countsByFormat": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "complete": true
+    },
+    "2": {
+      "authoredPassages": 100,
+      "countsByFormat": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "complete": true
+    },
+    "3": {
+      "authoredPassages": 10,
+      "countsByFormat": [
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "complete": false
+    },
+    "4": {
+      "authoredPassages": 0,
+      "countsByFormat": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "complete": false
+    }
+  },
   "humanReviewed": false,
-  "productionApproved": false,
-  "batches": [
-    "content/readings/l1_f01.json",
-    "content/readings/l1_f02.json",
-    "content/readings/l1_f03.json",
-    "content/readings/l1_f04.json",
-    "content/readings/l1_f05.json",
-    "content/readings/l1_f06.json",
-    "content/readings/l1_f07.json",
-    "content/readings/l1_f08.json",
-    "content/readings/l1_f09.json",
-    "content/readings/l1_f10.json"
-  ]
+  "productionApproved": false
 }

@@ -561,5 +561,29 @@
     "availableDataTypes": [
       "独自教材"
     ]
+  },
+  {
+    "id": "original-reading-l3-v1",
+    "name": "LEVEL3 独自執筆の上級読解教材",
+    "url": null,
+    "observedVersion": "1",
+    "purpose": "draft",
+    "accessStatus": "local",
+    "checkedAt": "2026-11-12T14:03:43.371100+00:00",
+    "license": null,
+    "termsUrl": null,
+    "licenseEvidence": null,
+    "commercialUse": "review_required",
+    "candidateExtraction": "granted",
+    "analysisPermission": "not_applicable",
+    "redistribution": "review_required",
+    "attribution": "本プロジェクトで独自執筆。意味・IPA・例文・和訳・用法説明は人手校閲待ち。",
+    "shareAlike": null,
+    "notes": "独自の仮想事例に基づく教材。実在の研究結果や入試出題実績を主張しない。自動構造検証とAI執筆者確認を実施。独立人間校閲は未完了。",
+    "publisher": "本プロジェクト",
+    "retrievedAt": null,
+    "availableDataTypes": [
+      "独自教材"
+    ]
   }
 ]

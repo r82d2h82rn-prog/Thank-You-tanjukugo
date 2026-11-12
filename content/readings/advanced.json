@@ -1,0 +1,2198 @@
+[
+  {
+    "id": "reading-l3-f01-01",
+    "level": 3,
+    "format": 1,
+    "title": "日陰を測ると見えなくなるもの",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A town considering where to plant trees asked volunteers to record the temperature along several walking routes. The route whose average temperature was lowest passed a shopping centre, and officials initially proposed directing older residents towards it. The measurements, however, had been taken at noon by volunteers who walked without stopping. They described conditions accurately, but only for a particular kind of journey.",
+        "translation": "植樹する場所を検討していた町は、複数の徒歩経路に沿って気温を記録するようボランティアに頼んだ。平均気温が最も低い経路はショッピングセンターのそばを通っており、当局は当初、高齢の住民をそこへ案内することを提案した。しかし測定は、立ち止まらずに歩くボランティアによって正午に行われていた。測定は状況を正確に表していたが、それは特定の種類の移動に限った話だった。"
+      },
+      {
+        "id": "p2",
+        "english": "One resident pointed out that she usually travelled in the late afternoon, when sunlight reached the centre's western wall. Another needed somewhere to sit halfway home. Having compared these accounts with the temperature records, the planners found that a slightly warmer route contained benches and offered more continuous shade at the relevant time. No instrument had produced a false reading; the original question had simply left out part of the journey.",
+        "translation": "ある住民は、普段は日光がセンターの西側の壁に当たる午後遅くに移動すると指摘した。別の住民は帰宅途中に座る場所が必要だった。こうした話と気温記録を比較した計画担当者たちは、少し気温の高い経路にはベンチがあり、該当する時間帯には日陰もより途切れずに続くことを見いだした。どの計器も誤った数値を出してはいなかった。最初の問いが移動の一部を考慮していなかっただけだった。"
+      },
+      {
+        "id": "p3",
+        "english": "The revised plan retained the measurements while adding information about waiting, resting and time of travel. This did not make personal accounts a substitute for physical evidence. Rather, it allowed residents to explain which physical conditions mattered to their decisions. A route could be cooler on average and still expose a slow walker to a difficult stretch. What the town needed was therefore not a single winning route, but a clearer account of whom each comparison was intended to serve.",
+        "translation": "修正した計画では測定値を残しつつ、待ち時間、休憩、移動時刻についての情報を加えた。これは個人の体験談を物理的な証拠の代わりにすることではなかった。むしろ、どの物理的状況が自分の判断に関わるかを住民が説明できるようにしたのだった。ある経路は平均的には涼しくても、ゆっくり歩く人をつらい区間にさらすことがある。したがって町が必要としたのは、唯一の最良経路ではなく、それぞれの比較が誰の役に立つことを意図しているかをより明確に説明することだった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "当初の測定が捉えていなかった条件はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "どの経路にも木が存在しないこと",
+            "explanation": "植樹の検討から既存の木が皆無とは言えない。"
+          },
+          {
+            "id": "b",
+            "text": "休憩や移動時刻による経路の使い方",
+            "explanation": "停止せず正午に歩く条件だけで測定し、休憩や午後の条件が抜けていた。"
+          },
+          {
+            "id": "c",
+            "text": "測定機器が全て故障していたこと",
+            "explanation": "本文は計器の誤測定を明確に否定する。"
+          },
+          {
+            "id": "d",
+            "text": "住民全員がセンターを避けていたこと",
+            "explanation": "全員が避けたという記述はない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "停止せず正午に歩く条件だけで測定し、休憩や午後の条件が抜けていた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "taken at noon by volunteers who walked without stopping"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "修正計画での測定値の扱いはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "住民の話だけで測定結果を全て破棄する",
+            "explanation": "個人の話を物理的証拠の代用にはしていない。"
+          },
+          {
+            "id": "b",
+            "text": "平均値が最も低い経路だけを採用する",
+            "explanation": "唯一の勝者を決める方針ではない。"
+          },
+          {
+            "id": "c",
+            "text": "全員の移動時刻を正午に変える",
+            "explanation": "生活時刻を変える提案はない。"
+          },
+          {
+            "id": "d",
+            "text": "測定を残し、利用条件の情報を組み合わせる",
+            "explanation": "retained the measurementsに加え、待つ・休む・時刻の情報を追加した。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "retained the measurementsに加え、待つ・休む・時刻の情報を追加した。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "retained the measurements while adding information"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "この事例から最も妥当に導けることはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "個人の希望は物理法則より常に優先される",
+            "explanation": "希望と物理法則の優先順位は論じていない。"
+          },
+          {
+            "id": "b",
+            "text": "正確な測定でも、目的に必要な条件を全て含むとは限らない",
+            "explanation": "測定の正確さと、利用者の判断に必要な条件の網羅性が区別されている。"
+          },
+          {
+            "id": "c",
+            "text": "正確な数値があれば利用者の状況は不要である",
+            "explanation": "住民の状況を加えた経緯に反する。"
+          },
+          {
+            "id": "d",
+            "text": "平均気温はどんな場面でも無意味である",
+            "explanation": "測定値を残しており無意味とはしない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "測定の正確さと、利用者の判断に必要な条件の網羅性が区別されている。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "only for a particular kind of journey"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "The route whose average temperature was lowest passed a shopping centre, and officials initially proposed directing older residents towards it.",
+        "translation": "平均気温が最も低い経路はショッピングセンターのそばを通り、当局は当初、高齢住民をそこへ案内することを提案した。",
+        "explanation": "whose以下はrouteを修飾する関係詞節。前半の主節はThe route passed ...で、関係詞節内のwasと主節のpassedを区別する。andの後ろには別の主語officialsがある。",
+        "start": 113,
+        "end": 256,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The route",
+            "start": 113,
+            "end": 122
+          },
+          {
+            "id": "n2",
+            "role": "clause",
+            "text": "whose average temperature was lowest",
+            "start": 123,
+            "end": 159
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "passed",
+            "start": 160,
+            "end": 166
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "a shopping centre",
+            "start": 167,
+            "end": 184
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "officials initially proposed directing older residents towards it",
+            "start": 190,
+            "end": 255
+          }
+        ],
+        "relations": [
+          {
+            "from": "n2",
+            "to": "n1",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 214,
+    "recommendedSeconds": 330,
+    "vocabulary": [
+      {
+        "english": "continuous",
+        "meaning": "途切れずに続く"
+      },
+      {
+        "english": "substitute",
+        "meaning": "代わりとなるもの"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l3-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験標準〜難関の構文と根拠・限定の読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l3-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "測定の正確さと適用範囲を区別する対比、所有格関係詞と分詞構文を読む。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l3-f01-02",
+    "level": 3,
+    "format": 1,
+    "title": "地図の空白は不在を意味するか",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "An archive displayed a map of a harbour in which every recorded warehouse was marked in blue. Visitors often assumed that the unmarked shore had been empty. The curator knew that this interpretation went beyond the evidence: the map had been reconstructed from tax records, and some activities left no taxable building behind. A clear image could make the limits of a source surprisingly easy to forget.",
+        "translation": "ある資料館が、記録に残る全倉庫を青で示した港の地図を展示した。来館者はしばしば、印のない海岸は何もない場所だったと考えた。学芸員は、この解釈が証拠から言える範囲を超えていると知っていた。地図は税の記録から復元されており、課税対象の建物を残さない活動もあったからだ。明快な画像は、資料の限界を驚くほど忘れやすくすることがある。"
+      },
+      {
+        "id": "p2",
+        "english": "To address the problem, the curator added small grey areas labelled as places about which the records were silent. Several visitors objected that the new display looked less certain. It was precisely this loss of apparent certainty that the curator intended. What had previously appeared to be a complete account was now presented as an answer to a narrower question: where had buildings mentioned in surviving tax documents stood?",
+        "translation": "問題に対処するため、学芸員は記録が何も伝えていない場所に小さな灰色の領域を加えた。来館者の中には、新しい展示は確実さが薄れたように見えると異議を唱える人もいた。学芸員が意図したのは、まさにこの見かけの確実さを失わせることだった。それまで完全な説明に見えていたものは、より限定された問いへの答えとして示されるようになった。すなわち、現存する税文書に登場する建物はどこに立っていたのか、という問いである。"
+      },
+      {
+        "id": "p3",
+        "english": "The change did not establish that workers had used every grey area, nor did it suggest that documentary evidence was worthless. It distinguished a claim about the past from a claim about what could currently be known. Later discoveries might fill some gaps, while others might remain. By giving uncertainty a visible place on the map, the archive made it possible for viewers to ask further questions without treating every imagined answer as equally plausible. An incomplete record could still support reliable conclusions, provided those conclusions did not extend silently beyond it.",
+        "translation": "この変更によって、労働者が全ての灰色領域を使っていたと立証されたわけでも、文書の証拠が無価値だと示されたわけでもない。過去についての主張と、現在何が知り得るかについての主張を区別したのだった。後の発見がいくつかの空白を埋めても、他は残るかもしれない。不確実性に地図上の目に見える場所を与えることで、資料館は、思いついた答えを全て同程度にもっともらしいと扱わずに、鑑賞者がさらに問いを立てられるようにした。不完全な記録も、結論がひそかにその範囲を越えないという条件で、信頼できる結論を支えられる。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "青い印が直接示していたものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "現存する税記録に記載された倉庫の位置",
+            "explanation": "復元に使った資料は税記録であり、全活動を網羅する資料ではない。"
+          },
+          {
+            "id": "b",
+            "text": "港で行われた全ての活動の位置",
+            "explanation": "課税建物を残さない活動は記録から抜け得る。"
+          },
+          {
+            "id": "c",
+            "text": "労働者全員の住居",
+            "explanation": "労働者の住居を全て調べたとはない。"
+          },
+          {
+            "id": "d",
+            "text": "建物が絶対に存在しなかった範囲",
+            "explanation": "印のない場所を不在の証拠とすることこそ問題だった。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "復元に使った資料は税記録であり、全活動を網羅する資料ではない。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "reconstructed from tax records"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "灰色領域を追加した狙いはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "税記録の全内容を偽りと扱う",
+            "explanation": "資料が無価値だとはしていない。"
+          },
+          {
+            "id": "b",
+            "text": "地図を以前より完全に見せる",
+            "explanation": "完全に見えていた展示を限定した説明へ変えた。"
+          },
+          {
+            "id": "c",
+            "text": "記録からは判断できない範囲を可視化する",
+            "explanation": "records were silentの範囲を示し、見かけの確実性を減らした。"
+          },
+          {
+            "id": "d",
+            "text": "未知の建物の存在を全て確定する",
+            "explanation": "存在を確定したわけではないと第三段落で否定する。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "records were silentの範囲を示し、見かけの確実性を減らした。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "places about which the records were silent"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "筆者の証拠観に合うものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "資料が不完全でも、範囲を限定した結論は信頼できる",
+            "explanation": "末文が結論を資料の射程内に限定する条件を示す。"
+          },
+          {
+            "id": "b",
+            "text": "全てを記録していない資料からは何も言えない",
+            "explanation": "不完全でも信頼できる結論を支えると述べる。"
+          },
+          {
+            "id": "c",
+            "text": "未記録の事柄は想像した答えが全て等しく正しい",
+            "explanation": "等しくもっともらしいとは扱わない。"
+          },
+          {
+            "id": "d",
+            "text": "後世の発見は必ず全ての空白を解消する",
+            "explanation": "空白が残る可能性も明示する。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "末文が結論を資料の射程内に限定する条件を示す。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "provided those conclusions did not extend silently beyond it"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "It was precisely this loss of apparent certainty that the curator intended.",
+        "translation": "学芸員が意図していたのは、まさにこの見かけの確実さの喪失だった。",
+        "explanation": "It was X that ...の強調構文。強調を外すとthe curator intended precisely this loss of apparent certaintyとなる。that節でintendedの目的語が空所になっている。",
+        "start": 183,
+        "end": 258,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "It",
+            "start": 183,
+            "end": 185
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was",
+            "start": 186,
+            "end": 189
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "precisely this loss of apparent certainty",
+            "start": 190,
+            "end": 231
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "that the curator intended",
+            "start": 232,
+            "end": 257
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 228,
+    "recommendedSeconds": 345,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l3-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験標準〜難関の構文と根拠・限定の読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l3-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "記録にないことと存在しなかったことを区別し、強調構文と条件付き結論を読む。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l3-f01-03",
+    "level": 3,
+    "format": 1,
+    "title": "熟練者の沈黙を教える",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A training centre asked an experienced technician to explain how she detected faults in a machine. Her demonstration was accurate, yet beginners struggled to reproduce it. When asked why she had ignored a faint sound, she replied that it was normal. Only after watching several recordings did she realize how much of her judgement depended on noises that she had learned not to notice.",
+        "translation": "ある訓練施設が、熟練技術者に機械の不具合をどう見つけるか説明するよう頼んだ。実演は正確だったが、初心者は同じように行うのに苦労した。かすかな音を無視した理由を尋ねられると、彼女はそれは正常な音だと答えた。何本もの録画を見て初めて、自分の判断が、注意を向けないよう学習してきた音にどれほど依存しているかに気づいた。"
+      },
+      {
+        "id": "p2",
+        "english": "The instructors initially considered adding a longer list of warning sounds to the manual. That would have helped with familiar faults, but it would not explain why the same sound could be harmless under one set of conditions and significant under another. Instead, they placed short recordings beside information about the machine's load, temperature and recent use. Trainees were asked to justify both the signals they selected and those they rejected.",
+        "translation": "指導者たちは当初、警告音のもっと長い一覧をマニュアルに加えることを考えた。それは既知の故障には役立つだろうが、同じ音がある条件では無害で別の条件では重要になる理由を説明できない。そこで、機械の負荷、温度、最近の使用状況の情報と短い録音を並べた。訓練生は、取り上げた信号と退けた信号の両方について理由を述べるよう求められた。"
+      },
+      {
+        "id": "p3",
+        "english": "The exercise did not turn judgement into a rule that could be followed without thought. It made some of its previously invisible grounds available for discussion. The technician also discovered cases in which a beginner's question exposed an assumption that her usual working environment had allowed her to leave unexamined. Expertise remained valuable, but its value was no longer confused with an inability to explain oneself. Teaching required more than transferring a correct answer: it required showing how a decision changed when the surrounding conditions changed, including conditions that an expert had ceased consciously to register.",
+        "translation": "この演習は判断を、考えずに従える規則に変えたわけではなかった。それまで見えなかった判断根拠の一部を、議論できるようにしたのだった。技術者もまた、初心者の質問が、自分の普段の職場環境では吟味せずに済ませられた前提をあらわにする事例に出会った。熟練の価値は残ったが、その価値が、自分の行動を説明できないことと混同されなくなった。教えるために必要なのは正答を伝えることだけではなかった。周囲の条件が変わると判断がどう変わるのかを、専門家が意識的には捉えなくなった条件も含めて示すことが必要だった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "初心者が再現しにくかった理由として本文が示すものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "実演が全て誤った故障を示していた",
+            "explanation": "実演はaccurateとされる。"
+          },
+          {
+            "id": "b",
+            "text": "録画では音を記録できなかった",
+            "explanation": "録音を使う演習が導入されている。"
+          },
+          {
+            "id": "c",
+            "text": "初心者が機械を一度も見ていなかった",
+            "explanation": "機械を一度も見なかったとは述べない。"
+          },
+          {
+            "id": "d",
+            "text": "熟練者が音を無視する条件が説明されていなかった",
+            "explanation": "正常な音を無視する判断も暗黙の知識に依存していた。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "正常な音を無視する判断も暗黙の知識に依存していた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "noises that she had learned not to notice"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "新しい演習で訓練生に求めたことはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "常に熟練者と同じ答えを言う",
+            "explanation": "理由を検討する課題で、同答の強制ではない。"
+          },
+          {
+            "id": "b",
+            "text": "注目した音と退けた音の両方の理由を説明する",
+            "explanation": "selectedとrejectedの両方の根拠を求めた。"
+          },
+          {
+            "id": "c",
+            "text": "警告音の一覧をただ暗記する",
+            "explanation": "一覧の増加だけでは条件による意味の変化を説明できない。"
+          },
+          {
+            "id": "d",
+            "text": "機械の温度の情報を無視する",
+            "explanation": "温度は付加された文脈情報である。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "selectedとrejectedの両方の根拠を求めた。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "both the signals they selected and those they rejected"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "初心者の質問が熟練者にも役立つのはなぜか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "質問された熟練者の判断は常に誤りだから",
+            "explanation": "常に誤るとはしていない。"
+          },
+          {
+            "id": "b",
+            "text": "経験が技術に全く役立たないため",
+            "explanation": "Expertise remained valuableと明記する。"
+          },
+          {
+            "id": "c",
+            "text": "初心者は文脈なしに全故障を検出できるため",
+            "explanation": "初心者にそのような能力は付与されていない。"
+          },
+          {
+            "id": "d",
+            "text": "慣れた環境では意識しない前提を再検討できるため",
+            "explanation": "普段は検討不要だったassumptionが質問で露出する事例が示される。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "普段は検討不要だったassumptionが質問で露出する事例が示される。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "an assumption that her usual working environment had allowed her to leave unexamined"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Only after watching several recordings did she realize how much of her judgement depended on noises that she had learned not to notice.",
+        "translation": "録画を何本も見て初めて、意識しないよう学習してきた音に自分の判断がどれほど依存していたかに気づいた。",
+        "explanation": "Only＋副詞句の前置で主節がdid she realizeの倒置になる。how much以下はrealizeの目的語となる間接疑問。that節はnoisesを修飾し、not to noticeは学習した行為の否定。",
+        "start": 250,
+        "end": 385,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "Only after watching several recordings",
+            "start": 250,
+            "end": 288
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "she",
+            "start": 293,
+            "end": 296
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "realize",
+            "start": 297,
+            "end": 304
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "how much of her judgement depended on noises that she had learned not to notice",
+            "start": 305,
+            "end": 384
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 231,
+    "recommendedSeconds": 345,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l3-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験標準〜難関の構文と根拠・限定の読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l3-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "Onlyによる倒置と入れ子の関係詞を、暗黙知の条件依存性と結びつける。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l3-f01-04",
+    "level": 3,
+    "format": 1,
+    "title": "翻訳が残す有益な違和感",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "For an exhibition about farming, a translator was asked to replace an unfamiliar local term with a familiar word in another language. The proposed equivalent referred mainly to land that produced crops. The local term, however, also suggested obligations to neighbours and responsibilities inherited from earlier generations. A smoother label would be easier to read, but it might quietly change what the exhibition was about.",
+        "translation": "農業の展示のため、ある翻訳者は、なじみのない地域語を別の言語の身近な語に置き換えるよう頼まれた。提案された対応語は主に作物を産する土地を指していた。しかし地域語には、近隣への義務や、前の世代から受け継いだ責任も含意されていた。読みやすい表示なら理解しやすくなるだろうが、展示の主題をひそかに変えてしまうおそれがあった。"
+      },
+      {
+        "id": "p2",
+        "english": "The translator retained the unfamiliar word and added a brief explanation. Some editors feared that readers would stop at the difficulty instead of engaging with the objects. To test the concern, the team prepared two sample labels. Readers of the familiar version answered a simple identification question faster; readers of the explained version were more likely to mention social responsibilities when describing why a damaged field mattered to its owner. Neither result alone determined which label was better.",
+        "translation": "翻訳者は未知の語を残し、短い説明を加えた。編集者の一部は、読者が物品と向き合う前に難しさのところで読むのをやめるのではないかと心配した。懸念を調べるため、チームは二種類の表示の見本を用意した。身近な語の版の読者は単純な識別問題により速く答えた。説明付き版の読者は、傷んだ畑が所有者にとって重要な理由を述べるとき、社会的責任に触れる傾向がより強かった。どちらの結果も、それ単独で表示の優劣を決めるものではなかった。"
+      },
+      {
+        "id": "p3",
+        "english": "The team eventually chose the explanation because the exhibition aimed to explore relationships, not merely identify kinds of land. The decision did not imply that literal translation was always superior, or that every difference required a long note. It showed that readability had to be judged in relation to a purpose. By removing a difficulty, a translator could also remove the very distinction that the reader was being invited to understand. The challenge was to reduce unnecessary effort without making a different idea appear to be the same one.",
+        "translation": "チームは最終的に説明を選んだ。展示は土地の種類を識別するだけでなく、関係性を探ることを目指していたからだ。この判断は、直訳が常に優れているとも、全ての違いに長い注記が要るとも意味しなかった。読みやすさを目的との関係で評価しなければならないことを示していた。翻訳者は難しさを取り除くことで、読者に理解してもらおうとしていたまさにその区別も取り除きかねない。課題は、異なる考えを同じものに見せることなく、不必要な労力を減らすことだった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "地域語にはあるが提案された対応語では伝わりにくい要素はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "土地の面積の正確な単位",
+            "explanation": "面積単位の比較ではない。"
+          },
+          {
+            "id": "b",
+            "text": "所有者の個人的な年齢",
+            "explanation": "世代をまたぐ責任と個人の年齢は異なる。"
+          },
+          {
+            "id": "c",
+            "text": "共同体や世代をまたぐ責任",
+            "explanation": "義務と継承された責任が地域語の追加の含意である。"
+          },
+          {
+            "id": "d",
+            "text": "作物の科学的な分類名",
+            "explanation": "科学的分類は登場しない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "義務と継承された責任が地域語の追加の含意である。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "obligations to neighbours and responsibilities inherited from earlier generations"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "二つの表示を試した結果として正しいものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "速い識別と責任への言及で、それぞれ異なる版が優位だった",
+            "explanation": "第二段落では識別速度と社会的責任の把握を別の成果として示す。"
+          },
+          {
+            "id": "b",
+            "text": "説明付きの版が全ての課題で速かった",
+            "explanation": "速度の優位は身近な語の版にあった。"
+          },
+          {
+            "id": "c",
+            "text": "身近な語の版だけが社会的責任を伝えた",
+            "explanation": "責任への言及は説明付きの版で多かった。"
+          },
+          {
+            "id": "d",
+            "text": "読者が両方の版を完全に拒否した",
+            "explanation": "両版の読者の結果が比較されており全面拒否ではない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "第二段落では識別速度と社会的責任の把握を別の成果として示す。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "Neither result alone determined which label was better."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "最終判断を支えた基準はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "直訳なら必ず正確になるか",
+            "explanation": "直訳の常時優越を明示的に否定する。"
+          },
+          {
+            "id": "b",
+            "text": "注記をできるだけ長くするか",
+            "explanation": "全てに長い注記が必要だとはしない。"
+          },
+          {
+            "id": "c",
+            "text": "展示の目的に必要な区別を保てるか",
+            "explanation": "関係性を探る展示目的が説明付き版の選択理由となる。"
+          },
+          {
+            "id": "d",
+            "text": "全ての読者に最短時間で読ませられるかだけ",
+            "explanation": "速度のみでは優劣を決定していない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "関係性を探る展示目的が説明付き版の選択理由となる。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "the exhibition aimed to explore relationships, not merely identify kinds of land"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "By removing a difficulty, a translator could also remove the very distinction that the reader was being invited to understand.",
+        "translation": "翻訳者は難しさを取り除くことで、読者に理解してもらおうとしていたまさにその区別も取り除きかねない。",
+        "explanation": "By＋動名詞は手段を示す。the very distinctionのveryは『まさにその』。that節はdistinctionを修飾し、was being invitedは進行形の受動態。understandの目的語に相当するのがdistinction。",
+        "start": 322,
+        "end": 448,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "By removing a difficulty",
+            "start": 322,
+            "end": 346
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "a translator",
+            "start": 348,
+            "end": 360
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "could also remove",
+            "start": 361,
+            "end": 378
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "the very distinction",
+            "start": 379,
+            "end": 399
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "that the reader was being invited to understand",
+            "start": 400,
+            "end": 447
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n4",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 232,
+    "recommendedSeconds": 345,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l3-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験標準〜難関の構文と根拠・限定の読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l3-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "二種類の評価指標と目的依存の結論を区別し、関係節内の受動進行形を読む。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l3-f01-05",
+    "level": 3,
+    "format": 1,
+    "title": "複製品を置く博物館",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A museum introduced replicas of fragile objects so that visitors could examine their surfaces by touch. The originals remained in cases nearby. At first, staff described the replicas as imperfect substitutes, apologizing for differences in weight and temperature. A visitor who could not see the display asked why the objects she could handle were presented mainly as reminders of what she could not experience.",
+        "translation": "ある博物館は、来館者が触って表面を調べられるように、壊れやすい物品の複製を導入した。原品は近くのケース内に残した。当初、職員は複製を不完全な代用品と説明し、重さや温度が違うことをわびた。展示を見ることのできない来館者が、自分の触れられる物が、主に自分の体験できないことを思い出させるものとして紹介されるのはなぜかと尋ねた。"
+      },
+      {
+        "id": "p2",
+        "english": "Her question led the museum to reconsider the roles of the two sets of objects. A replica could reveal how a handle fitted a hand, while an original could preserve marks produced by a particular person's use. These were different kinds of evidence, and neither object supplied all of them. The museum therefore changed its labels to explain what each encounter made available and what it could not establish.",
+        "translation": "その質問により、博物館は二組の物品の役割を再検討した。複製は取っ手が手にどうなじむかを示せる一方、原品は特定の人の使用によって生じた跡を保存できる。これらは異なる種類の証拠であり、どちらか一方が全てを提供するわけではなかった。そのため博物館は、各体験で何が得られ、何を確定できないかを説明するよう表示を変えた。"
+      },
+      {
+        "id": "p3",
+        "english": "This approach did not erase the distinction between original and copy. On the contrary, it made that distinction more informative by connecting it to specific questions. Visitors were not encouraged to infer the original's exact weight from a lightweight model, for instance. Nor were they told that looking at an original was equivalent to understanding how it was held. The museum's aim shifted from ranking every experience on a single scale of authenticity to arranging several forms of access around the evidence each could provide. An honest account of a replica's limits could make it more useful, rather than less valuable.",
+        "translation": "この方法は原品とコピーの区別を消したのではなかった。それどころか、区別を具体的な問いに結びつけることで、より情報に富むものにした。例えば、軽い模型から原品の正確な重量を推測するよう来館者に促すことはなかった。また、原品を見ることが、それがどう持たれたかを理解することと同じだとも伝えなかった。博物館の目的は、全ての体験を真正性という単一の尺度で順位づけることから、それぞれが提供できる証拠に即して複数の接し方を組み合わせることへ移った。複製の限界を誠実に説明することは、その価値を下げるどころか有用性を高め得るのだった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "展示を見られない来館者が疑問を呈した点はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "複製を原品と偽って表示したこと",
+            "explanation": "当初から複製と明記し、相違点を説明している。"
+          },
+          {
+            "id": "b",
+            "text": "触れる物が欠けた体験の代用品としてばかり説明されること",
+            "explanation": "触れる経験自体の内容ではなく、できない経験との比較ばかり強調された。"
+          },
+          {
+            "id": "c",
+            "text": "原品を全て売却したこと",
+            "explanation": "原品は近くのケースに残った。"
+          },
+          {
+            "id": "d",
+            "text": "触れることを館内で全面禁止したこと",
+            "explanation": "触って調べる複製が導入された。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "触れる経験自体の内容ではなく、できない経験との比較ばかり強調された。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "reminders of what she could not experience"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "変更後の表示が重視したことはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "全ての複製の方が原品より古いこと",
+            "explanation": "年代の逆転は述べない。"
+          },
+          {
+            "id": "b",
+            "text": "原品と複製の重さは完全に等しいこと",
+            "explanation": "重さの差はそのまま限界として扱う。"
+          },
+          {
+            "id": "c",
+            "text": "真正性だけによる一列の順位",
+            "explanation": "単一尺度の順位づけから目的が移った。"
+          },
+          {
+            "id": "d",
+            "text": "各物品で知れることと知れないこと",
+            "explanation": "what each encounter made availableとwhat it could not establishを説明した。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "what each encounter made availableとwhat it could not establishを説明した。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "what each encounter made available and what it could not establish"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "筆者が支持する複製の利用法はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "原品とコピーの区別を隠す",
+            "explanation": "区別をむしろより有益にする。"
+          },
+          {
+            "id": "b",
+            "text": "限界を明示しつつ、特定の問いに有用な証拠として用いる",
+            "explanation": "持ち方などの問いには役立つが、重量などは確定できない。"
+          },
+          {
+            "id": "c",
+            "text": "複製から原品の全属性を推定する",
+            "explanation": "一方が全情報を与えるとはしていない。"
+          },
+          {
+            "id": "d",
+            "text": "原品を鑑賞する意味を否定する",
+            "explanation": "原品は使用痕など別の証拠を提供する。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "持ち方などの問いには役立つが、重量などは確定できない。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "connecting it to specific questions"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "A replica could reveal how a handle fitted a hand, while an original could preserve marks produced by a particular person's use.",
+        "translation": "複製は取っ手が手にどうなじむかを示せる一方、原品は特定の人の使用による跡を保存できる。",
+        "explanation": "how節はrevealの目的語となる間接疑問。whileは同時進行ではなく対比。produced以下の過去分詞句はmarksを後置修飾する。",
+        "start": 80,
+        "end": 208,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A replica",
+            "start": 80,
+            "end": 89
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "could reveal",
+            "start": 90,
+            "end": 102
+          },
+          {
+            "id": "n3",
+            "role": "clause",
+            "text": "how a handle fitted a hand",
+            "start": 103,
+            "end": 129
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "while an original could preserve marks produced by a particular person's use",
+            "start": 131,
+            "end": 207
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 234,
+    "recommendedSeconds": 345,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l3-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験標準〜難関の構文と根拠・限定の読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l3-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "真正性の単一尺度から証拠の用途へ論点が移る対比を読む。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l3-f01-06",
+    "level": 3,
+    "format": 1,
+    "title": "空いている時間の働き",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A small clinic began publishing the percentage of appointment slots that were occupied each day. Managers hoped that a fuller schedule would reduce wasted resources. For several weeks, the percentage rose while staff continued to finish on time. It seemed that the indicator had successfully encouraged better organization. Then a patient requiring an unexpectedly long consultation arrived on a day when every slot had been filled.",
+        "translation": "小さな診療所が、毎日どれだけの予約枠が埋まっているかを割合で公表し始めた。管理者は、予約表がより埋まれば資源の無駄が減ると期待した。数週間、その割合は上昇し、職員も定時に仕事を終えていた。指標は業務の整理をうまく促したように見えた。ところが、全枠が埋まった日に、予想外に長い診察を必要とする患者が来た。"
+      },
+      {
+        "id": "p2",
+        "english": "The delay spread through the afternoon. Staff skipped breaks, and several patients left before being seen. Had a few short intervals remained unassigned, the same consultation might have been absorbed without disrupting every later visit. The clinic had treated empty time as if it contributed nothing, although its contribution had previously consisted in allowing the system to respond when ordinary assumptions failed.",
+        "translation": "遅れは午後全体へ広がった。職員は休憩を飛ばし、何人かの患者は診察前に帰った。短い時間がいくつか未割当で残っていたなら、同じ診察でも後の全ての受診を混乱させずに吸収できたかもしれない。診療所は空き時間を何も貢献しないものとして扱っていたが、それまでは、通常の想定が外れたときに仕組みが対応できるようにすることが、その貢献だった。"
+      },
+      {
+        "id": "p3",
+        "english": "This did not mean that every unoccupied slot was useful or that efficient scheduling was undesirable. The managers needed to distinguish avoidable gaps from capacity deliberately reserved for uncertainty. They began examining delays and patients' ability to obtain urgent appointments alongside the occupancy figure. A schedule that looked less efficient by the old measure could sometimes serve more people effectively. The lesson was not that numerical targets inevitably damage services. It was that a target can reward the removal of a resource whose function becomes visible only after it has disappeared. Asking what the indicator failed to count proved more productive than simply abandoning measurement.",
+        "translation": "これは、どの空き枠も有益だとか、効率的な予約が望ましくないという意味ではない。管理者は、避けられる空白と、不確実性のため意図的に確保した余力を区別する必要があった。予約の埋まり具合に加えて、遅延や患者が緊急の診察を受けられるかも調べ始めた。従来の尺度では効率が低く見える予約表が、ときにはより多くの人に効果的な診療を提供することもあった。教訓は、数値目標が必ずサービスを損なうということではなかった。目標が、消えて初めて機能が見える資源の撤去を報いる場合があるということだった。単に測定を捨てるより、指標が何を数えていないかを問う方が生産的だった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "予約率が上がった当初の状況はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "職員は定時に終え、改善したように見えた",
+            "explanation": "第一段落では定時終了を保っていたため成功に見えたとする。"
+          },
+          {
+            "id": "b",
+            "text": "全ての患者が診療を断った",
+            "explanation": "来院拒否の記述はない。"
+          },
+          {
+            "id": "c",
+            "text": "初日から全職員が休憩できなかった",
+            "explanation": "混乱は予想外の診察が起きた日として描く。"
+          },
+          {
+            "id": "d",
+            "text": "長時間の診察が法的に禁止された",
+            "explanation": "法律については述べない。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "第一段落では定時終了を保っていたため成功に見えたとする。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "staff continued to finish on time"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "未割当時間が果たしていた機能はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "測定を永久に禁止すること",
+            "explanation": "測定は他指標と併用される。"
+          },
+          {
+            "id": "b",
+            "text": "通常の診察の時間を全て長くすること",
+            "explanation": "全診察の長時間化を目的とはしない。"
+          },
+          {
+            "id": "c",
+            "text": "想定外の長い診察の影響を吸収する余力",
+            "explanation": "予想外への対応能力であり、空白即無駄という見方を修正する。"
+          },
+          {
+            "id": "d",
+            "text": "患者に必ず帰宅させること",
+            "explanation": "診察前に帰った患者は余力喪失の結果である。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "予想外への対応能力であり、空白即無駄という見方を修正する。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "allowing the system to respond when ordinary assumptions failed"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "筆者の結論に合う提案はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "指標に含まれない資源の機能も評価する",
+            "explanation": "除去された余力の機能と指標の射程を検討するのが結論。"
+          },
+          {
+            "id": "b",
+            "text": "全ての空き枠を無条件に増やす",
+            "explanation": "全ての空き枠が有用とは明示的にしない。"
+          },
+          {
+            "id": "c",
+            "text": "数値目標をあらゆるサービスで禁止する",
+            "explanation": "数値目標が必ず害を与えるとは否定している。"
+          },
+          {
+            "id": "d",
+            "text": "予約率だけをさらに高める",
+            "explanation": "予約率だけでは見えない遅延等も見るようになった。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "除去された余力の機能と指標の射程を検討するのが結論。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "what the indicator failed to count"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p2",
+        "sentence": "Had a few short intervals remained unassigned, the same consultation might have been absorbed without disrupting every later visit.",
+        "translation": "短い時間がいくつか未割当で残っていたなら、同じ診察でも後の全ての受診を混乱させずに吸収できたかもしれない。",
+        "explanation": "Had＋主語＋過去分詞はIf a few short intervals had remained ...からifを省いた仮定法の倒置。現実には枠が埋まっていたことへの反実仮想。might have been absorbedは過去の可能性を示す受動形。",
+        "start": 107,
+        "end": 238,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "clause",
+            "text": "Had a few short intervals remained unassigned",
+            "start": 107,
+            "end": 152
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the same consultation",
+            "start": 154,
+            "end": 175
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "might have been absorbed",
+            "start": 176,
+            "end": 200
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "without disrupting every later visit",
+            "start": 201,
+            "end": 237
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 233,
+    "recommendedSeconds": 345,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l3-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験標準〜難関の構文と根拠・限定の読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l3-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "余剰と備えを区別する反実仮想。倒置を伴う仮定法と指標の限界を読む。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l3-f01-07",
+    "level": 3,
+    "format": 1,
+    "title": "意見募集が代表しない声",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "When a town proposed a flood barrier, it invited residents to comment through an online form. Most responses supported a higher wall, and the committee described this as a clear expression of local preference. A planner then noticed that the street most likely to lose its view of the river had supplied very few responses. The people affected had not necessarily approved the plan; they had scarcely appeared in the consultation.",
+        "translation": "町が洪水防壁を提案したとき、オンラインフォームを通じて住民の意見を募った。回答の多くは高い壁を支持し、委員会はそれを地域の希望が明確に表れたものと説明した。ところが計画担当者は、川の眺めを最も失いそうな通りからの回答がごく少ないことに気づいた。影響を受ける人々は必ずしも計画に賛成していたわけではない。意見募集にほとんど登場していなかったのだ。"
+      },
+      {
+        "id": "p2",
+        "english": "Interviews suggested several reasons. Some residents had received the notice after the deadline, while others had assumed that the form was only for property owners. The committee extended the period and arranged a meeting at a nearby community room. The additional comments did not reverse every earlier preference, but they introduced concerns about access to the river that had barely been discussed.",
+        "translation": "聞き取りからいくつかの理由が示された。締切後に通知を受け取った住民もいれば、フォームは不動産所有者だけのものだと思った住民もいた。委員会は期間を延長し、近くの地域施設に会合を設けた。追加の意見は以前の希望を全て覆したわけではなかったが、それまでほとんど議論されていなかった川へのアクセスへの懸念をもたらした。"
+      },
+      {
+        "id": "p3",
+        "english": "The planner did not argue that a smaller group should automatically overrule a majority. Her point was that the number of answers could not, by itself, reveal who had been able to answer. Before interpreting silence as agreement, the committee needed to investigate how the invitation had reached people and what they understood it to mean. Counting opinions remained necessary, yet the quality of the count depended partly on procedures that occurred before any opinion was recorded. The committee could not guarantee universal participation. It could, however, avoid presenting the preferences of those who happened to respond as an uncomplicated portrait of everyone who would live with the result.",
+        "translation": "計画担当者は、少数の集団が自動的に多数派を覆すべきだと主張したのではない。回答数だけからは、誰が回答できたかは分からないというのが彼女の論点だった。沈黙を同意と解釈する前に、委員会は通知がどう届き、人々がどう受け取ったかを調べる必要があった。意見を数えることはなお必要だったが、その集計の質は、意見が記録される前の手順にも部分的に依存していた。委員会は全員の参加を保証できなかった。しかし、たまたま回答した人々の希望を、結果とともに暮らす全ての人の単純な全体像として示すことは避けられた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最初の集計に対する懸念はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "反対意見の数が記録上の賛成を超えていた",
+            "explanation": "賛成多数であり、反対が超えたとは書かれていない。"
+          },
+          {
+            "id": "b",
+            "text": "回答者の名前が全て架空だった",
+            "explanation": "架空回答は問題にしていない。"
+          },
+          {
+            "id": "c",
+            "text": "住民全員が川へのアクセスを拒否した",
+            "explanation": "アクセスへの懸念は追加コメントで示された。"
+          },
+          {
+            "id": "d",
+            "text": "強く影響を受ける通りの声がほとんど含まれなかった",
+            "explanation": "最も眺望を失いそうな通りからの回答が少なかったことが発端。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "最も眺望を失いそうな通りからの回答が少なかったことが発端。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "the street most likely to lose its view of the river had supplied very few responses"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "追加の聞き取りと募集で分かったことはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "オンライン回答では一切の意見を記録できなかった",
+            "explanation": "最初のオンライン意見も記録されている。"
+          },
+          {
+            "id": "b",
+            "text": "通知や参加資格の理解が回答機会に影響していた",
+            "explanation": "遅い通知や所有者限定という誤解が挙げられている。"
+          },
+          {
+            "id": "c",
+            "text": "全住民が最初から同じ説明を読んでいた",
+            "explanation": "通知の受取時期などが異なっていた。"
+          },
+          {
+            "id": "d",
+            "text": "追加意見が以前の意見を例外なく逆転させた",
+            "explanation": "全ての希望を逆転させたわけではない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "遅い通知や所有者限定という誤解が挙げられている。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "assumed that the form was only for property owners"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "計画担当者の主張を正しく言い換えたものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "少数派は必ず多数派より正しい",
+            "explanation": "少数による自動的な覆しは否定する。"
+          },
+          {
+            "id": "b",
+            "text": "全員参加を保証できない集計は常に無意味だ",
+            "explanation": "Counting opinions remained necessaryとする。"
+          },
+          {
+            "id": "c",
+            "text": "無回答者は必ず計画に反対している",
+            "explanation": "同意だと決めつけないだけで反対を断定もしない。"
+          },
+          {
+            "id": "d",
+            "text": "意見数を解釈するには回答に至る手順も調べる必要がある",
+            "explanation": "誰が回答できたかを数だけで判断できないという限定的主張。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "誰が回答できたかを数だけで判断できないという限定的主張。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "procedures that occurred before any opinion was recorded"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "Counting opinions remained necessary, yet the quality of the count depended partly on procedures that occurred before any opinion was recorded.",
+        "translation": "意見を数えることはなお必要だったが、集計の質は意見が記録される前の手順にも部分的に依存していた。",
+        "explanation": "Counting opinionsは動名詞句の主語。yetは二つの主節を対比する接続詞。that節がproceduresを修飾し、その内部のbefore節ではwas recordedという受動態を用いる。",
+        "start": 341,
+        "end": 484,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Counting opinions",
+            "start": 341,
+            "end": 358
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "remained",
+            "start": 359,
+            "end": 367
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "necessary",
+            "start": 368,
+            "end": 377
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "that occurred before any opinion was recorded",
+            "start": 438,
+            "end": 483
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "procedures",
+            "start": 427,
+            "end": 437
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 242,
+    "recommendedSeconds": 360,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l3-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験標準〜難関の構文と根拠・限定の読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l3-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "代表性と賛成割合の違い、沈黙からの過剰推論を問う。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l3-f01-08",
+    "level": 3,
+    "format": 1,
+    "title": "市民センサーの二つの役割",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Residents near a busy road installed inexpensive sensors to investigate air pollution. Their readings were not identical to those from the city's more precise instruments. Officials therefore questioned whether the residents' evidence should influence decisions. The residents replied that the official station was far from the narrow streets where children waited for buses. Better precision at one location did not necessarily describe conditions at another.",
+        "translation": "交通量の多い道路の近くの住民が、大気汚染を調べるため安価なセンサーを設置した。その測定値は市のより精密な計器の値と一致しなかった。そのため当局は、住民の証拠を意思決定に反映すべきか疑問を呈した。住民は、公式の測定所が、子供たちがバスを待つ狭い通りから遠いと答えた。ある地点で精度が高いことが、別の地点の状況を必ずしも示すわけではなかった。"
+      },
+      {
+        "id": "p2",
+        "english": "Rather than choosing one set of instruments and dismissing the other, a researcher proposed a comparison. Several inexpensive sensors were placed beside the official station before being moved to different streets. This revealed a tendency to report higher values during humid weather. It also allowed the team to distinguish that recurring pattern from differences between locations, though not to eliminate all uncertainty.",
+        "translation": "研究者は、一方の計器だけを選んで他方を退けるのではなく、比較を提案した。複数の安価なセンサーを別々の通りへ移す前に、公式測定所の横に置いた。それによって湿度の高い天候では高い値を報告する傾向が分かった。また、不確実性を全てなくすことはできなくても、その繰り返しの傾向と地点間の差を区別できるようになった。"
+      },
+      {
+        "id": "p3",
+        "english": "The project produced a more cautious map than either side had originally wanted. Some apparent pollution peaks became less convincing after humidity was considered; others remained worth investigating. The sensors did not replace official measurements, but they helped identify questions that the existing network had not been designed to answer. Just as importantly, residents learned why some readings required qualification, while officials learned why demands for local information could not be satisfied by pointing to the accuracy of a distant station. Trust developed through an opportunity to examine how evidence was produced, rather than through a requirement that one group accept the other's conclusions without discussion.",
+        "translation": "プロジェクトが作ったのは、どちらの側も最初に望んだより慎重な地図だった。汚染のピークに見えたものの一部は、湿度を考慮すると説得力が弱まったが、さらに調べる価値のあるものも残った。センサーは公式測定を置き換えなかったが、既存の測定網が答えるよう設計されていなかった問いを見つける助けになった。同じくらい重要なことに、住民は一部の数値になぜ留保が必要かを学び、当局は遠い測定所の精度を示すだけでは地域の情報への要求を満たせない理由を学んだ。信頼は、一方が他方の結論を議論なく受け入れることを要求されることでなく、証拠がどう作られるかを調べる機会を通じて育った。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "住民が公式測定だけでは不十分だと考えた理由はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "公式データは湿度を一切記録していなかった",
+            "explanation": "公式データでの湿度記録の有無は明記しない。"
+          },
+          {
+            "id": "b",
+            "text": "住民が正確さを全く重視していなかった",
+            "explanation": "比較に参加しており正確さを無視していない。"
+          },
+          {
+            "id": "c",
+            "text": "子供が待つ通りと測定所の場所が違った",
+            "explanation": "精度とは別に場所の代表性が問題だった。"
+          },
+          {
+            "id": "d",
+            "text": "市の計器は必ず全て誤測定した",
+            "explanation": "公式計器の精密さは認めている。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "精度とは別に場所の代表性が問題だった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "far from the narrow streets where children waited for buses"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "計器を同じ場所に置いた比較から何が分かったか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "安価なセンサーには高湿度時に高い値を出す傾向があった",
+            "explanation": "第二段落に湿度と報告値の傾向が明示される。"
+          },
+          {
+            "id": "b",
+            "text": "全ての地点の汚染が完全に同一だった",
+            "explanation": "地点差と計器の癖を区別しようとした。"
+          },
+          {
+            "id": "c",
+            "text": "湿度を考えると全てのピークが消えた",
+            "explanation": "残ったピークには調査価値があった。"
+          },
+          {
+            "id": "d",
+            "text": "不確実性が完全になくなった",
+            "explanation": "全不確実性の除去は否定する。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "第二段落に湿度と報告値の傾向が明示される。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "report higher values during humid weather"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "本文でいう信頼が育つ条件はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "市民の計器を公式計器の代わりにすること",
+            "explanation": "replace official measurementsは否定される。"
+          },
+          {
+            "id": "b",
+            "text": "どちらも結果を公開しないこと",
+            "explanation": "非公開は提案されていない。"
+          },
+          {
+            "id": "c",
+            "text": "証拠の作られ方と限界を一緒に検討できること",
+            "explanation": "末文は証拠生成を検討する機会と信頼を結びつける。"
+          },
+          {
+            "id": "d",
+            "text": "一方が他方の結論を無条件で受け入れること",
+            "explanation": "without discussionでの受容と対比する。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "末文は証拠生成を検討する機会と信頼を結びつける。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "an opportunity to examine how evidence was produced"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Better precision at one location did not necessarily describe conditions at another.",
+        "translation": "ある地点で精度が高いことが、別の地点の状況を必ずしも示すわけではなかった。",
+        "explanation": "not necessarilyは『必ずしも〜ではない』という部分否定で、常に不正確だという全面否定ではない。at one locationはprecisionを限定し、at anotherはanother locationの名詞省略。",
+        "start": 376,
+        "end": 460,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Better precision at one location",
+            "start": 376,
+            "end": 408
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not necessarily describe",
+            "start": 409,
+            "end": 437
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "conditions at another",
+            "start": 438,
+            "end": 459
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 233,
+    "recommendedSeconds": 345,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l3-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験標準〜難関の構文と根拠・限定の読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l3-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "精度と地域代表性を区別し、誤差補正後も残る証拠の限界を読む。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l3-f01-09",
+    "level": 3,
+    "format": 1,
+    "title": "本棚に残る本の価値",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A library reviewed its collection using the number of times each book had been borrowed. The measure was useful for identifying popular titles, and nobody proposed ignoring it. Difficulties arose when a book of local records, rarely taken home, appeared on a list of items to remove. Researchers often consulted it at a desk, copying a few details before returning it to the shelf. Such use left no borrowing record.",
+        "translation": "図書館が、各本が借りられた回数を使って蔵書を見直した。その尺度は人気の本を見つけるのに役立ち、それを無視しようとは誰も提案しなかった。問題が生じたのは、めったに持ち帰られない地域記録の本が除去候補に入ったときだった。研究者はしばしば机でその本を参照し、いくつかの細部を書き写して棚に戻していた。そうした利用は貸出記録を残さなかった。"
+      },
+      {
+        "id": "p2",
+        "english": "The librarian responsible for the review introduced a small survey of in-building use. Even this could not capture every contribution. A teacher explained that knowing the records were available allowed her to design a project she had not yet assigned. Availability could support a future activity without producing an immediate, observable transaction. This was not a reason to preserve every volume indefinitely, but it weakened the assumption that a low count demonstrated an absence of value.",
+        "translation": "見直しを担当する司書は、館内利用の小規模調査を導入した。しかし、それでも全ての貢献を捉えることはできなかった。ある教員は、記録を利用できると知っていることで、まだ生徒に出していない課題を設計できると説明した。利用可能性は、直ちに観察できる取引を生まずとも、将来の活動を支え得る。これは全ての本を無期限に残す理由にはならないが、回数が少ないことが価値の欠如を示すという前提を弱めた。"
+      },
+      {
+        "id": "p3",
+        "english": "The revised review combined borrowing figures, evidence of consultation and an explanation of why particular materials were difficult to replace. Decisions still involved choices: keeping one collection occupied space that another might use. What changed was the burden of explanation. Instead of requiring an unusual book to justify its existence solely in the terms appropriate to a popular novel, the library asked which purposes its collection should serve and what kinds of evidence could reasonably show whether those purposes were being met. Measurement became part of the judgement, rather than a way of avoiding judgement altogether.",
+        "translation": "修正した見直しでは、貸出数、参照の証拠、特定の資料が代替しにくい理由の説明を組み合わせた。判断にはなお選択が伴った。ある蔵書を残せば、別の蔵書が使える空間を占めるからだ。変わったのは説明を求めるあり方だった。特殊な本に、人気小説に適した尺度だけで存在理由を示させる代わりに、図書館は蔵書がどんな目的に役立つべきか、その目的が達せられているかをどんな証拠で合理的に示せるかを問うようになった。測定は判断を完全に避ける方法ではなく、判断の一部になった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "地域記録の本が最初の指標で過小評価され得た理由はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "借りられた回数が多すぎた",
+            "explanation": "借りられることが少ない本である。"
+          },
+          {
+            "id": "b",
+            "text": "館内で参照する利用が貸出記録を残さなかった",
+            "explanation": "机で使って棚へ戻す利用を貸出回数だけでは捉えられない。"
+          },
+          {
+            "id": "c",
+            "text": "記録の内容が全て誤っていた",
+            "explanation": "記録の真偽は問題にしていない。"
+          },
+          {
+            "id": "d",
+            "text": "研究者が本を読むことを禁じられていた",
+            "explanation": "研究者の参照が具体的に描かれている。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "机で使って棚へ戻す利用を貸出回数だけでは捉えられない。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Such use left no borrowing record."
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "教員の話が示す貢献はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "全ての本が既に全生徒に読まれたこと",
+            "explanation": "未実施の課題なので読了を示さない。"
+          },
+          {
+            "id": "b",
+            "text": "将来の貸出回数が正確に分かること",
+            "explanation": "将来の貸出数の予測ではない。"
+          },
+          {
+            "id": "c",
+            "text": "館内利用の調査が不要になること",
+            "explanation": "調査の限界を加える例であり、廃止を導かない。"
+          },
+          {
+            "id": "d",
+            "text": "利用できるという見通しが将来の課題設計を支えること",
+            "explanation": "まだ出していない課題を設計できるという将来活動への支え。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "まだ出していない課題を設計できるという将来活動への支え。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "a project she had not yet assigned"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "見直し後も残る問題として本文が挙げるものはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "測定そのものの全面禁止",
+            "explanation": "測定は判断の一部として残った。"
+          },
+          {
+            "id": "b",
+            "text": "限られた空間をどの蔵書に配分するか",
+            "explanation": "ある蔵書を残せば他の蔵書が使える空間を占めるという選択が残る。"
+          },
+          {
+            "id": "c",
+            "text": "資料を全て永久保存する義務",
+            "explanation": "無期限保存の根拠とはしていない。"
+          },
+          {
+            "id": "d",
+            "text": "人気小説を全冊廃棄する必要",
+            "explanation": "小説の全廃は提案していない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "ある蔵書を残せば他の蔵書が使える空間を占めるという選択が残る。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "space that another might use"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "Instead of requiring an unusual book to justify its existence solely in the terms appropriate to a popular novel, the library asked which purposes its collection should serve and what kinds of evidence could reasonably show whether those purposes were being met.",
+        "translation": "特殊な本に人気小説に適した尺度だけで存在理由を示させる代わりに、図書館は、蔵書がどんな目的に役立つべきか、その目的が達せられているかをどんな証拠で合理的に示せるかを問うた。",
+        "explanation": "長いInstead of句を主節から切り離すとthe library asked ...。askedの後ろにwhichとwhatの二つの間接疑問がandで並ぶ。whether節はshowの目的語であり、askedの直後の節と階層が異なる。",
+        "start": 286,
+        "end": 548,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "Instead of requiring an unusual book to justify its existence solely in the terms appropriate to a popular novel",
+            "start": 286,
+            "end": 398
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the library",
+            "start": 400,
+            "end": 411
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "asked",
+            "start": 412,
+            "end": 417
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "whether those purposes were being met",
+            "start": 510,
+            "end": 547
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ]
+      }
+    ],
+    "wordCount": 242,
+    "recommendedSeconds": 360,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l3-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験標準〜難関の構文と根拠・限定の読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l3-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "長い前置修飾と入れ子の間接疑問、未観測の便益と資源配分を扱う。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  },
+  {
+    "id": "reading-l3-f01-10",
+    "level": 3,
+    "format": 1,
+    "title": "自然を戻すときの基準年",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A group restoring a wetland agreed that the site should become more natural, but agreement weakened when members chose a reference point. Photographs from one decade showed open water; an older account described reeds; neither source recorded every season. Selecting a year would not simply reveal nature's original state. It would determine which version of a changing place the project treated as its target.",
+        "translation": "湿地を再生する団体は、現場をより自然な状態にするべきだという点で一致していたが、基準となる状態を選ぶ段階で合意が弱まった。ある年代の写真には開けた水面が写り、さらに古い記録にはアシが描かれていたが、どちらの資料も全ての季節を記録してはいなかった。ある年を選ぶことは、自然の本来の状態を単に明らかにすることではなかった。変化し続ける場所のどの姿を事業の目標とするかを決めることだった。"
+      },
+      {
+        "id": "p2",
+        "english": "One ecologist suggested replacing the search for a perfect historical picture with questions about present processes. Could water move through the site? Could several kinds of plants reproduce without constant replacement? Historical evidence still mattered because it indicated possible conditions and past disturbances. However, it could inform these questions without supplying an unquestionable instruction to recreate a particular photograph.",
+        "translation": "ある生態学者は、完全な過去の画像を探す代わりに、現在の過程について問うことを提案した。水は現場を通って移動できるか。複数種の植物が絶えず植え直されることなく繁殖できるか。過去の証拠は、あり得る状態や以前のかく乱を示すので依然として重要だった。しかし、特定の写真を再現せよという疑い得ない指示を与えなくても、こうした問いの参考にはなれた。"
+      },
+      {
+        "id": "p3",
+        "english": "The group eventually set several goals and agreed to revise them as monitoring continued. Critics worried that revisable goals would excuse any disappointing result. To prevent this, the group specified in advance what evidence would count as failure and when a change of plan would need a public explanation. Flexibility was not the absence of commitments; it depended on making the reasons for changing them visible. The restored wetland would not be a frozen copy of a date in the archive. It could nevertheless be assessed against explicit aims, rather than defended by an attractive but undefined claim that whatever emerged was natural.",
+        "translation": "団体は最終的に複数の目標を定め、監視を続けながら改定することに同意した。批判者は、変更可能な目標ではどんな期待外れの結果にも言い訳ができると懸念した。それを防ぐため、団体はどんな証拠を失敗とみなすか、いつ計画変更について公の説明が必要になるかを事前に定めた。柔軟性は約束がないことではなく、変更理由を見えるようにすることに依存していた。再生した湿地は資料中のある日付を凍結したコピーにはならないだろう。それでも、現れたものは何でも自然だという魅力的だが未定義の主張で擁護されるのではなく、明示した目標に照らして評価され得るのだった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "過去の基準年を選ぶ難しさは何か。",
+        "options": [
+          {
+            "id": "a",
+            "text": "変化する場所のどの姿を目標とするかという選択が含まれる",
+            "explanation": "年の選択は単なる本来の自然の発見ではなく目標設定にもなる。"
+          },
+          {
+            "id": "b",
+            "text": "過去の記録が一切存在しない",
+            "explanation": "写真と古い記録が存在する。"
+          },
+          {
+            "id": "c",
+            "text": "全ての年代の湿地が完全に同じだった",
+            "explanation": "水面とアシなど異なる姿を示す。"
+          },
+          {
+            "id": "d",
+            "text": "写真が必ず全季節を記録していた",
+            "explanation": "全季節を記録しないと明示する。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "年の選択は単なる本来の自然の発見ではなく目標設定にもなる。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "which version of a changing place the project treated as its target"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "生態学者の提案における過去の証拠の役割はどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "過去の証拠を全て捨てる",
+            "explanation": "Historical evidence still matteredとある。"
+          },
+          {
+            "id": "b",
+            "text": "将来の結果を全て保証する",
+            "explanation": "結果の保証は述べていない。"
+          },
+          {
+            "id": "c",
+            "text": "現在の過程を考える参考にする",
+            "explanation": "あり得る状態と過去のかく乱を示す情報として生かす。"
+          },
+          {
+            "id": "d",
+            "text": "特定写真の再現を無条件に命じる",
+            "explanation": "疑い得ない再現指示とはしない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "あり得る状態と過去のかく乱を示す情報として生かす。",
+        "evidence": {
+          "paragraphId": "p2",
+          "quote": "inform these questions without supplying an unquestionable instruction"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "団体が変更可能な目標を無責任にしないために行ったことはどれか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "失敗とみなす証拠と変更時の説明条件を事前に示す",
+            "explanation": "基準と説明義務が柔軟性を支えている。"
+          },
+          {
+            "id": "b",
+            "text": "全ての期待外れを自然と呼ぶ",
+            "explanation": "最後にそのような曖昧な正当化と対比される。"
+          },
+          {
+            "id": "c",
+            "text": "目標の存在を秘密にする",
+            "explanation": "公の説明を要求している。"
+          },
+          {
+            "id": "d",
+            "text": "計画を絶対に変えないと宣言する",
+            "explanation": "改定する方針は維持する。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "基準と説明義務が柔軟性を支えている。",
+        "evidence": {
+          "paragraphId": "p3",
+          "quote": "specified in advance what evidence would count as failure"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p3",
+        "sentence": "Flexibility was not the absence of commitments; it depended on making the reasons for changing them visible.",
+        "translation": "柔軟性は約束の不在ではなく、それらを変える理由を見えるようにすることに依存していた。",
+        "explanation": "セミコロンは対照的な二つの主節をつなぐ。making O Cは『OをCの状態にする』で、O=the reasons for changing them、C=visible。themはcommitmentsを指す。",
+        "start": 310,
+        "end": 418,
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Flexibility",
+            "start": 310,
+            "end": 321
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was not",
+            "start": 322,
+            "end": 329
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "the absence of commitments",
+            "start": 330,
+            "end": 356
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "the reasons for changing them",
+            "start": 380,
+            "end": 409
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "visible",
+            "start": 410,
+            "end": 417
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "wordCount": 226,
+    "recommendedSeconds": 345,
+    "vocabulary": [],
+    "content": {
+      "sourceIds": [
+        "original-reading-l3-v1"
+      ],
+      "contentVersion": 1,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "大学受験標準〜難関の構文と根拠・限定の読解",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l3-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "difficulty": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 3,
+        "logic": 4,
+        "questions": 3
+      },
+      "method": "ai_author_editorial_v1",
+      "status": "author_assessed_independent_review_pending",
+      "rationale": "歴史的基準の選択性と、柔軟性を説明責任で支える論理を読む。"
+    },
+    "editorialReview": {
+      "status": "author_checked",
+      "reviewer": "AI author; not independent human review",
+      "checks": [
+        "paragraph-by-paragraph complete translation",
+        "all four options compared against text",
+        "evidence and limitation of each inference",
+        "syntax head/embedded clause and relation targets"
+      ],
+      "independentHumanReviewed": false
+    }
+  }
+]

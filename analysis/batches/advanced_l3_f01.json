@@ -1,0 +1,33 @@
+{
+  "ids": [
+    "reading-l3-f01-01",
+    "reading-l3-f01-02",
+    "reading-l3-f01-03",
+    "reading-l3-f01-04",
+    "reading-l3-f01-05",
+    "reading-l3-f01-06",
+    "reading-l3-f01-07",
+    "reading-l3-f01-08",
+    "reading-l3-f01-09",
+    "reading-l3-f01-10"
+  ],
+  "authored": 10,
+  "structurallyVerified": 10,
+  "aiAuthorChecked": 10,
+  "independentlyHumanReviewed": 0,
+  "questions": 30,
+  "wordCounts": [
+    214,
+    228,
+    231,
+    232,
+    234,
+    233,
+    242,
+    233,
+    242,
+    226
+  ],
+  "protectedExistingUnchanged": 200,
+  "sha256": "880d41af22156eeb2a8906c7ed5a6193c8443baf6ca45eb6eb538049b52087e3"
+}

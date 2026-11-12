@@ -1,19 +1,22 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import data from '../content/readings/drafts.json';
+import { readingCatalog as data } from '../src/readingCatalog';
 import checkpoint from '../analysis/reading_checkpoint.json';
 import { emptyState, decodeState, answer } from '../src/model';
 import { gradeReading, Passage, readingAccess, recordReading, unlockReading } from '../src/readings';
 const passages=data as Passage[];
 test('reading drafts match the measured quota, have evidence and exact syntax offsets',()=>{
- assert.equal(passages.length,100);
- assert.equal(checkpoint.complete,true);
- assert.equal(passages.reduce((n,p)=>n+p.questions.length,0),300);
+ assert.ok(passages.length>=200 && passages.length<=400);
+ assert.equal(checkpoint.complete,passages.length===400);
+ assert.equal(passages.reduce((n,p)=>n+p.questions.length,0),checkpoint.totalQuestions);
  assert.equal(passages.length,checkpoint.authoredPassages);
  assert.equal(new Set(passages.map(p=>p.id)).size,passages.length);
- assert.deepEqual(Array.from({length:10},(_,i)=>passages.filter(p=>p.format===i+1).length),checkpoint.countsByFormat);
- if(checkpoint.complete)assert.deepEqual(checkpoint.countsByFormat,[10,10,10,10,10,10,10,10,10,10]);
- for(const p of passages){assert.ok(p.wordCount>=150&&p.wordCount<=250);assert.equal(p.questions.length,3);if(p.format===7){assert.ok(p.insert?.sentence);for(const marker of ['[A]','[B]','[C]','[D]'])assert.ok(p.paragraphs.some(x=>x.english.includes(marker)));}if(p.format===8){assert.equal(p.paragraphs.length,4);assert.equal(new Set(p.paragraphOrder).size,4);const order=p.questions[0].options.find(o=>o.id===p.questions[0].correctOptionId)!.text;assert.equal(order,p.paragraphOrder!.map(id=>id.slice(1)).join('→'));}for(const q of p.questions){assert.equal(q.options.length,4);assert.equal(new Set(q.options.map(o=>o.text)).size,4);assert.ok(p.paragraphs.find(x=>x.id===q.evidence.paragraphId)!.english.includes(q.evidence.quote));}for(const x of p.syntax){const para=p.paragraphs.find(y=>y.id===x.paragraphId)!;assert.equal(para.english.slice(x.start,x.end),x.sentence);for(const span of x.spans)assert.equal(para.english.slice(span.start,span.end),span.text);}}
+ for(const level of [1,2] as const){
+  const pool=passages.filter(p=>p.level===level);assert.equal(pool.length,100);
+  assert.deepEqual(Array.from({length:10},(_,i)=>pool.filter(p=>p.format===i+1).length),[10,10,10,10,10,10,10,10,10,10]);
+  assert.deepEqual(checkpoint.levels[String(level) as '1'|'2'].countsByFormat,[10,10,10,10,10,10,10,10,10,10]);
+ }
+ for(const p of passages){assert.ok(p.wordCount>=({1:150,2:160,3:190,4:210}[p.level])&&p.wordCount<=({1:250,2:320,3:420,4:420}[p.level]));assert.ok(p.questions.length>=3&&p.questions.length<=10);if(p.format===7){assert.ok(p.insert?.sentence);for(const marker of ['[A]','[B]','[C]','[D]'])assert.ok(p.paragraphs.some(x=>x.english.includes(marker)));}if(p.format===8){assert.equal(p.paragraphs.length,4);assert.equal(new Set(p.paragraphOrder).size,4);const order=p.questions[0].options.find(o=>o.id===p.questions[0].correctOptionId)!.text;assert.equal(order,p.paragraphOrder!.map(id=>id.slice(1)).join('→'));}for(const q of p.questions){assert.equal(q.options.length,4);assert.equal(new Set(q.options.map(o=>o.text)).size,4);assert.ok(p.paragraphs.find(x=>x.id===q.evidence.paragraphId)!.english.includes(q.evidence.quote));}for(const x of p.syntax){const para=p.paragraphs.find(y=>y.id===x.paragraphId)!;assert.equal(para.english.slice(x.start,x.end),x.sentence);for(const span of x.spans)assert.equal(para.english.slice(span.start,span.end),span.text);}}
 });
 test('three free reading unlocks require explicit calls, persist, and never replace earlier choices',()=>{
  let state=answer(emptyState(),'old-word','choice',true);const original=state.progress;
@@ -41,4 +44,22 @@ test('corrupt reading records are rejected without accepting arrays as maps',()=
  assert.throws(()=>decodeState(JSON.stringify(invalid)));
  assert.throws(()=>gradeReading(p,{...answers,unexpected:'a'},20,'extra'));
  assert.throws(()=>gradeReading(p,answers,-1,'negative'));
+});
+
+test('real Level 2 passages preserve Level 1 unlocks, results and independent free slots',()=>{
+ const l1=passages.filter(p=>p.level===1),l2=passages.filter(p=>p.level===2);
+ const answers=Object.fromEntries(l1[0].questions.map(q=>[q.id,q.correctOptionId]));
+ let state=recordReading(emptyState(),l1[0],gradeReading(l1[0],answers,120,'level1-existing'));
+ for(const p of l1.slice(0,3))state=unlockReading(state,p);
+ const original=state.reading!.records[l1[0].id];
+ for(const p of l2.slice(0,3))state=unlockReading(state,p);
+ assert.equal(state.reading!.records[l1[0].id],original);
+ assert.deepEqual(state.reading!.unlockedByLevel[1],l1.slice(0,3).map(p=>p.id));
+ assert.deepEqual(state.reading!.unlockedByLevel[2],l2.slice(0,3).map(p=>p.id));
+ assert.equal(unlockReading(state,l2[3]),state);
+ const a=Object.fromEntries(l2[0].questions.map(q=>[q.id,q.correctOptionId]));
+ state=recordReading(state,l2[0],gradeReading(l2[0],a,240,'level2-attempt'));
+ assert.equal(state.reading!.records[l1[0].id],original);
+ assert.equal(state.reading!.records[l2[0].id].best.correct,3);
+ assert.deepEqual(decodeState(JSON.stringify(state)),state);
 });

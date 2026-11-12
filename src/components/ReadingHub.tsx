@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
-import data from '../../content/readings/drafts.json';
+import { readingCatalog as data } from '../readingCatalog';
 import type { Level, State } from '../model';
 import { duration, gradeReading, Passage, readingAccess, readingFormats, ReadingSyntax, recordReading, unlockReading } from '../readings';
 const passages=data as Passage[];
