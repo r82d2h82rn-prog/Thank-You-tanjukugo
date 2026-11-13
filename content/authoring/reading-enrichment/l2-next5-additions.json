@@ -1,0 +1,361 @@
+[
+  {
+    "paragraphs": [
+      "To check the change, the owner compared weeks with similar numbers of guests rather than simply counting all the towels washed. She also asked staff to record cases in which the new rule was still unclear. A towel left on the floor after a rail had become loose was one such case. The owner repaired the rail instead of assuming that the guest had ignored the message. The card expressed an environmental aim, but the room and the collection system had to make that aim possible. Keeping both the message and the equipment under review proved more useful than blaming either guests or cleaners."
+    ],
+    "questions": [
+      {
+        "prompt": "店主が変化を確かめる際、宿泊客数が似た週を比べた理由に最も合うものはどれか。",
+        "options": [
+          {
+            "text": "客数の違いを洗濯量の改善と取り違えないため",
+            "explanation": "客数をそろえ、全タオル数だけで判断しない比較にした。"
+          },
+          {
+            "text": "すべての宿泊客に同じタオルを使わせるため",
+            "explanation": "同じ物を共用させる話ではない。"
+          },
+          {
+            "text": "客数を減らすことだけを目標にしたため",
+            "explanation": "環境目標を客数削減に変更していない。"
+          },
+          {
+            "text": "比較から職員の記録を取り除くため",
+            "explanation": "職員の不明確事例の記録も利用している。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "compared weeks with similar numbers of guests"
+      },
+      {
+        "prompt": "床のタオルについて、店主が実際に行ったことはどれか。",
+        "options": [
+          {
+            "text": "客の不注意と決めつけず、緩んだ掛け棒を直した",
+            "explanation": "repaired the rail instead of assumingが根拠。"
+          },
+          {
+            "text": "カードの環境目標を取り消した",
+            "explanation": "環境目標は維持している。"
+          },
+          {
+            "text": "清掃係に必ず放置するよう求めた",
+            "explanation": "不具合を修理しており放置の指示ではない。"
+          },
+          {
+            "text": "その客の宿泊を禁止した",
+            "explanation": "宿泊禁止の記述はない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "repaired the rail instead of assuming"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "After the trial, one employee pointed out that preparing a written report also took time. Imani therefore asked the team to consider the time spent before meetings as well as the length of the calls. A shorter meeting would be a poor improvement if it merely moved unnecessary work into the evening.",
+      "The team also allowed members to mark questions anonymously before a discussion. This helped people who found it difficult to interrupt a colleague, but it did not replace the need to listen during the meeting. The aim was to make important questions easier to raise, not to make disagreement disappear."
+    ],
+    "questions": [
+      {
+        "prompt": "試行後、会議時間と合わせて考慮することになった負担は何か。",
+        "options": [
+          {
+            "text": "会議前の文書準備に使う時間",
+            "explanation": "time spent before meetingsも評価に加えた。"
+          },
+          {
+            "text": "同僚が通勤する距離",
+            "explanation": "通勤距離を測っていない。"
+          },
+          {
+            "text": "週末に使う電話料金",
+            "explanation": "電話料金の比較ではない。"
+          },
+          {
+            "text": "報告文の文字の大きさ",
+            "explanation": "書式の文字サイズの議論ではない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "the time spent before meetings as well as the length of the calls"
+      },
+      {
+        "prompt": "匿名で質問を付けられるようにした目的はどれか。",
+        "options": [
+          {
+            "text": "同僚に割り込みにくい人も質問を出しやすくする",
+            "explanation": "found it difficult to interruptの人を助けた。"
+          },
+          {
+            "text": "全ての意見の相違を消す",
+            "explanation": "disagreement disappearが目的ではないと明記。"
+          },
+          {
+            "text": "会議で聞く必要をなくす",
+            "explanation": "listenの必要は残る。"
+          },
+          {
+            "text": "報告を読まない人に全文を再読する",
+            "explanation": "全文再読は当初からしない運用。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "people who found it difficult to interrupt a colleague"
+      },
+      {
+        "prompt": "会議短縮が不十分な改善になる例はどれか。",
+        "options": [
+          {
+            "text": "不要な作業を夕方へ移しただけだった場合",
+            "explanation": "merely moved unnecessary work into the eveningが条件。"
+          },
+          {
+            "text": "意思決定のための質問を残した場合",
+            "explanation": "質問機会を保つことを肯定している。"
+          },
+          {
+            "text": "普通の進捗を事前に共有した場合",
+            "explanation": "事前共有は有効な方策の一つ。"
+          },
+          {
+            "text": "ゆっくり議論する別の時間を確保した場合",
+            "explanation": "別の週会議は残したものとして肯定される。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "if it merely moved unnecessary work into the evening"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "The following season, students compared two varieties in small plots with the same soil and watering schedule. One grew well during a dry period, but the group avoided claiming that it would be best in every garden. Their report included the weather, the number of plants and the limits of the comparison. They also recorded which seeds had come from each harvest so that later volunteers could continue the work. Saving a variety involved more than storing a packet in a cupboard. It required knowledge that could be passed on, checked and used when new conditions made different features valuable."
+    ],
+    "questions": [
+      {
+        "prompt": "一方の豆が乾燥期によく育った後、生徒たちは何に注意したか。",
+        "options": [
+          {
+            "text": "どの庭でも最善だと一般化しないこと",
+            "explanation": "avoided claiming ... best in every gardenが明示する。"
+          },
+          {
+            "text": "その品種をもう栽培しないこと",
+            "explanation": "栽培禁止にしていない。"
+          },
+          {
+            "text": "天候を記録から消すこと",
+            "explanation": "weatherを報告に含めた。"
+          },
+          {
+            "text": "収穫の由来を区別しないこと",
+            "explanation": "種の収穫由来も記録した。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "avoided claiming that it would be best in every garden"
+      },
+      {
+        "prompt": "種の由来を記録した目的はどれか。",
+        "options": [
+          {
+            "text": "後のボランティアが栽培と保存の仕事を引き継げるようにする",
+            "explanation": "so that later volunteers could continue the workが根拠。"
+          },
+          {
+            "text": "全品種の価値が同じだと証明する",
+            "explanation": "価値が常に同じとは述べない。"
+          },
+          {
+            "text": "将来の天候を確定する",
+            "explanation": "未知の条件は未知のままである。"
+          },
+          {
+            "text": "家庭での料理の話を不要とする",
+            "explanation": "文化的意味も肯定している。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "so that later volunteers could continue the work"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "At the second concert, the organizer counted both cancellations and people who still failed to arrive. More cancellations did not necessarily mean less interest: some seats had been released early enough for someone else to use them. The group judged the system by how well it helped available seats reach people who could attend.",
+      "They also kept the reminder short and avoided asking absent visitors for personal details they did not need. The information collected was meant to improve the booking process, not to decide whose reason for missing a concert was most acceptable. A useful explanation of a problem had to guide a practical change."
+    ],
+    "questions": [
+      {
+        "prompt": "取り消しが増えても関心が減ったとは限らない理由はどれか。",
+        "options": [
+          {
+            "text": "早く空いた席を別の人が使える場合があるため",
+            "explanation": "released early enough for someone else to use themが根拠。"
+          },
+          {
+            "text": "取り消した人は必ず次の公演に来るため",
+            "explanation": "次回参加の保証はない。"
+          },
+          {
+            "text": "取り消し数は記録しなくなったため",
+            "explanation": "cancellationsも数えている。"
+          },
+          {
+            "text": "料金を高くして売上が増えたため",
+            "explanation": "値上げしていない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "released early enough for someone else to use them"
+      },
+      {
+        "prompt": "仕組みを評価した基準はどれか。",
+        "options": [
+          {
+            "text": "来られる人に利用可能な席を渡せたか",
+            "explanation": "available seats reach people who could attendが評価基準。"
+          },
+          {
+            "text": "取り消しを一件も認めなかったか",
+            "explanation": "簡単に取り消せる仕組みを採用した。"
+          },
+          {
+            "text": "全員の欠席理由を順位づけできたか",
+            "explanation": "欠席理由の優劣は目的でない。"
+          },
+          {
+            "text": "予約だけを最大数にできたか",
+            "explanation": "予約数だけでなく実際の利用を考える。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "how well it helped available seats reach people who could attend"
+      },
+      {
+        "prompt": "欠席者に尋ねる内容について採用した方針はどれか。",
+        "options": [
+          {
+            "text": "改善に不要な個人情報は聞かない",
+            "explanation": "avoided asking ... personal details they did not needに一致。"
+          },
+          {
+            "text": "全員の家庭事情を詳しく集める",
+            "explanation": "必要な範囲に限定している。"
+          },
+          {
+            "text": "不参加者の性格を公表する",
+            "explanation": "人格判断を教訓として戒める。"
+          },
+          {
+            "text": "理由を教えない人の予約を無効にする",
+            "explanation": "そのような罰則はない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "personal details they did not need"
+      },
+      {
+        "prompt": "集めた情報の用途として適切なのはどれか。",
+        "options": [
+          {
+            "text": "予約手順の具体的な改善に結び付ける",
+            "explanation": "最後の二文はprocess改善とpractical changeを目的とする。"
+          },
+          {
+            "text": "欠席者の理由の道徳的な順位を決める",
+            "explanation": "not to decide whose reason ...と否定する。"
+          },
+          {
+            "text": "無料客は無責任だという結論を固定する",
+            "explanation": "広い人格評価より原因調査を優先する。"
+          },
+          {
+            "text": "全公演の料金を同じ高額にそろえる",
+            "explanation": "値上げの一律適用を支持していない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "meant to improve the booking process"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "Before showing the robot again, the students tested questions that used familiar words in unexpected ways. They discovered that a reply could be grammatically correct and still fail to answer what the visitor meant. The new display therefore included examples of questions the robot could not handle. When a reply was uncertain, the robot offered to connect the visitor with a librarian rather than repeating an answer more confidently. The students measured improvement not only by the number of stored replies, but also by whether the system recognized situations in which those replies were inadequate. A clear limit could be part of a useful service."
+    ],
+    "questions": [
+      {
+        "prompt": "再実演の前に試した質問の特徴はどれか。",
+        "options": [
+          {
+            "text": "既知の語を予想外の仕方で使う",
+            "explanation": "familiar words in unexpected waysが特徴。"
+          },
+          {
+            "text": "すべて未知の外国語で書く",
+            "explanation": "未知語だけの試験ではない。"
+          },
+          {
+            "text": "開館時間という語だけを削除する",
+            "explanation": "単一語の削除の記述はない。"
+          },
+          {
+            "text": "職員が答えることを禁止する",
+            "explanation": "職員への接続を用意している。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "questions that used familiar words in unexpected ways"
+      },
+      {
+        "prompt": "返答が確かでない場合の改良後の対応はどれか。",
+        "options": [
+          {
+            "text": "司書につなぐと申し出る",
+            "explanation": "offered to connect ... with a librarianに一致。"
+          },
+          {
+            "text": "同じ答えをより自信ありげに繰り返す",
+            "explanation": "rather thanで退ける対応。"
+          },
+          {
+            "text": "感情を理解したと告げる",
+            "explanation": "感情理解の主張はしていない。"
+          },
+          {
+            "text": "図書館は閉館したと答える",
+            "explanation": "閉館という固定返答を加えていない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "offered to connect the visitor with a librarian"
+      },
+      {
+        "prompt": "保存返答数以外に、改善を測ったものはどれか。",
+        "options": [
+          {
+            "text": "返答では不十分な状況を見分けられるか",
+            "explanation": "whether the system recognized ... inadequateが基準。"
+          },
+          {
+            "text": "ロボットの見た目が人に似たか",
+            "explanation": "外見の評価ではない。"
+          },
+          {
+            "text": "来訪者が孤独だと断定できるか",
+            "explanation": "本人の感情を診断する能力を主張しない。"
+          },
+          {
+            "text": "質問者が黙るまで答え続けられるか",
+            "explanation": "適切なときは人につなぐ。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "whether the system recognized situations in which those replies were inadequate"
+      }
+    ]
+  }
+]

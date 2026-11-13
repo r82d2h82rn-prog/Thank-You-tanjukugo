@@ -1,9 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import lowerEnriched from '../content/readings/enriched.json';
-import upperEnriched from '../content/readings/enriched-level3.json';
-import highestEnriched from '../content/readings/enriched-level4.json';
-const enriched=[...lowerEnriched,...upperEnriched,...highestEnriched];
+import {readingRevisions as enriched} from '../src/readingRevisions';
 import { readingCatalog as data } from '../src/readingCatalog';
 import checkpoint from '../analysis/reading_checkpoint.json';
 import { emptyState, decodeState, answer } from '../src/model';

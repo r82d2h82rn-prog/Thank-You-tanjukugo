@@ -169,6 +169,8 @@ def audit(root=ROOT, release=False):
         if level3_path.exists(): replacements.update({p['id']:p for p in read_json(level3_path)})
         level4_path=root/'content/readings/enriched-level4.json'
         if level4_path.exists(): replacements.update({p['id']:p for p in read_json(level4_path)})
+        for next_path in sorted((root/'content/readings').glob('enriched-level*-next5.json')):
+            replacements.update({p['id']:p for p in read_json(next_path)})
         for original in reading_drafts:
             replacement=replacements.get(original['id'])
             if replacement and replacement['questions'][:len(original['questions'])]!=original['questions']: issues.append({'id':original['id'],'error':'original question identity changed'})
