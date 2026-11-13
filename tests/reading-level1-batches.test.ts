@@ -31,7 +31,13 @@ for(const file of readdirSync('content/readings').filter(x=>/^enriched-level1-\d
     assert.equal(s.sourceEnglish.replace('[1]',answer),s.english);
     const syntax=p.syntax.find((x:any)=>x.id===s.syntaxId)!;
     assert.equal(syntax.sentence,s.english);assert.equal(syntax.translation,s.translation);
-    assert.ok(syntax.spans.some((x:any)=>x.role==='S'));assert.ok(syntax.spans.some((x:any)=>x.role==='V'));
+    if(syntax.structureType==='formula'){
+     assert.equal(p.id,'reading-l1-f05-04');assert.equal(s.english,'Best wishes, The camp team.');assert.ok(!syntax.spans.some((x:any)=>x.role==='V'));
+    }else{
+     if(syntax.implicitSubject){assert.equal(p.id,'reading-l1-f05-04');assert.ok(['We','you'].includes(syntax.implicitSubject));assert.ok(!syntax.spans.some((x:any)=>x.role==='S'));}
+     else assert.ok(syntax.spans.some((x:any)=>x.role==='S'));
+     assert.ok(syntax.spans.some((x:any)=>x.role==='V'));
+    }
     for(const span of syntax.spans)assert.equal(para.english.slice(span.start,span.end),span.text);
     const ids=new Set(syntax.spans.map((x:any)=>x.id));for(const edge of syntax.relations){assert.ok(ids.has(edge.from));assert.ok(ids.has(edge.to));}
    }

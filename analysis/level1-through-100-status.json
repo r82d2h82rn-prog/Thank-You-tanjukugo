@@ -1,9 +1,9 @@
 {
   "target": 100,
-  "sentenceComplete": 40,
+  "sentenceComplete": 45,
   "humanReviewed": 0,
   "allComplete": false,
-  "next": 41,
+  "next": 46,
   "passages": [
     {
       "number": 1,
@@ -289,36 +289,36 @@
       "number": 41,
       "id": "reading-l1-f05-01",
       "title": "返事を待つポスター",
-      "status": "not_enriched",
-      "alignedSentences": 0
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
     },
     {
       "number": 42,
       "id": "reading-l1-f05-02",
       "title": "二種類の展示札",
-      "status": "not_enriched",
-      "alignedSentences": 0
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 12
     },
     {
       "number": 43,
       "id": "reading-l1-f05-03",
       "title": "借りた傘の行方",
-      "status": "not_enriched",
-      "alignedSentences": 0
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 12
     },
     {
       "number": 44,
       "id": "reading-l1-f05-04",
       "title": "キャンプ場からのメール",
-      "status": "not_enriched",
-      "alignedSentences": 0
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 14
     },
     {
       "number": 45,
       "id": "reading-l1-f05-05",
       "title": "二台の録音機",
-      "status": "not_enriched",
-      "alignedSentences": 0
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 12
     },
     {
       "number": 46,

@@ -1,6 +1,6 @@
 {
   "baseCommit": "c50c06942d867856ceb8fec12dddd82d127861b5",
-  "scope": "220 saved readings; 70 enriched, not full completion",
+  "scope": "220 saved readings; 75 enriched, not full completion",
   "humanReviewed": 0,
   "levels": {
     "1": {
@@ -39,20 +39,21 @@
         "179": 2
       },
       "paragraphDistribution": {
-        "1": 50,
-        "3": 36,
-        "4": 14
+        "1": 45,
+        "3": 39,
+        "4": 15,
+        "5": 1
       },
       "questionDistribution": {
-        "3": 68,
-        "4": 16,
-        "5": 16
+        "3": 64,
+        "4": 18,
+        "5": 18
       },
       "sentences": 1260,
-      "fullyMatchedSyntax": 597,
-      "syntaxRate": 0.4738095238095238,
-      "explicitSentenceTranslations": 542,
-      "explicitSentenceTranslationRate": 0.4301587301587302
+      "fullyMatchedSyntax": 655,
+      "syntaxRate": 0.5198412698412699,
+      "explicitSentenceTranslations": 605,
+      "explicitSentenceTranslationRate": 0.4801587301587302
     },
     "2": {
       "readings": 100,
@@ -740,13 +741,13 @@
       "level": 1,
       "words": 161,
       "sourceWords": 161,
-      "paragraphs": 1,
-      "questions": 3,
+      "paragraphs": 3,
+      "questions": 4,
       "sentences": 13,
-      "syntaxCorrespondence": 1,
-      "explicitSentenceTranslations": 0,
+      "syntaxCorrespondence": 13,
+      "explicitSentenceTranslations": 13,
       "paragraphTranslations": 1,
-      "translationMeaningReview": "not sentence-aligned; semantic audit pending",
+      "translationMeaningReview": "AI checked; human pending",
       "revisionCandidate": false
     },
     {
@@ -754,13 +755,13 @@
       "level": 1,
       "words": 160,
       "sourceWords": 160,
-      "paragraphs": 1,
-      "questions": 3,
+      "paragraphs": 3,
+      "questions": 5,
       "sentences": 12,
-      "syntaxCorrespondence": 1,
-      "explicitSentenceTranslations": 0,
+      "syntaxCorrespondence": 12,
+      "explicitSentenceTranslations": 12,
       "paragraphTranslations": 1,
-      "translationMeaningReview": "not sentence-aligned; semantic audit pending",
+      "translationMeaningReview": "AI checked; human pending",
       "revisionCandidate": false
     },
     {
@@ -768,13 +769,13 @@
       "level": 1,
       "words": 157,
       "sourceWords": 157,
-      "paragraphs": 1,
+      "paragraphs": 3,
       "questions": 3,
       "sentences": 12,
-      "syntaxCorrespondence": 1,
-      "explicitSentenceTranslations": 0,
+      "syntaxCorrespondence": 12,
+      "explicitSentenceTranslations": 12,
       "paragraphTranslations": 1,
-      "translationMeaningReview": "not sentence-aligned; semantic audit pending",
+      "translationMeaningReview": "AI checked; human pending",
       "revisionCandidate": false
     },
     {
@@ -782,13 +783,13 @@
       "level": 1,
       "words": 165,
       "sourceWords": 165,
-      "paragraphs": 1,
-      "questions": 3,
+      "paragraphs": 5,
+      "questions": 5,
       "sentences": 14,
-      "syntaxCorrespondence": 1,
-      "explicitSentenceTranslations": 0,
+      "syntaxCorrespondence": 14,
+      "explicitSentenceTranslations": 14,
       "paragraphTranslations": 1,
-      "translationMeaningReview": "not sentence-aligned; semantic audit pending",
+      "translationMeaningReview": "AI checked; human pending",
       "revisionCandidate": false
     },
     {
@@ -796,13 +797,13 @@
       "level": 1,
       "words": 159,
       "sourceWords": 159,
-      "paragraphs": 1,
-      "questions": 3,
+      "paragraphs": 4,
+      "questions": 4,
       "sentences": 12,
-      "syntaxCorrespondence": 1,
-      "explicitSentenceTranslations": 0,
+      "syntaxCorrespondence": 12,
+      "explicitSentenceTranslations": 12,
       "paragraphTranslations": 1,
-      "translationMeaningReview": "not sentence-aligned; semantic audit pending",
+      "translationMeaningReview": "AI checked; human pending",
       "revisionCandidate": false
     },
     {

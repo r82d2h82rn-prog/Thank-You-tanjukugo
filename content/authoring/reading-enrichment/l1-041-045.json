@@ -1,0 +1,171 @@
+{
+  "reading-l1-f05-01": {
+    "starts": [
+      "Later that day,",
+      "The two students agreed"
+    ],
+    "links": [],
+    "questions": [
+      [
+        "二人が最終ポスターに取り入れたものは？",
+        [
+          "リリーの文字とダンの主人公の絵",
+          "リリーの文字だけ",
+          "ダンの聞き取りメモだけ",
+          "部長の写真だけ"
+        ],
+        [
+          "combined A with Bで双方の貢献を示す。",
+          "ダンの絵も含む。",
+          "メモをそのまま載せたとはない。",
+          "部長の写真は述べない。"
+        ],
+        "They combined Lily's clear lettering with Dan's picture of the main character."
+      ]
+    ]
+  },
+  "reading-l1-f05-02": {
+    "starts": [
+      "They added short cards",
+      "The students kept both kinds"
+    ],
+    "links": [
+      [
+        "explaining its design",
+        "a long card"
+      ],
+      [
+        "that visitors could try",
+        "a simple action"
+      ],
+      [
+        "that gave visitors a reason to explore those ideas for themselves",
+        "a first step"
+      ]
+    ],
+    "questions": [
+      [
+        "短い札に書いた問いの例は？",
+        [
+          "最も多くのおもちゃの車を支えられる橋はどれか",
+          "橋を全て壊す方法は何か",
+          "来場者の成績は何点か",
+          "模型を作った人の住所はどこか"
+        ],
+        [
+          "Which bridge can carry ...が問いの例。",
+          "破壊方法は尋ねない。",
+          "成績の問いではない。",
+          "住所の問いではない。"
+        ],
+        "Which bridge can carry the most toy cars?"
+      ],
+      [
+        "生徒たちが展示の重要な考えをどう扱ったか。",
+        [
+          "重要な考えは残し、探究への入口を加えた",
+          "科学の重要な考えを全て削った",
+          "実験を禁止し文章だけにした",
+          "短い札をやめ長い札だけにした"
+        ],
+        [
+          "not ... removing important ideasとcreated a first stepの組合せ。",
+          "削除による単純化ではないと明記。",
+          "子供は模型を試した。",
+          "両方の札を残している。"
+        ],
+        "They had not made the science easier by removing important ideas."
+      ]
+    ]
+  },
+  "reading-l1-f05-03": {
+    "starts": [
+      "Ken attached a bright label",
+      "They made the service easier"
+    ],
+    "links": [],
+    "questions": []
+  },
+  "reading-l1-f05-04": {
+    "starts": [
+      "We will meet",
+      "Bring a packed lunch",
+      "The weather in the hills",
+      "We have planned outdoor games"
+    ],
+    "links": [],
+    "questions": [
+      [
+        "バスの出発予定時刻は？",
+        [
+          "土曜日の八時十五分",
+          "土曜日の八時ちょうど",
+          "日曜日の八時十五分",
+          "土曜日の夕方八時"
+        ],
+        [
+          "It will leave at eight fifteen。集合は土曜朝。",
+          "八時は集合時刻。",
+          "出発は土曜の集合後。",
+          "朝と示されている。"
+        ],
+        "It will leave at eight fifteen"
+      ],
+      [
+        "朝が晴れている場合の雨具の扱いは？",
+        [
+          "かばんに入れておく",
+          "必ず家に置いていく",
+          "雨具の代わりに鍋を持つ",
+          "バスが出てから購入する"
+        ],
+        [
+          "Even if ... keep a rain jacketとある。",
+          "晴天でも持つという指示。",
+          "鍋は貸し出すので不要。",
+          "購入の指示はない。"
+        ],
+        "Even if the morning is sunny, keep a rain jacket in your bag."
+      ]
+    ]
+  },
+  "reading-l1-f05-05": {
+    "starts": [
+      "Before leaving,",
+      "At home,",
+      "At the event,"
+    ],
+    "links": [
+      [
+        "that carried fruit from nearby farms",
+        "trains"
+      ],
+      [
+        "she wanted to use",
+        "the parts"
+      ],
+      [
+        "who had actually worked there",
+        "someone"
+      ]
+    ],
+    "questions": [
+      [
+        "携帯電話の録音はどのくらいで止まったか。",
+        [
+          "十分後",
+          "一時間後",
+          "一日後",
+          "全く録音できなかった"
+        ],
+        [
+          "after ten minutesが直接の根拠。",
+          "一時間は祖父の話の長さ。",
+          "一日ではない。",
+          "最初の十分は録音していた。"
+        ],
+        "The phone had stopped after ten minutes"
+      ]
+    ]
+  }
+}
