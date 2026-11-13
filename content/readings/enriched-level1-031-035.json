@@ -1,0 +1,5922 @@
+[
+  {
+    "id": "reading-l1-f04-01",
+    "level": 1,
+    "format": 4,
+    "title": "川辺で気づいたこと",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Every morning, Ben crossed a bridge on his way to school. He usually looked at his phone while walking. One Tuesday, his phone battery was empty, so he watched the river instead. A small white bird stood near the water, and a worker was repairing a sign beside the path. Ben had never noticed either of them before. That afternoon, his art teacher asked students to draw something from their daily journey. Ben drew the bird, the bridge, and the worker's bright hat. His classmates were surprised because they used the same bridge but remembered only the busy road. For the next week, Ben put his phone in his bag during the walk. He saw how the river changed after rain and where flowers grew between stones. He still used his phone at other times. However, he learned that an ordinary journey could offer new things when he paid attention to the world around him.",
+        "translation": "毎朝、ベンは登校途中に橋を渡った。たいてい歩きながら携帯電話を見ていた。ある火曜日、携帯の電池が切れたので、代わりに川を見た。小さな白い鳥が水辺に立ち、作業員が道の横の標識を直していた。ベンは、それまでどちらにも気づいたことがなかった。その午後、美術の先生は日々の道中で見たものを描くよう生徒に頼んだ。ベンは鳥と橋、作業員の明るい色の帽子を描いた。級友は同じ橋を使っていたのに混んだ道路しか覚えておらず、驚いた。次の一週間、ベンは歩く間、携帯をかばんにしまった。雨の後に川がどう変わるかや、石の間のどこに花が育つかを見た。他の時間には、引き続き携帯を使った。しかし身の回りに注意を向ければ、ありふれた道中にも新たな発見があると学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な題名は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "いつもの道で新しい発見",
+            "explanation": "注意を向けて日常の景色を発見する話。"
+          },
+          {
+            "id": "b",
+            "text": "川を渡る新しい鉄道",
+            "explanation": "根拠は「an ordinary journey could offer new things」。川を渡る新しい鉄道という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "電話修理の仕事",
+            "explanation": "根拠は「an ordinary journey could offer new things」。電話修理の仕事という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "鳥を飼うための準備",
+            "explanation": "根拠は「an ordinary journey could offer new things」。鳥を飼うための準備という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "注意を向けて日常の景色を発見する話。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "an ordinary journey could offer new things"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "川を見るきっかけは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "美術室の停電",
+            "explanation": "根拠は「his phone battery was empty」。美術室の停電という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "橋の閉鎖",
+            "explanation": "根拠は「his phone battery was empty」。橋の閉鎖という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "鳥の写真コンテスト",
+            "explanation": "根拠は「his phone battery was empty」。鳥の写真コンテストという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "スマホの電池切れ",
+            "explanation": "電池が空になったため。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "電池が空になったため。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "his phone battery was empty"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "翌週、ベンがしたことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "橋を壊した",
+            "explanation": "根拠は「Ben put his phone in his bag during the walk」。橋を壊したという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "花を全部持ち帰った",
+            "explanation": "根拠は「Ben put his phone in his bag during the walk」。花を全部持ち帰ったという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "歩く間スマホをしまった",
+            "explanation": "歩いている時間に周囲を見た。"
+          },
+          {
+            "id": "d",
+            "text": "通学をやめた",
+            "explanation": "根拠は「Ben put his phone in his bag during the walk」。通学をやめたという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "歩いている時間に周囲を見た。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Ben put his phone in his bag during the walk"
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "美術の授業でベンが描いたものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "雨でなくなった橋",
+            "explanation": "橋がなくなったとは述べていない。"
+          },
+          {
+            "id": "b",
+            "text": "鳥と橋と作業員の明るい帽子",
+            "explanation": "drewの後に三つの題材が並ぶ。"
+          },
+          {
+            "id": "c",
+            "text": "携帯の修理方法だけ",
+            "explanation": "携帯の修理図ではない。"
+          },
+          {
+            "id": "d",
+            "text": "初めて見た別の学校",
+            "explanation": "自分の毎日の道中を描いた。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "drewの後に三つの題材が並ぶ。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Ben drew the bird, the bridge, and the worker's bright hat."
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f04-01:p1-s001",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "Every morning, Ben crossed a bridge on his way to school.",
+        "start": 0,
+        "end": 57,
+        "translation": "毎朝、ベンは登校途中に橋を渡った。",
+        "explanation": "crossは他動詞。on one's way toは〜へ行く途中に。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "Every morning",
+            "start": 0,
+            "end": 13
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "Ben",
+            "start": 15,
+            "end": 18
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "crossed",
+            "start": 19,
+            "end": 26
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "a bridge",
+            "start": 27,
+            "end": 35
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "on his way to school",
+            "start": 36,
+            "end": 56
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Ben / V: crossed / O: a bridge",
+        "grammarPoints": [
+          "crossは他動詞。on one's way toは〜へ行く途中に。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p1-s002",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "He usually looked at his phone while walking.",
+        "start": 58,
+        "end": 103,
+        "translation": "たいてい歩きながら携帯電話を見ていた。",
+        "explanation": "while walkingはwhile he was walkingの省略。歩いているのはHe。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "He",
+            "start": 58,
+            "end": 60
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "looked",
+            "start": 69,
+            "end": 75
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "usually",
+            "start": 61,
+            "end": 68
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "at his phone",
+            "start": 76,
+            "end": 88
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "while walking",
+            "start": 89,
+            "end": 102
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: He / V: looked",
+        "grammarPoints": [
+          "while walkingはwhile he was walkingの省略。歩いているのはHe。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p1-s003",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "One Tuesday, his phone battery was empty, so he watched the river instead.",
+        "start": 104,
+        "end": 178,
+        "translation": "ある火曜日、携帯の電池が切れたので、代わりに川を見た。",
+        "explanation": "soが理由から結果を結ぶ。emptyは電池の残量がない状態。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "One Tuesday",
+            "start": 104,
+            "end": 115
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "his phone battery",
+            "start": 117,
+            "end": 134
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "was",
+            "start": 135,
+            "end": 138
+          },
+          {
+            "id": "n4",
+            "role": "C",
+            "text": "empty",
+            "start": 139,
+            "end": 144
+          },
+          {
+            "id": "n5",
+            "role": "S",
+            "text": "he",
+            "start": 149,
+            "end": 151
+          },
+          {
+            "id": "n6",
+            "role": "V",
+            "text": "watched",
+            "start": 152,
+            "end": 159
+          },
+          {
+            "id": "n7",
+            "role": "O",
+            "text": "the river",
+            "start": 160,
+            "end": 169
+          },
+          {
+            "id": "n8",
+            "role": "M",
+            "text": "instead",
+            "start": 170,
+            "end": 177
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: his phone battery / V: was / C: empty / S: he / V: watched / O: the river",
+        "grammarPoints": [
+          "soが理由から結果を結ぶ。emptyは電池の残量がない状態。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p2-s001",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "A small white bird stood near the water, and a worker was repairing a sign beside the path.",
+        "start": 0,
+        "end": 91,
+        "translation": "小さな白い鳥が水辺に立ち、作業員が道の横の標識を直していた。",
+        "explanation": "stoodは自動詞。後半は過去進行形で同時の光景を描く。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A small white bird",
+            "start": 0,
+            "end": 18
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "stood",
+            "start": 19,
+            "end": 24
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "near the water",
+            "start": 25,
+            "end": 39
+          },
+          {
+            "id": "n4",
+            "role": "S",
+            "text": "a worker",
+            "start": 45,
+            "end": 53
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "was repairing",
+            "start": 54,
+            "end": 67
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "a sign",
+            "start": 68,
+            "end": 74
+          },
+          {
+            "id": "n7",
+            "role": "M",
+            "text": "beside the path",
+            "start": 75,
+            "end": 90
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: A small white bird / V: stood / S: a worker / V: was repairing / O: a sign",
+        "grammarPoints": [
+          "stoodは自動詞。後半は過去進行形で同時の光景を描く。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p2-s002",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "Ben had never noticed either of them before.",
+        "start": 92,
+        "end": 136,
+        "translation": "ベンは、それまでどちらにも気づいたことがなかった。",
+        "explanation": "neverとeitherで二つとも未認識。themは鳥と作業員。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Ben",
+            "start": 92,
+            "end": 95
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had never noticed",
+            "start": 96,
+            "end": 113
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "either of them",
+            "start": 114,
+            "end": 128
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "before",
+            "start": 129,
+            "end": 135
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Ben / V: had never noticed / O: either of them",
+        "grammarPoints": [
+          "neverとeitherで二つとも未認識。themは鳥と作業員。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p3-s001",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "That afternoon, his art teacher asked students to draw something from their daily journey.",
+        "start": 0,
+        "end": 90,
+        "translation": "その午後、美術の先生は日々の道中で見たものを描くよう生徒に頼んだ。",
+        "explanation": "ask＋人＋to不定詞。from以下が題材の出所。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "That afternoon",
+            "start": 0,
+            "end": 14
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "his art teacher",
+            "start": 16,
+            "end": 31
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "asked",
+            "start": 32,
+            "end": 37
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "students",
+            "start": 38,
+            "end": 46
+          },
+          {
+            "id": "n5",
+            "role": "C",
+            "text": "to draw something from their daily journey",
+            "start": 47,
+            "end": 89
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: his art teacher / V: asked / O: students / C: to draw something from their daily journey",
+        "grammarPoints": [
+          "ask＋人＋to不定詞。from以下が題材の出所。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p3-s002",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "Ben drew the bird, the bridge, and the worker's bright hat.",
+        "start": 91,
+        "end": 150,
+        "translation": "ベンは鳥と橋、作業員の明るい色の帽子を描いた。",
+        "explanation": "三項並列がdrawのO。brightはここでは色の鮮やかさ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Ben",
+            "start": 91,
+            "end": 94
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "drew",
+            "start": 95,
+            "end": 99
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the bird, the bridge, and the worker's bright hat",
+            "start": 100,
+            "end": 149
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Ben / V: drew / O: the bird, the bridge, and the worker's bright hat",
+        "grammarPoints": [
+          "三項並列がdrawのO。brightはここでは色の鮮やかさ。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p3-s003",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "His classmates were surprised because they used the same bridge but remembered only the busy road.",
+        "start": 151,
+        "end": 249,
+        "translation": "級友は同じ橋を使っていたのに混んだ道路しか覚えておらず、驚いた。",
+        "explanation": "because節が驚きの理由。その内部はusedとrememberedの並列。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "His classmates",
+            "start": 151,
+            "end": 165
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "were",
+            "start": 166,
+            "end": 170
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "surprised",
+            "start": 171,
+            "end": 180
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "because they used the same bridge but remembered only the busy road",
+            "start": 181,
+            "end": 248
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: His classmates / V: were / C: surprised",
+        "grammarPoints": [
+          "because節が驚きの理由。その内部はusedとrememberedの並列。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p4-s001",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s001",
+        "sentence": "For the next week, Ben put his phone in his bag during the walk.",
+        "start": 0,
+        "end": 64,
+        "translation": "次の一週間、ベンは歩く間、携帯をかばんにしまった。",
+        "explanation": "put＋物＋場所。forは継続する期間。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "For the next week",
+            "start": 0,
+            "end": 17
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "Ben",
+            "start": 19,
+            "end": 22
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "put",
+            "start": 23,
+            "end": 26
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "his phone",
+            "start": 27,
+            "end": 36
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "in his bag",
+            "start": 37,
+            "end": 47
+          },
+          {
+            "id": "n6",
+            "role": "M",
+            "text": "during the walk",
+            "start": 48,
+            "end": 63
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n6",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Ben / V: put / O: his phone",
+        "grammarPoints": [
+          "put＋物＋場所。forは継続する期間。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p4-s002",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s002",
+        "sentence": "He saw how the river changed after rain and where flowers grew between stones.",
+        "start": 65,
+        "end": 143,
+        "translation": "雨の後に川がどう変わるかや、石の間のどこに花が育つかを見た。",
+        "explanation": "how節とwhere節がsawのOとして並列。観察した変化と場所。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "He",
+            "start": 65,
+            "end": 67
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "saw",
+            "start": 68,
+            "end": 71
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "how the river changed after rain and where flowers grew between stones",
+            "start": 72,
+            "end": 142
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: He / V: saw / O: how the river changed after rain and where flowers grew between stones",
+        "grammarPoints": [
+          "how節とwhere節がsawのOとして並列。観察した変化と場所。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p4-s003",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s003",
+        "sentence": "He still used his phone at other times.",
+        "start": 144,
+        "end": 183,
+        "translation": "他の時間には、引き続き携帯を使った。",
+        "explanation": "stillで利用は継続。歩く時間の習慣だけが変わる。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "He",
+            "start": 144,
+            "end": 146
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "used",
+            "start": 153,
+            "end": 157
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "his phone",
+            "start": 158,
+            "end": 167
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "still",
+            "start": 147,
+            "end": 152
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "at other times",
+            "start": 168,
+            "end": 182
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: He / V: used / O: his phone",
+        "grammarPoints": [
+          "stillで利用は継続。歩く時間の習慣だけが変わる。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-01:p4-s004",
+        "passageId": "reading-l1-f04-01",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s004",
+        "sentence": "However, he learned that an ordinary journey could offer new things when he paid attention to the world around him.",
+        "start": 184,
+        "end": 299,
+        "translation": "しかし身の回りに注意を向ければ、ありふれた道中にも新たな発見があると学んだ。",
+        "explanation": "that節内のwhenは発見が成立する状況。pay attention toは注意を向ける。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "However",
+            "start": 184,
+            "end": 191
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "he",
+            "start": 193,
+            "end": 195
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "learned",
+            "start": 196,
+            "end": 203
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "that an ordinary journey could offer new things when he paid attention to the world around him",
+            "start": 204,
+            "end": 298
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: he / V: learned / O: that an ordinary journey could offer new things when he paid attention to the world around him",
+        "grammarPoints": [
+          "that節内のwhenは発見が成立する状況。pay attention toは注意を向ける。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      }
+    ],
+    "wordCount": 155,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "ordinary",
+        "meaning": "普通の"
+      },
+      {
+        "english": "pay attention to",
+        "meaning": "〜に注意する"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Ben drew the bird, the bridge, and the worker's bright hat.",
+        "start": 407,
+        "end": 466,
+        "translation": "ベンは鳥、橋、作業員の鮮やかな帽子を描いた。",
+        "explanation": "drewはdrawの過去形。三つの目的語をandで並べる。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Ben",
+            "start": 407,
+            "end": 410
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "drew",
+            "start": 411,
+            "end": 415
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "Every morning, Ben crossed a bridge on his way to school.",
+        "translation": "毎朝、ベンは登校途中に橋を渡った。",
+        "start": 0,
+        "end": 57,
+        "sourceEnglish": "Every morning, Ben crossed a bridge on his way to school.",
+        "sourceStart": 0,
+        "sourceEnd": 57,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "He usually looked at his phone while walking.",
+        "translation": "たいてい歩きながら携帯電話を見ていた。",
+        "start": 58,
+        "end": 103,
+        "sourceEnglish": "He usually looked at his phone while walking.",
+        "sourceStart": 58,
+        "sourceEnd": 103,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "One Tuesday, his phone battery was empty, so he watched the river instead.",
+        "translation": "ある火曜日、携帯の電池が切れたので、代わりに川を見た。",
+        "start": 104,
+        "end": 178,
+        "sourceEnglish": "One Tuesday, his phone battery was empty, so he watched the river instead.",
+        "sourceStart": 104,
+        "sourceEnd": 178,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p1-s003"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "A small white bird stood near the water, and a worker was repairing a sign beside the path.",
+        "translation": "小さな白い鳥が水辺に立ち、作業員が道の横の標識を直していた。",
+        "start": 0,
+        "end": 91,
+        "sourceEnglish": "A small white bird stood near the water, and a worker was repairing a sign beside the path.",
+        "sourceStart": 179,
+        "sourceEnd": 270,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "Ben had never noticed either of them before.",
+        "translation": "ベンは、それまでどちらにも気づいたことがなかった。",
+        "start": 92,
+        "end": 136,
+        "sourceEnglish": "Ben had never noticed either of them before.",
+        "sourceStart": 271,
+        "sourceEnd": 315,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p2-s002"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "That afternoon, his art teacher asked students to draw something from their daily journey.",
+        "translation": "その午後、美術の先生は日々の道中で見たものを描くよう生徒に頼んだ。",
+        "start": 0,
+        "end": 90,
+        "sourceEnglish": "That afternoon, his art teacher asked students to draw something from their daily journey.",
+        "sourceStart": 316,
+        "sourceEnd": 406,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "Ben drew the bird, the bridge, and the worker's bright hat.",
+        "translation": "ベンは鳥と橋、作業員の明るい色の帽子を描いた。",
+        "start": 91,
+        "end": 150,
+        "sourceEnglish": "Ben drew the bird, the bridge, and the worker's bright hat.",
+        "sourceStart": 407,
+        "sourceEnd": 466,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "His classmates were surprised because they used the same bridge but remembered only the busy road.",
+        "translation": "級友は同じ橋を使っていたのに混んだ道路しか覚えておらず、驚いた。",
+        "start": 151,
+        "end": 249,
+        "sourceEnglish": "His classmates were surprised because they used the same bridge but remembered only the busy road.",
+        "sourceStart": 467,
+        "sourceEnd": 565,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p3-s003"
+      },
+      {
+        "id": "p4-s001",
+        "paragraphId": "p4",
+        "english": "For the next week, Ben put his phone in his bag during the walk.",
+        "translation": "次の一週間、ベンは歩く間、携帯をかばんにしまった。",
+        "start": 0,
+        "end": 64,
+        "sourceEnglish": "For the next week, Ben put his phone in his bag during the walk.",
+        "sourceStart": 566,
+        "sourceEnd": 630,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p4-s001"
+      },
+      {
+        "id": "p4-s002",
+        "paragraphId": "p4",
+        "english": "He saw how the river changed after rain and where flowers grew between stones.",
+        "translation": "雨の後に川がどう変わるかや、石の間のどこに花が育つかを見た。",
+        "start": 65,
+        "end": 143,
+        "sourceEnglish": "He saw how the river changed after rain and where flowers grew between stones.",
+        "sourceStart": 631,
+        "sourceEnd": 709,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p4-s002"
+      },
+      {
+        "id": "p4-s003",
+        "paragraphId": "p4",
+        "english": "He still used his phone at other times.",
+        "translation": "他の時間には、引き続き携帯を使った。",
+        "start": 144,
+        "end": 183,
+        "sourceEnglish": "He still used his phone at other times.",
+        "sourceStart": 710,
+        "sourceEnd": 749,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p4-s003"
+      },
+      {
+        "id": "p4-s004",
+        "paragraphId": "p4",
+        "english": "However, he learned that an ordinary journey could offer new things when he paid attention to the world around him.",
+        "translation": "しかし身の回りに注意を向ければ、ありふれた道中にも新たな発見があると学んだ。",
+        "start": 184,
+        "end": 299,
+        "sourceEnglish": "However, he learned that an ordinary journey could offer new things when he paid attention to the world around him.",
+        "sourceStart": 750,
+        "sourceEnd": 865,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-01:p4-s004"
+      }
+    ],
+    "exerciseParagraphs": [
+      {
+        "id": "p1",
+        "english": "Every morning, Ben crossed a bridge on his way to school. He usually looked at his phone while walking. One Tuesday, his phone battery was empty, so he watched the river instead.",
+        "translation": "毎朝、ベンは登校途中に橋を渡った。たいてい歩きながら携帯電話を見ていた。ある火曜日、携帯の電池が切れたので、代わりに川を見た。"
+      },
+      {
+        "id": "p2",
+        "english": "A small white bird stood near the water, and a worker was repairing a sign beside the path. Ben had never noticed either of them before.",
+        "translation": "小さな白い鳥が水辺に立ち、作業員が道の横の標識を直していた。ベンは、それまでどちらにも気づいたことがなかった。"
+      },
+      {
+        "id": "p3",
+        "english": "That afternoon, his art teacher asked students to draw something from their daily journey. Ben drew the bird, the bridge, and the worker's bright hat. His classmates were surprised because they used the same bridge but remembered only the busy road.",
+        "translation": "その午後、美術の先生は日々の道中で見たものを描くよう生徒に頼んだ。ベンは鳥と橋、作業員の明るい色の帽子を描いた。級友は同じ橋を使っていたのに混んだ道路しか覚えておらず、驚いた。"
+      },
+      {
+        "id": "p4",
+        "english": "For the next week, Ben put his phone in his bag during the walk. He saw how the river changed after rain and where flowers grew between stones. He still used his phone at other times. However, he learned that an ordinary journey could offer new things when he paid attention to the world around him.",
+        "translation": "次の一週間、ベンは歩く間、携帯をかばんにしまった。雨の後に川がどう変わるかや、石の間のどこに花が育つかを見た。他の時間には、引き続き携帯を使った。しかし身の回りに注意を向ければ、ありふれた道中にも新たな発見があると学んだ。"
+      }
+    ],
+    "paragraphMappings": [
+      {
+        "paragraphId": "p1",
+        "sourceParagraphId": "p1",
+        "start": 0,
+        "end": 178
+      },
+      {
+        "paragraphId": "p2",
+        "sourceParagraphId": "p1",
+        "start": 179,
+        "end": 315
+      },
+      {
+        "paragraphId": "p3",
+        "sourceParagraphId": "p1",
+        "start": 316,
+        "end": 565
+      },
+      {
+        "paragraphId": "p4",
+        "sourceParagraphId": "p1",
+        "start": 566,
+        "end": 865
+      }
+    ],
+    "reviewParagraphs": [
+      {
+        "id": "p1",
+        "english": "Every morning, Ben crossed a bridge on his way to school. He usually looked at his phone while walking. One Tuesday, his phone battery was empty, so he watched the river instead.",
+        "translation": "毎朝、ベンは登校途中に橋を渡った。たいてい歩きながら携帯電話を見ていた。ある火曜日、携帯の電池が切れたので、代わりに川を見た。"
+      },
+      {
+        "id": "p2",
+        "english": "A small white bird stood near the water, and a worker was repairing a sign beside the path. Ben had never noticed either of them before.",
+        "translation": "小さな白い鳥が水辺に立ち、作業員が道の横の標識を直していた。ベンは、それまでどちらにも気づいたことがなかった。"
+      },
+      {
+        "id": "p3",
+        "english": "That afternoon, his art teacher asked students to draw something from their daily journey. Ben drew the bird, the bridge, and the worker's bright hat. His classmates were surprised because they used the same bridge but remembered only the busy road.",
+        "translation": "その午後、美術の先生は日々の道中で見たものを描くよう生徒に頼んだ。ベンは鳥と橋、作業員の明るい色の帽子を描いた。級友は同じ橋を使っていたのに混んだ道路しか覚えておらず、驚いた。"
+      },
+      {
+        "id": "p4",
+        "english": "For the next week, Ben put his phone in his bag during the walk. He saw how the river changed after rain and where flowers grew between stones. He still used his phone at other times. However, he learned that an ordinary journey could offer new things when he paid attention to the world around him.",
+        "translation": "次の一週間、ベンは歩く間、携帯をかばんにしまった。雨の後に川がどう変わるかや、石の間のどこに花が育つかを見た。他の時間には、引き続き携帯を使った。しかし身の回りに注意を向ければ、ありふれた道中にも新たな発見があると学んだ。"
+      }
+    ],
+    "syntaxOffsetBasis": "reviewParagraphs",
+    "reviewEvidence": {
+      "q1": {
+        "paragraphId": "p4",
+        "quote": "an ordinary journey could offer new things"
+      },
+      "q2": {
+        "paragraphId": "p1",
+        "quote": "his phone battery was empty"
+      },
+      "q3": {
+        "paragraphId": "p4",
+        "quote": "Ben put his phone in his bag during the walk"
+      },
+      "q4": {
+        "paragraphId": "p3",
+        "quote": "Ben drew the bird, the bridge, and the worker's bright hat."
+      }
+    },
+    "reviewWordCount": 155,
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f04-02",
+    "level": 1,
+    "format": 4,
+    "title": "番号札の裏側",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A bakery near Emma's house became very popular after a local television program introduced it. On Saturdays, customers waited along a narrow street. People who needed to reach other shops found it difficult to pass. The baker wanted to serve everyone, but asking people to stand in a different line did not solve the problem. Emma suggested giving each customer a numbered card. A board by the door showed which numbers could enter. Customers could wait in the nearby square or visit another shop until their turn came. On the back of each card, Emma drew a small map of the square and marked a place to sit. The baker tested the system for two Saturdays. The street became easier to walk through, and several customers said they had discovered shops they had never visited. The bread did not change, but the way people waited improved the whole shopping area. Emma was pleased that her simple idea helped more than one business.",
+        "translation": "地元のテレビ番組で紹介され、エマの家の近くのパン屋はとても人気になった。土曜日には客が狭い通りに沿って待った。他の店へ行く必要のある人たちは、通り抜けにくいと感じた。店主は全員に販売したかったが、別の列へ並ばせるだけでは解決しなかった。エマは、客一人ずつに番号札を渡すことを提案した。入口の掲示板は、どの番号の人が入れるか示した。客は順番まで近くの広場で待ったり、別の店を訪ねたりできた。札の裏に、エマは広場の小さな地図を描き、座れる場所を示した。店主は二回の土曜日にその仕組みを試した。通りは歩きやすくなり、何人かの客は初めて行く店を発見したと言った。パンは変わらなかったが、待ち方が商店街全体をよくした。エマは、自分の簡単な案が複数の店に役立ちうれしかった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な題名は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "パンの材料を探す旅",
+            "explanation": "根拠は「the way people waited improved the whole shopping area」。パンの材料を探す旅という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "閉店した商店街",
+            "explanation": "根拠は「the way people waited improved the whole shopping area」。閉店した商店街という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "テレビ局での職業体験",
+            "explanation": "根拠は「the way people waited improved the whole shopping area」。テレビ局での職業体験という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "待ち方を変えて通りを快適に",
+            "explanation": "番号札で待つ仕組みと周辺への効果が主題。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "番号札で待つ仕組みと周辺への効果が主題。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "the way people waited improved the whole shopping area"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "最初の問題は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "広場が遠すぎる",
+            "explanation": "根拠は「found it difficult to pass」。広場が遠すぎるという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "すべての店が休み",
+            "explanation": "根拠は「found it difficult to pass」。すべての店が休みという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "列で道を通りにくい",
+            "explanation": "他の店へ通るのが難しかった。"
+          },
+          {
+            "id": "d",
+            "text": "パンに番号がない",
+            "explanation": "根拠は「found it difficult to pass」。パンに番号がないという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "他の店へ通るのが難しかった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "found it difficult to pass"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "札の裏には何があったか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "客全員の住所",
+            "explanation": "根拠は「a small map of the square and marked a place to sit」。客全員の住所という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "座れる場所も示す地図",
+            "explanation": "広場と座れる場所を図示した。"
+          },
+          {
+            "id": "c",
+            "text": "パンの全材料",
+            "explanation": "根拠は「a small map of the square and marked a place to sit」。パンの全材料という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "テレビの時刻表",
+            "explanation": "根拠は「a small map of the square and marked a place to sit」。テレビの時刻表という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "広場と座れる場所を図示した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "a small map of the square and marked a place to sit"
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "番号札があれば、客は何ができたか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "近くの広場で待つか他店を訪ねる",
+            "explanation": "could waitとvisitが順番までの選択肢を示す。"
+          },
+          {
+            "id": "b",
+            "text": "順番を無視していつでも入る",
+            "explanation": "入れる番号は掲示板で示した。"
+          },
+          {
+            "id": "c",
+            "text": "パンを無料で受け取る",
+            "explanation": "料金の変更ではない。"
+          },
+          {
+            "id": "d",
+            "text": "全ての店を閉鎖する",
+            "explanation": "他店を訪ねられる仕組み。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "could waitとvisitが順番までの選択肢を示す。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Customers could wait in the nearby square or visit another shop"
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "試行後に他の店にも利点があったと分かる記述は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "パンの材料を全て変えた",
+            "explanation": "bread did not changeとある。"
+          },
+          {
+            "id": "b",
+            "text": "地元のテレビ番組が終了した",
+            "explanation": "番組終了の記述はない。"
+          },
+          {
+            "id": "c",
+            "text": "広場が消えた",
+            "explanation": "広場は待機場所として利用した。"
+          },
+          {
+            "id": "d",
+            "text": "初めて訪れる店を発見した客がいた",
+            "explanation": "customers ... discovered shopsという観察が根拠。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "customers ... discovered shopsという観察が根拠。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "they had discovered shops they had never visited"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f04-02:p1-s001",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "A bakery near Emma's house became very popular after a local television program introduced it.",
+        "start": 0,
+        "end": 94,
+        "translation": "地元のテレビ番組で紹介され、エマの家の近くのパン屋はとても人気になった。",
+        "explanation": "after節が時の経緯。itはパン屋。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A bakery near Emma's house",
+            "start": 0,
+            "end": 26
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "became",
+            "start": 27,
+            "end": 33
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "very popular",
+            "start": 34,
+            "end": 46
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "after a local television program introduced it",
+            "start": 47,
+            "end": 93
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: A bakery near Emma's house / V: became / C: very popular",
+        "grammarPoints": [
+          "after節が時の経緯。itはパン屋。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p1-s002",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "On Saturdays, customers waited along a narrow street.",
+        "start": 95,
+        "end": 148,
+        "translation": "土曜日には客が狭い通りに沿って待った。",
+        "explanation": "waitは自動詞。alongが列の場所を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "On Saturdays",
+            "start": 95,
+            "end": 107
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "customers",
+            "start": 109,
+            "end": 118
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "waited",
+            "start": 119,
+            "end": 125
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "along a narrow street",
+            "start": 126,
+            "end": 147
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: customers / V: waited",
+        "grammarPoints": [
+          "waitは自動詞。alongが列の場所を示す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p1-s003",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "People who needed to reach other shops found it difficult to pass.",
+        "start": 149,
+        "end": 215,
+        "translation": "他の店へ行く必要のある人たちは、通り抜けにくいと感じた。",
+        "explanation": "find it＋形容詞＋to不定詞の形式目的語。who節がPeopleを限定。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "People who needed to reach other shops",
+            "start": 149,
+            "end": 187
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "found",
+            "start": 188,
+            "end": 193
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "it",
+            "start": 194,
+            "end": 196
+          },
+          {
+            "id": "n4",
+            "role": "C",
+            "text": "difficult",
+            "start": 197,
+            "end": 206
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "to pass",
+            "start": 207,
+            "end": 214
+          },
+          {
+            "id": "n6",
+            "role": "clause",
+            "text": "who needed to reach other shops",
+            "start": 156,
+            "end": 187
+          },
+          {
+            "id": "n7",
+            "role": "phrase",
+            "text": "People",
+            "start": 149,
+            "end": 155,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n5",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n6",
+            "to": "n7",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: People who needed to reach other shops / V: found / O: it / C: difficult",
+        "grammarPoints": [
+          "find it＋形容詞＋to不定詞の形式目的語。who節がPeopleを限定。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p1-s004",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "The baker wanted to serve everyone, but asking people to stand in a different line did not solve the problem.",
+        "start": 216,
+        "end": 325,
+        "translation": "店主は全員に販売したかったが、別の列へ並ばせるだけでは解決しなかった。",
+        "explanation": "butの後のSはasking以下の動名詞句。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The baker",
+            "start": 216,
+            "end": 225
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "wanted",
+            "start": 226,
+            "end": 232
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "to serve everyone",
+            "start": 233,
+            "end": 250
+          },
+          {
+            "id": "n4",
+            "role": "S",
+            "text": "asking people to stand in a different line",
+            "start": 256,
+            "end": 298
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "did not solve",
+            "start": 299,
+            "end": 312
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "the problem",
+            "start": 313,
+            "end": 324
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The baker / V: wanted / O: to serve everyone / S: asking people to stand in a different line / V: did not solve / O: the problem",
+        "grammarPoints": [
+          "butの後のSはasking以下の動名詞句。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p2-s001",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "Emma suggested giving each customer a numbered card.",
+        "start": 0,
+        "end": 52,
+        "translation": "エマは、客一人ずつに番号札を渡すことを提案した。",
+        "explanation": "suggest＋動名詞、内部はgive＋人＋物。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Emma",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "suggested",
+            "start": 5,
+            "end": 14
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "giving each customer a numbered card",
+            "start": 15,
+            "end": 51
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Emma / V: suggested / O: giving each customer a numbered card",
+        "grammarPoints": [
+          "suggest＋動名詞、内部はgive＋人＋物。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p2-s002",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "A board by the door showed which numbers could enter.",
+        "start": 53,
+        "end": 106,
+        "translation": "入口の掲示板は、どの番号の人が入れるか示した。",
+        "explanation": "which numbers全体が間接疑問節のS。番号はその札の持ち主を指す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A board by the door",
+            "start": 53,
+            "end": 72
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "showed",
+            "start": 73,
+            "end": 79
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "which numbers could enter",
+            "start": 80,
+            "end": 105
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: A board by the door / V: showed / O: which numbers could enter",
+        "grammarPoints": [
+          "which numbers全体が間接疑問節のS。番号はその札の持ち主を指す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p2-s003",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "Customers could wait in the nearby square or visit another shop until their turn came.",
+        "start": 107,
+        "end": 193,
+        "translation": "客は順番まで近くの広場で待ったり、別の店を訪ねたりできた。",
+        "explanation": "waitとvisitがcouldを共有。until節が待つ期間の終点。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Customers",
+            "start": 107,
+            "end": 116
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "could wait",
+            "start": 117,
+            "end": 127
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "in the nearby square",
+            "start": 128,
+            "end": 148
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "visit",
+            "start": 152,
+            "end": 157
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "another shop",
+            "start": 158,
+            "end": 170
+          },
+          {
+            "id": "n6",
+            "role": "clause",
+            "text": "until their turn came",
+            "start": 171,
+            "end": 192
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Customers / V: could wait / V: visit / O: another shop",
+        "grammarPoints": [
+          "waitとvisitがcouldを共有。until節が待つ期間の終点。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p2-s004",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "On the back of each card, Emma drew a small map of the square and marked a place to sit.",
+        "start": 194,
+        "end": 282,
+        "translation": "札の裏に、エマは広場の小さな地図を描き、座れる場所を示した。",
+        "explanation": "to sitがplaceを修飾。二動詞がSを共有。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "On the back of each card",
+            "start": 194,
+            "end": 218
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "Emma",
+            "start": 220,
+            "end": 224
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "drew",
+            "start": 225,
+            "end": 229
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "a small map of the square",
+            "start": 230,
+            "end": 255
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "marked",
+            "start": 260,
+            "end": 266
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "a place to sit",
+            "start": 267,
+            "end": 281
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Emma / V: drew / O: a small map of the square / V: marked / O: a place to sit",
+        "grammarPoints": [
+          "to sitがplaceを修飾。二動詞がSを共有。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p3-s001",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "The baker tested the system for two Saturdays.",
+        "start": 0,
+        "end": 46,
+        "translation": "店主は二回の土曜日にその仕組みを試した。",
+        "explanation": "forは試した期間。二週間毎日ではなく土曜日二回。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The baker",
+            "start": 0,
+            "end": 9
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "tested",
+            "start": 10,
+            "end": 16
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the system",
+            "start": 17,
+            "end": 27
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "for two Saturdays",
+            "start": 28,
+            "end": 45
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The baker / V: tested / O: the system",
+        "grammarPoints": [
+          "forは試した期間。二週間毎日ではなく土曜日二回。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p3-s002",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "The street became easier to walk through, and several customers said they had discovered shops they had never visited.",
+        "start": 47,
+        "end": 165,
+        "translation": "通りは歩きやすくなり、何人かの客は初めて行く店を発見したと言った。",
+        "explanation": "saidの後のthatとshopsの後の関係代名詞が省略。throughの意味上のOはstreet。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The street",
+            "start": 47,
+            "end": 57
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "became",
+            "start": 58,
+            "end": 64
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "easier to walk through",
+            "start": 65,
+            "end": 87
+          },
+          {
+            "id": "n4",
+            "role": "S",
+            "text": "several customers",
+            "start": 93,
+            "end": 110
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "said",
+            "start": 111,
+            "end": 115
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "they had discovered shops they had never visited",
+            "start": 116,
+            "end": 164
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The street / V: became / C: easier to walk through / S: several customers / V: said / O: they had discovered shops they had never visited",
+        "grammarPoints": [
+          "saidの後のthatとshopsの後の関係代名詞が省略。throughの意味上のOはstreet。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p3-s003",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "The bread did not change, but the way people waited improved the whole shopping area.",
+        "start": 166,
+        "end": 251,
+        "translation": "パンは変わらなかったが、待ち方が商店街全体をよくした。",
+        "explanation": "wayの後にpeople waitedが続き方法を説明する長いS。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The bread",
+            "start": 166,
+            "end": 175
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not change",
+            "start": 176,
+            "end": 190
+          },
+          {
+            "id": "n3",
+            "role": "S",
+            "text": "the way people waited",
+            "start": 196,
+            "end": 217
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "improved",
+            "start": 218,
+            "end": 226
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "the whole shopping area",
+            "start": 227,
+            "end": 250
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The bread / V: did not change / S: the way people waited / V: improved / O: the whole shopping area",
+        "grammarPoints": [
+          "wayの後にpeople waitedが続き方法を説明する長いS。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-02:p3-s004",
+        "passageId": "reading-l1-f04-02",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s004",
+        "sentence": "Emma was pleased that her simple idea helped more than one business.",
+        "start": 252,
+        "end": 320,
+        "translation": "エマは、自分の簡単な案が複数の店に役立ちうれしかった。",
+        "explanation": "that節が喜びの理由。more than oneは一つを超える。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Emma",
+            "start": 252,
+            "end": 256
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was",
+            "start": 257,
+            "end": 260
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "pleased",
+            "start": 261,
+            "end": 268
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "that her simple idea helped more than one business",
+            "start": 269,
+            "end": 319
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Emma / V: was / C: pleased",
+        "grammarPoints": [
+          "that節が喜びの理由。more than oneは一つを超える。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      }
+    ],
+    "wordCount": 162,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "customer",
+        "meaning": "客"
+      },
+      {
+        "english": "narrow",
+        "meaning": "狭い"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "The baker tested the system for two Saturdays.",
+        "start": 609,
+        "end": 655,
+        "translation": "パン職人は二度の土曜日に仕組みを試した。",
+        "explanation": "forは期間。testedの目的語はthe system。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The baker",
+            "start": 609,
+            "end": 618
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "tested",
+            "start": 619,
+            "end": 625
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "A bakery near Emma's house became very popular after a local television program introduced it.",
+        "translation": "地元のテレビ番組で紹介され、エマの家の近くのパン屋はとても人気になった。",
+        "start": 0,
+        "end": 94,
+        "sourceEnglish": "A bakery near Emma's house became very popular after a local television program introduced it.",
+        "sourceStart": 0,
+        "sourceEnd": 94,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "On Saturdays, customers waited along a narrow street.",
+        "translation": "土曜日には客が狭い通りに沿って待った。",
+        "start": 95,
+        "end": 148,
+        "sourceEnglish": "On Saturdays, customers waited along a narrow street.",
+        "sourceStart": 95,
+        "sourceEnd": 148,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "People who needed to reach other shops found it difficult to pass.",
+        "translation": "他の店へ行く必要のある人たちは、通り抜けにくいと感じた。",
+        "start": 149,
+        "end": 215,
+        "sourceEnglish": "People who needed to reach other shops found it difficult to pass.",
+        "sourceStart": 149,
+        "sourceEnd": 215,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "The baker wanted to serve everyone, but asking people to stand in a different line did not solve the problem.",
+        "translation": "店主は全員に販売したかったが、別の列へ並ばせるだけでは解決しなかった。",
+        "start": 216,
+        "end": 325,
+        "sourceEnglish": "The baker wanted to serve everyone, but asking people to stand in a different line did not solve the problem.",
+        "sourceStart": 216,
+        "sourceEnd": 325,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p1-s004"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "Emma suggested giving each customer a numbered card.",
+        "translation": "エマは、客一人ずつに番号札を渡すことを提案した。",
+        "start": 0,
+        "end": 52,
+        "sourceEnglish": "Emma suggested giving each customer a numbered card.",
+        "sourceStart": 326,
+        "sourceEnd": 378,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "A board by the door showed which numbers could enter.",
+        "translation": "入口の掲示板は、どの番号の人が入れるか示した。",
+        "start": 53,
+        "end": 106,
+        "sourceEnglish": "A board by the door showed which numbers could enter.",
+        "sourceStart": 379,
+        "sourceEnd": 432,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "Customers could wait in the nearby square or visit another shop until their turn came.",
+        "translation": "客は順番まで近くの広場で待ったり、別の店を訪ねたりできた。",
+        "start": 107,
+        "end": 193,
+        "sourceEnglish": "Customers could wait in the nearby square or visit another shop until their turn came.",
+        "sourceStart": 433,
+        "sourceEnd": 519,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "On the back of each card, Emma drew a small map of the square and marked a place to sit.",
+        "translation": "札の裏に、エマは広場の小さな地図を描き、座れる場所を示した。",
+        "start": 194,
+        "end": 282,
+        "sourceEnglish": "On the back of each card, Emma drew a small map of the square and marked a place to sit.",
+        "sourceStart": 520,
+        "sourceEnd": 608,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p2-s004"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "The baker tested the system for two Saturdays.",
+        "translation": "店主は二回の土曜日にその仕組みを試した。",
+        "start": 0,
+        "end": 46,
+        "sourceEnglish": "The baker tested the system for two Saturdays.",
+        "sourceStart": 609,
+        "sourceEnd": 655,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "The street became easier to walk through, and several customers said they had discovered shops they had never visited.",
+        "translation": "通りは歩きやすくなり、何人かの客は初めて行く店を発見したと言った。",
+        "start": 47,
+        "end": 165,
+        "sourceEnglish": "The street became easier to walk through, and several customers said they had discovered shops they had never visited.",
+        "sourceStart": 656,
+        "sourceEnd": 774,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "The bread did not change, but the way people waited improved the whole shopping area.",
+        "translation": "パンは変わらなかったが、待ち方が商店街全体をよくした。",
+        "start": 166,
+        "end": 251,
+        "sourceEnglish": "The bread did not change, but the way people waited improved the whole shopping area.",
+        "sourceStart": 775,
+        "sourceEnd": 860,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p3-s003"
+      },
+      {
+        "id": "p3-s004",
+        "paragraphId": "p3",
+        "english": "Emma was pleased that her simple idea helped more than one business.",
+        "translation": "エマは、自分の簡単な案が複数の店に役立ちうれしかった。",
+        "start": 252,
+        "end": 320,
+        "sourceEnglish": "Emma was pleased that her simple idea helped more than one business.",
+        "sourceStart": 861,
+        "sourceEnd": 929,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-02:p3-s004"
+      }
+    ],
+    "exerciseParagraphs": [
+      {
+        "id": "p1",
+        "english": "A bakery near Emma's house became very popular after a local television program introduced it. On Saturdays, customers waited along a narrow street. People who needed to reach other shops found it difficult to pass. The baker wanted to serve everyone, but asking people to stand in a different line did not solve the problem.",
+        "translation": "地元のテレビ番組で紹介され、エマの家の近くのパン屋はとても人気になった。土曜日には客が狭い通りに沿って待った。他の店へ行く必要のある人たちは、通り抜けにくいと感じた。店主は全員に販売したかったが、別の列へ並ばせるだけでは解決しなかった。"
+      },
+      {
+        "id": "p2",
+        "english": "Emma suggested giving each customer a numbered card. A board by the door showed which numbers could enter. Customers could wait in the nearby square or visit another shop until their turn came. On the back of each card, Emma drew a small map of the square and marked a place to sit.",
+        "translation": "エマは、客一人ずつに番号札を渡すことを提案した。入口の掲示板は、どの番号の人が入れるか示した。客は順番まで近くの広場で待ったり、別の店を訪ねたりできた。札の裏に、エマは広場の小さな地図を描き、座れる場所を示した。"
+      },
+      {
+        "id": "p3",
+        "english": "The baker tested the system for two Saturdays. The street became easier to walk through, and several customers said they had discovered shops they had never visited. The bread did not change, but the way people waited improved the whole shopping area. Emma was pleased that her simple idea helped more than one business.",
+        "translation": "店主は二回の土曜日にその仕組みを試した。通りは歩きやすくなり、何人かの客は初めて行く店を発見したと言った。パンは変わらなかったが、待ち方が商店街全体をよくした。エマは、自分の簡単な案が複数の店に役立ちうれしかった。"
+      }
+    ],
+    "paragraphMappings": [
+      {
+        "paragraphId": "p1",
+        "sourceParagraphId": "p1",
+        "start": 0,
+        "end": 325
+      },
+      {
+        "paragraphId": "p2",
+        "sourceParagraphId": "p1",
+        "start": 326,
+        "end": 608
+      },
+      {
+        "paragraphId": "p3",
+        "sourceParagraphId": "p1",
+        "start": 609,
+        "end": 929
+      }
+    ],
+    "reviewParagraphs": [
+      {
+        "id": "p1",
+        "english": "A bakery near Emma's house became very popular after a local television program introduced it. On Saturdays, customers waited along a narrow street. People who needed to reach other shops found it difficult to pass. The baker wanted to serve everyone, but asking people to stand in a different line did not solve the problem.",
+        "translation": "地元のテレビ番組で紹介され、エマの家の近くのパン屋はとても人気になった。土曜日には客が狭い通りに沿って待った。他の店へ行く必要のある人たちは、通り抜けにくいと感じた。店主は全員に販売したかったが、別の列へ並ばせるだけでは解決しなかった。"
+      },
+      {
+        "id": "p2",
+        "english": "Emma suggested giving each customer a numbered card. A board by the door showed which numbers could enter. Customers could wait in the nearby square or visit another shop until their turn came. On the back of each card, Emma drew a small map of the square and marked a place to sit.",
+        "translation": "エマは、客一人ずつに番号札を渡すことを提案した。入口の掲示板は、どの番号の人が入れるか示した。客は順番まで近くの広場で待ったり、別の店を訪ねたりできた。札の裏に、エマは広場の小さな地図を描き、座れる場所を示した。"
+      },
+      {
+        "id": "p3",
+        "english": "The baker tested the system for two Saturdays. The street became easier to walk through, and several customers said they had discovered shops they had never visited. The bread did not change, but the way people waited improved the whole shopping area. Emma was pleased that her simple idea helped more than one business.",
+        "translation": "店主は二回の土曜日にその仕組みを試した。通りは歩きやすくなり、何人かの客は初めて行く店を発見したと言った。パンは変わらなかったが、待ち方が商店街全体をよくした。エマは、自分の簡単な案が複数の店に役立ちうれしかった。"
+      }
+    ],
+    "syntaxOffsetBasis": "reviewParagraphs",
+    "reviewEvidence": {
+      "q1": {
+        "paragraphId": "p3",
+        "quote": "the way people waited improved the whole shopping area"
+      },
+      "q2": {
+        "paragraphId": "p1",
+        "quote": "found it difficult to pass"
+      },
+      "q3": {
+        "paragraphId": "p2",
+        "quote": "a small map of the square and marked a place to sit"
+      },
+      "q4": {
+        "paragraphId": "p2",
+        "quote": "Customers could wait in the nearby square or visit another shop"
+      },
+      "q5": {
+        "paragraphId": "p3",
+        "quote": "they had discovered shops they had never visited"
+      }
+    },
+    "reviewWordCount": 162,
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f04-03",
+    "level": 1,
+    "format": 4,
+    "title": "古い地図と新しい道",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "For a history project, Tom found a map of his town from fifty years ago. It showed a long road through the center and a lake beside the old station. Tom could still see the road, but he could not find the lake anywhere. He thought the map was wrong. His aunt suggested looking at old photographs in the town office. In one photograph, people were skating on the lake. Another showed workers filling part of it with earth. A town report explained that homes and a new station had later been built there. Tom visited the area again. A short street was still called Lake Road, although no water could be seen. He added photographs and a modern map to his project. Comparing them helped him understand that a familiar town had a history hidden under its present buildings. He also learned to look for more evidence before deciding that an old document was mistaken.",
+        "translation": "歴史の課題で、トムは五十年前の町の地図を見つけた。中心を通る長い道と、旧駅の横の湖が載っていた。道は今も見えたが、湖はどこにも見つからなかった。地図が間違っていると思った。叔母は町役場で古い写真を見ることを勧めた。一枚の写真では、人々が湖の上でスケートをしていた。別の一枚は、作業員が湖の一部を土で埋める様子を示していた。町の報告書には、後に住宅と新駅がそこに建てられたとあった。トムは再びその地区を訪ねた。水は見えないのに、短い通りが今もレイク通りと呼ばれていた。課題に写真と現代の地図を追加した。比べることで、見慣れた町にも現在の建物の下に隠れた歴史があると理解できた。古い文書が間違いだと決める前に、さらに証拠を探すことも学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な題名は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "スケート選手になるまで",
+            "explanation": "根拠は「a history hidden under its present buildings」。スケート選手になるまでという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "地図を売る店の一日",
+            "explanation": "根拠は「a history hidden under its present buildings」。地図を売る店の一日という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "消えた湖から町の歴史を知る",
+            "explanation": "昔と今の比較で町の変化を知る話。"
+          },
+          {
+            "id": "d",
+            "text": "新しい湖を造る方法",
+            "explanation": "根拠は「a history hidden under its present buildings」。新しい湖を造る方法という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "昔と今の比較で町の変化を知る話。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "a history hidden under its present buildings"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "写真で確かめられたことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "叔母が地図を作った",
+            "explanation": "根拠は「people were skating on the lake」。叔母が地図を作ったという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "昔は本当に湖があった",
+            "explanation": "湖でスケートする写真があった。"
+          },
+          {
+            "id": "c",
+            "text": "道は今も水中にある",
+            "explanation": "根拠は「people were skating on the lake」。道は今も水中にあるという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "新駅は五百年前にできた",
+            "explanation": "根拠は「people were skating on the lake」。新駅は五百年前にできたという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "湖でスケートする写真があった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "people were skating on the lake"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "トムが学んだ調べ方は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "間違いと決める前に証拠を探す",
+            "explanation": "最後に述べる教訓。"
+          },
+          {
+            "id": "b",
+            "text": "古い資料は全部捨てる",
+            "explanation": "根拠は「look for more evidence before deciding」。古い資料は全部捨てるという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "名前だけで決めつける",
+            "explanation": "根拠は「look for more evidence before deciding」。名前だけで決めつけるという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "写真を見ずに結論を出す",
+            "explanation": "根拠は「look for more evidence before deciding」。写真を見ずに結論を出すという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "最後に述べる教訓。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "look for more evidence before deciding"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f04-03:p1-s001",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "For a history project, Tom found a map of his town from fifty years ago.",
+        "start": 0,
+        "end": 72,
+        "translation": "歴史の課題で、トムは五十年前の町の地図を見つけた。",
+        "explanation": "from以下が地図の年代を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "For a history project",
+            "start": 0,
+            "end": 21
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "Tom",
+            "start": 23,
+            "end": 26
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "found",
+            "start": 27,
+            "end": 32
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "a map of his town from fifty years ago",
+            "start": 33,
+            "end": 71
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Tom / V: found / O: a map of his town from fifty years ago",
+        "grammarPoints": [
+          "from以下が地図の年代を示す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p1-s002",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "It showed a long road through the center and a lake beside the old station.",
+        "start": 73,
+        "end": 148,
+        "translation": "中心を通る長い道と、旧駅の横の湖が載っていた。",
+        "explanation": "Itは地図。二つの場所の名詞句がO。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "It",
+            "start": 73,
+            "end": 75
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "showed",
+            "start": 76,
+            "end": 82
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a long road through the center and a lake beside the old station",
+            "start": 83,
+            "end": 147
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: It / V: showed / O: a long road through the center and a lake beside the old station",
+        "grammarPoints": [
+          "Itは地図。二つの場所の名詞句がO。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p1-s003",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "Tom could still see the road, but he could not find the lake anywhere.",
+        "start": 149,
+        "end": 219,
+        "translation": "道は今も見えたが、湖はどこにも見つからなかった。",
+        "explanation": "否定文のanywhereはどこにも。butで現在の違いを対比。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Tom",
+            "start": 149,
+            "end": 152
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "could still see",
+            "start": 153,
+            "end": 168
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the road",
+            "start": 169,
+            "end": 177
+          },
+          {
+            "id": "n4",
+            "role": "S",
+            "text": "he",
+            "start": 183,
+            "end": 185
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "could not find",
+            "start": 186,
+            "end": 200
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "the lake",
+            "start": 201,
+            "end": 209
+          },
+          {
+            "id": "n7",
+            "role": "M",
+            "text": "anywhere",
+            "start": 210,
+            "end": 218
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Tom / V: could still see / O: the road / S: he / V: could not find / O: the lake",
+        "grammarPoints": [
+          "否定文のanywhereはどこにも。butで現在の違いを対比。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p1-s004",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "He thought the map was wrong.",
+        "start": 220,
+        "end": 249,
+        "translation": "地図が間違っていると思った。",
+        "explanation": "thoughtの後にthatが省略。主節と内容節を区別。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "He",
+            "start": 220,
+            "end": 222
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "thought",
+            "start": 223,
+            "end": 230
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the map was wrong",
+            "start": 231,
+            "end": 248
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: He / V: thought / O: the map was wrong",
+        "grammarPoints": [
+          "thoughtの後にthatが省略。主節と内容節を区別。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p2-s001",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "His aunt suggested looking at old photographs in the town office.",
+        "start": 0,
+        "end": 65,
+        "translation": "叔母は町役場で古い写真を見ることを勧めた。",
+        "explanation": "suggest＋動名詞。atは写真を見る対象。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "His aunt",
+            "start": 0,
+            "end": 8
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "suggested",
+            "start": 9,
+            "end": 18
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "looking at old photographs in the town office",
+            "start": 19,
+            "end": 64
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: His aunt / V: suggested / O: looking at old photographs in the town office",
+        "grammarPoints": [
+          "suggest＋動名詞。atは写真を見る対象。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p2-s002",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "In one photograph, people were skating on the lake.",
+        "start": 66,
+        "end": 117,
+        "translation": "一枚の写真では、人々が湖の上でスケートをしていた。",
+        "explanation": "過去進行形で写真の場面を描く。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "In one photograph",
+            "start": 66,
+            "end": 83
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "people",
+            "start": 85,
+            "end": 91
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "were skating",
+            "start": 92,
+            "end": 104
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "on the lake",
+            "start": 105,
+            "end": 116
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: people / V: were skating",
+        "grammarPoints": [
+          "過去進行形で写真の場面を描く。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p2-s003",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "Another showed workers filling part of it with earth.",
+        "start": 118,
+        "end": 171,
+        "translation": "別の一枚は、作業員が湖の一部を土で埋める様子を示していた。",
+        "explanation": "Anotherは別の写真。fillingがworkersの動作を説明し、itは湖。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Another",
+            "start": 118,
+            "end": 125
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "showed",
+            "start": 126,
+            "end": 132
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "workers",
+            "start": 133,
+            "end": 140
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "filling part of it with earth",
+            "start": 141,
+            "end": 170
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Another / V: showed / O: workers",
+        "grammarPoints": [
+          "Anotherは別の写真。fillingがworkersの動作を説明し、itは湖。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p2-s004",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "A town report explained that homes and a new station had later been built there.",
+        "start": 172,
+        "end": 252,
+        "translation": "町の報告書には、後に住宅と新駅がそこに建てられたとあった。",
+        "explanation": "that節内は過去完了受動。thereは元の湖の場所。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A town report",
+            "start": 172,
+            "end": 185
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "explained",
+            "start": 186,
+            "end": 195
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "that homes and a new station had later been built there",
+            "start": 196,
+            "end": 251
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: A town report / V: explained / O: that homes and a new station had later been built there",
+        "grammarPoints": [
+          "that節内は過去完了受動。thereは元の湖の場所。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p3-s001",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "Tom visited the area again.",
+        "start": 0,
+        "end": 27,
+        "translation": "トムは再びその地区を訪ねた。",
+        "explanation": "visitは場所を直接Oに取る。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Tom",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "visited",
+            "start": 4,
+            "end": 11
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the area",
+            "start": 12,
+            "end": 20
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "again",
+            "start": 21,
+            "end": 26
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Tom / V: visited / O: the area",
+        "grammarPoints": [
+          "visitは場所を直接Oに取る。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p3-s002",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "A short street was still called Lake Road, although no water could be seen.",
+        "start": 28,
+        "end": 103,
+        "translation": "水は見えないのに、短い通りが今もレイク通りと呼ばれていた。",
+        "explanation": "call A Bの受動態。althoughは譲歩で地名と現在の対比。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A short street",
+            "start": 28,
+            "end": 42
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was still called",
+            "start": 43,
+            "end": 59
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "Lake Road",
+            "start": 60,
+            "end": 69
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "although no water could be seen",
+            "start": 71,
+            "end": 102
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: A short street / V: was still called / C: Lake Road",
+        "grammarPoints": [
+          "call A Bの受動態。althoughは譲歩で地名と現在の対比。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p3-s003",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "He added photographs and a modern map to his project.",
+        "start": 104,
+        "end": 157,
+        "translation": "課題に写真と現代の地図を追加した。",
+        "explanation": "add A to Bで追加する情報と追加先。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "He",
+            "start": 104,
+            "end": 106
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "added",
+            "start": 107,
+            "end": 112
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "photographs and a modern map",
+            "start": 113,
+            "end": 141
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "to his project",
+            "start": 142,
+            "end": 156
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: He / V: added / O: photographs and a modern map",
+        "grammarPoints": [
+          "add A to Bで追加する情報と追加先。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p3-s004",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s004",
+        "sentence": "Comparing them helped him understand that a familiar town had a history hidden under its present buildings.",
+        "start": 158,
+        "end": 265,
+        "translation": "比べることで、見慣れた町にも現在の建物の下に隠れた歴史があると理解できた。",
+        "explanation": "動名詞句がS、help＋人＋原形。hiddenがhistoryを受動的に修飾。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Comparing them",
+            "start": 158,
+            "end": 172
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "helped",
+            "start": 173,
+            "end": 179
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "him",
+            "start": 180,
+            "end": 183
+          },
+          {
+            "id": "n4",
+            "role": "C",
+            "text": "understand that a familiar town had a history hidden under its present buildings",
+            "start": 184,
+            "end": 264
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Comparing them / V: helped / O: him / C: understand that a familiar town had a history hidden under its present buildings",
+        "grammarPoints": [
+          "動名詞句がS、help＋人＋原形。hiddenがhistoryを受動的に修飾。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-03:p3-s005",
+        "passageId": "reading-l1-f04-03",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s005",
+        "sentence": "He also learned to look for more evidence before deciding that an old document was mistaken.",
+        "start": 266,
+        "end": 358,
+        "translation": "古い文書が間違いだと決める前に、さらに証拠を探すことも学んだ。",
+        "explanation": "learn＋to不定詞。before＋動名詞の内部にthat内容節。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "He",
+            "start": 266,
+            "end": 268
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "learned",
+            "start": 274,
+            "end": 281
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "to look for more evidence before deciding that an old document was mistaken",
+            "start": 282,
+            "end": 357
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "also",
+            "start": 269,
+            "end": 273
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: He / V: learned / O: to look for more evidence before deciding that an old document was mistaken",
+        "grammarPoints": [
+          "learn＋to不定詞。before＋動名詞の内部にthat内容節。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      }
+    ],
+    "wordCount": 156,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "evidence",
+        "meaning": "証拠"
+      },
+      {
+        "english": "present",
+        "meaning": "現在の"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "His aunt suggested looking at old photographs in the town office.",
+        "start": 250,
+        "end": 315,
+        "translation": "叔母は役所の古い写真を見ることを勧めた。",
+        "explanation": "suggestの後の動作はlookingという動名詞で表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "His aunt",
+            "start": 250,
+            "end": 258
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "suggested",
+            "start": 259,
+            "end": 268
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "For a history project, Tom found a map of his town from fifty years ago.",
+        "translation": "歴史の課題で、トムは五十年前の町の地図を見つけた。",
+        "start": 0,
+        "end": 72,
+        "sourceEnglish": "For a history project, Tom found a map of his town from fifty years ago.",
+        "sourceStart": 0,
+        "sourceEnd": 72,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "It showed a long road through the center and a lake beside the old station.",
+        "translation": "中心を通る長い道と、旧駅の横の湖が載っていた。",
+        "start": 73,
+        "end": 148,
+        "sourceEnglish": "It showed a long road through the center and a lake beside the old station.",
+        "sourceStart": 73,
+        "sourceEnd": 148,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "Tom could still see the road, but he could not find the lake anywhere.",
+        "translation": "道は今も見えたが、湖はどこにも見つからなかった。",
+        "start": 149,
+        "end": 219,
+        "sourceEnglish": "Tom could still see the road, but he could not find the lake anywhere.",
+        "sourceStart": 149,
+        "sourceEnd": 219,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "He thought the map was wrong.",
+        "translation": "地図が間違っていると思った。",
+        "start": 220,
+        "end": 249,
+        "sourceEnglish": "He thought the map was wrong.",
+        "sourceStart": 220,
+        "sourceEnd": 249,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p1-s004"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "His aunt suggested looking at old photographs in the town office.",
+        "translation": "叔母は町役場で古い写真を見ることを勧めた。",
+        "start": 0,
+        "end": 65,
+        "sourceEnglish": "His aunt suggested looking at old photographs in the town office.",
+        "sourceStart": 250,
+        "sourceEnd": 315,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "In one photograph, people were skating on the lake.",
+        "translation": "一枚の写真では、人々が湖の上でスケートをしていた。",
+        "start": 66,
+        "end": 117,
+        "sourceEnglish": "In one photograph, people were skating on the lake.",
+        "sourceStart": 316,
+        "sourceEnd": 367,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "Another showed workers filling part of it with earth.",
+        "translation": "別の一枚は、作業員が湖の一部を土で埋める様子を示していた。",
+        "start": 118,
+        "end": 171,
+        "sourceEnglish": "Another showed workers filling part of it with earth.",
+        "sourceStart": 368,
+        "sourceEnd": 421,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "A town report explained that homes and a new station had later been built there.",
+        "translation": "町の報告書には、後に住宅と新駅がそこに建てられたとあった。",
+        "start": 172,
+        "end": 252,
+        "sourceEnglish": "A town report explained that homes and a new station had later been built there.",
+        "sourceStart": 422,
+        "sourceEnd": 502,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p2-s004"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "Tom visited the area again.",
+        "translation": "トムは再びその地区を訪ねた。",
+        "start": 0,
+        "end": 27,
+        "sourceEnglish": "Tom visited the area again.",
+        "sourceStart": 503,
+        "sourceEnd": 530,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "A short street was still called Lake Road, although no water could be seen.",
+        "translation": "水は見えないのに、短い通りが今もレイク通りと呼ばれていた。",
+        "start": 28,
+        "end": 103,
+        "sourceEnglish": "A short street was still called Lake Road, although no water could be seen.",
+        "sourceStart": 531,
+        "sourceEnd": 606,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "He added photographs and a modern map to his project.",
+        "translation": "課題に写真と現代の地図を追加した。",
+        "start": 104,
+        "end": 157,
+        "sourceEnglish": "He added photographs and a modern map to his project.",
+        "sourceStart": 607,
+        "sourceEnd": 660,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p3-s003"
+      },
+      {
+        "id": "p3-s004",
+        "paragraphId": "p3",
+        "english": "Comparing them helped him understand that a familiar town had a history hidden under its present buildings.",
+        "translation": "比べることで、見慣れた町にも現在の建物の下に隠れた歴史があると理解できた。",
+        "start": 158,
+        "end": 265,
+        "sourceEnglish": "Comparing them helped him understand that a familiar town had a history hidden under its present buildings.",
+        "sourceStart": 661,
+        "sourceEnd": 768,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p3-s004"
+      },
+      {
+        "id": "p3-s005",
+        "paragraphId": "p3",
+        "english": "He also learned to look for more evidence before deciding that an old document was mistaken.",
+        "translation": "古い文書が間違いだと決める前に、さらに証拠を探すことも学んだ。",
+        "start": 266,
+        "end": 358,
+        "sourceEnglish": "He also learned to look for more evidence before deciding that an old document was mistaken.",
+        "sourceStart": 769,
+        "sourceEnd": 861,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-03:p3-s005"
+      }
+    ],
+    "exerciseParagraphs": [
+      {
+        "id": "p1",
+        "english": "For a history project, Tom found a map of his town from fifty years ago. It showed a long road through the center and a lake beside the old station. Tom could still see the road, but he could not find the lake anywhere. He thought the map was wrong.",
+        "translation": "歴史の課題で、トムは五十年前の町の地図を見つけた。中心を通る長い道と、旧駅の横の湖が載っていた。道は今も見えたが、湖はどこにも見つからなかった。地図が間違っていると思った。"
+      },
+      {
+        "id": "p2",
+        "english": "His aunt suggested looking at old photographs in the town office. In one photograph, people were skating on the lake. Another showed workers filling part of it with earth. A town report explained that homes and a new station had later been built there.",
+        "translation": "叔母は町役場で古い写真を見ることを勧めた。一枚の写真では、人々が湖の上でスケートをしていた。別の一枚は、作業員が湖の一部を土で埋める様子を示していた。町の報告書には、後に住宅と新駅がそこに建てられたとあった。"
+      },
+      {
+        "id": "p3",
+        "english": "Tom visited the area again. A short street was still called Lake Road, although no water could be seen. He added photographs and a modern map to his project. Comparing them helped him understand that a familiar town had a history hidden under its present buildings. He also learned to look for more evidence before deciding that an old document was mistaken.",
+        "translation": "トムは再びその地区を訪ねた。水は見えないのに、短い通りが今もレイク通りと呼ばれていた。課題に写真と現代の地図を追加した。比べることで、見慣れた町にも現在の建物の下に隠れた歴史があると理解できた。古い文書が間違いだと決める前に、さらに証拠を探すことも学んだ。"
+      }
+    ],
+    "paragraphMappings": [
+      {
+        "paragraphId": "p1",
+        "sourceParagraphId": "p1",
+        "start": 0,
+        "end": 249
+      },
+      {
+        "paragraphId": "p2",
+        "sourceParagraphId": "p1",
+        "start": 250,
+        "end": 502
+      },
+      {
+        "paragraphId": "p3",
+        "sourceParagraphId": "p1",
+        "start": 503,
+        "end": 861
+      }
+    ],
+    "reviewParagraphs": [
+      {
+        "id": "p1",
+        "english": "For a history project, Tom found a map of his town from fifty years ago. It showed a long road through the center and a lake beside the old station. Tom could still see the road, but he could not find the lake anywhere. He thought the map was wrong.",
+        "translation": "歴史の課題で、トムは五十年前の町の地図を見つけた。中心を通る長い道と、旧駅の横の湖が載っていた。道は今も見えたが、湖はどこにも見つからなかった。地図が間違っていると思った。"
+      },
+      {
+        "id": "p2",
+        "english": "His aunt suggested looking at old photographs in the town office. In one photograph, people were skating on the lake. Another showed workers filling part of it with earth. A town report explained that homes and a new station had later been built there.",
+        "translation": "叔母は町役場で古い写真を見ることを勧めた。一枚の写真では、人々が湖の上でスケートをしていた。別の一枚は、作業員が湖の一部を土で埋める様子を示していた。町の報告書には、後に住宅と新駅がそこに建てられたとあった。"
+      },
+      {
+        "id": "p3",
+        "english": "Tom visited the area again. A short street was still called Lake Road, although no water could be seen. He added photographs and a modern map to his project. Comparing them helped him understand that a familiar town had a history hidden under its present buildings. He also learned to look for more evidence before deciding that an old document was mistaken.",
+        "translation": "トムは再びその地区を訪ねた。水は見えないのに、短い通りが今もレイク通りと呼ばれていた。課題に写真と現代の地図を追加した。比べることで、見慣れた町にも現在の建物の下に隠れた歴史があると理解できた。古い文書が間違いだと決める前に、さらに証拠を探すことも学んだ。"
+      }
+    ],
+    "syntaxOffsetBasis": "reviewParagraphs",
+    "reviewEvidence": {
+      "q1": {
+        "paragraphId": "p3",
+        "quote": "a history hidden under its present buildings"
+      },
+      "q2": {
+        "paragraphId": "p2",
+        "quote": "people were skating on the lake"
+      },
+      "q3": {
+        "paragraphId": "p3",
+        "quote": "look for more evidence before deciding"
+      }
+    },
+    "reviewWordCount": 156,
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f04-04",
+    "level": 1,
+    "format": 4,
+    "title": "教室に残った椅子",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "When the school bought new chairs, a teacher asked students what to do with the old ones. Some were broken, but many were still strong. Mark suggested sending them all to a recycling center. His friend Nina thought they should first ask whether anyone could use them. The class contacted a children's theater group that practiced in an empty hall. The group needed seats for its audience but could not afford new ones. Students cleaned the strong chairs and checked them with the school caretaker. They sent only the safe ones to the theater. Broken parts went to the recycling center separately. At the first performance, the students sat on chairs they had used for years. The theater leader thanked them for making the hall more welcoming. Mark realized that recycling was useful, but finding a new use for a whole object could sometimes be a better first step. The class began keeping a list of other things people might need.",
+        "translation": "学校が新しい椅子を買うと、先生は古い椅子をどうするか生徒に尋ねた。壊れた椅子もあったが、多くはまだ丈夫だった。マークは全部をリサイクル施設へ送ろうと提案した。友人ニナは、先に誰か使える人がいないか尋ねるべきだと考えた。クラスは、空いたホールで練習する子供の劇団に連絡した。劇団は観客席が必要だったが、新品を買う余裕がなかった。生徒は丈夫な椅子を掃除し、学校の管理担当者と確認した。安全なものだけを劇場へ送った。壊れた部品は別にリサイクル施設へ送った。最初の公演で、生徒は何年も使っていた椅子に座った。劇団代表は、ホールをより歓迎される雰囲気にしたことに感謝した。リサイクルも役立つが、物全体の新しい使い道を探す方が、時には最初の手順としてよいとマークは気づいた。クラスは、他に人が必要としそうな物の一覧を作り始めた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な題名は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "椅子の値段の歴史",
+            "explanation": "根拠は「finding a new use for a whole object」。椅子の値段の歴史という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "古い椅子が迎えた新しい観客",
+            "explanation": "学校の椅子を劇団で再使用する話。"
+          },
+          {
+            "id": "c",
+            "text": "新品だけを使う劇場",
+            "explanation": "根拠は「finding a new use for a whole object」。新品だけを使う劇場という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "学校を建て直す計画",
+            "explanation": "根拠は「finding a new use for a whole object」。学校を建て直す計画という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "学校の椅子を劇団で再使用する話。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "finding a new use for a whole object"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "劇団の困り事は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "観客席を新品で買う余裕がない",
+            "explanation": "座席は必要だが新品を買えなかった。"
+          },
+          {
+            "id": "b",
+            "text": "役者が一人もいない",
+            "explanation": "根拠は「could not afford new ones」。役者が一人もいないという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "ホールが水浸し",
+            "explanation": "根拠は「could not afford new ones」。ホールが水浸しという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "椅子が多すぎる",
+            "explanation": "根拠は「could not afford new ones」。椅子が多すぎるという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "座席は必要だが新品を買えなかった。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "could not afford new ones"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "壊れた部品はどうしたか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "観客席として使った",
+            "explanation": "根拠は「Broken parts went to the recycling center separately.」。観客席として使ったという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "川へ捨てた",
+            "explanation": "根拠は「Broken parts went to the recycling center separately.」。川へ捨てたという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "教科書に挟んだ",
+            "explanation": "根拠は「Broken parts went to the recycling center separately.」。教科書に挟んだという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "別にリサイクルに回した",
+            "explanation": "安全な椅子と分けて処理した。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "安全な椅子と分けて処理した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Broken parts went to the recycling center separately."
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "劇団へ送る椅子の選び方は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "古いものは必ず全て捨てる",
+            "explanation": "丈夫な椅子は再利用した。"
+          },
+          {
+            "id": "b",
+            "text": "新品を学校が買ってから送る",
+            "explanation": "学校で使った椅子を送った。"
+          },
+          {
+            "id": "c",
+            "text": "掃除と点検をして安全なものだけ送る",
+            "explanation": "cleaned、checked、only the safe onesが手順と条件。"
+          },
+          {
+            "id": "d",
+            "text": "壊れた部品も全部客席に使う",
+            "explanation": "壊れた部品は別にリサイクルした。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "cleaned、checked、only the safe onesが手順と条件。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "They sent only the safe ones to the theater."
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f04-04:p1-s001",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "When the school bought new chairs, a teacher asked students what to do with the old ones.",
+        "start": 0,
+        "end": 89,
+        "translation": "学校が新しい椅子を買うと、先生は古い椅子をどうするか生徒に尋ねた。",
+        "explanation": "ask＋人＋質問内容。what＋to不定詞。onesはchairsの代用。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "clause",
+            "text": "When the school bought new chairs",
+            "start": 0,
+            "end": 33
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "a teacher",
+            "start": 35,
+            "end": 44
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "asked",
+            "start": 45,
+            "end": 50
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "students",
+            "start": 51,
+            "end": 59
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "what to do with the old ones",
+            "start": 60,
+            "end": 88
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: a teacher / V: asked / O: students / O: what to do with the old ones",
+        "grammarPoints": [
+          "ask＋人＋質問内容。what＋to不定詞。onesはchairsの代用。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p1-s002",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "Some were broken, but many were still strong.",
+        "start": 90,
+        "end": 135,
+        "translation": "壊れた椅子もあったが、多くはまだ丈夫だった。",
+        "explanation": "Someとmanyはいずれも椅子。butで状態の違いを対比。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Some",
+            "start": 90,
+            "end": 94
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "were",
+            "start": 95,
+            "end": 99
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "broken",
+            "start": 100,
+            "end": 106
+          },
+          {
+            "id": "n4",
+            "role": "S",
+            "text": "many",
+            "start": 112,
+            "end": 116
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "were",
+            "start": 117,
+            "end": 121
+          },
+          {
+            "id": "n6",
+            "role": "C",
+            "text": "strong",
+            "start": 128,
+            "end": 134
+          },
+          {
+            "id": "n7",
+            "role": "M",
+            "text": "still",
+            "start": 122,
+            "end": 127
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Some / V: were / C: broken / S: many / V: were / C: strong",
+        "grammarPoints": [
+          "Someとmanyはいずれも椅子。butで状態の違いを対比。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p1-s003",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "Mark suggested sending them all to a recycling center.",
+        "start": 136,
+        "end": 190,
+        "translation": "マークは全部をリサイクル施設へ送ろうと提案した。",
+        "explanation": "suggest＋動名詞。allはthemに対応する全数量。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mark",
+            "start": 136,
+            "end": 140
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "suggested",
+            "start": 141,
+            "end": 150
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "sending them all to a recycling center",
+            "start": 151,
+            "end": 189
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Mark / V: suggested / O: sending them all to a recycling center",
+        "grammarPoints": [
+          "suggest＋動名詞。allはthemに対応する全数量。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p1-s004",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "His friend Nina thought they should first ask whether anyone could use them.",
+        "start": 191,
+        "end": 267,
+        "translation": "友人ニナは、先に誰か使える人がいないか尋ねるべきだと考えた。",
+        "explanation": "thoughtのthatが省略。whether節はaskの内容。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "His friend Nina",
+            "start": 191,
+            "end": 206
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "thought",
+            "start": 207,
+            "end": 214
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "they should first ask whether anyone could use them",
+            "start": 215,
+            "end": 266
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: His friend Nina / V: thought / O: they should first ask whether anyone could use them",
+        "grammarPoints": [
+          "thoughtのthatが省略。whether節はaskの内容。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p2-s001",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "The class contacted a children's theater group that practiced in an empty hall.",
+        "start": 0,
+        "end": 79,
+        "translation": "クラスは、空いたホールで練習する子供の劇団に連絡した。",
+        "explanation": "that節がgroupを修飾。contactは直接Oを取る。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The class",
+            "start": 0,
+            "end": 9
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "contacted",
+            "start": 10,
+            "end": 19
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a children's theater group that practiced in an empty hall",
+            "start": 20,
+            "end": 78
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "that practiced in an empty hall",
+            "start": 47,
+            "end": 78
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "a children's theater group",
+            "start": 20,
+            "end": 46,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The class / V: contacted / O: a children's theater group that practiced in an empty hall",
+        "grammarPoints": [
+          "that節がgroupを修飾。contactは直接Oを取る。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p2-s002",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "The group needed seats for its audience but could not afford new ones.",
+        "start": 80,
+        "end": 150,
+        "translation": "劇団は観客席が必要だったが、新品を買う余裕がなかった。",
+        "explanation": "afford＋物で購入の余裕。onesはseatsで、主語groupを二動詞が共有。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The group",
+            "start": 80,
+            "end": 89
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "needed",
+            "start": 90,
+            "end": 96
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "seats for its audience",
+            "start": 97,
+            "end": 119
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "could not afford",
+            "start": 124,
+            "end": 140
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "new ones",
+            "start": 141,
+            "end": 149
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The group / V: needed / O: seats for its audience / V: could not afford / O: new ones",
+        "grammarPoints": [
+          "afford＋物で購入の余裕。onesはseatsで、主語groupを二動詞が共有。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p3-s001",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "Students cleaned the strong chairs and checked them with the school caretaker.",
+        "start": 0,
+        "end": 78,
+        "translation": "生徒は丈夫な椅子を掃除し、学校の管理担当者と確認した。",
+        "explanation": "withは一緒に点検した相手。themは椅子。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Students",
+            "start": 0,
+            "end": 8
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "cleaned",
+            "start": 9,
+            "end": 16
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the strong chairs",
+            "start": 17,
+            "end": 34
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "checked",
+            "start": 39,
+            "end": 46
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "them",
+            "start": 47,
+            "end": 51
+          },
+          {
+            "id": "n6",
+            "role": "M",
+            "text": "with the school caretaker",
+            "start": 52,
+            "end": 77
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Students / V: cleaned / O: the strong chairs / V: checked / O: them",
+        "grammarPoints": [
+          "withは一緒に点検した相手。themは椅子。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p3-s002",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "They sent only the safe ones to the theater.",
+        "start": 79,
+        "end": 123,
+        "translation": "安全なものだけを劇場へ送った。",
+        "explanation": "onlyが送る椅子を安全なものに限定。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 79,
+            "end": 83
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "sent",
+            "start": 84,
+            "end": 88
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "only the safe ones",
+            "start": 89,
+            "end": 107
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "to the theater",
+            "start": 108,
+            "end": 122
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: They / V: sent / O: only the safe ones",
+        "grammarPoints": [
+          "onlyが送る椅子を安全なものに限定。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p3-s003",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "Broken parts went to the recycling center separately.",
+        "start": 124,
+        "end": 177,
+        "translation": "壊れた部品は別にリサイクル施設へ送った。",
+        "explanation": "主語は部品、wentは行き先を示す自動詞。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Broken parts",
+            "start": 124,
+            "end": 136
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "went",
+            "start": 137,
+            "end": 141
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "to the recycling center",
+            "start": 142,
+            "end": 165
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "separately",
+            "start": 166,
+            "end": 176
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Broken parts / V: went",
+        "grammarPoints": [
+          "主語は部品、wentは行き先を示す自動詞。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p4-s001",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s001",
+        "sentence": "At the first performance, the students sat on chairs they had used for years.",
+        "start": 0,
+        "end": 77,
+        "translation": "最初の公演で、生徒は何年も使っていた椅子に座った。",
+        "explanation": "chairs後に関係代名詞が省略。過去完了で公演以前の使用を表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "At the first performance",
+            "start": 0,
+            "end": 24
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the students",
+            "start": 26,
+            "end": 38
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "sat",
+            "start": 39,
+            "end": 42
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "on chairs they had used for years",
+            "start": 43,
+            "end": 76
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "they had used for years",
+            "start": 53,
+            "end": 76
+          },
+          {
+            "id": "n6",
+            "role": "phrase",
+            "text": "chairs",
+            "start": 46,
+            "end": 52,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n6",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: the students / V: sat",
+        "grammarPoints": [
+          "chairs後に関係代名詞が省略。過去完了で公演以前の使用を表す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p4-s002",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s002",
+        "sentence": "The theater leader thanked them for making the hall more welcoming.",
+        "start": 78,
+        "end": 145,
+        "translation": "劇団代表は、ホールをより歓迎される雰囲気にしたことに感謝した。",
+        "explanation": "thank A for B。動名詞内はmake＋O＝hall＋C＝more welcoming。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The theater leader",
+            "start": 78,
+            "end": 96
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "thanked",
+            "start": 97,
+            "end": 104
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "them",
+            "start": 105,
+            "end": 109
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "for making the hall more welcoming",
+            "start": 110,
+            "end": 144
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The theater leader / V: thanked / O: them",
+        "grammarPoints": [
+          "thank A for B。動名詞内はmake＋O＝hall＋C＝more welcoming。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p4-s003",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s003",
+        "sentence": "Mark realized that recycling was useful, but finding a new use for a whole object could sometimes be a better first step.",
+        "start": 146,
+        "end": 267,
+        "translation": "リサイクルも役立つが、物全体の新しい使い道を探す方が、時には最初の手順としてよいとマークは気づいた。",
+        "explanation": "that節内部で動名詞recyclingとfinding以下のSを対比。常に再利用が優れるとは言わない。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mark",
+            "start": 146,
+            "end": 150
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "realized",
+            "start": 151,
+            "end": 159
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "that recycling was useful, but finding a new use for a whole object could sometimes be a better first step",
+            "start": 160,
+            "end": 266
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Mark / V: realized / O: that recycling was useful, but finding a new use for a whole object could sometimes be a better first step",
+        "grammarPoints": [
+          "that節内部で動名詞recyclingとfinding以下のSを対比。常に再利用が優れるとは言わない。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-04:p4-s004",
+        "passageId": "reading-l1-f04-04",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s004",
+        "sentence": "The class began keeping a list of other things people might need.",
+        "start": 268,
+        "end": 333,
+        "translation": "クラスは、他に人が必要としそうな物の一覧を作り始めた。",
+        "explanation": "things後の関係代名詞は省略。begin＋動名詞。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The class",
+            "start": 268,
+            "end": 277
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "began",
+            "start": 278,
+            "end": 283
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "keeping a list of other things people might need",
+            "start": 284,
+            "end": 332
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "people might need",
+            "start": 315,
+            "end": 332
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "other things",
+            "start": 302,
+            "end": 314,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The class / V: began / O: keeping a list of other things people might need",
+        "grammarPoints": [
+          "things後の関係代名詞は省略。begin＋動名詞。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      }
+    ],
+    "wordCount": 161,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "afford",
+        "meaning": "〜を買う余裕がある"
+      },
+      {
+        "english": "separately",
+        "meaning": "別々に"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "The theater leader thanked them for making the hall more welcoming.",
+        "start": 675,
+        "end": 742,
+        "translation": "劇団の責任者はホールを居心地よくしたことに感謝した。",
+        "explanation": "thank 人 for 動名詞で、〜したことで人に感謝する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The theater leader",
+            "start": 675,
+            "end": 693
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "thanked",
+            "start": 694,
+            "end": 701
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "When the school bought new chairs, a teacher asked students what to do with the old ones.",
+        "translation": "学校が新しい椅子を買うと、先生は古い椅子をどうするか生徒に尋ねた。",
+        "start": 0,
+        "end": 89,
+        "sourceEnglish": "When the school bought new chairs, a teacher asked students what to do with the old ones.",
+        "sourceStart": 0,
+        "sourceEnd": 89,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "Some were broken, but many were still strong.",
+        "translation": "壊れた椅子もあったが、多くはまだ丈夫だった。",
+        "start": 90,
+        "end": 135,
+        "sourceEnglish": "Some were broken, but many were still strong.",
+        "sourceStart": 90,
+        "sourceEnd": 135,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "Mark suggested sending them all to a recycling center.",
+        "translation": "マークは全部をリサイクル施設へ送ろうと提案した。",
+        "start": 136,
+        "end": 190,
+        "sourceEnglish": "Mark suggested sending them all to a recycling center.",
+        "sourceStart": 136,
+        "sourceEnd": 190,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "His friend Nina thought they should first ask whether anyone could use them.",
+        "translation": "友人ニナは、先に誰か使える人がいないか尋ねるべきだと考えた。",
+        "start": 191,
+        "end": 267,
+        "sourceEnglish": "His friend Nina thought they should first ask whether anyone could use them.",
+        "sourceStart": 191,
+        "sourceEnd": 267,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p1-s004"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "The class contacted a children's theater group that practiced in an empty hall.",
+        "translation": "クラスは、空いたホールで練習する子供の劇団に連絡した。",
+        "start": 0,
+        "end": 79,
+        "sourceEnglish": "The class contacted a children's theater group that practiced in an empty hall.",
+        "sourceStart": 268,
+        "sourceEnd": 347,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "The group needed seats for its audience but could not afford new ones.",
+        "translation": "劇団は観客席が必要だったが、新品を買う余裕がなかった。",
+        "start": 80,
+        "end": 150,
+        "sourceEnglish": "The group needed seats for its audience but could not afford new ones.",
+        "sourceStart": 348,
+        "sourceEnd": 418,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p2-s002"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "Students cleaned the strong chairs and checked them with the school caretaker.",
+        "translation": "生徒は丈夫な椅子を掃除し、学校の管理担当者と確認した。",
+        "start": 0,
+        "end": 78,
+        "sourceEnglish": "Students cleaned the strong chairs and checked them with the school caretaker.",
+        "sourceStart": 419,
+        "sourceEnd": 497,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "They sent only the safe ones to the theater.",
+        "translation": "安全なものだけを劇場へ送った。",
+        "start": 79,
+        "end": 123,
+        "sourceEnglish": "They sent only the safe ones to the theater.",
+        "sourceStart": 498,
+        "sourceEnd": 542,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "Broken parts went to the recycling center separately.",
+        "translation": "壊れた部品は別にリサイクル施設へ送った。",
+        "start": 124,
+        "end": 177,
+        "sourceEnglish": "Broken parts went to the recycling center separately.",
+        "sourceStart": 543,
+        "sourceEnd": 596,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p3-s003"
+      },
+      {
+        "id": "p4-s001",
+        "paragraphId": "p4",
+        "english": "At the first performance, the students sat on chairs they had used for years.",
+        "translation": "最初の公演で、生徒は何年も使っていた椅子に座った。",
+        "start": 0,
+        "end": 77,
+        "sourceEnglish": "At the first performance, the students sat on chairs they had used for years.",
+        "sourceStart": 597,
+        "sourceEnd": 674,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p4-s001"
+      },
+      {
+        "id": "p4-s002",
+        "paragraphId": "p4",
+        "english": "The theater leader thanked them for making the hall more welcoming.",
+        "translation": "劇団代表は、ホールをより歓迎される雰囲気にしたことに感謝した。",
+        "start": 78,
+        "end": 145,
+        "sourceEnglish": "The theater leader thanked them for making the hall more welcoming.",
+        "sourceStart": 675,
+        "sourceEnd": 742,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p4-s002"
+      },
+      {
+        "id": "p4-s003",
+        "paragraphId": "p4",
+        "english": "Mark realized that recycling was useful, but finding a new use for a whole object could sometimes be a better first step.",
+        "translation": "リサイクルも役立つが、物全体の新しい使い道を探す方が、時には最初の手順としてよいとマークは気づいた。",
+        "start": 146,
+        "end": 267,
+        "sourceEnglish": "Mark realized that recycling was useful, but finding a new use for a whole object could sometimes be a better first step.",
+        "sourceStart": 743,
+        "sourceEnd": 864,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p4-s003"
+      },
+      {
+        "id": "p4-s004",
+        "paragraphId": "p4",
+        "english": "The class began keeping a list of other things people might need.",
+        "translation": "クラスは、他に人が必要としそうな物の一覧を作り始めた。",
+        "start": 268,
+        "end": 333,
+        "sourceEnglish": "The class began keeping a list of other things people might need.",
+        "sourceStart": 865,
+        "sourceEnd": 930,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-04:p4-s004"
+      }
+    ],
+    "exerciseParagraphs": [
+      {
+        "id": "p1",
+        "english": "When the school bought new chairs, a teacher asked students what to do with the old ones. Some were broken, but many were still strong. Mark suggested sending them all to a recycling center. His friend Nina thought they should first ask whether anyone could use them.",
+        "translation": "学校が新しい椅子を買うと、先生は古い椅子をどうするか生徒に尋ねた。壊れた椅子もあったが、多くはまだ丈夫だった。マークは全部をリサイクル施設へ送ろうと提案した。友人ニナは、先に誰か使える人がいないか尋ねるべきだと考えた。"
+      },
+      {
+        "id": "p2",
+        "english": "The class contacted a children's theater group that practiced in an empty hall. The group needed seats for its audience but could not afford new ones.",
+        "translation": "クラスは、空いたホールで練習する子供の劇団に連絡した。劇団は観客席が必要だったが、新品を買う余裕がなかった。"
+      },
+      {
+        "id": "p3",
+        "english": "Students cleaned the strong chairs and checked them with the school caretaker. They sent only the safe ones to the theater. Broken parts went to the recycling center separately.",
+        "translation": "生徒は丈夫な椅子を掃除し、学校の管理担当者と確認した。安全なものだけを劇場へ送った。壊れた部品は別にリサイクル施設へ送った。"
+      },
+      {
+        "id": "p4",
+        "english": "At the first performance, the students sat on chairs they had used for years. The theater leader thanked them for making the hall more welcoming. Mark realized that recycling was useful, but finding a new use for a whole object could sometimes be a better first step. The class began keeping a list of other things people might need.",
+        "translation": "最初の公演で、生徒は何年も使っていた椅子に座った。劇団代表は、ホールをより歓迎される雰囲気にしたことに感謝した。リサイクルも役立つが、物全体の新しい使い道を探す方が、時には最初の手順としてよいとマークは気づいた。クラスは、他に人が必要としそうな物の一覧を作り始めた。"
+      }
+    ],
+    "paragraphMappings": [
+      {
+        "paragraphId": "p1",
+        "sourceParagraphId": "p1",
+        "start": 0,
+        "end": 267
+      },
+      {
+        "paragraphId": "p2",
+        "sourceParagraphId": "p1",
+        "start": 268,
+        "end": 418
+      },
+      {
+        "paragraphId": "p3",
+        "sourceParagraphId": "p1",
+        "start": 419,
+        "end": 596
+      },
+      {
+        "paragraphId": "p4",
+        "sourceParagraphId": "p1",
+        "start": 597,
+        "end": 930
+      }
+    ],
+    "reviewParagraphs": [
+      {
+        "id": "p1",
+        "english": "When the school bought new chairs, a teacher asked students what to do with the old ones. Some were broken, but many were still strong. Mark suggested sending them all to a recycling center. His friend Nina thought they should first ask whether anyone could use them.",
+        "translation": "学校が新しい椅子を買うと、先生は古い椅子をどうするか生徒に尋ねた。壊れた椅子もあったが、多くはまだ丈夫だった。マークは全部をリサイクル施設へ送ろうと提案した。友人ニナは、先に誰か使える人がいないか尋ねるべきだと考えた。"
+      },
+      {
+        "id": "p2",
+        "english": "The class contacted a children's theater group that practiced in an empty hall. The group needed seats for its audience but could not afford new ones.",
+        "translation": "クラスは、空いたホールで練習する子供の劇団に連絡した。劇団は観客席が必要だったが、新品を買う余裕がなかった。"
+      },
+      {
+        "id": "p3",
+        "english": "Students cleaned the strong chairs and checked them with the school caretaker. They sent only the safe ones to the theater. Broken parts went to the recycling center separately.",
+        "translation": "生徒は丈夫な椅子を掃除し、学校の管理担当者と確認した。安全なものだけを劇場へ送った。壊れた部品は別にリサイクル施設へ送った。"
+      },
+      {
+        "id": "p4",
+        "english": "At the first performance, the students sat on chairs they had used for years. The theater leader thanked them for making the hall more welcoming. Mark realized that recycling was useful, but finding a new use for a whole object could sometimes be a better first step. The class began keeping a list of other things people might need.",
+        "translation": "最初の公演で、生徒は何年も使っていた椅子に座った。劇団代表は、ホールをより歓迎される雰囲気にしたことに感謝した。リサイクルも役立つが、物全体の新しい使い道を探す方が、時には最初の手順としてよいとマークは気づいた。クラスは、他に人が必要としそうな物の一覧を作り始めた。"
+      }
+    ],
+    "syntaxOffsetBasis": "reviewParagraphs",
+    "reviewEvidence": {
+      "q1": {
+        "paragraphId": "p4",
+        "quote": "finding a new use for a whole object"
+      },
+      "q2": {
+        "paragraphId": "p2",
+        "quote": "could not afford new ones"
+      },
+      "q3": {
+        "paragraphId": "p3",
+        "quote": "Broken parts went to the recycling center separately."
+      },
+      "q4": {
+        "paragraphId": "p3",
+        "quote": "They sent only the safe ones to the theater."
+      }
+    },
+    "reviewWordCount": 161,
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f04-05",
+    "level": 1,
+    "format": 4,
+    "title": "閉じたままのノート",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Lucy loved buying beautiful notebooks. She had five at home, but most pages were empty. She wanted each notebook to contain perfect writing and neat pictures. Whenever she made a spelling mistake on the first page, she stopped using that notebook. One day, her older brother showed her a notebook from his first year at college. It contained crossed-out words, arrows, rough drawings, and questions without answers. He explained that it helped him work through difficult ideas. A notebook did not have to be a finished book for other people to admire. Lucy chose one of her empty notebooks and wrote a plan for a school play. When a scene did not work, she crossed it out and tried another. A month later, the pages looked messy, but her play was ready. She felt more proud of that used notebook than of the clean ones on her shelf. Mistakes had become signs of progress rather than reasons to stop.",
+        "translation": "ルーシーは美しいノートを買うのが大好きだった。家に五冊あったが、ほとんどのページは空白だった。各ノートには完璧な文章と整った絵を入れたかった。最初のページでつづりを間違えるたび、そのノートを使うのをやめた。ある日、兄は大学一年の時のノートを見せた。そこには消した単語、矢印、粗い下絵、未解決の問いがあった。難しい考えをじっくり整理するのに役立つと兄は説明した。ノートは、人に感心してもらうための完成した本でなくてもよかった。ルーシーは空白のノートの一冊を選び、学校の劇の案を書いた。ある場面がうまくいかないと、線で消して別の案を試した。一か月後、ページは雑然としていたが、劇は完成していた。棚のきれいなノートより、その使い込んだノートを誇らしく思った。間違いは、やめる理由ではなく進歩の印になっていた。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な題名は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "間違いを書けるノート",
+            "explanation": "完璧さから思考の道具へと考え方が変化する。"
+          },
+          {
+            "id": "b",
+            "text": "誤字のない辞書を買う",
+            "explanation": "根拠は「Mistakes had become signs of progress」。誤字のない辞書を買うという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "兄の大学入試",
+            "explanation": "根拠は「Mistakes had become signs of progress」。兄の大学入試という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "棚をきれいにする競争",
+            "explanation": "根拠は「Mistakes had become signs of progress」。棚をきれいにする競争という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "完璧さから思考の道具へと考え方が変化する。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Mistakes had become signs of progress"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "以前ノートをやめた理由は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "ページが全部埋まった",
+            "explanation": "根拠は「a spelling mistake on the first page」。ページが全部埋まったという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "兄に売った",
+            "explanation": "根拠は「a spelling mistake on the first page」。兄に売ったという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "劇が上演された",
+            "explanation": "根拠は「a spelling mistake on the first page」。劇が上演されたという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "最初のページで誤字を書いた",
+            "explanation": "完璧にしたいため誤字で中断した。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "完璧にしたいため誤字で中断した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "a spelling mistake on the first page"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "一か月後に完成した物は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "五冊の辞書",
+            "explanation": "根拠は「her play was ready」。五冊の辞書という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "新品の棚",
+            "explanation": "根拠は「her play was ready」。新品の棚という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "学校の劇",
+            "explanation": "劇の案を推敲して完成させた。"
+          },
+          {
+            "id": "d",
+            "text": "大学の建物",
+            "explanation": "根拠は「her play was ready」。大学の建物という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "劇の案を推敲して完成させた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "her play was ready"
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "兄のノートに含まれていたものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "劇の入場券だけ",
+            "explanation": "入場券は述べていない。"
+          },
+          {
+            "id": "b",
+            "text": "消した単語や矢印、下絵、答えのない問い",
+            "explanation": "containedの後の四項目が根拠。"
+          },
+          {
+            "id": "c",
+            "text": "他人に見せる完成原稿だけ",
+            "explanation": "完成した本でなくてもよいと説明した。"
+          },
+          {
+            "id": "d",
+            "text": "一文字もない空白だけ",
+            "explanation": "実際に使われ書き込みがある。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "containedの後の四項目が根拠。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "crossed-out words, arrows, rough drawings, and questions without answers"
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "ルーシーは使ったノートをどう感じたか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "棚のきれいなノートより誇らしく思った",
+            "explanation": "more proud ... thanの比較が直接の根拠。"
+          },
+          {
+            "id": "b",
+            "text": "間違いがあるので必ず捨てようと思った",
+            "explanation": "間違いは進歩の印になった。"
+          },
+          {
+            "id": "c",
+            "text": "兄に全ページの清書を強制した",
+            "explanation": "兄への清書依頼はない。"
+          },
+          {
+            "id": "d",
+            "text": "劇に役立たなかったと判断した",
+            "explanation": "劇が完成した。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "more proud ... thanの比較が直接の根拠。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "She felt more proud of that used notebook"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f04-05:p1-s001",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "Lucy loved buying beautiful notebooks.",
+        "start": 0,
+        "end": 38,
+        "translation": "ルーシーは美しいノートを買うのが大好きだった。",
+        "explanation": "loveのOは動名詞buying以下。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Lucy",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "loved",
+            "start": 5,
+            "end": 10
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "buying beautiful notebooks",
+            "start": 11,
+            "end": 37
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Lucy / V: loved / O: buying beautiful notebooks",
+        "grammarPoints": [
+          "loveのOは動名詞buying以下。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p1-s002",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "She had five at home, but most pages were empty.",
+        "start": 39,
+        "end": 87,
+        "translation": "家に五冊あったが、ほとんどのページは空白だった。",
+        "explanation": "fiveは五冊のノート。butで所有数と使用状況を対比。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 39,
+            "end": 42
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had",
+            "start": 43,
+            "end": 46
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "five",
+            "start": 47,
+            "end": 51
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "at home",
+            "start": 52,
+            "end": 59
+          },
+          {
+            "id": "n5",
+            "role": "S",
+            "text": "most pages",
+            "start": 65,
+            "end": 75
+          },
+          {
+            "id": "n6",
+            "role": "V",
+            "text": "were",
+            "start": 76,
+            "end": 80
+          },
+          {
+            "id": "n7",
+            "role": "C",
+            "text": "empty",
+            "start": 81,
+            "end": 86
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: She / V: had / O: five / S: most pages / V: were / C: empty",
+        "grammarPoints": [
+          "fiveは五冊のノート。butで所有数と使用状況を対比。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p1-s003",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "She wanted each notebook to contain perfect writing and neat pictures.",
+        "start": 88,
+        "end": 158,
+        "translation": "各ノートには完璧な文章と整った絵を入れたかった。",
+        "explanation": "want＋O＋to不定詞。containの二つの内容は並列。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 88,
+            "end": 91
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "wanted",
+            "start": 92,
+            "end": 98
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "each notebook",
+            "start": 99,
+            "end": 112
+          },
+          {
+            "id": "n4",
+            "role": "C",
+            "text": "to contain perfect writing and neat pictures",
+            "start": 113,
+            "end": 157
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: She / V: wanted / O: each notebook / C: to contain perfect writing and neat pictures",
+        "grammarPoints": [
+          "want＋O＋to不定詞。containの二つの内容は並列。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p1-s004",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "Whenever she made a spelling mistake on the first page, she stopped using that notebook.",
+        "start": 159,
+        "end": 247,
+        "translation": "最初のページでつづりを間違えるたび、そのノートを使うのをやめた。",
+        "explanation": "Wheneverは〜するたび。stop＋動名詞でその行為をやめる。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "clause",
+            "text": "Whenever she made a spelling mistake on the first page",
+            "start": 159,
+            "end": 213
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "she",
+            "start": 168,
+            "end": 171
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "stopped",
+            "start": 219,
+            "end": 226
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "using that notebook",
+            "start": 227,
+            "end": 246
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: she / V: stopped / O: using that notebook",
+        "grammarPoints": [
+          "Wheneverは〜するたび。stop＋動名詞でその行為をやめる。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p2-s001",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "One day, her older brother showed her a notebook from his first year at college.",
+        "start": 0,
+        "end": 80,
+        "translation": "ある日、兄は大学一年の時のノートを見せた。",
+        "explanation": "show＋人＋物。fromはノートの時期。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "One day",
+            "start": 0,
+            "end": 7
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "her older brother",
+            "start": 9,
+            "end": 26
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "showed",
+            "start": 27,
+            "end": 33
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "her",
+            "start": 9,
+            "end": 12
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "a notebook from his first year at college",
+            "start": 38,
+            "end": 79
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: her older brother / V: showed / O: her / O: a notebook from his first year at college",
+        "grammarPoints": [
+          "show＋人＋物。fromはノートの時期。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p2-s002",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "It contained crossed-out words, arrows, rough drawings, and questions without answers.",
+        "start": 81,
+        "end": 167,
+        "translation": "そこには消した単語、矢印、粗い下絵、未解決の問いがあった。",
+        "explanation": "四項並列がO。without answersはquestionsを修飾。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "It",
+            "start": 81,
+            "end": 83
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "contained",
+            "start": 84,
+            "end": 93
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "crossed-out words, arrows, rough drawings, and questions without answers",
+            "start": 94,
+            "end": 166
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: It / V: contained / O: crossed-out words, arrows, rough drawings, and questions without answers",
+        "grammarPoints": [
+          "四項並列がO。without answersはquestionsを修飾。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p2-s003",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "He explained that it helped him work through difficult ideas.",
+        "start": 168,
+        "end": 229,
+        "translation": "難しい考えをじっくり整理するのに役立つと兄は説明した。",
+        "explanation": "that節内部はhelp＋人＋原形。work throughは順に検討して理解する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "He",
+            "start": 168,
+            "end": 170
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "explained",
+            "start": 171,
+            "end": 180
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "that it helped him work through difficult ideas",
+            "start": 181,
+            "end": 228
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: He / V: explained / O: that it helped him work through difficult ideas",
+        "grammarPoints": [
+          "that節内部はhelp＋人＋原形。work throughは順に検討して理解する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p2-s004",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "A notebook did not have to be a finished book for other people to admire.",
+        "start": 230,
+        "end": 303,
+        "translation": "ノートは、人に感心してもらうための完成した本でなくてもよかった。",
+        "explanation": "did not have toは必要の否定で禁止ではない。for other peopleがadmireの意味上のS。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A notebook",
+            "start": 230,
+            "end": 240
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not have to be",
+            "start": 241,
+            "end": 259
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "a finished book for other people to admire",
+            "start": 260,
+            "end": 302
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: A notebook / V: did not have to be / C: a finished book for other people to admire",
+        "grammarPoints": [
+          "did not have toは必要の否定で禁止ではない。for other peopleがadmireの意味上のS。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p3-s001",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "Lucy chose one of her empty notebooks and wrote a plan for a school play.",
+        "start": 0,
+        "end": 73,
+        "translation": "ルーシーは空白のノートの一冊を選び、学校の劇の案を書いた。",
+        "explanation": "二動詞がSを共有。one of＋複数名詞でその中の一冊。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Lucy",
+            "start": 0,
+            "end": 4
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "chose",
+            "start": 5,
+            "end": 10
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "one of her empty notebooks",
+            "start": 11,
+            "end": 37
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "wrote",
+            "start": 42,
+            "end": 47
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "a plan for a school play",
+            "start": 48,
+            "end": 72
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Lucy / V: chose / O: one of her empty notebooks / V: wrote / O: a plan for a school play",
+        "grammarPoints": [
+          "二動詞がSを共有。one of＋複数名詞でその中の一冊。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p3-s002",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "When a scene did not work, she crossed it out and tried another.",
+        "start": 74,
+        "end": 138,
+        "translation": "ある場面がうまくいかないと、線で消して別の案を試した。",
+        "explanation": "cross it outは代名詞を句動詞の間に置く分離形。anotherは別の場面案。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "clause",
+            "text": "When a scene did not work",
+            "start": 74,
+            "end": 99
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "she",
+            "start": 101,
+            "end": 104
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "crossed",
+            "start": 105,
+            "end": 112
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "it",
+            "start": 113,
+            "end": 115
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "out",
+            "start": 116,
+            "end": 119
+          },
+          {
+            "id": "n6",
+            "role": "V",
+            "text": "tried",
+            "start": 124,
+            "end": 129
+          },
+          {
+            "id": "n7",
+            "role": "O",
+            "text": "another",
+            "start": 130,
+            "end": 137
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: she / V: crossed / O: it / V: tried / O: another",
+        "grammarPoints": [
+          "cross it outは代名詞を句動詞の間に置く分離形。anotherは別の場面案。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p3-s003",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "A month later, the pages looked messy, but her play was ready.",
+        "start": 139,
+        "end": 201,
+        "translation": "一か月後、ページは雑然としていたが、劇は完成していた。",
+        "explanation": "look＋形容詞とbe＋形容詞。butでノートの見た目と成果を対比。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "A month later",
+            "start": 139,
+            "end": 152
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the pages",
+            "start": 154,
+            "end": 163
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "looked",
+            "start": 164,
+            "end": 170
+          },
+          {
+            "id": "n4",
+            "role": "C",
+            "text": "messy",
+            "start": 171,
+            "end": 176
+          },
+          {
+            "id": "n5",
+            "role": "S",
+            "text": "her play",
+            "start": 182,
+            "end": 190
+          },
+          {
+            "id": "n6",
+            "role": "V",
+            "text": "was",
+            "start": 191,
+            "end": 194
+          },
+          {
+            "id": "n7",
+            "role": "C",
+            "text": "ready",
+            "start": 195,
+            "end": 200
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: the pages / V: looked / C: messy / S: her play / V: was / C: ready",
+        "grammarPoints": [
+          "look＋形容詞とbe＋形容詞。butでノートの見た目と成果を対比。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p3-s004",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s004",
+        "sentence": "She felt more proud of that used notebook than of the clean ones on her shelf.",
+        "start": 202,
+        "end": 280,
+        "translation": "棚のきれいなノートより、その使い込んだノートを誇らしく思った。",
+        "explanation": "比較対象はof句の二つ。onesはnotebooks、usedは使ったという形容詞的過去分詞。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 202,
+            "end": 205
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "felt",
+            "start": 206,
+            "end": 210
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "more proud of that used notebook than of the clean ones on her shelf",
+            "start": 211,
+            "end": 279
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: She / V: felt / C: more proud of that used notebook than of the clean ones on her shelf",
+        "grammarPoints": [
+          "比較対象はof句の二つ。onesはnotebooks、usedは使ったという形容詞的過去分詞。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-05:p3-s005",
+        "passageId": "reading-l1-f04-05",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s005",
+        "sentence": "Mistakes had become signs of progress rather than reasons to stop.",
+        "start": 281,
+        "end": 347,
+        "translation": "間違いは、やめる理由ではなく進歩の印になっていた。",
+        "explanation": "rather thanは意味の捉え直し。had becomeは一か月の変化の結果。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mistakes",
+            "start": 281,
+            "end": 289
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had become",
+            "start": 290,
+            "end": 300
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "signs of progress rather than reasons to stop",
+            "start": 301,
+            "end": 346
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Mistakes / V: had become / C: signs of progress rather than reasons to stop",
+        "grammarPoints": [
+          "rather thanは意味の捉え直し。had becomeは一か月の変化の結果。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      }
+    ],
+    "wordCount": 159,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "rough",
+        "meaning": "大まかな"
+      },
+      {
+        "english": "progress",
+        "meaning": "進歩"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Lucy chose one of her empty notebooks and wrote a plan for a school play.",
+        "start": 552,
+        "end": 625,
+        "translation": "ルーシーは空のノートを一冊選び学校劇の案を書いた。",
+        "explanation": "同じ主語Lucyに過去形choseとwroteがandで並ぶ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Lucy",
+            "start": 552,
+            "end": 556
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "chose",
+            "start": 557,
+            "end": 562
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "Lucy loved buying beautiful notebooks.",
+        "translation": "ルーシーは美しいノートを買うのが大好きだった。",
+        "start": 0,
+        "end": 38,
+        "sourceEnglish": "Lucy loved buying beautiful notebooks.",
+        "sourceStart": 0,
+        "sourceEnd": 38,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "She had five at home, but most pages were empty.",
+        "translation": "家に五冊あったが、ほとんどのページは空白だった。",
+        "start": 39,
+        "end": 87,
+        "sourceEnglish": "She had five at home, but most pages were empty.",
+        "sourceStart": 39,
+        "sourceEnd": 87,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "She wanted each notebook to contain perfect writing and neat pictures.",
+        "translation": "各ノートには完璧な文章と整った絵を入れたかった。",
+        "start": 88,
+        "end": 158,
+        "sourceEnglish": "She wanted each notebook to contain perfect writing and neat pictures.",
+        "sourceStart": 88,
+        "sourceEnd": 158,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "Whenever she made a spelling mistake on the first page, she stopped using that notebook.",
+        "translation": "最初のページでつづりを間違えるたび、そのノートを使うのをやめた。",
+        "start": 159,
+        "end": 247,
+        "sourceEnglish": "Whenever she made a spelling mistake on the first page, she stopped using that notebook.",
+        "sourceStart": 159,
+        "sourceEnd": 247,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p1-s004"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "One day, her older brother showed her a notebook from his first year at college.",
+        "translation": "ある日、兄は大学一年の時のノートを見せた。",
+        "start": 0,
+        "end": 80,
+        "sourceEnglish": "One day, her older brother showed her a notebook from his first year at college.",
+        "sourceStart": 248,
+        "sourceEnd": 328,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "It contained crossed-out words, arrows, rough drawings, and questions without answers.",
+        "translation": "そこには消した単語、矢印、粗い下絵、未解決の問いがあった。",
+        "start": 81,
+        "end": 167,
+        "sourceEnglish": "It contained crossed-out words, arrows, rough drawings, and questions without answers.",
+        "sourceStart": 329,
+        "sourceEnd": 415,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "He explained that it helped him work through difficult ideas.",
+        "translation": "難しい考えをじっくり整理するのに役立つと兄は説明した。",
+        "start": 168,
+        "end": 229,
+        "sourceEnglish": "He explained that it helped him work through difficult ideas.",
+        "sourceStart": 416,
+        "sourceEnd": 477,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "A notebook did not have to be a finished book for other people to admire.",
+        "translation": "ノートは、人に感心してもらうための完成した本でなくてもよかった。",
+        "start": 230,
+        "end": 303,
+        "sourceEnglish": "A notebook did not have to be a finished book for other people to admire.",
+        "sourceStart": 478,
+        "sourceEnd": 551,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p2-s004"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "Lucy chose one of her empty notebooks and wrote a plan for a school play.",
+        "translation": "ルーシーは空白のノートの一冊を選び、学校の劇の案を書いた。",
+        "start": 0,
+        "end": 73,
+        "sourceEnglish": "Lucy chose one of her empty notebooks and wrote a plan for a school play.",
+        "sourceStart": 552,
+        "sourceEnd": 625,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "When a scene did not work, she crossed it out and tried another.",
+        "translation": "ある場面がうまくいかないと、線で消して別の案を試した。",
+        "start": 74,
+        "end": 138,
+        "sourceEnglish": "When a scene did not work, she crossed it out and tried another.",
+        "sourceStart": 626,
+        "sourceEnd": 690,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "A month later, the pages looked messy, but her play was ready.",
+        "translation": "一か月後、ページは雑然としていたが、劇は完成していた。",
+        "start": 139,
+        "end": 201,
+        "sourceEnglish": "A month later, the pages looked messy, but her play was ready.",
+        "sourceStart": 691,
+        "sourceEnd": 753,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p3-s003"
+      },
+      {
+        "id": "p3-s004",
+        "paragraphId": "p3",
+        "english": "She felt more proud of that used notebook than of the clean ones on her shelf.",
+        "translation": "棚のきれいなノートより、その使い込んだノートを誇らしく思った。",
+        "start": 202,
+        "end": 280,
+        "sourceEnglish": "She felt more proud of that used notebook than of the clean ones on her shelf.",
+        "sourceStart": 754,
+        "sourceEnd": 832,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p3-s004"
+      },
+      {
+        "id": "p3-s005",
+        "paragraphId": "p3",
+        "english": "Mistakes had become signs of progress rather than reasons to stop.",
+        "translation": "間違いは、やめる理由ではなく進歩の印になっていた。",
+        "start": 281,
+        "end": 347,
+        "sourceEnglish": "Mistakes had become signs of progress rather than reasons to stop.",
+        "sourceStart": 833,
+        "sourceEnd": 899,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-05:p3-s005"
+      }
+    ],
+    "exerciseParagraphs": [
+      {
+        "id": "p1",
+        "english": "Lucy loved buying beautiful notebooks. She had five at home, but most pages were empty. She wanted each notebook to contain perfect writing and neat pictures. Whenever she made a spelling mistake on the first page, she stopped using that notebook.",
+        "translation": "ルーシーは美しいノートを買うのが大好きだった。家に五冊あったが、ほとんどのページは空白だった。各ノートには完璧な文章と整った絵を入れたかった。最初のページでつづりを間違えるたび、そのノートを使うのをやめた。"
+      },
+      {
+        "id": "p2",
+        "english": "One day, her older brother showed her a notebook from his first year at college. It contained crossed-out words, arrows, rough drawings, and questions without answers. He explained that it helped him work through difficult ideas. A notebook did not have to be a finished book for other people to admire.",
+        "translation": "ある日、兄は大学一年の時のノートを見せた。そこには消した単語、矢印、粗い下絵、未解決の問いがあった。難しい考えをじっくり整理するのに役立つと兄は説明した。ノートは、人に感心してもらうための完成した本でなくてもよかった。"
+      },
+      {
+        "id": "p3",
+        "english": "Lucy chose one of her empty notebooks and wrote a plan for a school play. When a scene did not work, she crossed it out and tried another. A month later, the pages looked messy, but her play was ready. She felt more proud of that used notebook than of the clean ones on her shelf. Mistakes had become signs of progress rather than reasons to stop.",
+        "translation": "ルーシーは空白のノートの一冊を選び、学校の劇の案を書いた。ある場面がうまくいかないと、線で消して別の案を試した。一か月後、ページは雑然としていたが、劇は完成していた。棚のきれいなノートより、その使い込んだノートを誇らしく思った。間違いは、やめる理由ではなく進歩の印になっていた。"
+      }
+    ],
+    "paragraphMappings": [
+      {
+        "paragraphId": "p1",
+        "sourceParagraphId": "p1",
+        "start": 0,
+        "end": 247
+      },
+      {
+        "paragraphId": "p2",
+        "sourceParagraphId": "p1",
+        "start": 248,
+        "end": 551
+      },
+      {
+        "paragraphId": "p3",
+        "sourceParagraphId": "p1",
+        "start": 552,
+        "end": 899
+      }
+    ],
+    "reviewParagraphs": [
+      {
+        "id": "p1",
+        "english": "Lucy loved buying beautiful notebooks. She had five at home, but most pages were empty. She wanted each notebook to contain perfect writing and neat pictures. Whenever she made a spelling mistake on the first page, she stopped using that notebook.",
+        "translation": "ルーシーは美しいノートを買うのが大好きだった。家に五冊あったが、ほとんどのページは空白だった。各ノートには完璧な文章と整った絵を入れたかった。最初のページでつづりを間違えるたび、そのノートを使うのをやめた。"
+      },
+      {
+        "id": "p2",
+        "english": "One day, her older brother showed her a notebook from his first year at college. It contained crossed-out words, arrows, rough drawings, and questions without answers. He explained that it helped him work through difficult ideas. A notebook did not have to be a finished book for other people to admire.",
+        "translation": "ある日、兄は大学一年の時のノートを見せた。そこには消した単語、矢印、粗い下絵、未解決の問いがあった。難しい考えをじっくり整理するのに役立つと兄は説明した。ノートは、人に感心してもらうための完成した本でなくてもよかった。"
+      },
+      {
+        "id": "p3",
+        "english": "Lucy chose one of her empty notebooks and wrote a plan for a school play. When a scene did not work, she crossed it out and tried another. A month later, the pages looked messy, but her play was ready. She felt more proud of that used notebook than of the clean ones on her shelf. Mistakes had become signs of progress rather than reasons to stop.",
+        "translation": "ルーシーは空白のノートの一冊を選び、学校の劇の案を書いた。ある場面がうまくいかないと、線で消して別の案を試した。一か月後、ページは雑然としていたが、劇は完成していた。棚のきれいなノートより、その使い込んだノートを誇らしく思った。間違いは、やめる理由ではなく進歩の印になっていた。"
+      }
+    ],
+    "syntaxOffsetBasis": "reviewParagraphs",
+    "reviewEvidence": {
+      "q1": {
+        "paragraphId": "p3",
+        "quote": "Mistakes had become signs of progress"
+      },
+      "q2": {
+        "paragraphId": "p1",
+        "quote": "a spelling mistake on the first page"
+      },
+      "q3": {
+        "paragraphId": "p3",
+        "quote": "her play was ready"
+      },
+      "q4": {
+        "paragraphId": "p2",
+        "quote": "crossed-out words, arrows, rough drawings, and questions without answers"
+      },
+      "q5": {
+        "paragraphId": "p3",
+        "quote": "She felt more proud of that used notebook"
+      }
+    },
+    "reviewWordCount": 159,
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  }
+]
