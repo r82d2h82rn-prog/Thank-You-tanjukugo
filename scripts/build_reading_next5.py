@@ -61,7 +61,7 @@ def compile_batch(level):
                     a = next(s for s in spans if s['text'] == source)
                     b = next(s for s in spans if s['text'] == target)
                     relations.append({'from': a['id'], 'to': b['id'], 'type': 'modifies'})
-                implicit = sentence.startswith(('Imagine ', 'Consider ' , 'Consider,'))
+                implicit = sentence.startswith(('Imagine ', 'Consider ' , 'Consider,', 'Suppose '))
                 assert (implicit or any(s['role'] == 'S' for s in spans)) and any(s['role'] == 'V' for s in spans)
                 syntax = {'id': f"{p['id']}:{sid}", 'passageId': p['id'], 'contentVersion': 2,
                           'paragraphId': para['id'], 'sentenceId': sid, 'sentence': sentence,

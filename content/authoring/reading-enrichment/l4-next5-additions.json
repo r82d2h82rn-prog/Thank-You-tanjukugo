@@ -1,0 +1,580 @@
+[
+  {
+    "paragraphs": [
+      "A further difficulty appears when the city tries to define the procedure by which future changes will be approved. Requiring unanimous consent might seem to protect the public character of the square, yet it could enable a small group to block uses that later residents had good reason to want. Allowing a simple majority to authorize any alteration would avoid that obstacle while exposing less powerful users to decisions made without serious attention to their needs. A procedure cannot be assessed merely by asking whether it permits change; the distribution of the power to initiate, resist and review a change matters as well.",
+      "The city might therefore preserve records of why particular protections were adopted, while making their application open to later criticism. Such records would not instruct future residents to share present preferences. They would enable a later generation to distinguish a restriction designed to keep the space public from one that happened to preserve a currently fashionable arrangement. Even that distinction would remain contestable: what counts as a public use may itself change. The purpose of transmitting reasons would be to make revision answerable to an intelligible history, not to turn that history into a final authority against which no new reason could count.",
+      "There is also a material condition which a discussion of procedures can conceal. A formal right to propose a change gives little practical capacity to people who lack the time, information or resources needed to use it. Maintaining collective choice may therefore require support for participation as well as a rule about who may vote. None of this allows present residents to certify that their arrangements will be endorsed in fifty years. It offers a more limited basis for responsibility: they can explain which powers they are preserving and why, acknowledge whose interests they may have failed to anticipate, and leave later users means of revising both the arrangement and the explanation. A commitment to future freedom would then include a commitment to being questioned. Preserving a question would thus involve preserving people's ability to demand reasons, not merely leaving the furniture easy to move."
+    ],
+    "questions": [
+      {
+        "prompt": "全員一致と単純多数の例が、共通して示す論点はどれか。",
+        "options": [
+          {
+            "text": "変更可能性の有無だけでなく、開始・抵抗・見直しの権力の配分を評価する必要がある",
+            "explanation": "二制度の反対方向の危険からpowerのdistributionの検討へ進む。"
+          },
+          {
+            "text": "全員一致なら公共性と将来の自由が必ず両立する",
+            "explanation": "少数による合理的な新用途の阻止があり得る。"
+          },
+          {
+            "text": "単純多数なら弱い利用者の必要も自動的に反映する",
+            "explanation": "必要への注意なしに決定される危険を指摘する。"
+          },
+          {
+            "text": "手続きの違いは物理的な家具の配置だけで決まる",
+            "explanation": "投票や参加資源など物理配置以外を論じる。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "the distribution of the power to initiate, resist and review a change"
+      },
+      {
+        "prompt": "保護を採用した理由を残すことで、後の世代が区別できるようになるものは何か。",
+        "options": [
+          {
+            "text": "公共性を守る制約と、たまたま現在の流行を残す制約",
+            "explanation": "keep the space publicとfashionable arrangementを対比する。"
+          },
+          {
+            "text": "歴史的に古い家具と新しい家具の価格",
+            "explanation": "価格の鑑定が記録の目的ではない。"
+          },
+          {
+            "text": "現在の全住民の賛成と未来の全住民の同意",
+            "explanation": "未来の同意を確保できるとはしない。"
+          },
+          {
+            "text": "法的に一切変更できない規則と、規則のない状態",
+            "explanation": "理由を残しても適用は批判に開く。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "a restriction designed to keep the space public"
+      },
+      {
+        "prompt": "理由の伝達を「最終権威」にしないという主張の含意は何か。",
+        "options": [
+          {
+            "text": "歴史を理解可能な根拠として参照しつつ、公共利用の意味や適用への新たな異議も認める",
+            "explanation": "public useの意味も変化し得るとして、historyを批判不能にしない。"
+          },
+          {
+            "text": "記録は残すだけで一切読ませるべきではない",
+            "explanation": "後の世代が制約を理解するための記録である。"
+          },
+          {
+            "text": "歴史的理由は新しい好みより常に優先する",
+            "explanation": "no new reason could countという閉鎖を否定する。"
+          },
+          {
+            "text": "昔の理由があれば現行の配置をそのまま保存する義務が生じる",
+            "explanation": "現行のfashionable arrangementの偶然性を区別する。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "what counts as a public use may itself change"
+      },
+      {
+        "prompt": "正式な変更提案権だけでは共同の選択を守れない理由は何か。",
+        "options": [
+          {
+            "text": "行使に必要な時間・情報・資源がなければ、権利は実際の力をほとんど与えない",
+            "explanation": "formal rightとpractical capacityの差を物質的条件で説明する。"
+          },
+          {
+            "text": "投票規則があれば参加資源の差は消える",
+            "explanation": "ruleとsupportの両方が必要とする。"
+          },
+          {
+            "text": "資源の少ない人には未来の利益が存在しない",
+            "explanation": "利益の不在ではなく行使の障害の問題。"
+          },
+          {
+            "text": "記録があると将来の人は変更を提案できなくなる",
+            "explanation": "記録は批判・改定を可能にするため残す。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "people who lack the time, information or resources needed to use it"
+      },
+      {
+        "prompt": "末尾の家具への言及が対比しているものは何か。",
+        "options": [
+          {
+            "text": "物の変更しやすさと、決定の理由を求められる人々の能力",
+            "explanation": "furniture easy to moveだけでなくability to demand reasonsを守る。"
+          },
+          {
+            "text": "移動できる家具と将来必ず使われる家具の種類",
+            "explanation": "将来使う具体的家具は確定していない。"
+          },
+          {
+            "text": "広場の美観と将来の人の好みの完全な予測",
+            "explanation": "好みの完全予測はできないという前提を保つ。"
+          },
+          {
+            "text": "恒久的施設の全面撤去と商業化の必然性",
+            "explanation": "撤去や商業化を必然とする二択ではない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "preserving people's ability to demand reasons"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "Suppose the minutes are checked by the speaker, who approves the wording because she remembers the conditions under which the discussion occurred. Her approval may correct some errors without ensuring that an absent reader can reconstruct those conditions. The document's adequacy cannot therefore be settled simply by asking whether the original participants recognize their own words in it. Recognition from within a shared context and interpretation outside it place different demands on the same record.",
+      "An editor preparing a short public summary might attach a note stating that the proposal remains subject to the two conditions. If the conditions themselves are unavailable, however, the note must not create the impression that their content has been verified. A responsible summary can mark an unresolved dependency without pretending to supply what is missing. That is different from using a vague expression of caution to conceal the fact that nobody has checked which limit the caution was meant to preserve.",
+      "This distinction becomes especially important when one summary is quoted in another. Each writer may reproduce the sentence received accurately, while the chain progressively detaches it from the circumstances that made it a conditional claim. Assigning all responsibility to the interpreter at the first meeting would overlook the later choices through which a provisional recommendation became a public commitment. Yet spreading responsibility across a chain should not make it disappear: each stage can be asked what a reader needs in order not to mistake the kind of claim being transmitted.",
+      "The aim is not to prevent a document from travelling beyond the conversation that produced it. That travel is often the reason a record is made. It is to carry forward enough of the relevant qualifications for the claim to remain assessable in a new setting. A shorter text may consequently be less faithful than a slightly longer one, not because length is a measure of accuracy, but because the relation between words and commitments is itself part of what an accurate account must preserve. A reader should be able to tell whether a limit was verified, reported from memory or left unresolved."
+    ],
+    "questions": [
+      {
+        "prompt": "発言者本人が議事録を承認した場合でも、なお確認すべきことは何か。",
+        "options": [
+          {
+            "text": "会議を知らない読者が、当人の記憶に頼らず条件を再構成できるか",
+            "explanation": "本人は条件を覚えているため、approvalだけではabsent readerへの十分性を保証しない。"
+          },
+          {
+            "text": "承認された文書なら条件は既に全て明示されているかのように扱うこと",
+            "explanation": "文面の承認は暗黙の条件の明示の証明でない。"
+          },
+          {
+            "text": "発言者の同意を得たので外部読者の解釈は検討対象から外すこと",
+            "explanation": "recognition withinとinterpretation outsideを区別する。"
+          },
+          {
+            "text": "会議で使った単語を全て保存したかだけを数えること",
+            "explanation": "語の保存だけで発言の効力は保てない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "Recognition from within a shared context and interpretation outside it place different demands"
+      },
+      {
+        "prompt": "条件そのものを確認できない要約者の対応として、本文に最も合うものはどれか。",
+        "options": [
+          {
+            "text": "未解決の依存関係を示し、条件内容を検証済みとは見せない",
+            "explanation": "mark an unresolved dependencyと内容verifiedの外観を避けることを両立する。"
+          },
+          {
+            "text": "慎重そうな一語を加えれば、何を確認していないかは隠してよい",
+            "explanation": "vague cautionによる不確認の隠蔽と区別している。"
+          },
+          {
+            "text": "確認できない条件は推奨から削除して無条件にする",
+            "explanation": "conditional claimをより強いcommitmentへ変えてしまう。"
+          },
+          {
+            "text": "本人の記憶にあるので条件を創作して補う",
+            "explanation": "pretending to supply what is missingを退ける。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "mark an unresolved dependency without pretending to supply what is missing"
+      },
+      {
+        "prompt": "要約が引用を重ねる場合の責任について、筆者の立場に合うものはどれか。",
+        "options": [
+          {
+            "text": "最初の通訳だけでも、責任者なしの連鎖全体でもなく、各段階で主張の型を保つ条件を問う",
+            "explanation": "later choicesも調べ、spreading responsibilityで消さずeach stageを問う。"
+          },
+          {
+            "text": "後の書き手が受け取った文を正確に写せば、連鎖全体にも問題は起こらない",
+            "explanation": "各文の正確な再現と全体の条件喪失は両立する。"
+          },
+          {
+            "text": "責任を分担すれば誰にも具体的な確認義務は残らない",
+            "explanation": "should not make it disappearと明示。"
+          },
+          {
+            "text": "最初に省略した者の意図だけで外部文書の意味は決まる",
+            "explanation": "後の引用が効力を変える選択も論点。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "each stage can be asked what a reader needs"
+      },
+      {
+        "prompt": "短い文書が少し長い文書より忠実でない場合がある理由は何か。",
+        "options": [
+          {
+            "text": "文字数自体でなく、引き受けた約束の範囲を定める関係を短縮が落とし得るから",
+            "explanation": "not because length ... but because relationの対比に合う。"
+          },
+          {
+            "text": "短い文章は例外なく意味が曖昧だから",
+            "explanation": "一律に短さを悪いと評価しない。"
+          },
+          {
+            "text": "長い文章であれば条件の確認は不要になるから",
+            "explanation": "長さをaccuracyの尺度にはしない。"
+          },
+          {
+            "text": "記録は会議の外へ一切伝えてはいけないから",
+            "explanation": "travelは記録を作る理由として認める。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "the relation between words and commitments is itself part of what an accurate account must preserve"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "The proposed forum could nevertheless become another ceremony if its regular occurrence were treated as proof that the obligation had been met. A town might advertise the number of meetings held while leaving repeated requests unanswered. Conversely, a forum that produced no immediate agreement could still reveal a continuing effect which the town had previously failed to acknowledge. Neither the visibility of discussion nor the absence of consensus would, by itself, show whether the institution was responding adequately. The relevant question would concern what happened to the claims after they had been heard.",
+      "One way to make that question answerable would be to keep a public record of requests, responses and reasons for delay. A refusal could then be distinguished from a request that had silently fallen out of consideration, without assuming that every refusal was unjust. Those affected would also need a way to challenge the reasons offered, rather than merely confirm that an official had replied. Such arrangements would not settle how much material repair was owed, but they could prevent the existence of a listening process from becoming evidence that no further response was required. An institution can formally receive a complaint while remaining practically closed to what the complaint asks it to reconsider.",
+      "There would still be disagreement about which present effects could reasonably be attributed to the earlier policy. Public recognition should not exempt those claims from examination, any more than uncertainty about a particular claim should erase recognition of the wrong already acknowledged. Keeping these judgements separate would allow the town to investigate responsibilities without making the monument's legitimacy depend on accepting every later demand. The monument could retain its significance as a correction to silence while ceasing to function as a certificate of completed repair. What matters is not whether the apology can be expressed once and for all, but whether the public act makes continuing questions harder to ignore rather than easier to declare finished. Its continuing role would be tested by whether a new request could receive an explained response, not by whether another anniversary attracted a larger audience."
+    ],
+    "questions": [
+      {
+        "prompt": "定期開催の討論の場にも、記念式典と同じ問題が起こり得るのはどの場合か。",
+        "options": [
+          {
+            "text": "開催数や継続それ自体を、要求に応えた証拠として扱う場合",
+            "explanation": "regular occurrenceをobligation metのproofと扱う危険。"
+          },
+          {
+            "text": "合意がすぐに得られない事例を記録する場合",
+            "explanation": "無合意でもcontinuing effectを発見できるとする。"
+          },
+          {
+            "text": "拒否の理由を公開する場合",
+            "explanation": "公的理由を検討する仕組みとして提案する。"
+          },
+          {
+            "text": "新たな影響の証拠を検討する場合",
+            "explanation": "継続影響の検討は場の目的に合う。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "its regular occurrence were treated as proof that the obligation had been met"
+      },
+      {
+        "prompt": "すぐ合意に達しない討論の場でも有益になり得る理由は何か。",
+        "options": [
+          {
+            "text": "それまで認められなかった継続的影響を明らかにできることがある",
+            "explanation": "no immediate agreementとcould reveal ... effectを結び付ける。"
+          },
+          {
+            "text": "不一致があれば町の責任はすべて消える",
+            "explanation": "応答のadequacyは継続して検討する。"
+          },
+          {
+            "text": "合意しない人々は今後の要求を撤回したとみなせる",
+            "explanation": "沈黙や不合意を要求撤回としない。"
+          },
+          {
+            "text": "合意がないことが、そのまま全要求の正しさを証明する",
+            "explanation": "個別の帰属や要求の妥当性には別の検討が必要。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "could still reveal a continuing effect"
+      },
+      {
+        "prompt": "要求と応答の公的記録が可能にする区別は何か。",
+        "options": [
+          {
+            "text": "理由付きで拒否された要求と、黙って検討から落ちた要求",
+            "explanation": "refusalとsilently fallen out of considerationの区別。"
+          },
+          {
+            "text": "すべて正しい要求と、すべて悪意ある要求",
+            "explanation": "記録だけで全拒否の不当性を認定しない。"
+          },
+          {
+            "text": "意見を述べた住民と、責任を負わなくてよい役所",
+            "explanation": "責任免除のための分類ではない。"
+          },
+          {
+            "text": "式典に参加した人だけの権利と、参加しない人の無権利",
+            "explanation": "式典への参加で権利を区分しない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "A refusal could then be distinguished from a request that had silently fallen out of consideration"
+      },
+      {
+        "prompt": "「返事があった」と確認できるだけでは不十分なのはなぜか。",
+        "options": [
+          {
+            "text": "受理や応答の存在と、示された理由を問い直し再検討させられることは異なるから",
+            "explanation": "formally receiveとpractically closedを区別する段落の趣旨。"
+          },
+          {
+            "text": "役所の返答があれば全要求が解決するから",
+            "explanation": "手続きの存在を完了証明にしない。"
+          },
+          {
+            "text": "拒否理由を検討することは承認を否定するから",
+            "explanation": "個別理由の検討と不正の承認は両立する。"
+          },
+          {
+            "text": "記録の公開をするほど要求は不当になるから",
+            "explanation": "公開と要求の不当性の必然的関係は述べない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "rather than merely confirm that an official had replied"
+      },
+      {
+        "prompt": "承認と個々の要求の関係について、筆者が支持するのはどれか。",
+        "options": [
+          {
+            "text": "不正を認めつつ、個々の現在効果の帰属は検討し、その不確かさだけで承認を撤回しない",
+            "explanation": "claimsのexaminationとwrong already acknowledgedのrecognitionを分ける。"
+          },
+          {
+            "text": "承認した以上、後の要求はすべて検討せず受け入れる",
+            "explanation": "claimsの検討免除を否定する。"
+          },
+          {
+            "text": "個別の要求が不確かなら過去の不正も認めなくてよい",
+            "explanation": "uncertaintyがrecognitionをeraseすべきでない。"
+          },
+          {
+            "text": "承認の正当性は全ての後の要求への合意が条件である",
+            "explanation": "legitimacyをevery later demandの受容に依存させない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "Keeping these judgements separate would allow the town to investigate responsibilities"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "Imagine that members agree to share some additional costs across the whole scheme rather than charge them only to the predicted high-need group. The forecast may be useful in estimating the resources required, even though it no longer determines which group pays the difference. A defender of the model need not regard this decision as a rejection of evidence. The same prediction can inform more than one distribution, because an estimate of likely expenditure does not contain a principle specifying whose responsibility that expenditure should become.",
+      "This leaves an important objection: a shared contribution may itself impose burdens on people whose resources are limited. To acknowledge that difficulty is not to return automatically to the rule that each category must finance its predicted costs. It is to recognize that both arrangements require justification in terms of the relationships the scheme is meant to sustain. The relevant comparison concerns the effects and reasons of competing rules, not a choice between a rule grounded in facts and an alternative grounded in no facts at all.",
+      "Nor does the distinction imply that better prediction is politically unimportant. A revised estimate could show that an arrangement previously believed affordable would require resources the members cannot provide. Such information changes the options available without, by itself, selecting the fairest option among those that remain. Evidence can constrain a judgement without supplying the whole judgement.",
+      "The model's designers should therefore be able to explain what their categories predict and which decisions lie outside that prediction. If a contribution rule is presented as though it simply follows from the data, members may lose the opportunity to question a moral choice precisely because it has been described in technical language. More detailed personal information would not repair that omission unless the missing principle of distribution were also made explicit.",
+      "An institution that separates these tasks can take accuracy seriously while permitting argument about solidarity, responsibility and resources. It does not promise a method by which all such arguments will reach agreement. It makes it possible to locate a disagreement where it belongs, instead of asking a model to answer a question whose terms it was never designed to decide."
+    ],
+    "questions": [
+      {
+        "prompt": "費用の一部を全体で分担する場合でも、予測が有用であり得る理由は何か。",
+        "options": [
+          {
+            "text": "総資源量の推計と、差額の負担者を指定する原理は別だから",
+            "explanation": "same predictionが複数distributionをinformできるという追加例。"
+          },
+          {
+            "text": "共同負担を選べば予測の数値も自動的に公平になるから",
+            "explanation": "分配の公平さと数値の正確さを同一視しない。"
+          },
+          {
+            "text": "予測精度は費用の実行可能性には関係しないから",
+            "explanation": "revised estimateが選択肢を制約し得る。"
+          },
+          {
+            "text": "元の分類を使うことは共同負担の禁止を意味するから",
+            "explanation": "負担者は予測だけでは決まらない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "The same prediction can inform more than one distribution"
+      },
+      {
+        "prompt": "よりよい推計が、従来案に用意できない資源が必要だと示したときに導けることは何か。",
+        "options": [
+          {
+            "text": "実行可能な選択肢は変わり得るが、残るうち最も公平なものは別に理由付けが必要である",
+            "explanation": "options availableを変えることとfairest optionの選択を分ける。"
+          },
+          {
+            "text": "予測が残った選択肢の公平さまで自動的に順位づける",
+            "explanation": "evidence constrainsがwhole judgementを与えない。"
+          },
+          {
+            "text": "推計が改善したのだから共同負担は禁止になる",
+            "explanation": "特定の負担原理を自動選択しない。"
+          },
+          {
+            "text": "元の案は費用を知らなくても道徳的に最善だったと証明される",
+            "explanation": "費用推計から過去の道徳的優越は導けない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "Evidence can constrain a judgement without supplying the whole judgement."
+      },
+      {
+        "prompt": "共同負担にも困難があるという異議への応答として、筆者に最も近いのはどれか。",
+        "options": [
+          {
+            "text": "元の案と代案の両方を、制度が支える関係・効果・資源に照らして正当化する",
+            "explanation": "both arrangements require justificationとcompeting rulesの比較を読む。"
+          },
+          {
+            "text": "代案に一つでも難点があれば、各分類の自己負担に自動的に戻る",
+            "explanation": "does not return automaticallyと否定する。"
+          },
+          {
+            "text": "共同負担を支持するなら予測に関する事実は無視してよい",
+            "explanation": "正確さと規範的議論を両立させる。"
+          },
+          {
+            "text": "元の案だけが事実に基づき、代案は根拠を持ち得ないとする",
+            "explanation": "factsとno factsという二択を批判する。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "both arrangements require justification"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "A new assessment would first have to separate confidence from accuracy. An editor who works slowly and expresses doubt may still identify an error that a confident colleague misses; a fluent independent translation may also be wrong. The earlier test could raise a question about a change in capacity without establishing which element of performance had changed or what caused the change. Comparing work before and after automation would require attention to the difficulty of the material and to differences in the people tested, not merely to the presence or absence of the system.",
+      "The team might then examine cases in which a draft is persuasive but rests on a mistaken interpretation. Success would depend partly on recognizing when the suggestion needed to be checked independently. A test that announces in advance that every example contains an error could measure correction while giving away the very judgement whose survival matters in ordinary work. Conversely, an exercise consisting only of exceptional failures might say little about the resources needed to maintain reliable routine production. Both the selection of cases and the information given to editors would shape what could reasonably be inferred from their results.",
+      "Training could consequently preserve selected forms of independent work without attempting to recreate the entire former workflow. Time spent on such practice would need to be justified by the role it played in checking and recovering from failures, rather than by the fact that the activity had once occupied most of the day. The same scrutiny should apply to the new skill of evaluating suggestions: calling it a skill would not establish that every editor had acquired it equally well, or that it would remain adequate as the system changed. A new division of labour could create capacities as well as dependencies, both of which required evidence rather than celebration or regret alone.",
+      "The managers would therefore need an account of what level of independent judgement the organization intended to retain, how it would notice a decline and what response that decline would warrant. That account could be revised as the work changed, but revision should not make each observed result automatically acceptable. An apparently successful process may deserve confidence partly because people remain able to identify circumstances in which they should withdraw it. The purpose of assessment is then neither to prove that automation has destroyed expertise nor to certify that improved output has made independent understanding unnecessary. It is to examine whether the organization retains the means to discover where its present success stops."
+    ],
+    "questions": [
+      {
+        "prompt": "新しい評価が自信と正確さを分ける必要がある理由は何か。",
+        "options": [
+          {
+            "text": "不安を示す人が誤りを見抜くことも、流暢な独立翻訳が誤ることもあり、自信の変化だけでは能力の変化を確定できない",
+            "explanation": "二つの反例とearlier testの限界を結び付ける。"
+          },
+          {
+            "text": "不安がある編集者ほど必ず正確だから",
+            "explanation": "mayで可能性を示すので一律の優越ではない。"
+          },
+          {
+            "text": "システムを使わない翻訳なら常に正しいから",
+            "explanation": "fluent independent translation may also be wrongと述べる。"
+          },
+          {
+            "text": "以前の試験では原因を含めて全ての要素が既に確定しているから",
+            "explanation": "which element/what causeは未確定とする。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "A new assessment would first have to separate confidence from accuracy."
+      },
+      {
+        "prompt": "全例に誤りがあると事前に告げる試験の限界は何か。",
+        "options": [
+          {
+            "text": "確認が必要な状況を自ら見抜く判断を試験が先に教えてしまう",
+            "explanation": "giving away the very judgementという問題を特定する。"
+          },
+          {
+            "text": "訂正能力を全く測れなくなる",
+            "explanation": "could measure correctionは認める。"
+          },
+          {
+            "text": "通常業務の全ての故障を再現できてしまう",
+            "explanation": "全故障の再現を保証しない。"
+          },
+          {
+            "text": "自動化以前の練習時間を復活させることになる",
+            "explanation": "旧時間配分の再現の問題とは別。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "giving away the very judgement whose survival matters in ordinary work"
+      },
+      {
+        "prompt": "例外的な故障だけの演習について、妥当な評価はどれか。",
+        "options": [
+          {
+            "text": "点検能力には情報を与え得るが、信頼できる通常生産の維持に必要な資源まで十分示すとは限らない",
+            "explanation": "ordinary reliable productionのresourcesについてlittleしか示さないかもしれない。"
+          },
+          {
+            "text": "例外を含む以上、評価資料として無意味である",
+            "explanation": "例外の検討の必要も認めている。"
+          },
+          {
+            "text": "例外に正答すれば通常業務も全て無条件に安定する",
+            "explanation": "例外と日常の役割を区別する。"
+          },
+          {
+            "text": "通常業務を評価すれば故障時の判断も自動的に測れる",
+            "explanation": "普通の業務では故障の練習機会が乏しい。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "an exercise consisting only of exceptional failures might say little"
+      },
+      {
+        "prompt": "独立作業の練習時間を正当化する根拠として、筆者に最も合うものはどれか。",
+        "options": [
+          {
+            "text": "点検や故障からの回復で果たす具体的役割",
+            "explanation": "role in checking and recoveringを理由として求める。"
+          },
+          {
+            "text": "以前の一日で最も長く行われたという事実だけ",
+            "explanation": "rather than by the fact ... occupied most of the dayと対比。"
+          },
+          {
+            "text": "かつての時間配分を一切変えないこと自体",
+            "explanation": "entire former workflowを復元する必要はない。"
+          },
+          {
+            "text": "新しい技能に名前を付けたという事実だけ",
+            "explanation": "名称だけで能力の習得は証明されない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "the role it played in checking and recovering from failures"
+      },
+      {
+        "prompt": "提案を評価することを「新しい技能」と呼ぶだけでは足りないのはなぜか。",
+        "options": [
+          {
+            "text": "習得の程度が人ごとに異なり、システムの変化で十分性も変わり得るため",
+            "explanation": "equally wellな習得とremain adequate as system changedの両方を未確定とする。"
+          },
+          {
+            "text": "新技能は古い技能より必ず劣るため",
+            "explanation": "一律の優劣ではなく証拠を求める。"
+          },
+          {
+            "text": "新技能があれば独立作業は全て不要になるため",
+            "explanation": "保持すべき独立判断も検討する。"
+          },
+          {
+            "text": "技能は通常の成果には関係しないため",
+            "explanation": "成果と能力の関係こそ評価対象。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "calling it a skill would not establish that every editor had acquired it equally well"
+      },
+      {
+        "prompt": "一見成功している過程への信頼と、信頼を撤回できる能力が両立するのはなぜか。",
+        "options": [
+          {
+            "text": "限界の現れる状況を識別できること自体が、条件付きの信頼を支える根拠になり得る",
+            "explanation": "because people remain able ... withdraw itという因果を読む。"
+          },
+          {
+            "text": "成功が続けば評価や再検討が不要になる",
+            "explanation": "現成功のどこまでかを発見する手段を保つ。"
+          },
+          {
+            "text": "信頼を撤回し得るなら成功の証拠はすべて無価値になる",
+            "explanation": "信頼と批判能力を対立させない。"
+          },
+          {
+            "text": "全ての結果を受容可能にする改定が信頼の条件だから",
+            "explanation": "改定でeach result automatically acceptableにしてはいけない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "people remain able to identify circumstances in which they should withdraw it"
+      }
+    ]
+  }
+]

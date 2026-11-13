@@ -1,0 +1,57 @@
+{
+  "batch": "l4-next5-v2",
+  "baseCommit": "230835cf39157650d6603bc0b1b2395f97d54c57",
+  "humanReviewed": 0,
+  "passages": [
+    {
+      "id": "reading-l4-f06-06",
+      "words": 619,
+      "paragraphs": 6,
+      "questions": 8,
+      "sentences": 30,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "81b43bdae03737637151f461b76d32d15a807a3332e1104a3c82720bca41ac9a"
+    },
+    {
+      "id": "reading-l4-f06-07",
+      "words": 613,
+      "paragraphs": 7,
+      "questions": 7,
+      "sentences": 32,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "474f6c57c1ab07a220090a9c558ff9ac158bb04c63dce7a19e03bb050a141d65"
+    },
+    {
+      "id": "reading-l4-f06-08",
+      "words": 610,
+      "paragraphs": 6,
+      "questions": 8,
+      "sentences": 29,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "2502696b51cb1db0a5c2a7b0072d25f52b3b677936476a5f62d4f5687a2774f4"
+    },
+    {
+      "id": "reading-l4-f06-09",
+      "words": 616,
+      "paragraphs": 8,
+      "questions": 6,
+      "sentences": 31,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "6030ffce7edb82fbe21078095398edcf258c6d609a72c1899404c193d53cff23"
+    },
+    {
+      "id": "reading-l4-f06-10",
+      "words": 671,
+      "paragraphs": 7,
+      "questions": 9,
+      "sentences": 32,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "fa65ff89207bafa2c76019b63d9afddcbad704d824187b9776720b1eb72872ab"
+    }
+  ]
+}
