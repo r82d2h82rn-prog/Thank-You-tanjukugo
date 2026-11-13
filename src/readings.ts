@@ -5,7 +5,7 @@ export interface ReadingQuestion { id: string; prompt: string; options: { id: st
 export interface SyntaxNode { depth?:number; kind?:string; id: string; role: 'S'|'V'|'O'|'C'|'M'|'clause'|'phrase'; text: string; start: number; end: number }
 export interface ReadingSyntax { sentenceId?:string; skeleton?:string; grammarPoints?:string[]; readingOrder?:string; id: string; paragraphId: string; sentence: string; start: number; end: number; translation: string; explanation: string; spans: SyntaxNode[]; relations: {from:string;to:string;type:string}[] }
 export interface ReadingDifficulty { scores: { vocabulary:number; syntax:number; logic:number; questions:number }; method:string; status:string; rationale?:string }
-export interface Passage { reviewParagraphs?:Paragraph[]; reviewWordCount?:number; difficulty?: ReadingDifficulty; id: string; level: Level; format: number; title: string; paragraphs: Paragraph[]; questions: ReadingQuestion[]; syntax: ReadingSyntax[]; recommendedSeconds: number; wordCount: number; vocabulary: {english:string;meaning:string}[]; paragraphOrder?: string[]; insert?: {sentence:string;translation:string} }
+export interface Passage { exerciseParagraphs?:Paragraph[]; reviewEvidence?:Record<string,ReadingQuestion['evidence']>; reviewParagraphs?:Paragraph[]; reviewWordCount?:number; difficulty?: ReadingDifficulty; id: string; level: Level; format: number; title: string; paragraphs: Paragraph[]; questions: ReadingQuestion[]; syntax: ReadingSyntax[]; recommendedSeconds: number; wordCount: number; vocabulary: {english:string;meaning:string}[]; paragraphOrder?: string[]; insert?: {sentence:string;translation:string} }
 export interface ReadingAttempt { contentVersion?:number; questionIds?:string[]; id: string; correct: number; total: number; elapsedSeconds: number; submittedAt: string; answers: Record<string,string> }
 export interface ReadingRecord { archivedAttempts?:ReadingAttempt[]; attempts: number; first: ReadingAttempt; best: ReadingAttempt; latest: ReadingAttempt }
 export interface ReadingState { unlockedByLevel: Partial<Record<Level,string[]>>; records: Record<string,ReadingRecord> }
@@ -40,6 +40,9 @@ export const duration = (s:number) => `${Math.floor(s/60)}:${String(Math.floor(s
 
 // Review text is selected only after submission; question text retains its gaps.
 export function readingParagraphs(p:Passage,submitted:boolean):Paragraph[] {
- const paragraphs=submitted?(p.reviewParagraphs??p.paragraphs):p.paragraphs;
+ const paragraphs=submitted?(p.reviewParagraphs??p.paragraphs):(p.exerciseParagraphs??p.paragraphs);
  return submitted&&p.paragraphOrder?p.paragraphOrder.map(id=>{const para=paragraphs.find(x=>x.id===id);if(!para)throw new Error('段落IDの対応がありません');return para;}):paragraphs;
 }
+
+// Current display coordinates can differ from the immutable source evidence.
+export const readingQuestionEvidence=(p:Passage,q:ReadingQuestion):ReadingQuestion['evidence']=>p.reviewEvidence?.[q.id]??q.evidence;
