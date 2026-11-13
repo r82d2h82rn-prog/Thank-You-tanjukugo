@@ -1,9 +1,11 @@
 import {test,expect} from '@playwright/test';
 import data from '../content/readings/enriched.json';
-for(const p of [data[0],...data.filter(p=>p.level===2)])test(`one page scroller restores tabs and displays final sentence: ${p.id}`,async({page})=>{
+import level3 from '../content/readings/enriched-level3.json';
+import {readingCatalog} from '../src/readingCatalog';
+for(const p of [data[0],...data.filter(p=>p.level===2),...level3])test(`one page scroller restores tabs and displays final sentence: ${p.id}`,async({page})=>{
  await page.setViewportSize({width:390,height:844});
  await page.goto('/');await page.getByRole('tab',{name:'長文読解',exact:true}).click();
- await page.getByRole('button',{name:`長文読解 LEVEL ${p.level} · 100題`,exact:true}).click();
+ await page.getByRole('button',{name:`長文読解 LEVEL ${p.level} · ${readingCatalog.filter(x=>x.level===p.level).length}題`,exact:true}).click();
  await page.getByRole('button',{name:`${p.title}を選ぶ`,exact:true}).click();await page.getByRole('button',{name:'この長文を無料解放する',exact:true}).click();
  const scroll=page.getByTestId('reading-page-scroll');await expect(scroll).toBeVisible();
  const body=page.getByTestId('reading-body-pane');await expect(body).toBeVisible();

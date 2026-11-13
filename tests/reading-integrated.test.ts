@@ -1,6 +1,9 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import enriched from '../content/readings/enriched.json';
+import lowerEnriched from '../content/readings/enriched.json';
+import upperEnriched from '../content/readings/enriched-level3.json';
+import advanced from '../content/readings/advanced.json';
+const enriched=[...lowerEnriched,...upperEnriched];
 import legacy from '../content/readings/drafts.json';
 import { sentenceRanges } from '../src/readingSentences';
 import { gradeReading, recordReading, readingParagraphs } from '../src/readings';
@@ -12,7 +15,7 @@ test('sentence splitting keeps abbreviations, decimal numbers and quoted endings
 });
 test('preserved revision texts have aligned translations and syntax for every sentence',()=>{
  for(const p of enriched){
-  const old=legacy.find(x=>x.id===p.id)!;assert.equal(p.content.contentVersion,old.content.contentVersion+1);
+  const old=[...legacy,...advanced].find(x=>x.id===p.id)!;assert.equal(p.content.contentVersion,old.content.contentVersion+1);
   assert.deepEqual(p.questions.slice(0,old.questions.length),old.questions);
   assert.deepEqual(p.paragraphs.slice(0,old.paragraphs.length).map(x=>({id:x.id,english:x.english})),old.paragraphs.map(x=>({id:x.id,english:x.english})));
   assert.equal(new Set(p.paragraphs.map(x=>x.id)).size,p.paragraphs.length);
