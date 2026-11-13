@@ -1,0 +1,57 @@
+{
+  "batch": "l3-next5-v2",
+  "baseCommit": "969a4b1aa076025509a0b7294a80310b8206e277",
+  "humanReviewed": 0,
+  "passages": [
+    {
+      "id": "reading-l3-f01-06",
+      "words": 436,
+      "paragraphs": 5,
+      "questions": 6,
+      "sentences": 26,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "3e36649972318481bcc2a559dba85dc453152ba0e039c52756472f1a7f2e993a"
+    },
+    {
+      "id": "reading-l3-f01-07",
+      "words": 452,
+      "paragraphs": 6,
+      "questions": 7,
+      "sentences": 25,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "949fc8d083478662358d7e3a58ba02ed2b5f153f4e160a69d863452c676fe71c"
+    },
+    {
+      "id": "reading-l3-f01-08",
+      "words": 445,
+      "paragraphs": 5,
+      "questions": 8,
+      "sentences": 24,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "9cbfe0e1338bd86de4a956c9a18be577c08abbffd9b8a5a6d7a8723ffbbf545a"
+    },
+    {
+      "id": "reading-l3-f01-09",
+      "words": 463,
+      "paragraphs": 7,
+      "questions": 5,
+      "sentences": 27,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "d832857d4407eceded4c3067ebe330b04385344ec64cfc390f70f905d08fde7c"
+    },
+    {
+      "id": "reading-l3-f01-10",
+      "words": 441,
+      "paragraphs": 6,
+      "questions": 7,
+      "sentences": 25,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "144ea57b2573ffd288dde4deb3a8c78457dd90c3833b6f6cf6f1070522c13ba1"
+    }
+  ]
+}

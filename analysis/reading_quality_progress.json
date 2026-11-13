@@ -61,7 +61,7 @@
         0,
         0
       ],
-      "sentenceAlignedTranslationAndSyntaxEnriched": 5
+      "sentenceAlignedTranslationAndSyntaxEnriched": 10
     },
     "4": {
       "authored": 10,
@@ -88,5 +88,5 @@
   "protectedExistingRecords": 200,
   "complete": false,
   "note": "構造検証と意味・難易度の編集確認は別工程。既存200題の評価は自動一次評価、確定品質確認は未完了。",
-  "currentPriority": "LEVEL2/3/4の06〜10。LEVEL2の5題を補完、LEVEL3・4は継続作業。既存30改訂は保持。"
+  "currentPriority": "LEVEL2/3の06〜10を補完済み。今回15題のうち残るLEVEL4の06〜10を継続。人間校閲と実機確認は未完了。"
 }

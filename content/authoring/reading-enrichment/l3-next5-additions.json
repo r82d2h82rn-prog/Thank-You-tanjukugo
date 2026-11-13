@@ -1,0 +1,460 @@
+[
+  {
+    "paragraphs": [
+      "The clinic next tested whether the same amount of spare time should be reserved on every day. A quiet morning and an afternoon with several complex appointments did not necessarily require identical arrangements. Rather than protecting a fixed number of empty slots without explanation, staff recorded when extra time was used and what happened when it was not. This allowed them to ask whether a particular gap represented poor organization or a capacity whose benefit was difficult to see on an ordinary day. A reserve could be justified without being useful at every moment, just as a resource could be idle without being justified.",
+      "There was also a distributional question: whose appointment was delayed when an urgent case arrived? A system might protect its overall average by repeatedly moving the same kind of routine visit. The managers therefore examined which patients experienced the delays, not merely how many delays occurred. The trial did not produce a timetable that could absorb every surprise. It made the choices involved in providing a margin of safety more explicit, so that a low occupancy figure or a short average wait would no longer be accepted as a complete account of how the clinic was serving its patients."
+    ],
+    "questions": [
+      {
+        "prompt": "余裕時間の確保について、試行が問い直した前提は何か。",
+        "options": [
+          {
+            "text": "毎日同じ量を一律に空ければ適切だという前提",
+            "explanation": "静かな朝と複雑な予約の午後では必要な配置が異なり得ると検討した。"
+          },
+          {
+            "text": "予定表に空きが一切存在しないという前提",
+            "explanation": "初期の満杯状態の後、余力の配分を検討している。"
+          },
+          {
+            "text": "職員が診察時間を計測できないという前提",
+            "explanation": "記録を取りながら比較する設定である。"
+          },
+          {
+            "text": "緊急の診察が必ず同じ時刻に来るという前提",
+            "explanation": "緊急事例の時刻の一律性は前提としていない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "whether the same amount of spare time should be reserved on every day"
+      },
+      {
+        "prompt": "全体の平均待ち時間だけでは見落とし得ることはどれか。",
+        "options": [
+          {
+            "text": "同じ種類の通常診療が繰り返し延期される負担の偏り",
+            "explanation": "平均を守るため同じroutine visitを動かす例が分布の問題を示す。"
+          },
+          {
+            "text": "全ての患者の待ち時間が必ずゼロになること",
+            "explanation": "平均が短いことから全員ゼロは導けない。"
+          },
+          {
+            "text": "空き時間が必ず無駄になること",
+            "explanation": "余力の機能の有無は別に検討する。"
+          },
+          {
+            "text": "職員がすべての予約を忘れること",
+            "explanation": "予約忘れの事例ではない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "repeatedly moving the same kind of routine visit"
+      },
+      {
+        "prompt": "余力の正当性について、筆者の立場に最も合うものはどれか。",
+        "options": [
+          {
+            "text": "常時使われない余力にも理由はあり得るが、未使用であるだけで確保を正当化もできない",
+            "explanation": "reserve could be justified without being usefulとresource idle without justifiedの両方を読む。"
+          },
+          {
+            "text": "未使用の時間は例外なく削るべきだ",
+            "explanation": "余力の予備機能を否定してしまう。"
+          },
+          {
+            "text": "空き枠なら使われ方を説明せず増やすべきだ",
+            "explanation": "理由なく固定枠を守ることと区別している。"
+          },
+          {
+            "text": "一度役立った余力は以後の評価が不要になる",
+            "explanation": "使用時・非使用時を継続記録した。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "A reserve could be justified without being useful at every moment"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "The revised consultation raised a new difficulty when the committee tried to summarize the late responses. One suggestion was to give each street equal weight, regardless of how many people lived there. That would make a previously overlooked street more visible, but it could also give a small street as much influence as a much larger one. Correcting an obstacle to participation did not by itself establish a fair rule for combining the resulting views.",
+      "The planner asked the committee to separate two questions: whether people had a reasonable opportunity to respond, and how different interests should be weighed once expressed. A resident who spoke at the meeting could describe an experience without being treated as the representative of everyone on the same street. Likewise, an online majority could be relevant without deciding every question about the distribution of the barrier's benefits and costs.",
+      "The final summary therefore reported how comments had been obtained as well as what they said. It identified concerns that remained contested and explained why the committee gave some considerations priority. The revised process did not make a difficult choice disappear. It made it harder to present a decision about competing interests as though it followed automatically from a count whose limits nobody needed to discuss."
+    ],
+    "questions": [
+      {
+        "prompt": "通りごとに同じ重みを与える案に残る問題は何か。",
+        "options": [
+          {
+            "text": "住民数の違う通りの影響力を等しくしてしまい得る",
+            "explanation": "小さい通りと大きい通りの人数差を無視した重み付けの問題。"
+          },
+          {
+            "text": "見落とされた通りを可視化できない",
+            "explanation": "可視化する効果自体は認めている。"
+          },
+          {
+            "text": "オンラインの回答を集められなくなる",
+            "explanation": "回答経路の廃止を述べていない。"
+          },
+          {
+            "text": "全員の参加が自動的に保証される",
+            "explanation": "全員参加の保証は依然ない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "a small street as much influence as a much larger one"
+      },
+      {
+        "prompt": "参加機会の改善と別に検討すべき問いは何か。",
+        "options": [
+          {
+            "text": "表明された異なる利益をどう重み付けするか",
+            "explanation": "二問目はhow different interests should be weighedという集約の基準。"
+          },
+          {
+            "text": "同じ通りの住民は全員同じ意見かと決めつけること",
+            "explanation": "代表性を自動付与しない。"
+          },
+          {
+            "text": "反対意見を記録しない方法は何か",
+            "explanation": "意見を排除することを提案していない。"
+          },
+          {
+            "text": "最初の多数意見だけを保存する方法は何か",
+            "explanation": "最終要約は収集方法と残る争点を示す。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "how different interests should be weighed once expressed"
+      },
+      {
+        "prompt": "会合で発言した一人について妥当な扱いはどれか。",
+        "options": [
+          {
+            "text": "経験を証拠として聞きつつ同じ通りの全員の代表とは自動的にみなさない",
+            "explanation": "experienceの記述とrepresentativeの地位を区別する例。"
+          },
+          {
+            "text": "発言したので全員の希望を一票で確定したとする",
+            "explanation": "一人の経験を全員の意見へ拡張している。"
+          },
+          {
+            "text": "少数の発言なので内容を検討しない",
+            "explanation": "経験の有用性を否定していない。"
+          },
+          {
+            "text": "オンライン回答の全てより必ず優先する",
+            "explanation": "参加経路だけで一律の優先を与えていない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "without being treated as the representative of everyone on the same street"
+      },
+      {
+        "prompt": "最終要約で収集方法や優先理由も説明した意義はどれか。",
+        "options": [
+          {
+            "text": "競合する利益の選択を、限界を問わない単なる集計の自動的帰結に見せない",
+            "explanation": "最後の二文は難しい選択を残しつつ、countからの自動決定という外観を避ける。"
+          },
+          {
+            "text": "全ての争点を解決したと証明する",
+            "explanation": "remained contestedとあり未決の懸念が残る。"
+          },
+          {
+            "text": "人数を数えることを完全に放棄する",
+            "explanation": "数えることは必要と認める。"
+          },
+          {
+            "text": "いかなる計画も決められないと結論づける",
+            "explanation": "優先するconsiderationsについて理由を示して決定する。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "as though it followed automatically from a count whose limits nobody needed to discuss"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "To see whether the map would remain useful, volunteers repeated some paired measurements after the sensors had been used for several months. A device that had worked consistently at the beginning might change as it aged, and a correction appropriate to one range of humidity might not work equally well in another. The team therefore kept the original readings alongside the adjusted values and recorded when each device had been checked. This made later revisions possible without pretending that the first map had been a final description. It also allowed a new volunteer to distinguish a measured value from a value produced through an adjustment.",
+      "A further discussion concerned where to investigate next. The largest number on the map was not automatically the most urgent question, since a doubtful reading could be large for reasons unrelated to local pollution. Conversely, uncertainty was not a reason to ignore a street about which the official network supplied little information. The group used both the possible seriousness of a local difference and the need for a better comparison to plan further work. Residents and officials still disagreed about some priorities, but they could now locate part of that disagreement in the evidence required, rather than in a simple choice between trusting citizens and trusting experts."
+    ],
+    "questions": [
+      {
+        "prompt": "使用開始から数か月後に同地点の測定比較を繰り返した理由は何か。",
+        "options": [
+          {
+            "text": "経年で機器の特性が変わり、補正の有効範囲にも限界があり得るため",
+            "explanation": "agedによる変化とrange of humidityごとの補正差を確認する。"
+          },
+          {
+            "text": "安価な計器を公式計器と同じ価格にするため",
+            "explanation": "価格変更の計画ではない。"
+          },
+          {
+            "text": "地域の全測定を一つの数値へ統合するため",
+            "explanation": "地点の差を検討する役割を保つ。"
+          },
+          {
+            "text": "湿度が汚染に無関係だと最初から決めるため",
+            "explanation": "湿度の影響の程度を検討している。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "might change as it aged"
+      },
+      {
+        "prompt": "元の測定値と調整後の値を一緒に残した効果は何か。",
+        "options": [
+          {
+            "text": "加工の過程を区別して、後の再検討や引継ぎを可能にする",
+            "explanation": "revisionsとnew volunteerによる由来の区別を支える。"
+          },
+          {
+            "text": "元の値を全て誤りとして捨てる",
+            "explanation": "original readingsも保存する。"
+          },
+          {
+            "text": "補正値が最終的真実だと保証する",
+            "explanation": "first mapをfinal descriptionと装わない。"
+          },
+          {
+            "text": "新しい担当者が記録の由来を知らなくてもよくする",
+            "explanation": "測定値と調整値を区別できるようにする。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "kept the original readings alongside the adjusted values"
+      },
+      {
+        "prompt": "地図の最大数値を自動的に最優先としなかった理由は何か。",
+        "options": [
+          {
+            "text": "地域の汚染と無関係な要因でも疑わしい値が大きくなり得る",
+            "explanation": "数値の大きさとlocal pollutionを示す確かさを分ける。"
+          },
+          {
+            "text": "大きい数値は必ず故障であり調査不要だから",
+            "explanation": "無条件の故障認定ではなく比較の必要性を考える。"
+          },
+          {
+            "text": "市民が設置した地点は全て安全だから",
+            "explanation": "安全性を一律に保証していない。"
+          },
+          {
+            "text": "公式測定所から遠い場所は重要でないから",
+            "explanation": "公式網から情報が少ない場所も無視しない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "a doubtful reading could be large for reasons unrelated to local pollution"
+      },
+      {
+        "prompt": "不確実な値しかない通りを直ちに無視しなかった理由は何か。",
+        "options": [
+          {
+            "text": "公式網の情報が乏しい場所では、不確実性自体がよりよい比較の必要を示し得る",
+            "explanation": "uncertaintyを放置の理由にせずbetter comparisonの必要へ結び付ける。"
+          },
+          {
+            "text": "不確実な数値は精密な測定より常に優れている",
+            "explanation": "精度の優劣の逆転を一律に主張しない。"
+          },
+          {
+            "text": "住民の希望は測定結果より必ず正しい",
+            "explanation": "住民もqualificationを学ぶ。"
+          },
+          {
+            "text": "不確実さがあれば汚染がないと証明できる",
+            "explanation": "不確実性から不在の証明は導けない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "uncertainty was not a reason to ignore a street"
+      },
+      {
+        "prompt": "終段落での不一致の変化として最も適切なのはどれか。",
+        "options": [
+          {
+            "text": "市民か専門家かの権威の二択から、何の証拠を追加すべきかの具体的な検討へ移った",
+            "explanation": "evidence requiredにdisagreementの一部を位置付けられた。"
+          },
+          {
+            "text": "住民と当局が全ての優先順位で一致した",
+            "explanation": "still disagreedと明記する。"
+          },
+          {
+            "text": "専門家が精度の議論をしなくなった",
+            "explanation": "精度と調整の検討を続ける。"
+          },
+          {
+            "text": "市民が全ての調整値を拒否した",
+            "explanation": "元の値と調整値の双方を記録する。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "rather than in a simple choice between trusting citizens and trusting experts"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "The library then faced a practical objection: nearly any little-used book could be defended by imagining someone who might need it later. Unless that possibility was connected to a more specific purpose, it could prevent every decision to make room for new material. A future use mattered, but the mere ability to invent one did not settle the choice.",
+      "The librarian asked for examples of planned activities and checked whether equivalent material was available elsewhere. A replacement that could only be consulted at a distant archive was not the same as one easily accessible to local students. Nor did a digital copy necessarily preserve every feature that a particular research question required.",
+      "Some items were retained for a defined review period while further evidence of use was collected. This avoided pretending that a decision made under uncertainty had to be permanent. It also required the library to state what later information could change its judgement, rather than repeatedly postpone the decision without a reason.",
+      "A collection policy could thus acknowledge uses that borrowing figures missed while still accepting limits of space and money. The point was not to replace a simple number with an equally simple appeal to possible value. It was to make the comparison between purposes and alternatives visible enough for both preservation and removal to require an explanation."
+    ],
+    "questions": [
+      {
+        "prompt": "将来利用を想像できるという理由だけで保存を決めないのはなぜか。",
+        "options": [
+          {
+            "text": "ほぼ全ての本に同じ理由を付けられ、新資料の場所を作る判断ができなくなり得るから",
+            "explanation": "具体的目的につながらない可能性がevery decisionを妨げるという反論。"
+          },
+          {
+            "text": "将来の利用は現在の方針に一切関係しないから",
+            "explanation": "future use matteredと明示する。"
+          },
+          {
+            "text": "貸出数以外の情報を集めることはできないから",
+            "explanation": "館内調査や計画活動の例を集める。"
+          },
+          {
+            "text": "珍しい本の価値は全て人気小説より低いから",
+            "explanation": "同一尺度で一律に比較しない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "nearly any little-used book could be defended by imagining someone who might need it later"
+      },
+      {
+        "prompt": "期限付きで一部を残す判断が、単なる先延ばしと異なる条件はどれか。",
+        "options": [
+          {
+            "text": "後のどんな情報なら判断を変えるかを明示する",
+            "explanation": "what later information could change its judgementを述べることが必要。"
+          },
+          {
+            "text": "期限を何度でも理由なく延長する",
+            "explanation": "without a reasonの延期と明確に対比。"
+          },
+          {
+            "text": "最初の保存判断を永久に固定する",
+            "explanation": "permanentと装うのを避ける。"
+          },
+          {
+            "text": "代替資料の利用しやすさは考慮しない",
+            "explanation": "距離や電子複製の違いを考慮する。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "what later information could change its judgement"
+      }
+    ]
+  },
+  {
+    "paragraphs": [
+      "During the next season, unusually dry weather made one agreed water-level goal difficult to meet. Some members proposed lowering the goal immediately, while others insisted that any revision would abandon the project. The ecologist distinguished a reason to reconsider the plan from evidence that the existing aim no longer mattered. Dry conditions could explain a disappointing observation without proving either that the work had failed completely or that the goal should be rewritten to match the result.",
+      "The group compared what had changed outside the site with what its own interventions could reasonably influence. It also asked whether a proposed revision would improve the wetland's ability to function under future conditions or merely improve the appearance of the report. A change could be justified, but only through an account of why the new aim remained connected to the purposes for which restoration had been undertaken.",
+      "The revised record kept the earlier goal, the observation and the reason for any alteration together. This allowed later reviewers to see a sequence of decisions instead of a story in which every outcome seemed to have been intended from the start. Historical evidence and new observations both informed the work, but neither relieved the group of explaining which commitments it was retaining and which it had decided to change."
+    ],
+    "questions": [
+      {
+        "prompt": "乾燥による目標未達について、本文が支持する解釈はどれか。",
+        "options": [
+          {
+            "text": "観察結果を説明する要因にはなるが、事業の全面失敗や目標変更の正当性を直ちに証明しない",
+            "explanation": "explain observationとprove failure/rewrite goalを区別する。"
+          },
+          {
+            "text": "外的要因があればどの結果も成功と数えてよい",
+            "explanation": "どの結果でも自然とする主張を退ける。"
+          },
+          {
+            "text": "目標は一度未達なら自動的に下げるべきだ",
+            "explanation": "lowering immediatelyという対応を検討対象にしている。"
+          },
+          {
+            "text": "改定は全て事業の放棄に等しい",
+            "explanation": "条件付きで変更の正当化を認める。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "without proving either that the work had failed completely or that the goal should be rewritten"
+      },
+      {
+        "prompt": "改定の妥当性を検討する問いとして適切なのはどれか。",
+        "options": [
+          {
+            "text": "将来条件下での湿地の機能を改善するか、それとも報告の見栄えだけを改善するか",
+            "explanation": "ability to functionとappearance of reportを対比する。"
+          },
+          {
+            "text": "過去の目標を記録から完全に消せるか",
+            "explanation": "earlier goalを記録に残す。"
+          },
+          {
+            "text": "どんな結果も当初の意図と呼べるか",
+            "explanation": "事後的な意図の物語を避ける。"
+          },
+          {
+            "text": "乾燥という原因があれば監視をやめてよいか",
+            "explanation": "監視と比較を続けて判断する。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "or merely improve the appearance of the report"
+      },
+      {
+        "prompt": "以前の目標・観察・変更理由をまとめて残す意義は何か。",
+        "options": [
+          {
+            "text": "後の評価者が実際の決定の経緯を追い、全結果が初めから意図されたという物語を避けられる",
+            "explanation": "sequence of decisionsと意図されたように見えるstoryを対比する。"
+          },
+          {
+            "text": "昔の目標を永遠に変えられなくする",
+            "explanation": "理由付きの変更を認める。"
+          },
+          {
+            "text": "新しい観察を過去の写真より必ず優先する",
+            "explanation": "証拠の一律な優先順位を定めていない。"
+          },
+          {
+            "text": "以前の失敗を新目標で見えなくする",
+            "explanation": "観察と旧目標の関係を明示して隠さない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "instead of a story in which every outcome seemed to have been intended from the start"
+      },
+      {
+        "prompt": "事業目的との関係について、筆者の立場に最も合う変更はどれか。",
+        "options": [
+          {
+            "text": "元の目的とのつながりを示し、維持する約束と変える約束の理由を説明する",
+            "explanation": "purposesとのconnectionと最後の説明責任を満たす。"
+          },
+          {
+            "text": "達成したように見えるよう観察後に指標を選び直す",
+            "explanation": "reportの見栄えだけの改善を疑問視する。"
+          },
+          {
+            "text": "過去の資料があれば現在の目標を説明する必要はないとする",
+            "explanation": "historical evidenceも説明責任を免除しない。"
+          },
+          {
+            "text": "新しい観察が一つあれば旧目標はすべて無効とする",
+            "explanation": "全面失敗・一律改変を直ちに導かない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "why the new aim remained connected to the purposes"
+      }
+    ]
+  }
+]
