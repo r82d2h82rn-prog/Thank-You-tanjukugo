@@ -1,0 +1,42 @@
+{
+  "productionCommit": "d4b18c1841488dbd596aacd2d9dc27d011cc0c56",
+  "branch": "main",
+  "state": "success",
+  "deploymentUrl": "https://vercel.com/yukitoshis-projects-2c28f209/tanjukugo/6LLo8C1WztRzFaFfNQmYsFFfWBVh",
+  "statusId": 58810239141,
+  "completedAt": "2026-11-13T05:25:24Z",
+  "currentRequest": {
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "passagesPerLevel": 5,
+    "ids": "06–10",
+    "revisedPassages": 15,
+    "alignedSentences": 372,
+    "questions": 100
+  },
+  "cumulative": {
+    "level1": 15,
+    "level2": 10,
+    "level3": 10,
+    "level4": 10,
+    "passages": 45,
+    "alignedSentences": 937
+  },
+  "checks": {
+    "typescriptTests": 39,
+    "pythonTests": 16,
+    "typecheck": "passed",
+    "webBuild": "passed",
+    "structuralErrors": 0,
+    "githubFilesRefetched": "exact content match in all three batches",
+    "existingSources": "byte-identical to pre-task commit"
+  },
+  "limitations": {
+    "independentHumanReview": 0,
+    "localBrowser": "Chromium socket() Operation not permitted",
+    "cloudBrowser": "Preview navigation timed out; actual screen interaction not verified"
+  }
+}
