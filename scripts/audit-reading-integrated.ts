@@ -4,7 +4,8 @@ import { readingParagraphs } from '../src/readings';
 import { sentenceRanges } from '../src/readingSentences';
 import lowerEnriched from '../content/readings/enriched.json';
 import upperEnriched from '../content/readings/enriched-level3.json';
-const enriched=[...lowerEnriched,...upperEnriched];
+import highestEnriched from '../content/readings/enriched-level4.json';
+const enriched=[...lowerEnriched,...upperEnriched,...highestEnriched];
 const distribution=(xs:number[])=>Object.fromEntries([...new Set(xs)].sort((a,b)=>a-b).map(v=>[v,xs.filter(x=>x===v).length]));
 const report={baseCommit:'c50c06942d867856ceb8fec12dddd82d127861b5',scope:`220 saved readings; ${enriched.length} enriched, not full completion`,humanReviewed:0,levels:{} as Record<string,unknown>,passages:[] as unknown[]};
 for(const level of [1,2,3,4]){

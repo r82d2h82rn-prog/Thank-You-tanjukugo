@@ -82,11 +82,11 @@
         0,
         0
       ],
-      "sentenceAlignedTranslationAndSyntaxEnriched": 0
+      "sentenceAlignedTranslationAndSyntaxEnriched": 5
     }
   },
   "protectedExistingRecords": 200,
   "complete": false,
   "note": "構造検証と意味・難易度の編集確認は別工程。既存200題の評価は自動一次評価、確定品質確認は未完了。",
-  "currentPriority": "ユーザー訂正：LEVEL3先行5題を補完。各LEVEL先行10題の比較を目指す。既存LEVEL1=15・LEVEL2=5を保持。人間校閲と実機確認は未完了。"
+  "currentPriority": "LEVEL4先行5題を補完。LEVEL1=15・LEVEL2=5・LEVEL3=5を保持し、全改訂30題を本番公開する。正式人間校閲は未完了。"
 }

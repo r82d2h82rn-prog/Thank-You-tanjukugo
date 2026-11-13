@@ -1,6 +1,6 @@
 {
   "baseCommit": "c50c06942d867856ceb8fec12dddd82d127861b5",
-  "scope": "220 saved readings; 25 enriched, not full completion",
+  "scope": "220 saved readings; 30 enriched, not full completion",
   "humanReviewed": 0,
   "levels": {
     "1": {
@@ -77,19 +77,27 @@
       "readings": 10,
       "wordRange": [
         251,
-        269
+        625
       ],
       "paragraphDistribution": {
-        "3": 10
+        "3": 5,
+        "6": 2,
+        "7": 1,
+        "8": 1,
+        "9": 1
       },
       "questionDistribution": {
-        "3": 10
+        "3": 5,
+        "6": 1,
+        "7": 2,
+        "8": 1,
+        "9": 1
       },
-      "sentences": 136,
-      "fullyMatchedSyntax": 10,
-      "syntaxRate": 0.07352941176470588,
-      "explicitSentenceTranslations": 0,
-      "explicitSentenceTranslationRate": 0
+      "sentences": 215,
+      "fullyMatchedSyntax": 151,
+      "syntaxRate": 0.7023255813953488,
+      "explicitSentenceTranslations": 146,
+      "explicitSentenceTranslationRate": 0.6790697674418604
     }
   },
   "passages": [
@@ -2826,67 +2834,67 @@
     {
       "id": "reading-l4-f06-01",
       "level": 4,
-      "words": 261,
-      "paragraphs": 3,
-      "questions": 3,
-      "sentences": 13,
-      "syntaxCorrespondence": 1,
-      "explicitSentenceTranslations": 0,
-      "paragraphTranslations": 3,
-      "translationMeaningReview": "not sentence-aligned; semantic audit pending",
-      "revisionCandidate": true
+      "words": 610,
+      "paragraphs": 6,
+      "questions": 7,
+      "sentences": 28,
+      "syntaxCorrespondence": 28,
+      "explicitSentenceTranslations": 28,
+      "paragraphTranslations": 6,
+      "translationMeaningReview": "AI checked; human pending",
+      "revisionCandidate": false
     },
     {
       "id": "reading-l4-f06-02",
       "level": 4,
-      "words": 258,
-      "paragraphs": 3,
-      "questions": 3,
-      "sentences": 13,
-      "syntaxCorrespondence": 1,
-      "explicitSentenceTranslations": 0,
-      "paragraphTranslations": 3,
-      "translationMeaningReview": "not sentence-aligned; semantic audit pending",
-      "revisionCandidate": true
+      "words": 616,
+      "paragraphs": 7,
+      "questions": 8,
+      "sentences": 29,
+      "syntaxCorrespondence": 29,
+      "explicitSentenceTranslations": 29,
+      "paragraphTranslations": 7,
+      "translationMeaningReview": "AI checked; human pending",
+      "revisionCandidate": false
     },
     {
       "id": "reading-l4-f06-03",
       "level": 4,
-      "words": 265,
-      "paragraphs": 3,
-      "questions": 3,
-      "sentences": 13,
-      "syntaxCorrespondence": 1,
-      "explicitSentenceTranslations": 0,
-      "paragraphTranslations": 3,
-      "translationMeaningReview": "not sentence-aligned; semantic audit pending",
-      "revisionCandidate": true
+      "words": 625,
+      "paragraphs": 8,
+      "questions": 6,
+      "sentences": 29,
+      "syntaxCorrespondence": 29,
+      "explicitSentenceTranslations": 29,
+      "paragraphTranslations": 8,
+      "translationMeaningReview": "AI checked; human pending",
+      "revisionCandidate": false
     },
     {
       "id": "reading-l4-f06-04",
       "level": 4,
-      "words": 269,
-      "paragraphs": 3,
-      "questions": 3,
-      "sentences": 13,
-      "syntaxCorrespondence": 1,
-      "explicitSentenceTranslations": 0,
-      "paragraphTranslations": 3,
-      "translationMeaningReview": "not sentence-aligned; semantic audit pending",
-      "revisionCandidate": true
+      "words": 609,
+      "paragraphs": 6,
+      "questions": 9,
+      "sentences": 27,
+      "syntaxCorrespondence": 27,
+      "explicitSentenceTranslations": 27,
+      "paragraphTranslations": 6,
+      "translationMeaningReview": "AI checked; human pending",
+      "revisionCandidate": false
     },
     {
       "id": "reading-l4-f06-05",
       "level": 4,
-      "words": 261,
-      "paragraphs": 3,
-      "questions": 3,
-      "sentences": 15,
-      "syntaxCorrespondence": 1,
-      "explicitSentenceTranslations": 0,
-      "paragraphTranslations": 3,
-      "translationMeaningReview": "not sentence-aligned; semantic audit pending",
-      "revisionCandidate": true
+      "words": 625,
+      "paragraphs": 9,
+      "questions": 7,
+      "sentences": 33,
+      "syntaxCorrespondence": 33,
+      "explicitSentenceTranslations": 33,
+      "paragraphTranslations": 9,
+      "translationMeaningReview": "AI checked; human pending",
+      "revisionCandidate": false
     },
     {
       "id": "reading-l4-f06-06",

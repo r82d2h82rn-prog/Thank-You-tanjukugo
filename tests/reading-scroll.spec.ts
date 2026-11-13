@@ -1,8 +1,9 @@
 import {test,expect} from '@playwright/test';
 import data from '../content/readings/enriched.json';
 import level3 from '../content/readings/enriched-level3.json';
+import level4 from '../content/readings/enriched-level4.json';
 import {readingCatalog} from '../src/readingCatalog';
-for(const p of [data[0],...data.filter(p=>p.level===2),...level3])test(`one page scroller restores tabs and displays final sentence: ${p.id}`,async({page})=>{
+for(const p of [data[0],...data.filter(p=>p.level===2),...level3,...level4])test(`one page scroller restores tabs and displays final sentence: ${p.id}`,async({page})=>{
  await page.setViewportSize({width:390,height:844});
  await page.goto('/');await page.getByRole('tab',{name:'長文読解',exact:true}).click();
  await page.getByRole('button',{name:`長文読解 LEVEL ${p.level} · ${readingCatalog.filter(x=>x.level===p.level).length}題`,exact:true}).click();
