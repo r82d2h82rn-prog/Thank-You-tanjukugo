@@ -59,3 +59,11 @@ test('logical paragraph restoration retains source coordinates and relocates dis
  assert.ok(sentences.some(s=>s.english==='Mr. Lee changed the next discussion.'));
  assert.ok(!sentences.some(s=>s.english==='Mr.'));
 });
+
+test('object-depictive participles link to the depicted people',()=>{
+ for(const [id,text,head] of [['reading-l1-f03-01','laughing beside a river','three friends'],['reading-l1-f04-03','filling part of it with earth','workers']]){
+  const p=readingCatalog.find(p=>p.id===id)!;const syntax=p.syntax.find(s=>s.spans.some(x=>x.text===text))!;
+  const from=syntax.spans.find(s=>s.text===text)!,to=syntax.spans.find(s=>s.text===head)!;
+  assert.ok(syntax.relations.some(x=>x.from===from.id&&x.to===to.id));
+ }
+});

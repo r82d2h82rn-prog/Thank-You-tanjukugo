@@ -71,7 +71,23 @@ for i,(p,questions) in enumerate(zip(out,extras)):
  for prompt,options,reasons,quote in questions:
   order=list(range(4));shift=(i+len(p['questions']))%4;order=order[shift:]+order[:shift]
   p['questions'].append({'id':f"q{len(p['questions'])+1}",'prompt':prompt,'options':[{'id':'abcd'[n],'text':options[j],'explanation':reasons[j]} for n,j in enumerate(order)],'correctOptionId':'abcd'[order.index(0)],'explanation':reasons[0],'evidence':{'paragraphId':next(x['id'] for x in p['paragraphs'] if quote in x['english']),'quote':quote}})
+for passage in out:
+ for syntax in passage['syntax']:
+  modifier=next((x for x in syntax['spans'] if x['text']=='laughing beside a river'),None)
+  target=next((x for x in syntax['spans'] if x['text']=='three friends'),None)
+  if modifier and target:
+   syntax['relations']=[x for x in syntax['relations'] if x['from']!=modifier['id']]
+   syntax['relations'].append({'from':modifier['id'],'to':target['id'],'type':'modifies'})
 path=ROOT/'content/readings/enriched-level1-021-025.json'
-if path.exists():assert json.loads(path.read_text())==out,'refuse changed saved revision'
+if path.exists():
+ existing=json.loads(path.read_text())
+ if existing!=out:
+  before=copy.deepcopy(existing);after=copy.deepcopy(out)
+  for collection in (before,after):
+   for passage in collection:
+    for syntax in passage['syntax']:
+     if syntax['sentence'].startswith('Her favorite showed'):syntax['relations']=[]
+  assert before==after,'refuse edits beyond the documented object-depictive link'
+
 path.write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n')
 print('Compiled',len(out),'readings and',sum(len(p['sentences']) for p in out),'sentences')

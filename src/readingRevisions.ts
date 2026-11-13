@@ -8,5 +8,6 @@ import level1Batch16 from '../content/readings/enriched-level1-016-020.json';
 import level1Batch21 from '../content/readings/enriched-level1-021-025.json';
 import level1Batch26 from '../content/readings/enriched-level1-026-030.json';
 import level1Batch31 from '../content/readings/enriched-level1-031-035.json';
+import level1Batch36 from '../content/readings/enriched-level1-036-040.json';
 // Each immutable overlay retains the source passage and question identities.
-export const readingRevisions=[...lower,...level3,...level4,...level2Next,...level3Next,...level4Next,...level1Batch16,...level1Batch21,...level1Batch26,...level1Batch31];
+export const readingRevisions=[...lower,...level3,...level4,...level2Next,...level3Next,...level4Next,...level1Batch16,...level1Batch21,...level1Batch26,...level1Batch31,...level1Batch36];

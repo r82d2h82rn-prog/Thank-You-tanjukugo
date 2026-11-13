@@ -327,7 +327,7 @@
         "relations": [
           {
             "from": "n4",
-            "to": "n2",
+            "to": "n3",
             "type": "modifies"
           }
         ],

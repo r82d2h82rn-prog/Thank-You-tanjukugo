@@ -1,0 +1,5616 @@
+[
+  {
+    "id": "reading-l1-f04-06",
+    "level": 1,
+    "format": 4,
+    "title": "違う速さで歩く",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A walking club planned a trip along a forest path. The leader, Sam, knew the route well and thought everyone could finish it in two hours. On the first practice walk, however, the group soon spread out. Some members stopped to take pictures, while others walked slowly on the steep parts. The fastest members reached the end without seeing the rest of the group for almost an hour. Sam realized that knowing a path was not the same as planning a good group trip. Before the next walk, he asked members about their pace and interests. He marked three meeting points and chose someone to walk at the back. The group also agreed on a signal for asking for a rest. The second walk took longer, but everyone reached the end together and shared what they had noticed. Sam learned that a successful trip should be measured by the group's experience, not just by the time on his own watch.",
+        "translation": "ウォーキングクラブは、森の道を歩く旅行を計画した。リーダーのサムは道をよく知り、全員二時間で終えられると思った。しかし最初の練習では、集団はすぐばらばらになった。写真を撮るために止まる人も、急な場所をゆっくり歩く人もいた。最も速い人たちは、ほぼ一時間ほかの仲間に会わないまま終点へ着いた。道を知ることと、よい団体旅行を計画することは同じでないとサムは気づいた。次の散歩前に、仲間の速さと興味を尋ねた。集合地点を三か所示し、最後尾を歩く人を選んだ。グループは、休憩を頼む合図も決めた。二回目は時間が長くかかったが、全員一緒に着き、気づいたことを共有した。成功した旅行は、自分の時計の時間だけでなく、集団の体験で測るべきだと学んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な題名は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "森の最速記録を破る",
+            "explanation": "根拠は「the group's experience, not just by the time」。森の最速記録を破るという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "時計の直し方",
+            "explanation": "根拠は「the group's experience, not just by the time」。時計の直し方という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "写真を禁止した日",
+            "explanation": "根拠は「the group's experience, not just by the time」。写真を禁止した日という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "みんなで歩くための計画",
+            "explanation": "全員の体験を考えた行程の改善が主題。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "全員の体験を考えた行程の改善が主題。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "the group's experience, not just by the time"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "最初の散歩の問題は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "道が一つもなかった",
+            "explanation": "根拠は「the group soon spread out」。道が一つもなかったという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "サムが時計を失くした",
+            "explanation": "根拠は「the group soon spread out」。サムが時計を失くしたという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "集団が離れ離れになった",
+            "explanation": "速さや関心が違って分散した。"
+          },
+          {
+            "id": "d",
+            "text": "全員同じ速さだった",
+            "explanation": "根拠は「the group soon spread out」。全員同じ速さだったという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "速さや関心が違って分散した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "the group soon spread out"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "二回目に加えた工夫は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "先着一名だけへの地図",
+            "explanation": "根拠は「He marked three meeting points and chose someone to walk at the back.」。先着一名だけへの地図という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "集合地点と最後尾の担当",
+            "explanation": "集合地点と後方の人を決めた。"
+          },
+          {
+            "id": "c",
+            "text": "全員に新しい時計",
+            "explanation": "根拠は「He marked three meeting points and chose someone to walk at the back.」。全員に新しい時計という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "写真を撮る義務",
+            "explanation": "根拠は「He marked three meeting points and chose someone to walk at the back.」。写真を撮る義務という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "集合地点と後方の人を決めた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "He marked three meeting points and chose someone to walk at the back."
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "二回目の散歩について正しいのは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "最も速い人だけ参加させた",
+            "explanation": "参加者を速さで排除していない。"
+          },
+          {
+            "id": "b",
+            "text": "時間は長くかかったが全員一緒に着いた",
+            "explanation": "took longerとeveryone ... togetherが根拠。"
+          },
+          {
+            "id": "c",
+            "text": "サムだけで歩く企画に変えた",
+            "explanation": "団体として歩く計画を改善した。"
+          },
+          {
+            "id": "d",
+            "text": "写真撮影を全員禁止した",
+            "explanation": "禁止したという記述はない。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "took longerとeveryone ... togetherが根拠。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "The second walk took longer, but everyone reached the end together"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f04-06:p1-s001",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "A walking club planned a trip along a forest path.",
+        "start": 0,
+        "end": 50,
+        "translation": "ウォーキングクラブは、森の道を歩く旅行を計画した。",
+        "explanation": "along以下が行程の経路。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A walking club",
+            "start": 0,
+            "end": 14
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "planned",
+            "start": 15,
+            "end": 22
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a trip along a forest path",
+            "start": 23,
+            "end": 49
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: A walking club / V: planned / O: a trip along a forest path",
+        "grammarPoints": [
+          "along以下が行程の経路。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-06:p1-s002",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "The leader, Sam, knew the route well and thought everyone could finish it in two hours.",
+        "start": 51,
+        "end": 138,
+        "translation": "リーダーのサムは道をよく知り、全員二時間で終えられると思った。",
+        "explanation": "Samはleaderと同格。thoughtの後にthatが省略。in two hoursは所要時間。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The leader, Sam",
+            "start": 51,
+            "end": 66
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "knew",
+            "start": 68,
+            "end": 72
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the route",
+            "start": 73,
+            "end": 82
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "well",
+            "start": 83,
+            "end": 87
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "thought",
+            "start": 92,
+            "end": 99
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "everyone could finish it in two hours",
+            "start": 100,
+            "end": 137
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The leader, Sam / V: knew / O: the route / V: thought / O: everyone could finish it in two hours",
+        "grammarPoints": [
+          "Samはleaderと同格。thoughtの後にthatが省略。in two hoursは所要時間。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-06:p1-s003",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "On the first practice walk, however, the group soon spread out.",
+        "start": 139,
+        "end": 202,
+        "translation": "しかし最初の練習では、集団はすぐばらばらになった。",
+        "explanation": "spread outは分散する自動詞的句動詞。howeverが予想との違いを表す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "On the first practice walk",
+            "start": 139,
+            "end": 165
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the group",
+            "start": 176,
+            "end": 185
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "spread out",
+            "start": 191,
+            "end": 201
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "soon",
+            "start": 186,
+            "end": 190
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: the group / V: spread out",
+        "grammarPoints": [
+          "spread outは分散する自動詞的句動詞。howeverが予想との違いを表す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-06:p1-s004",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "Some members stopped to take pictures, while others walked slowly on the steep parts.",
+        "start": 203,
+        "end": 288,
+        "translation": "写真を撮るために止まる人も、急な場所をゆっくり歩く人もいた。",
+        "explanation": "stop to doは目的のため一度止まる。whileは二群の対比。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Some members",
+            "start": 203,
+            "end": 215
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "stopped",
+            "start": 216,
+            "end": 223
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "to take pictures",
+            "start": 224,
+            "end": 240
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "while others walked slowly on the steep parts",
+            "start": 242,
+            "end": 287
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Some members / V: stopped",
+        "grammarPoints": [
+          "stop to doは目的のため一度止まる。whileは二群の対比。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-06:p1-s005",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s005",
+        "sentence": "The fastest members reached the end without seeing the rest of the group for almost an hour.",
+        "start": 289,
+        "end": 381,
+        "translation": "最も速い人たちは、ほぼ一時間ほかの仲間に会わないまま終点へ着いた。",
+        "explanation": "without＋動名詞で到着までの状態。almost an hourは他の人を見なかった期間。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The fastest members",
+            "start": 289,
+            "end": 308
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "reached",
+            "start": 309,
+            "end": 316
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the end",
+            "start": 317,
+            "end": 324
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "without seeing the rest of the group for almost an hour",
+            "start": 325,
+            "end": 380
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The fastest members / V: reached / O: the end",
+        "grammarPoints": [
+          "without＋動名詞で到着までの状態。almost an hourは他の人を見なかった期間。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-06:p2-s001",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "Sam realized that knowing a path was not the same as planning a good group trip.",
+        "start": 0,
+        "end": 80,
+        "translation": "道を知ることと、よい団体旅行を計画することは同じでないとサムは気づいた。",
+        "explanation": "that節のSはknowing以下。the same asの比較対象はplanning以下の動名詞句。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Sam",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "realized",
+            "start": 4,
+            "end": 12
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "that knowing a path was not the same as planning a good group trip",
+            "start": 13,
+            "end": 79
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Sam / V: realized / O: that knowing a path was not the same as planning a good group trip",
+        "grammarPoints": [
+          "that節のSはknowing以下。the same asの比較対象はplanning以下の動名詞句。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-06:p2-s002",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "Before the next walk, he asked members about their pace and interests.",
+        "start": 81,
+        "end": 151,
+        "translation": "次の散歩前に、仲間の速さと興味を尋ねた。",
+        "explanation": "ask＋人＋about話題。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "Before the next walk",
+            "start": 81,
+            "end": 101
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "he",
+            "start": 103,
+            "end": 105
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "asked",
+            "start": 106,
+            "end": 111
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "members",
+            "start": 112,
+            "end": 119
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "about their pace and interests",
+            "start": 120,
+            "end": 150
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: he / V: asked / O: members",
+        "grammarPoints": [
+          "ask＋人＋about話題。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-06:p2-s003",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "He marked three meeting points and chose someone to walk at the back.",
+        "start": 152,
+        "end": 221,
+        "translation": "集合地点を三か所示し、最後尾を歩く人を選んだ。",
+        "explanation": "二動詞が同じSを共有。to walkはsomeoneの役目を説明。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "He",
+            "start": 152,
+            "end": 154
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "marked",
+            "start": 155,
+            "end": 161
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "three meeting points",
+            "start": 162,
+            "end": 182
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "chose",
+            "start": 187,
+            "end": 192
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "someone to walk at the back",
+            "start": 193,
+            "end": 220
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: He / V: marked / O: three meeting points / V: chose / O: someone to walk at the back",
+        "grammarPoints": [
+          "二動詞が同じSを共有。to walkはsomeoneの役目を説明。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-06:p2-s004",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "The group also agreed on a signal for asking for a rest.",
+        "start": 222,
+        "end": 278,
+        "translation": "グループは、休憩を頼む合図も決めた。",
+        "explanation": "agree onは取り決めに合意する。for＋動名詞が合図の用途。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The group",
+            "start": 222,
+            "end": 231
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "agreed",
+            "start": 237,
+            "end": 243
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "also",
+            "start": 232,
+            "end": 236
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "on a signal for asking for a rest",
+            "start": 244,
+            "end": 277
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The group / V: agreed",
+        "grammarPoints": [
+          "agree onは取り決めに合意する。for＋動名詞が合図の用途。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-06:p3-s001",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "The second walk took longer, but everyone reached the end together and shared what they had noticed.",
+        "start": 0,
+        "end": 100,
+        "translation": "二回目は時間が長くかかったが、全員一緒に着き、気づいたことを共有した。",
+        "explanation": "longerはより長い時間。what節がsharedのOで、whatはnoticedのOを兼ねる。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The second walk",
+            "start": 0,
+            "end": 15
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "took",
+            "start": 16,
+            "end": 20
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "longer",
+            "start": 21,
+            "end": 27
+          },
+          {
+            "id": "n4",
+            "role": "S",
+            "text": "everyone",
+            "start": 33,
+            "end": 41
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "reached",
+            "start": 42,
+            "end": 49
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "the end",
+            "start": 50,
+            "end": 57
+          },
+          {
+            "id": "n7",
+            "role": "M",
+            "text": "together",
+            "start": 58,
+            "end": 66
+          },
+          {
+            "id": "n8",
+            "role": "V",
+            "text": "shared",
+            "start": 71,
+            "end": 77
+          },
+          {
+            "id": "n9",
+            "role": "O",
+            "text": "what they had noticed",
+            "start": 78,
+            "end": 99
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The second walk / V: took / O: longer / S: everyone / V: reached / O: the end / V: shared / O: what they had noticed",
+        "grammarPoints": [
+          "longerはより長い時間。what節がsharedのOで、whatはnoticedのOを兼ねる。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-06:p3-s002",
+        "passageId": "reading-l1-f04-06",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "Sam learned that a successful trip should be measured by the group's experience, not just by the time on his own watch.",
+        "start": 101,
+        "end": 220,
+        "translation": "成功した旅行は、自分の時計の時間だけでなく、集団の体験で測るべきだと学んだ。",
+        "explanation": "that節内は助動詞付き受動態。二つのby句で評価基準を対比。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Sam",
+            "start": 101,
+            "end": 104
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "learned",
+            "start": 105,
+            "end": 112
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "that a successful trip should be measured by the group's experience, not just by the time on his own watch",
+            "start": 113,
+            "end": 219
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Sam / V: learned / O: that a successful trip should be measured by the group's experience, not just by the time on his own watch",
+        "grammarPoints": [
+          "that節内は助動詞付き受動態。二つのby句で評価基準を対比。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      }
+    ],
+    "wordCount": 160,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "pace",
+        "meaning": "歩く速さ"
+      },
+      {
+        "english": "measure",
+        "meaning": "測る"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "The second walk took longer, but everyone reached the end together and shared what they had noticed.",
+        "start": 661,
+        "end": 761,
+        "translation": "二回目は時間がかかったが、皆一緒に到着し気づいたことを共有した。",
+        "explanation": "butで対比し、what they had noticedはsharedの目的語となる名詞節。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The second walk",
+            "start": 661,
+            "end": 676
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "took",
+            "start": 677,
+            "end": 681
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "A walking club planned a trip along a forest path.",
+        "translation": "ウォーキングクラブは、森の道を歩く旅行を計画した。",
+        "start": 0,
+        "end": 50,
+        "sourceEnglish": "A walking club planned a trip along a forest path.",
+        "sourceStart": 0,
+        "sourceEnd": 50,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "The leader, Sam, knew the route well and thought everyone could finish it in two hours.",
+        "translation": "リーダーのサムは道をよく知り、全員二時間で終えられると思った。",
+        "start": 51,
+        "end": 138,
+        "sourceEnglish": "The leader, Sam, knew the route well and thought everyone could finish it in two hours.",
+        "sourceStart": 51,
+        "sourceEnd": 138,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "On the first practice walk, however, the group soon spread out.",
+        "translation": "しかし最初の練習では、集団はすぐばらばらになった。",
+        "start": 139,
+        "end": 202,
+        "sourceEnglish": "On the first practice walk, however, the group soon spread out.",
+        "sourceStart": 139,
+        "sourceEnd": 202,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "Some members stopped to take pictures, while others walked slowly on the steep parts.",
+        "translation": "写真を撮るために止まる人も、急な場所をゆっくり歩く人もいた。",
+        "start": 203,
+        "end": 288,
+        "sourceEnglish": "Some members stopped to take pictures, while others walked slowly on the steep parts.",
+        "sourceStart": 203,
+        "sourceEnd": 288,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p1-s004"
+      },
+      {
+        "id": "p1-s005",
+        "paragraphId": "p1",
+        "english": "The fastest members reached the end without seeing the rest of the group for almost an hour.",
+        "translation": "最も速い人たちは、ほぼ一時間ほかの仲間に会わないまま終点へ着いた。",
+        "start": 289,
+        "end": 381,
+        "sourceEnglish": "The fastest members reached the end without seeing the rest of the group for almost an hour.",
+        "sourceStart": 289,
+        "sourceEnd": 381,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p1-s005"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "Sam realized that knowing a path was not the same as planning a good group trip.",
+        "translation": "道を知ることと、よい団体旅行を計画することは同じでないとサムは気づいた。",
+        "start": 0,
+        "end": 80,
+        "sourceEnglish": "Sam realized that knowing a path was not the same as planning a good group trip.",
+        "sourceStart": 382,
+        "sourceEnd": 462,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "Before the next walk, he asked members about their pace and interests.",
+        "translation": "次の散歩前に、仲間の速さと興味を尋ねた。",
+        "start": 81,
+        "end": 151,
+        "sourceEnglish": "Before the next walk, he asked members about their pace and interests.",
+        "sourceStart": 463,
+        "sourceEnd": 533,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "He marked three meeting points and chose someone to walk at the back.",
+        "translation": "集合地点を三か所示し、最後尾を歩く人を選んだ。",
+        "start": 152,
+        "end": 221,
+        "sourceEnglish": "He marked three meeting points and chose someone to walk at the back.",
+        "sourceStart": 534,
+        "sourceEnd": 603,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "The group also agreed on a signal for asking for a rest.",
+        "translation": "グループは、休憩を頼む合図も決めた。",
+        "start": 222,
+        "end": 278,
+        "sourceEnglish": "The group also agreed on a signal for asking for a rest.",
+        "sourceStart": 604,
+        "sourceEnd": 660,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p2-s004"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "The second walk took longer, but everyone reached the end together and shared what they had noticed.",
+        "translation": "二回目は時間が長くかかったが、全員一緒に着き、気づいたことを共有した。",
+        "start": 0,
+        "end": 100,
+        "sourceEnglish": "The second walk took longer, but everyone reached the end together and shared what they had noticed.",
+        "sourceStart": 661,
+        "sourceEnd": 761,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "Sam learned that a successful trip should be measured by the group's experience, not just by the time on his own watch.",
+        "translation": "成功した旅行は、自分の時計の時間だけでなく、集団の体験で測るべきだと学んだ。",
+        "start": 101,
+        "end": 220,
+        "sourceEnglish": "Sam learned that a successful trip should be measured by the group's experience, not just by the time on his own watch.",
+        "sourceStart": 762,
+        "sourceEnd": 881,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-06:p3-s002"
+      }
+    ],
+    "exerciseParagraphs": [
+      {
+        "id": "p1",
+        "english": "A walking club planned a trip along a forest path. The leader, Sam, knew the route well and thought everyone could finish it in two hours. On the first practice walk, however, the group soon spread out. Some members stopped to take pictures, while others walked slowly on the steep parts. The fastest members reached the end without seeing the rest of the group for almost an hour.",
+        "translation": "ウォーキングクラブは、森の道を歩く旅行を計画した。リーダーのサムは道をよく知り、全員二時間で終えられると思った。しかし最初の練習では、集団はすぐばらばらになった。写真を撮るために止まる人も、急な場所をゆっくり歩く人もいた。最も速い人たちは、ほぼ一時間ほかの仲間に会わないまま終点へ着いた。"
+      },
+      {
+        "id": "p2",
+        "english": "Sam realized that knowing a path was not the same as planning a good group trip. Before the next walk, he asked members about their pace and interests. He marked three meeting points and chose someone to walk at the back. The group also agreed on a signal for asking for a rest.",
+        "translation": "道を知ることと、よい団体旅行を計画することは同じでないとサムは気づいた。次の散歩前に、仲間の速さと興味を尋ねた。集合地点を三か所示し、最後尾を歩く人を選んだ。グループは、休憩を頼む合図も決めた。"
+      },
+      {
+        "id": "p3",
+        "english": "The second walk took longer, but everyone reached the end together and shared what they had noticed. Sam learned that a successful trip should be measured by the group's experience, not just by the time on his own watch.",
+        "translation": "二回目は時間が長くかかったが、全員一緒に着き、気づいたことを共有した。成功した旅行は、自分の時計の時間だけでなく、集団の体験で測るべきだと学んだ。"
+      }
+    ],
+    "paragraphMappings": [
+      {
+        "paragraphId": "p1",
+        "sourceParagraphId": "p1",
+        "start": 0,
+        "end": 381
+      },
+      {
+        "paragraphId": "p2",
+        "sourceParagraphId": "p1",
+        "start": 382,
+        "end": 660
+      },
+      {
+        "paragraphId": "p3",
+        "sourceParagraphId": "p1",
+        "start": 661,
+        "end": 881
+      }
+    ],
+    "reviewParagraphs": [
+      {
+        "id": "p1",
+        "english": "A walking club planned a trip along a forest path. The leader, Sam, knew the route well and thought everyone could finish it in two hours. On the first practice walk, however, the group soon spread out. Some members stopped to take pictures, while others walked slowly on the steep parts. The fastest members reached the end without seeing the rest of the group for almost an hour.",
+        "translation": "ウォーキングクラブは、森の道を歩く旅行を計画した。リーダーのサムは道をよく知り、全員二時間で終えられると思った。しかし最初の練習では、集団はすぐばらばらになった。写真を撮るために止まる人も、急な場所をゆっくり歩く人もいた。最も速い人たちは、ほぼ一時間ほかの仲間に会わないまま終点へ着いた。"
+      },
+      {
+        "id": "p2",
+        "english": "Sam realized that knowing a path was not the same as planning a good group trip. Before the next walk, he asked members about their pace and interests. He marked three meeting points and chose someone to walk at the back. The group also agreed on a signal for asking for a rest.",
+        "translation": "道を知ることと、よい団体旅行を計画することは同じでないとサムは気づいた。次の散歩前に、仲間の速さと興味を尋ねた。集合地点を三か所示し、最後尾を歩く人を選んだ。グループは、休憩を頼む合図も決めた。"
+      },
+      {
+        "id": "p3",
+        "english": "The second walk took longer, but everyone reached the end together and shared what they had noticed. Sam learned that a successful trip should be measured by the group's experience, not just by the time on his own watch.",
+        "translation": "二回目は時間が長くかかったが、全員一緒に着き、気づいたことを共有した。成功した旅行は、自分の時計の時間だけでなく、集団の体験で測るべきだと学んだ。"
+      }
+    ],
+    "syntaxOffsetBasis": "reviewParagraphs",
+    "reviewEvidence": {
+      "q1": {
+        "paragraphId": "p3",
+        "quote": "the group's experience, not just by the time"
+      },
+      "q2": {
+        "paragraphId": "p1",
+        "quote": "the group soon spread out"
+      },
+      "q3": {
+        "paragraphId": "p2",
+        "quote": "He marked three meeting points and chose someone to walk at the back."
+      },
+      "q4": {
+        "paragraphId": "p3",
+        "quote": "The second walk took longer, but everyone reached the end together"
+      }
+    },
+    "reviewWordCount": 160,
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f04-07",
+    "level": 1,
+    "format": 4,
+    "title": "届かなかった招待状",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "A community center invited local families to a free music evening. The staff posted a colorful invitation on social media and expected a large audience. Only twelve people came. At first, the manager thought families were not interested in music. A volunteer named Amy asked visitors at the center how they usually learned about events. Some checked social media every day, but others read the board at the bus stop or looked for notices in their children's school bags. A few people did not know that the center's social media page existed. For the next music evening, the staff used several ways to share the same information. They put paper notices in shops and asked the school to include a short message in its newsletter. More families attended, including several who had missed the first invitation. Amy explained that a message could be attractive and correct but still fail if it never reached the people who needed to see it.",
+        "translation": "地域センターは、無料の音楽の夕べに近所の家族を招いた。職員はSNSに色鮮やかな案内を載せ、大勢の観客を期待した。来たのは十二人だけだった。当初、管理者は家族が音楽に興味を持っていないと思った。エイミーというボランティアは、来館者に普段どう行事を知るか尋ねた。毎日SNSを見る人もいたが、バス停の掲示板や、子供の通学かばんに入ったお知らせを見る人もいた。センターのSNSページの存在を知らない人もいた。次の音楽会では、同じ情報を複数の方法で届けた。店に紙の案内を置き、学校には通信に短い案内を載せてもらうよう頼んだ。前回の招待を見逃した人も含め、より多くの家族が参加した。案内が魅力的で正確でも、必要な人に届かなければうまくいかないとエイミーは説明した。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な題名は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "無料を有料に変える",
+            "explanation": "根拠は「several ways to share the same information」。無料を有料に変えるという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "学校だよりをなくす",
+            "explanation": "根拠は「several ways to share the same information」。学校だよりをなくすという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "招待を必要な人に届ける",
+            "explanation": "情報を複数の経路で届ける工夫が主題。"
+          },
+          {
+            "id": "d",
+            "text": "音楽の好みを統一する",
+            "explanation": "根拠は「several ways to share the same information」。音楽の好みを統一するという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "情報を複数の経路で届ける工夫が主題。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "several ways to share the same information"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "最初の来場者数は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "二千人",
+            "explanation": "根拠は「Only twelve people came.」。二千人という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "十二人",
+            "explanation": "本文に人数が明記される。"
+          },
+          {
+            "id": "c",
+            "text": "百二十人",
+            "explanation": "根拠は「Only twelve people came.」。百二十人という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "ゼロ人",
+            "explanation": "根拠は「Only twelve people came.」。ゼロ人という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "本文に人数が明記される。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Only twelve people came."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "調査で分かったことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "行事を知る方法は人によって違う",
+            "explanation": "掲示板や配布物を読む人もいた。"
+          },
+          {
+            "id": "b",
+            "text": "全員SNSだけを見る",
+            "explanation": "根拠は「others read the board at the bus stop」。全員SNSだけを見るという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "音楽会は有料だった",
+            "explanation": "根拠は「others read the board at the bus stop」。音楽会は有料だったという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "学校に生徒がいなかった",
+            "explanation": "根拠は「others read the board at the bus stop」。学校に生徒がいなかったという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "掲示板や配布物を読む人もいた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "others read the board at the bus stop"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f04-07:p1-s001",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "A community center invited local families to a free music evening.",
+        "start": 0,
+        "end": 66,
+        "translation": "地域センターは、無料の音楽の夕べに近所の家族を招いた。",
+        "explanation": "invite A to Bは行事への招待。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A community center",
+            "start": 0,
+            "end": 18
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "invited",
+            "start": 19,
+            "end": 26
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "local families",
+            "start": 27,
+            "end": 41
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "to a free music evening",
+            "start": 42,
+            "end": 65
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: A community center / V: invited / O: local families",
+        "grammarPoints": [
+          "invite A to Bは行事への招待。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-07:p1-s002",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "The staff posted a colorful invitation on social media and expected a large audience.",
+        "start": 67,
+        "end": 152,
+        "translation": "職員はSNSに色鮮やかな案内を載せ、大勢の観客を期待した。",
+        "explanation": "二動詞がstaffをSとして共有する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The staff",
+            "start": 67,
+            "end": 76
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "posted",
+            "start": 77,
+            "end": 83
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a colorful invitation",
+            "start": 84,
+            "end": 105
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "on social media",
+            "start": 106,
+            "end": 121
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "expected",
+            "start": 126,
+            "end": 134
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "a large audience",
+            "start": 135,
+            "end": 151
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The staff / V: posted / O: a colorful invitation / V: expected / O: a large audience",
+        "grammarPoints": [
+          "二動詞がstaffをSとして共有する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-07:p1-s003",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "Only twelve people came.",
+        "start": 153,
+        "end": 177,
+        "translation": "来たのは十二人だけだった。",
+        "explanation": "onlyが人数の少なさを限定する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Only twelve people",
+            "start": 153,
+            "end": 171
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "came",
+            "start": 172,
+            "end": 176
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Only twelve people / V: came",
+        "grammarPoints": [
+          "onlyが人数の少なさを限定する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-07:p1-s004",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "At first, the manager thought families were not interested in music.",
+        "start": 178,
+        "end": 246,
+        "translation": "当初、管理者は家族が音楽に興味を持っていないと思った。",
+        "explanation": "thought後のthat省略。興味がないのは当初の仮説であり確定事実ではない。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "At first",
+            "start": 178,
+            "end": 186
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the manager",
+            "start": 188,
+            "end": 199
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "thought",
+            "start": 200,
+            "end": 207
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "families were not interested in music",
+            "start": 208,
+            "end": 245
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: the manager / V: thought / O: families were not interested in music",
+        "grammarPoints": [
+          "thought後のthat省略。興味がないのは当初の仮説であり確定事実ではない。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-07:p2-s001",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "A volunteer named Amy asked visitors at the center how they usually learned about events.",
+        "start": 0,
+        "end": 89,
+        "translation": "エイミーというボランティアは、来館者に普段どう行事を知るか尋ねた。",
+        "explanation": "namedがvolunteerを修飾。how節は質問の内容。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A volunteer named Amy",
+            "start": 0,
+            "end": 21
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "asked",
+            "start": 22,
+            "end": 27
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "visitors at the center",
+            "start": 28,
+            "end": 50
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "how they usually learned about events",
+            "start": 51,
+            "end": 88
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: A volunteer named Amy / V: asked / O: visitors at the center / O: how they usually learned about events",
+        "grammarPoints": [
+          "namedがvolunteerを修飾。how節は質問の内容。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-07:p2-s002",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "Some checked social media every day, but others read the board at the bus stop or looked for notices in their children's school bags.",
+        "start": 90,
+        "end": 223,
+        "translation": "毎日SNSを見る人もいたが、バス停の掲示板や、子供の通学かばんに入ったお知らせを見る人もいた。",
+        "explanation": "someとothersが人々を分ける。readとlookedがothersを共有。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Some",
+            "start": 90,
+            "end": 94
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "checked",
+            "start": 95,
+            "end": 102
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "social media",
+            "start": 103,
+            "end": 115
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "every day",
+            "start": 116,
+            "end": 125
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "but others read the board at the bus stop or looked for notices in their children's school bags",
+            "start": 127,
+            "end": 222
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Some / V: checked / O: social media",
+        "grammarPoints": [
+          "someとothersが人々を分ける。readとlookedがothersを共有。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-07:p2-s003",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "A few people did not know that the center's social media page existed.",
+        "start": 224,
+        "end": 294,
+        "translation": "センターのSNSページの存在を知らない人もいた。",
+        "explanation": "that節がknowのO。a fewは少数だが実在する人々。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "A few people",
+            "start": 224,
+            "end": 236
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not know",
+            "start": 237,
+            "end": 249
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "that the center's social media page existed",
+            "start": 250,
+            "end": 293
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: A few people / V: did not know / O: that the center's social media page existed",
+        "grammarPoints": [
+          "that節がknowのO。a fewは少数だが実在する人々。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-07:p3-s001",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "For the next music evening, the staff used several ways to share the same information.",
+        "start": 0,
+        "end": 86,
+        "translation": "次の音楽会では、同じ情報を複数の方法で届けた。",
+        "explanation": "to shareがwaysの内容。変えたのは情報の届け方。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "For the next music evening",
+            "start": 0,
+            "end": 26
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the staff",
+            "start": 28,
+            "end": 37
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "used",
+            "start": 38,
+            "end": 42
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "several ways to share the same information",
+            "start": 43,
+            "end": 85
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: the staff / V: used / O: several ways to share the same information",
+        "grammarPoints": [
+          "to shareがwaysの内容。変えたのは情報の届け方。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-07:p3-s002",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "They put paper notices in shops and asked the school to include a short message in its newsletter.",
+        "start": 87,
+        "end": 185,
+        "translation": "店に紙の案内を置き、学校には通信に短い案内を載せてもらうよう頼んだ。",
+        "explanation": "put＋物＋場所とask＋人・組織＋to不定詞の並列。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 87,
+            "end": 91
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "put",
+            "start": 92,
+            "end": 95
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "paper notices",
+            "start": 96,
+            "end": 109
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "in shops",
+            "start": 110,
+            "end": 118
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "asked",
+            "start": 123,
+            "end": 128
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "the school",
+            "start": 129,
+            "end": 139
+          },
+          {
+            "id": "n7",
+            "role": "C",
+            "text": "to include a short message in its newsletter",
+            "start": 140,
+            "end": 184
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: They / V: put / O: paper notices / V: asked / O: the school / C: to include a short message in its newsletter",
+        "grammarPoints": [
+          "put＋物＋場所とask＋人・組織＋to不定詞の並列。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-07:p3-s003",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "More families attended, including several who had missed the first invitation.",
+        "start": 186,
+        "end": 264,
+        "translation": "前回の招待を見逃した人も含め、より多くの家族が参加した。",
+        "explanation": "includingは追加範囲。who節がseveral＝数組の家族を修飾。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "More families",
+            "start": 186,
+            "end": 199
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "attended",
+            "start": 200,
+            "end": 208
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "including several who had missed the first invitation",
+            "start": 210,
+            "end": 263
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "who had missed the first invitation",
+            "start": 228,
+            "end": 263
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "several",
+            "start": 220,
+            "end": 227,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n4",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: More families / V: attended",
+        "grammarPoints": [
+          "includingは追加範囲。who節がseveral＝数組の家族を修飾。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-07:p4-s001",
+        "passageId": "reading-l1-f04-07",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s001",
+        "sentence": "Amy explained that a message could be attractive and correct but still fail if it never reached the people who needed to see it.",
+        "start": 0,
+        "end": 128,
+        "translation": "案内が魅力的で正確でも、必要な人に届かなければうまくいかないとエイミーは説明した。",
+        "explanation": "that節内でbeとfailがcouldを共有。ifは失敗の条件、who節はpeopleの限定。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Amy",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "explained",
+            "start": 4,
+            "end": 13
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "that a message could be attractive and correct but still fail if it never reached the people who needed to see it",
+            "start": 14,
+            "end": 127
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Amy / V: explained / O: that a message could be attractive and correct but still fail if it never reached the people who needed to see it",
+        "grammarPoints": [
+          "that節内でbeとfailがcouldを共有。ifは失敗の条件、who節はpeopleの限定。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      }
+    ],
+    "wordCount": 160,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "audience",
+        "meaning": "観客"
+      },
+      {
+        "english": "attend",
+        "meaning": "参加する"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "The staff posted a colorful invitation on social media and expected a large audience.",
+        "start": 67,
+        "end": 152,
+        "translation": "職員は色鮮やかな招待をSNSに載せ、大勢の観客を期待した。",
+        "explanation": "postedとexpectedは主語を共有する並列の過去形。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The staff",
+            "start": 67,
+            "end": 76
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "posted",
+            "start": 77,
+            "end": 83
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "A community center invited local families to a free music evening.",
+        "translation": "地域センターは、無料の音楽の夕べに近所の家族を招いた。",
+        "start": 0,
+        "end": 66,
+        "sourceEnglish": "A community center invited local families to a free music evening.",
+        "sourceStart": 0,
+        "sourceEnd": 66,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "The staff posted a colorful invitation on social media and expected a large audience.",
+        "translation": "職員はSNSに色鮮やかな案内を載せ、大勢の観客を期待した。",
+        "start": 67,
+        "end": 152,
+        "sourceEnglish": "The staff posted a colorful invitation on social media and expected a large audience.",
+        "sourceStart": 67,
+        "sourceEnd": 152,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "Only twelve people came.",
+        "translation": "来たのは十二人だけだった。",
+        "start": 153,
+        "end": 177,
+        "sourceEnglish": "Only twelve people came.",
+        "sourceStart": 153,
+        "sourceEnd": 177,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "At first, the manager thought families were not interested in music.",
+        "translation": "当初、管理者は家族が音楽に興味を持っていないと思った。",
+        "start": 178,
+        "end": 246,
+        "sourceEnglish": "At first, the manager thought families were not interested in music.",
+        "sourceStart": 178,
+        "sourceEnd": 246,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p1-s004"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "A volunteer named Amy asked visitors at the center how they usually learned about events.",
+        "translation": "エイミーというボランティアは、来館者に普段どう行事を知るか尋ねた。",
+        "start": 0,
+        "end": 89,
+        "sourceEnglish": "A volunteer named Amy asked visitors at the center how they usually learned about events.",
+        "sourceStart": 247,
+        "sourceEnd": 336,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "Some checked social media every day, but others read the board at the bus stop or looked for notices in their children's school bags.",
+        "translation": "毎日SNSを見る人もいたが、バス停の掲示板や、子供の通学かばんに入ったお知らせを見る人もいた。",
+        "start": 90,
+        "end": 223,
+        "sourceEnglish": "Some checked social media every day, but others read the board at the bus stop or looked for notices in their children's school bags.",
+        "sourceStart": 337,
+        "sourceEnd": 470,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "A few people did not know that the center's social media page existed.",
+        "translation": "センターのSNSページの存在を知らない人もいた。",
+        "start": 224,
+        "end": 294,
+        "sourceEnglish": "A few people did not know that the center's social media page existed.",
+        "sourceStart": 471,
+        "sourceEnd": 541,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p2-s003"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "For the next music evening, the staff used several ways to share the same information.",
+        "translation": "次の音楽会では、同じ情報を複数の方法で届けた。",
+        "start": 0,
+        "end": 86,
+        "sourceEnglish": "For the next music evening, the staff used several ways to share the same information.",
+        "sourceStart": 542,
+        "sourceEnd": 628,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "They put paper notices in shops and asked the school to include a short message in its newsletter.",
+        "translation": "店に紙の案内を置き、学校には通信に短い案内を載せてもらうよう頼んだ。",
+        "start": 87,
+        "end": 185,
+        "sourceEnglish": "They put paper notices in shops and asked the school to include a short message in its newsletter.",
+        "sourceStart": 629,
+        "sourceEnd": 727,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "More families attended, including several who had missed the first invitation.",
+        "translation": "前回の招待を見逃した人も含め、より多くの家族が参加した。",
+        "start": 186,
+        "end": 264,
+        "sourceEnglish": "More families attended, including several who had missed the first invitation.",
+        "sourceStart": 728,
+        "sourceEnd": 806,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p3-s003"
+      },
+      {
+        "id": "p4-s001",
+        "paragraphId": "p4",
+        "english": "Amy explained that a message could be attractive and correct but still fail if it never reached the people who needed to see it.",
+        "translation": "案内が魅力的で正確でも、必要な人に届かなければうまくいかないとエイミーは説明した。",
+        "start": 0,
+        "end": 128,
+        "sourceEnglish": "Amy explained that a message could be attractive and correct but still fail if it never reached the people who needed to see it.",
+        "sourceStart": 807,
+        "sourceEnd": 935,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-07:p4-s001"
+      }
+    ],
+    "exerciseParagraphs": [
+      {
+        "id": "p1",
+        "english": "A community center invited local families to a free music evening. The staff posted a colorful invitation on social media and expected a large audience. Only twelve people came. At first, the manager thought families were not interested in music.",
+        "translation": "地域センターは、無料の音楽の夕べに近所の家族を招いた。職員はSNSに色鮮やかな案内を載せ、大勢の観客を期待した。来たのは十二人だけだった。当初、管理者は家族が音楽に興味を持っていないと思った。"
+      },
+      {
+        "id": "p2",
+        "english": "A volunteer named Amy asked visitors at the center how they usually learned about events. Some checked social media every day, but others read the board at the bus stop or looked for notices in their children's school bags. A few people did not know that the center's social media page existed.",
+        "translation": "エイミーというボランティアは、来館者に普段どう行事を知るか尋ねた。毎日SNSを見る人もいたが、バス停の掲示板や、子供の通学かばんに入ったお知らせを見る人もいた。センターのSNSページの存在を知らない人もいた。"
+      },
+      {
+        "id": "p3",
+        "english": "For the next music evening, the staff used several ways to share the same information. They put paper notices in shops and asked the school to include a short message in its newsletter. More families attended, including several who had missed the first invitation.",
+        "translation": "次の音楽会では、同じ情報を複数の方法で届けた。店に紙の案内を置き、学校には通信に短い案内を載せてもらうよう頼んだ。前回の招待を見逃した人も含め、より多くの家族が参加した。"
+      },
+      {
+        "id": "p4",
+        "english": "Amy explained that a message could be attractive and correct but still fail if it never reached the people who needed to see it.",
+        "translation": "案内が魅力的で正確でも、必要な人に届かなければうまくいかないとエイミーは説明した。"
+      }
+    ],
+    "paragraphMappings": [
+      {
+        "paragraphId": "p1",
+        "sourceParagraphId": "p1",
+        "start": 0,
+        "end": 246
+      },
+      {
+        "paragraphId": "p2",
+        "sourceParagraphId": "p1",
+        "start": 247,
+        "end": 541
+      },
+      {
+        "paragraphId": "p3",
+        "sourceParagraphId": "p1",
+        "start": 542,
+        "end": 806
+      },
+      {
+        "paragraphId": "p4",
+        "sourceParagraphId": "p1",
+        "start": 807,
+        "end": 935
+      }
+    ],
+    "reviewParagraphs": [
+      {
+        "id": "p1",
+        "english": "A community center invited local families to a free music evening. The staff posted a colorful invitation on social media and expected a large audience. Only twelve people came. At first, the manager thought families were not interested in music.",
+        "translation": "地域センターは、無料の音楽の夕べに近所の家族を招いた。職員はSNSに色鮮やかな案内を載せ、大勢の観客を期待した。来たのは十二人だけだった。当初、管理者は家族が音楽に興味を持っていないと思った。"
+      },
+      {
+        "id": "p2",
+        "english": "A volunteer named Amy asked visitors at the center how they usually learned about events. Some checked social media every day, but others read the board at the bus stop or looked for notices in their children's school bags. A few people did not know that the center's social media page existed.",
+        "translation": "エイミーというボランティアは、来館者に普段どう行事を知るか尋ねた。毎日SNSを見る人もいたが、バス停の掲示板や、子供の通学かばんに入ったお知らせを見る人もいた。センターのSNSページの存在を知らない人もいた。"
+      },
+      {
+        "id": "p3",
+        "english": "For the next music evening, the staff used several ways to share the same information. They put paper notices in shops and asked the school to include a short message in its newsletter. More families attended, including several who had missed the first invitation.",
+        "translation": "次の音楽会では、同じ情報を複数の方法で届けた。店に紙の案内を置き、学校には通信に短い案内を載せてもらうよう頼んだ。前回の招待を見逃した人も含め、より多くの家族が参加した。"
+      },
+      {
+        "id": "p4",
+        "english": "Amy explained that a message could be attractive and correct but still fail if it never reached the people who needed to see it.",
+        "translation": "案内が魅力的で正確でも、必要な人に届かなければうまくいかないとエイミーは説明した。"
+      }
+    ],
+    "syntaxOffsetBasis": "reviewParagraphs",
+    "reviewEvidence": {
+      "q1": {
+        "paragraphId": "p3",
+        "quote": "several ways to share the same information"
+      },
+      "q2": {
+        "paragraphId": "p1",
+        "quote": "Only twelve people came."
+      },
+      "q3": {
+        "paragraphId": "p2",
+        "quote": "others read the board at the bus stop"
+      }
+    },
+    "reviewWordCount": 160,
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f04-08",
+    "level": 1,
+    "format": 4,
+    "title": "二つの値札",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Mia saved money to buy a small desk lamp. At a shop, she found two lamps that looked almost the same. One was cheaper, so she was ready to buy it. Her father asked her to read the information on both boxes first. The cheaper lamp needed a special kind of battery that the shop did not sell. The other could use ordinary batteries or connect to a wall socket. Mia also checked whether a broken part could be replaced and how long the shop would accept returns. She did not simply choose the more expensive lamp because her father mentioned it. Instead, she wrote down the costs and features that mattered to her. In the end, she chose the second lamp because she planned to use it at her desk every evening. The experience taught her that a price label was only one part of a buying decision. Asking the right questions helped her spend her savings more carefully.",
+        "translation": "ミアは小さな電気スタンドを買うため貯金した。店で、ほとんど同じに見える二つのスタンドを見つけた。一方が安かったので、それを買おうとしていた。父親は、先に両方の箱の情報を読むよう頼んだ。安い方には、その店では売っていない特殊な電池が必要だった。もう一方は普通の電池を使うか、壁のコンセントへつなげられた。壊れた部品を交換できるか、店がいつまで返品を受け付けるかも調べた。父親が言及したからというだけで、高い方を選んだのではなかった。代わりに、自分に重要な費用と機能を書き出した。結局、毎晩机で使う予定だったので、二つ目のスタンドを選んだ。この体験から、値札は購入判断の一部分にすぎないと学んだ。適切な質問が、貯金をより慎重に使う助けになった。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な題名は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "節約をやめた理由",
+            "explanation": "根拠は「a price label was only one part of a buying decision」。節約をやめた理由という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "値段の先まで確かめる買い物",
+            "explanation": "値段以外の条件も比較した購入の話。"
+          },
+          {
+            "id": "c",
+            "text": "電池を作る工場",
+            "explanation": "根拠は「a price label was only one part of a buying decision」。電池を作る工場という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "父に選んでもらった机",
+            "explanation": "根拠は「a price label was only one part of a buying decision」。父に選んでもらった机という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "値段以外の条件も比較した購入の話。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "a price label was only one part of a buying decision"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "安い方の問題は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "店にない特殊な電池が必要",
+            "explanation": "電池の入手性を確認した。"
+          },
+          {
+            "id": "b",
+            "text": "机に置けない大きさ",
+            "explanation": "根拠は「a special kind of battery that the shop did not sell」。机に置けない大きさという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "説明の箱がない",
+            "explanation": "根拠は「a special kind of battery that the shop did not sell」。説明の箱がないという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "父が持っている",
+            "explanation": "根拠は「a special kind of battery that the shop did not sell」。父が持っているという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "電池の入手性を確認した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "a special kind of battery that the shop did not sell"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "ミアが基準にしたものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "箱の色だけ",
+            "explanation": "根拠は「the costs and features that mattered to her」。箱の色だけという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "父の命令だけ",
+            "explanation": "根拠は「the costs and features that mattered to her」。父の命令だけという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "名前の長さだけ",
+            "explanation": "根拠は「the costs and features that mattered to her」。名前の長さだけという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "自分に重要な費用と機能",
+            "explanation": "必要に合わせて条件を比較した。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "必要に合わせて条件を比較した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "the costs and features that mattered to her"
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "購入前にミアが調べたことは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "学校の全生徒の成績",
+            "explanation": "成績は本文にない。"
+          },
+          {
+            "id": "b",
+            "text": "父親が初めて買った本",
+            "explanation": "本は購入対象ではない。"
+          },
+          {
+            "id": "c",
+            "text": "店の開店前の天気",
+            "explanation": "天気は選択理由ではない。"
+          },
+          {
+            "id": "d",
+            "text": "部品交換と返品可能な期間",
+            "explanation": "whether a broken part ... とhow long ... returnsが根拠。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "whether a broken part ... とhow long ... returnsが根拠。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "whether a broken part could be replaced and how long the shop would accept returns"
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "二つ目を選んだ具体的な利用予定は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "森の中に一年置く",
+            "explanation": "屋外放置の計画はない。"
+          },
+          {
+            "id": "b",
+            "text": "同じ日に使い捨てる",
+            "explanation": "継続利用する計画。"
+          },
+          {
+            "id": "c",
+            "text": "毎晩自分の机で使う",
+            "explanation": "use it at her desk every eveningが直接の根拠。"
+          },
+          {
+            "id": "d",
+            "text": "島への配達に使う",
+            "explanation": "配達用ではない。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "use it at her desk every eveningが直接の根拠。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "use it at her desk every evening"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f04-08:p1-s001",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "Mia saved money to buy a small desk lamp.",
+        "start": 0,
+        "end": 41,
+        "translation": "ミアは小さな電気スタンドを買うため貯金した。",
+        "explanation": "to buyは貯金の目的。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mia",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "saved",
+            "start": 4,
+            "end": 9
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "money",
+            "start": 10,
+            "end": 15
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "to buy a small desk lamp",
+            "start": 16,
+            "end": 40
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Mia / V: saved / O: money",
+        "grammarPoints": [
+          "to buyは貯金の目的。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p1-s002",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "At a shop, she found two lamps that looked almost the same.",
+        "start": 42,
+        "end": 101,
+        "translation": "店で、ほとんど同じに見える二つのスタンドを見つけた。",
+        "explanation": "that節がlampsを修飾。look＋補語same。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "At a shop",
+            "start": 42,
+            "end": 51
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "she",
+            "start": 53,
+            "end": 56
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "found",
+            "start": 57,
+            "end": 62
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "two lamps that looked almost the same",
+            "start": 63,
+            "end": 100
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "that looked almost the same",
+            "start": 73,
+            "end": 100
+          },
+          {
+            "id": "n6",
+            "role": "phrase",
+            "text": "two lamps",
+            "start": 63,
+            "end": 72,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n6",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: she / V: found / O: two lamps that looked almost the same",
+        "grammarPoints": [
+          "that節がlampsを修飾。look＋補語same。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p1-s003",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "One was cheaper, so she was ready to buy it.",
+        "start": 102,
+        "end": 146,
+        "translation": "一方が安かったので、それを買おうとしていた。",
+        "explanation": "soで原因と結果。Oneとitはいずれも安い方のスタンド。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "One",
+            "start": 102,
+            "end": 105
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "was",
+            "start": 106,
+            "end": 109
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "cheaper",
+            "start": 110,
+            "end": 117
+          },
+          {
+            "id": "n4",
+            "role": "S",
+            "text": "she",
+            "start": 122,
+            "end": 125
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "was",
+            "start": 126,
+            "end": 129
+          },
+          {
+            "id": "n6",
+            "role": "C",
+            "text": "ready to buy it",
+            "start": 130,
+            "end": 145
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: One / V: was / C: cheaper / S: she / V: was / C: ready to buy it",
+        "grammarPoints": [
+          "soで原因と結果。Oneとitはいずれも安い方のスタンド。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p1-s004",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "Her father asked her to read the information on both boxes first.",
+        "start": 147,
+        "end": 212,
+        "translation": "父親は、先に両方の箱の情報を読むよう頼んだ。",
+        "explanation": "ask＋人＋to不定詞。on both boxesがinformationを修飾。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Her father",
+            "start": 147,
+            "end": 157
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "asked",
+            "start": 158,
+            "end": 163
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "her",
+            "start": 164,
+            "end": 167
+          },
+          {
+            "id": "n4",
+            "role": "C",
+            "text": "to read the information on both boxes first",
+            "start": 168,
+            "end": 211
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Her father / V: asked / O: her / C: to read the information on both boxes first",
+        "grammarPoints": [
+          "ask＋人＋to不定詞。on both boxesがinformationを修飾。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p2-s001",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "The cheaper lamp needed a special kind of battery that the shop did not sell.",
+        "start": 0,
+        "end": 77,
+        "translation": "安い方には、その店では売っていない特殊な電池が必要だった。",
+        "explanation": "thatはsellのOでbatteryを限定する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The cheaper lamp",
+            "start": 0,
+            "end": 16
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "needed",
+            "start": 17,
+            "end": 23
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a special kind of battery that the shop did not sell",
+            "start": 24,
+            "end": 76
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "that the shop did not sell",
+            "start": 50,
+            "end": 76
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "battery",
+            "start": 42,
+            "end": 49,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The cheaper lamp / V: needed / O: a special kind of battery that the shop did not sell",
+        "grammarPoints": [
+          "thatはsellのOでbatteryを限定する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p2-s002",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "The other could use ordinary batteries or connect to a wall socket.",
+        "start": 78,
+        "end": 145,
+        "translation": "もう一方は普通の電池を使うか、壁のコンセントへつなげられた。",
+        "explanation": "useとconnectがcouldを共有。The otherは二つ目のスタンド。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The other",
+            "start": 78,
+            "end": 87
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "could use",
+            "start": 88,
+            "end": 97
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "ordinary batteries",
+            "start": 98,
+            "end": 116
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "connect",
+            "start": 120,
+            "end": 127
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "to a wall socket",
+            "start": 128,
+            "end": 144
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The other / V: could use / O: ordinary batteries / V: connect",
+        "grammarPoints": [
+          "useとconnectがcouldを共有。The otherは二つ目のスタンド。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p2-s003",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "Mia also checked whether a broken part could be replaced and how long the shop would accept returns.",
+        "start": 146,
+        "end": 246,
+        "translation": "壊れた部品を交換できるか、店がいつまで返品を受け付けるかも調べた。",
+        "explanation": "whether節とhow long節がOとして並列。前半は受動態。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mia",
+            "start": 146,
+            "end": 149
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "checked",
+            "start": 155,
+            "end": 162
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "also",
+            "start": 150,
+            "end": 154
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "whether a broken part could be replaced and how long the shop would accept returns",
+            "start": 163,
+            "end": 245
+          }
+        ],
+        "relations": [
+          {
+            "from": "n3",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Mia / V: checked / O: whether a broken part could be replaced and how long the shop would accept returns",
+        "grammarPoints": [
+          "whether節とhow long節がOとして並列。前半は受動態。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p2-s004",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "She did not simply choose the more expensive lamp because her father mentioned it.",
+        "start": 247,
+        "end": 329,
+        "translation": "父親が言及したからというだけで、高い方を選んだのではなかった。",
+        "explanation": "not simplyとbecauseの組合せで「ただその理由だけで」の判断を否定する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "She",
+            "start": 247,
+            "end": 250
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "did not simply choose",
+            "start": 251,
+            "end": 272
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the more expensive lamp",
+            "start": 273,
+            "end": 296
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "because her father mentioned it",
+            "start": 297,
+            "end": 328
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: She / V: did not simply choose / O: the more expensive lamp",
+        "grammarPoints": [
+          "not simplyとbecauseの組合せで「ただその理由だけで」の判断を否定する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p2-s005",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s005",
+        "sentence": "Instead, she wrote down the costs and features that mattered to her.",
+        "start": 330,
+        "end": 398,
+        "translation": "代わりに、自分に重要な費用と機能を書き出した。",
+        "explanation": "that節がcosts and featuresの両方を修飾する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "Instead",
+            "start": 330,
+            "end": 337
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "she",
+            "start": 339,
+            "end": 342
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "wrote down",
+            "start": 343,
+            "end": 353
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "the costs and features that mattered to her",
+            "start": 354,
+            "end": 397
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "that mattered to her",
+            "start": 377,
+            "end": 397
+          },
+          {
+            "id": "n6",
+            "role": "phrase",
+            "text": "the costs and features",
+            "start": 354,
+            "end": 376,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n6",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: she / V: wrote down / O: the costs and features that mattered to her",
+        "grammarPoints": [
+          "that節がcosts and featuresの両方を修飾する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p3-s001",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "In the end, she chose the second lamp because she planned to use it at her desk every evening.",
+        "start": 0,
+        "end": 94,
+        "translation": "結局、毎晩机で使う予定だったので、二つ目のスタンドを選んだ。",
+        "explanation": "because節が選択の理由。自分の具体的な利用計画に基づく。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "In the end",
+            "start": 0,
+            "end": 10
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "she",
+            "start": 12,
+            "end": 15
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "chose",
+            "start": 16,
+            "end": 21
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "the second lamp",
+            "start": 22,
+            "end": 37
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "because she planned to use it at her desk every evening",
+            "start": 38,
+            "end": 93
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: she / V: chose / O: the second lamp",
+        "grammarPoints": [
+          "because節が選択の理由。自分の具体的な利用計画に基づく。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p3-s002",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "The experience taught her that a price label was only one part of a buying decision.",
+        "start": 95,
+        "end": 179,
+        "translation": "この体験から、値札は購入判断の一部分にすぎないと学んだ。",
+        "explanation": "teach＋人＋内容節の二目的語。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The experience",
+            "start": 95,
+            "end": 109
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "taught",
+            "start": 110,
+            "end": 116
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "her",
+            "start": 117,
+            "end": 120
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "that a price label was only one part of a buying decision",
+            "start": 121,
+            "end": 178
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The experience / V: taught / O: her / O: that a price label was only one part of a buying decision",
+        "grammarPoints": [
+          "teach＋人＋内容節の二目的語。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-08:p3-s003",
+        "passageId": "reading-l1-f04-08",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "Asking the right questions helped her spend her savings more carefully.",
+        "start": 180,
+        "end": 251,
+        "translation": "適切な質問が、貯金をより慎重に使う助けになった。",
+        "explanation": "動名詞句がS。help＋人＋原形spend。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Asking the right questions",
+            "start": 180,
+            "end": 206
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "helped",
+            "start": 207,
+            "end": 213
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "her",
+            "start": 214,
+            "end": 217
+          },
+          {
+            "id": "n4",
+            "role": "C",
+            "text": "spend her savings more carefully",
+            "start": 218,
+            "end": 250
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Asking the right questions / V: helped / O: her / C: spend her savings more carefully",
+        "grammarPoints": [
+          "動名詞句がS。help＋人＋原形spend。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      }
+    ],
+    "wordCount": 160,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "replace",
+        "meaning": "交換する"
+      },
+      {
+        "english": "feature",
+        "meaning": "特徴・機能"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Mia saved money to buy a small desk lamp.",
+        "start": 0,
+        "end": 41,
+        "translation": "ミアは小さな電気スタンドを買うために貯金した。",
+        "explanation": "to buyは目的を表す不定詞。savedの目的語はmoney。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Mia",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "saved",
+            "start": 4,
+            "end": 9
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "Mia saved money to buy a small desk lamp.",
+        "translation": "ミアは小さな電気スタンドを買うため貯金した。",
+        "start": 0,
+        "end": 41,
+        "sourceEnglish": "Mia saved money to buy a small desk lamp.",
+        "sourceStart": 0,
+        "sourceEnd": 41,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "At a shop, she found two lamps that looked almost the same.",
+        "translation": "店で、ほとんど同じに見える二つのスタンドを見つけた。",
+        "start": 42,
+        "end": 101,
+        "sourceEnglish": "At a shop, she found two lamps that looked almost the same.",
+        "sourceStart": 42,
+        "sourceEnd": 101,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "One was cheaper, so she was ready to buy it.",
+        "translation": "一方が安かったので、それを買おうとしていた。",
+        "start": 102,
+        "end": 146,
+        "sourceEnglish": "One was cheaper, so she was ready to buy it.",
+        "sourceStart": 102,
+        "sourceEnd": 146,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "Her father asked her to read the information on both boxes first.",
+        "translation": "父親は、先に両方の箱の情報を読むよう頼んだ。",
+        "start": 147,
+        "end": 212,
+        "sourceEnglish": "Her father asked her to read the information on both boxes first.",
+        "sourceStart": 147,
+        "sourceEnd": 212,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p1-s004"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "The cheaper lamp needed a special kind of battery that the shop did not sell.",
+        "translation": "安い方には、その店では売っていない特殊な電池が必要だった。",
+        "start": 0,
+        "end": 77,
+        "sourceEnglish": "The cheaper lamp needed a special kind of battery that the shop did not sell.",
+        "sourceStart": 213,
+        "sourceEnd": 290,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "The other could use ordinary batteries or connect to a wall socket.",
+        "translation": "もう一方は普通の電池を使うか、壁のコンセントへつなげられた。",
+        "start": 78,
+        "end": 145,
+        "sourceEnglish": "The other could use ordinary batteries or connect to a wall socket.",
+        "sourceStart": 291,
+        "sourceEnd": 358,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "Mia also checked whether a broken part could be replaced and how long the shop would accept returns.",
+        "translation": "壊れた部品を交換できるか、店がいつまで返品を受け付けるかも調べた。",
+        "start": 146,
+        "end": 246,
+        "sourceEnglish": "Mia also checked whether a broken part could be replaced and how long the shop would accept returns.",
+        "sourceStart": 359,
+        "sourceEnd": 459,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "She did not simply choose the more expensive lamp because her father mentioned it.",
+        "translation": "父親が言及したからというだけで、高い方を選んだのではなかった。",
+        "start": 247,
+        "end": 329,
+        "sourceEnglish": "She did not simply choose the more expensive lamp because her father mentioned it.",
+        "sourceStart": 460,
+        "sourceEnd": 542,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p2-s004"
+      },
+      {
+        "id": "p2-s005",
+        "paragraphId": "p2",
+        "english": "Instead, she wrote down the costs and features that mattered to her.",
+        "translation": "代わりに、自分に重要な費用と機能を書き出した。",
+        "start": 330,
+        "end": 398,
+        "sourceEnglish": "Instead, she wrote down the costs and features that mattered to her.",
+        "sourceStart": 543,
+        "sourceEnd": 611,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p2-s005"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "In the end, she chose the second lamp because she planned to use it at her desk every evening.",
+        "translation": "結局、毎晩机で使う予定だったので、二つ目のスタンドを選んだ。",
+        "start": 0,
+        "end": 94,
+        "sourceEnglish": "In the end, she chose the second lamp because she planned to use it at her desk every evening.",
+        "sourceStart": 612,
+        "sourceEnd": 706,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "The experience taught her that a price label was only one part of a buying decision.",
+        "translation": "この体験から、値札は購入判断の一部分にすぎないと学んだ。",
+        "start": 95,
+        "end": 179,
+        "sourceEnglish": "The experience taught her that a price label was only one part of a buying decision.",
+        "sourceStart": 707,
+        "sourceEnd": 791,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "Asking the right questions helped her spend her savings more carefully.",
+        "translation": "適切な質問が、貯金をより慎重に使う助けになった。",
+        "start": 180,
+        "end": 251,
+        "sourceEnglish": "Asking the right questions helped her spend her savings more carefully.",
+        "sourceStart": 792,
+        "sourceEnd": 863,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-08:p3-s003"
+      }
+    ],
+    "exerciseParagraphs": [
+      {
+        "id": "p1",
+        "english": "Mia saved money to buy a small desk lamp. At a shop, she found two lamps that looked almost the same. One was cheaper, so she was ready to buy it. Her father asked her to read the information on both boxes first.",
+        "translation": "ミアは小さな電気スタンドを買うため貯金した。店で、ほとんど同じに見える二つのスタンドを見つけた。一方が安かったので、それを買おうとしていた。父親は、先に両方の箱の情報を読むよう頼んだ。"
+      },
+      {
+        "id": "p2",
+        "english": "The cheaper lamp needed a special kind of battery that the shop did not sell. The other could use ordinary batteries or connect to a wall socket. Mia also checked whether a broken part could be replaced and how long the shop would accept returns. She did not simply choose the more expensive lamp because her father mentioned it. Instead, she wrote down the costs and features that mattered to her.",
+        "translation": "安い方には、その店では売っていない特殊な電池が必要だった。もう一方は普通の電池を使うか、壁のコンセントへつなげられた。壊れた部品を交換できるか、店がいつまで返品を受け付けるかも調べた。父親が言及したからというだけで、高い方を選んだのではなかった。代わりに、自分に重要な費用と機能を書き出した。"
+      },
+      {
+        "id": "p3",
+        "english": "In the end, she chose the second lamp because she planned to use it at her desk every evening. The experience taught her that a price label was only one part of a buying decision. Asking the right questions helped her spend her savings more carefully.",
+        "translation": "結局、毎晩机で使う予定だったので、二つ目のスタンドを選んだ。この体験から、値札は購入判断の一部分にすぎないと学んだ。適切な質問が、貯金をより慎重に使う助けになった。"
+      }
+    ],
+    "paragraphMappings": [
+      {
+        "paragraphId": "p1",
+        "sourceParagraphId": "p1",
+        "start": 0,
+        "end": 212
+      },
+      {
+        "paragraphId": "p2",
+        "sourceParagraphId": "p1",
+        "start": 213,
+        "end": 611
+      },
+      {
+        "paragraphId": "p3",
+        "sourceParagraphId": "p1",
+        "start": 612,
+        "end": 863
+      }
+    ],
+    "reviewParagraphs": [
+      {
+        "id": "p1",
+        "english": "Mia saved money to buy a small desk lamp. At a shop, she found two lamps that looked almost the same. One was cheaper, so she was ready to buy it. Her father asked her to read the information on both boxes first.",
+        "translation": "ミアは小さな電気スタンドを買うため貯金した。店で、ほとんど同じに見える二つのスタンドを見つけた。一方が安かったので、それを買おうとしていた。父親は、先に両方の箱の情報を読むよう頼んだ。"
+      },
+      {
+        "id": "p2",
+        "english": "The cheaper lamp needed a special kind of battery that the shop did not sell. The other could use ordinary batteries or connect to a wall socket. Mia also checked whether a broken part could be replaced and how long the shop would accept returns. She did not simply choose the more expensive lamp because her father mentioned it. Instead, she wrote down the costs and features that mattered to her.",
+        "translation": "安い方には、その店では売っていない特殊な電池が必要だった。もう一方は普通の電池を使うか、壁のコンセントへつなげられた。壊れた部品を交換できるか、店がいつまで返品を受け付けるかも調べた。父親が言及したからというだけで、高い方を選んだのではなかった。代わりに、自分に重要な費用と機能を書き出した。"
+      },
+      {
+        "id": "p3",
+        "english": "In the end, she chose the second lamp because she planned to use it at her desk every evening. The experience taught her that a price label was only one part of a buying decision. Asking the right questions helped her spend her savings more carefully.",
+        "translation": "結局、毎晩机で使う予定だったので、二つ目のスタンドを選んだ。この体験から、値札は購入判断の一部分にすぎないと学んだ。適切な質問が、貯金をより慎重に使う助けになった。"
+      }
+    ],
+    "syntaxOffsetBasis": "reviewParagraphs",
+    "reviewEvidence": {
+      "q1": {
+        "paragraphId": "p3",
+        "quote": "a price label was only one part of a buying decision"
+      },
+      "q2": {
+        "paragraphId": "p2",
+        "quote": "a special kind of battery that the shop did not sell"
+      },
+      "q3": {
+        "paragraphId": "p2",
+        "quote": "the costs and features that mattered to her"
+      },
+      "q4": {
+        "paragraphId": "p2",
+        "quote": "whether a broken part could be replaced and how long the shop would accept returns"
+      },
+      "q5": {
+        "paragraphId": "p3",
+        "quote": "use it at her desk every evening"
+      }
+    },
+    "reviewWordCount": 160,
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f04-09",
+    "level": 1,
+    "format": 4,
+    "title": "一枚の練習写真",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "The photography club held a meeting where each member showed one picture. Most students brought their best work. Alex brought a photograph that was too dark. Some members wondered why he had chosen it. Alex explained that he liked the shape of the trees but had used the wrong camera setting. He wanted advice about taking the same scene again. The discussion became more lively than usual. One student suggested a different time of day, and another showed how to change a setting. Soon other members began sharing pictures that had not turned out well. The club adviser said that showing success could encourage people, but showing an unfinished attempt could invite useful help. The following month, the club added a short session called Work in Progress. Members still celebrated their best pictures, but they no longer felt that every meeting had to be a competition. Alex returned to the trees and took a clearer photograph with ideas he had learned from his friends.",
+        "translation": "写真部は、各部員が一枚見せる会合を開いた。大半の生徒は最もよい作品を持ってきた。アレックスは暗すぎる写真を持ってきた。なぜその写真を選んだのか、不思議に思う部員もいた。木々の形は好きだったが、カメラの設定を間違えたと説明した。同じ景色を撮り直す助言が欲しかった。話し合いは普段より活発になった。一人が違う時間帯を提案し、別の一人が設定の変え方を示した。やがて他の部員も、うまく撮れなかった写真を見せ始めた。顧問は、成功例で人を励ませるが、未完成の試みを見せれば有用な助けを得られると話した。翌月、部は「制作途中」と呼ぶ短い時間を加えた。最良の写真を祝い続けたが、毎回が競争でなければならないとは思わなくなった。アレックスは木々の所へ戻り、友人から学んだ考えを使って、より鮮明な写真を撮った。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な題名は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "未完成を見せて学ぶ写真部",
+            "explanation": "うまくいかなかった作品を共有し助言を得る。"
+          },
+          {
+            "id": "b",
+            "text": "最高の写真だけの競争",
+            "explanation": "根拠は「an unfinished attempt could invite useful help」。最高の写真だけの競争という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "木を植えるクラブ",
+            "explanation": "根拠は「an unfinished attempt could invite useful help」。木を植えるクラブという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "暗い部屋からの脱出",
+            "explanation": "根拠は「an unfinished attempt could invite useful help」。暗い部屋からの脱出という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "うまくいかなかった作品を共有し助言を得る。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "an unfinished attempt could invite useful help"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "暗い写真を持参した目的は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "カメラを売る",
+            "explanation": "根拠は「He wanted advice about taking the same scene again.」。カメラを売るという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "木を切る許可を得る",
+            "explanation": "根拠は「He wanted advice about taking the same scene again.」。木を切る許可を得るという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "他の部員を笑う",
+            "explanation": "根拠は「He wanted advice about taking the same scene again.」。他の部員を笑うという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "同じ景色を撮り直す助言を得る",
+            "explanation": "改善の相談を求めた。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "改善の相談を求めた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "He wanted advice about taking the same scene again."
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "翌月加わったものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "写真の販売義務",
+            "explanation": "根拠は「a short session called Work in Progress」。写真の販売義務という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "木の形の賞",
+            "explanation": "根拠は「a short session called Work in Progress」。木の形の賞という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "制作途中の作品を見せる時間",
+            "explanation": "Work in Progressの時間を設けた。"
+          },
+          {
+            "id": "d",
+            "text": "毎週の入部試験",
+            "explanation": "根拠は「a short session called Work in Progress」。毎週の入部試験という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Work in Progressの時間を設けた。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "a short session called Work in Progress"
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "最後にアレックスはどうしたか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "全ての仲間の写真を隠した",
+            "explanation": "他の部員も作品を共有した。"
+          },
+          {
+            "id": "b",
+            "text": "カメラの設定変更を禁止した",
+            "explanation": "設定の変更は助言の一つ。"
+          },
+          {
+            "id": "c",
+            "text": "友人の助言を使い木々をより鮮明に撮った",
+            "explanation": "returned ... took a clearer photographという結末。"
+          },
+          {
+            "id": "d",
+            "text": "暗い写真を理由に退部した",
+            "explanation": "退部せず撮り直した。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "returned ... took a clearer photographという結末。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "Alex returned to the trees and took a clearer photograph"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f04-09:p1-s001",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "The photography club held a meeting where each member showed one picture.",
+        "start": 0,
+        "end": 73,
+        "translation": "写真部は、各部員が一枚見せる会合を開いた。",
+        "explanation": "where節がmeetingを修飾する関係副詞節。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The photography club",
+            "start": 0,
+            "end": 20
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "held",
+            "start": 21,
+            "end": 25
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a meeting where each member showed one picture",
+            "start": 26,
+            "end": 72
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "where each member showed one picture",
+            "start": 36,
+            "end": 72
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "a meeting",
+            "start": 26,
+            "end": 35,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The photography club / V: held / O: a meeting where each member showed one picture",
+        "grammarPoints": [
+          "where節がmeetingを修飾する関係副詞節。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p1-s002",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "Most students brought their best work.",
+        "start": 74,
+        "end": 112,
+        "translation": "大半の生徒は最もよい作品を持ってきた。",
+        "explanation": "bestはgoodの最上級。workは作品の集合的意味。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Most students",
+            "start": 74,
+            "end": 87
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "brought",
+            "start": 88,
+            "end": 95
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "their best work",
+            "start": 96,
+            "end": 111
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Most students / V: brought / O: their best work",
+        "grammarPoints": [
+          "bestはgoodの最上級。workは作品の集合的意味。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p1-s003",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "Alex brought a photograph that was too dark.",
+        "start": 113,
+        "end": 157,
+        "translation": "アレックスは暗すぎる写真を持ってきた。",
+        "explanation": "that節がphotographを修飾し、tooは望ましくない程度の超過。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Alex",
+            "start": 113,
+            "end": 117
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "brought",
+            "start": 118,
+            "end": 125
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a photograph that was too dark",
+            "start": 126,
+            "end": 156
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "that was too dark",
+            "start": 139,
+            "end": 156
+          },
+          {
+            "id": "n5",
+            "role": "phrase",
+            "text": "a photograph",
+            "start": 126,
+            "end": 138,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n5",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Alex / V: brought / O: a photograph that was too dark",
+        "grammarPoints": [
+          "that節がphotographを修飾し、tooは望ましくない程度の超過。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p1-s004",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "Some members wondered why he had chosen it.",
+        "start": 158,
+        "end": 201,
+        "translation": "なぜその写真を選んだのか、不思議に思う部員もいた。",
+        "explanation": "why節がwonderedの内容。had chosenは会合より前の選択。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Some members",
+            "start": 158,
+            "end": 170
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "wondered",
+            "start": 171,
+            "end": 179
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "why he had chosen it",
+            "start": 180,
+            "end": 200
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Some members / V: wondered / O: why he had chosen it",
+        "grammarPoints": [
+          "why節がwonderedの内容。had chosenは会合より前の選択。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p1-s005",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s005",
+        "sentence": "Alex explained that he liked the shape of the trees but had used the wrong camera setting.",
+        "start": 202,
+        "end": 292,
+        "translation": "木々の形は好きだったが、カメラの設定を間違えたと説明した。",
+        "explanation": "that節内部でlikedとhad usedがheをSとして共有。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Alex",
+            "start": 202,
+            "end": 206
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "explained",
+            "start": 207,
+            "end": 216
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "that he liked the shape of the trees but had used the wrong camera setting",
+            "start": 217,
+            "end": 291
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Alex / V: explained / O: that he liked the shape of the trees but had used the wrong camera setting",
+        "grammarPoints": [
+          "that節内部でlikedとhad usedがheをSとして共有。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p1-s006",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s006",
+        "sentence": "He wanted advice about taking the same scene again.",
+        "start": 293,
+        "end": 344,
+        "translation": "同じ景色を撮り直す助言が欲しかった。",
+        "explanation": "about＋動名詞がadviceの話題。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "He",
+            "start": 293,
+            "end": 295
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "wanted",
+            "start": 296,
+            "end": 302
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "advice about taking the same scene again",
+            "start": 303,
+            "end": 343
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: He / V: wanted / O: advice about taking the same scene again",
+        "grammarPoints": [
+          "about＋動名詞がadviceの話題。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p2-s001",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "The discussion became more lively than usual.",
+        "start": 0,
+        "end": 45,
+        "translation": "話し合いは普段より活発になった。",
+        "explanation": "become＋形容詞。than usualが比較対象。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The discussion",
+            "start": 0,
+            "end": 14
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "became",
+            "start": 15,
+            "end": 21
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "more lively than usual",
+            "start": 22,
+            "end": 44
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The discussion / V: became / C: more lively than usual",
+        "grammarPoints": [
+          "become＋形容詞。than usualが比較対象。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p2-s002",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "One student suggested a different time of day, and another showed how to change a setting.",
+        "start": 46,
+        "end": 136,
+        "translation": "一人が違う時間帯を提案し、別の一人が設定の変え方を示した。",
+        "explanation": "how＋to不定詞がshowedのO。anotherは別の部員。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "One student",
+            "start": 46,
+            "end": 57
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "suggested",
+            "start": 58,
+            "end": 67
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "a different time of day",
+            "start": 68,
+            "end": 91
+          },
+          {
+            "id": "n4",
+            "role": "S",
+            "text": "another",
+            "start": 97,
+            "end": 104
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "showed",
+            "start": 105,
+            "end": 111
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "how to change a setting",
+            "start": 112,
+            "end": 135
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: One student / V: suggested / O: a different time of day / S: another / V: showed / O: how to change a setting",
+        "grammarPoints": [
+          "how＋to不定詞がshowedのO。anotherは別の部員。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p2-s003",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "Soon other members began sharing pictures that had not turned out well.",
+        "start": 137,
+        "end": 208,
+        "translation": "やがて他の部員も、うまく撮れなかった写真を見せ始めた。",
+        "explanation": "begin＋動名詞。that節がpicturesを修飾。turn outは結果が〜になる。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "Soon",
+            "start": 137,
+            "end": 141
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "other members",
+            "start": 142,
+            "end": 155
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "began",
+            "start": 156,
+            "end": 161
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "sharing pictures that had not turned out well",
+            "start": 162,
+            "end": 207
+          },
+          {
+            "id": "n5",
+            "role": "clause",
+            "text": "that had not turned out well",
+            "start": 179,
+            "end": 207
+          },
+          {
+            "id": "n6",
+            "role": "phrase",
+            "text": "pictures",
+            "start": 170,
+            "end": 178,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n6",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: other members / V: began / O: sharing pictures that had not turned out well",
+        "grammarPoints": [
+          "begin＋動名詞。that節がpicturesを修飾。turn outは結果が〜になる。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p2-s004",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s004",
+        "sentence": "The club adviser said that showing success could encourage people, but showing an unfinished attempt could invite useful help.",
+        "start": 209,
+        "end": 335,
+        "translation": "顧問は、成功例で人を励ませるが、未完成の試みを見せれば有用な助けを得られると話した。",
+        "explanation": "that節内で二つの動名詞句をSとして対比する。inviteはここでは助力を呼び込む比喩。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The club adviser",
+            "start": 209,
+            "end": 225
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "said",
+            "start": 226,
+            "end": 230
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "that showing success could encourage people, but showing an unfinished attempt could invite useful help",
+            "start": 231,
+            "end": 334
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The club adviser / V: said / O: that showing success could encourage people, but showing an unfinished attempt could invite useful help",
+        "grammarPoints": [
+          "that節内で二つの動名詞句をSとして対比する。inviteはここでは助力を呼び込む比喩。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p3-s001",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "The following month, the club added a short session called Work in Progress.",
+        "start": 0,
+        "end": 76,
+        "translation": "翌月、部は「制作途中」と呼ぶ短い時間を加えた。",
+        "explanation": "過去分詞calledがsessionを修飾して名称を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "The following month",
+            "start": 0,
+            "end": 19
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the club",
+            "start": 21,
+            "end": 29
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "added",
+            "start": 30,
+            "end": 35
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "a short session called Work in Progress",
+            "start": 36,
+            "end": 75
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: the club / V: added / O: a short session called Work in Progress",
+        "grammarPoints": [
+          "過去分詞calledがsessionを修飾して名称を示す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p3-s002",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "Members still celebrated their best pictures, but they no longer felt that every meeting had to be a competition.",
+        "start": 77,
+        "end": 190,
+        "translation": "最良の写真を祝い続けたが、毎回が競争でなければならないとは思わなくなった。",
+        "explanation": "no longerが意識の変化。that節内のhad toは必要性。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Members",
+            "start": 77,
+            "end": 84
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "celebrated",
+            "start": 91,
+            "end": 101
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "their best pictures",
+            "start": 102,
+            "end": 121
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "still",
+            "start": 85,
+            "end": 90
+          },
+          {
+            "id": "n5",
+            "role": "S",
+            "text": "they",
+            "start": 127,
+            "end": 131
+          },
+          {
+            "id": "n6",
+            "role": "V",
+            "text": "no longer felt",
+            "start": 132,
+            "end": 146
+          },
+          {
+            "id": "n7",
+            "role": "O",
+            "text": "that every meeting had to be a competition",
+            "start": 147,
+            "end": 189
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Members / V: celebrated / O: their best pictures / S: they / V: no longer felt / O: that every meeting had to be a competition",
+        "grammarPoints": [
+          "no longerが意識の変化。that節内のhad toは必要性。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-09:p3-s003",
+        "passageId": "reading-l1-f04-09",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s003",
+        "sentence": "Alex returned to the trees and took a clearer photograph with ideas he had learned from his friends.",
+        "start": 191,
+        "end": 291,
+        "translation": "アレックスは木々の所へ戻り、友人から学んだ考えを使って、より鮮明な写真を撮った。",
+        "explanation": "ideasの後に関係代名詞が省略。withは撮り直しに使った工夫。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Alex",
+            "start": 191,
+            "end": 195
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "returned",
+            "start": 196,
+            "end": 204
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "to the trees",
+            "start": 205,
+            "end": 217
+          },
+          {
+            "id": "n4",
+            "role": "V",
+            "text": "took",
+            "start": 222,
+            "end": 226
+          },
+          {
+            "id": "n5",
+            "role": "O",
+            "text": "a clearer photograph",
+            "start": 227,
+            "end": 247
+          },
+          {
+            "id": "n6",
+            "role": "M",
+            "text": "with ideas he had learned from his friends",
+            "start": 248,
+            "end": 290
+          },
+          {
+            "id": "n7",
+            "role": "clause",
+            "text": "he had learned from his friends",
+            "start": 259,
+            "end": 290
+          },
+          {
+            "id": "n8",
+            "role": "phrase",
+            "text": "ideas",
+            "start": 253,
+            "end": 258,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n7",
+            "to": "n8",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: Alex / V: returned / V: took / O: a clearer photograph",
+        "grammarPoints": [
+          "ideasの後に関係代名詞が省略。withは撮り直しに使った工夫。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      }
+    ],
+    "wordCount": 164,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "attempt",
+        "meaning": "試み"
+      },
+      {
+        "english": "advice",
+        "meaning": "助言"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Alex brought a photograph that was too dark.",
+        "start": 113,
+        "end": 157,
+        "translation": "アレックスは暗すぎる写真を持参した。",
+        "explanation": "that was too darkは直前のa photographを修飾する関係節。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Alex",
+            "start": 113,
+            "end": 117
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "brought",
+            "start": 118,
+            "end": 125
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "The photography club held a meeting where each member showed one picture.",
+        "translation": "写真部は、各部員が一枚見せる会合を開いた。",
+        "start": 0,
+        "end": 73,
+        "sourceEnglish": "The photography club held a meeting where each member showed one picture.",
+        "sourceStart": 0,
+        "sourceEnd": 73,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "Most students brought their best work.",
+        "translation": "大半の生徒は最もよい作品を持ってきた。",
+        "start": 74,
+        "end": 112,
+        "sourceEnglish": "Most students brought their best work.",
+        "sourceStart": 74,
+        "sourceEnd": 112,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "Alex brought a photograph that was too dark.",
+        "translation": "アレックスは暗すぎる写真を持ってきた。",
+        "start": 113,
+        "end": 157,
+        "sourceEnglish": "Alex brought a photograph that was too dark.",
+        "sourceStart": 113,
+        "sourceEnd": 157,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "Some members wondered why he had chosen it.",
+        "translation": "なぜその写真を選んだのか、不思議に思う部員もいた。",
+        "start": 158,
+        "end": 201,
+        "sourceEnglish": "Some members wondered why he had chosen it.",
+        "sourceStart": 158,
+        "sourceEnd": 201,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p1-s004"
+      },
+      {
+        "id": "p1-s005",
+        "paragraphId": "p1",
+        "english": "Alex explained that he liked the shape of the trees but had used the wrong camera setting.",
+        "translation": "木々の形は好きだったが、カメラの設定を間違えたと説明した。",
+        "start": 202,
+        "end": 292,
+        "sourceEnglish": "Alex explained that he liked the shape of the trees but had used the wrong camera setting.",
+        "sourceStart": 202,
+        "sourceEnd": 292,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p1-s005"
+      },
+      {
+        "id": "p1-s006",
+        "paragraphId": "p1",
+        "english": "He wanted advice about taking the same scene again.",
+        "translation": "同じ景色を撮り直す助言が欲しかった。",
+        "start": 293,
+        "end": 344,
+        "sourceEnglish": "He wanted advice about taking the same scene again.",
+        "sourceStart": 293,
+        "sourceEnd": 344,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p1-s006"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "The discussion became more lively than usual.",
+        "translation": "話し合いは普段より活発になった。",
+        "start": 0,
+        "end": 45,
+        "sourceEnglish": "The discussion became more lively than usual.",
+        "sourceStart": 345,
+        "sourceEnd": 390,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "One student suggested a different time of day, and another showed how to change a setting.",
+        "translation": "一人が違う時間帯を提案し、別の一人が設定の変え方を示した。",
+        "start": 46,
+        "end": 136,
+        "sourceEnglish": "One student suggested a different time of day, and another showed how to change a setting.",
+        "sourceStart": 391,
+        "sourceEnd": 481,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "Soon other members began sharing pictures that had not turned out well.",
+        "translation": "やがて他の部員も、うまく撮れなかった写真を見せ始めた。",
+        "start": 137,
+        "end": 208,
+        "sourceEnglish": "Soon other members began sharing pictures that had not turned out well.",
+        "sourceStart": 482,
+        "sourceEnd": 553,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p2-s003"
+      },
+      {
+        "id": "p2-s004",
+        "paragraphId": "p2",
+        "english": "The club adviser said that showing success could encourage people, but showing an unfinished attempt could invite useful help.",
+        "translation": "顧問は、成功例で人を励ませるが、未完成の試みを見せれば有用な助けを得られると話した。",
+        "start": 209,
+        "end": 335,
+        "sourceEnglish": "The club adviser said that showing success could encourage people, but showing an unfinished attempt could invite useful help.",
+        "sourceStart": 554,
+        "sourceEnd": 680,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p2-s004"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "The following month, the club added a short session called Work in Progress.",
+        "translation": "翌月、部は「制作途中」と呼ぶ短い時間を加えた。",
+        "start": 0,
+        "end": 76,
+        "sourceEnglish": "The following month, the club added a short session called Work in Progress.",
+        "sourceStart": 681,
+        "sourceEnd": 757,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "Members still celebrated their best pictures, but they no longer felt that every meeting had to be a competition.",
+        "translation": "最良の写真を祝い続けたが、毎回が競争でなければならないとは思わなくなった。",
+        "start": 77,
+        "end": 190,
+        "sourceEnglish": "Members still celebrated their best pictures, but they no longer felt that every meeting had to be a competition.",
+        "sourceStart": 758,
+        "sourceEnd": 871,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p3-s002"
+      },
+      {
+        "id": "p3-s003",
+        "paragraphId": "p3",
+        "english": "Alex returned to the trees and took a clearer photograph with ideas he had learned from his friends.",
+        "translation": "アレックスは木々の所へ戻り、友人から学んだ考えを使って、より鮮明な写真を撮った。",
+        "start": 191,
+        "end": 291,
+        "sourceEnglish": "Alex returned to the trees and took a clearer photograph with ideas he had learned from his friends.",
+        "sourceStart": 872,
+        "sourceEnd": 972,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-09:p3-s003"
+      }
+    ],
+    "exerciseParagraphs": [
+      {
+        "id": "p1",
+        "english": "The photography club held a meeting where each member showed one picture. Most students brought their best work. Alex brought a photograph that was too dark. Some members wondered why he had chosen it. Alex explained that he liked the shape of the trees but had used the wrong camera setting. He wanted advice about taking the same scene again.",
+        "translation": "写真部は、各部員が一枚見せる会合を開いた。大半の生徒は最もよい作品を持ってきた。アレックスは暗すぎる写真を持ってきた。なぜその写真を選んだのか、不思議に思う部員もいた。木々の形は好きだったが、カメラの設定を間違えたと説明した。同じ景色を撮り直す助言が欲しかった。"
+      },
+      {
+        "id": "p2",
+        "english": "The discussion became more lively than usual. One student suggested a different time of day, and another showed how to change a setting. Soon other members began sharing pictures that had not turned out well. The club adviser said that showing success could encourage people, but showing an unfinished attempt could invite useful help.",
+        "translation": "話し合いは普段より活発になった。一人が違う時間帯を提案し、別の一人が設定の変え方を示した。やがて他の部員も、うまく撮れなかった写真を見せ始めた。顧問は、成功例で人を励ませるが、未完成の試みを見せれば有用な助けを得られると話した。"
+      },
+      {
+        "id": "p3",
+        "english": "The following month, the club added a short session called Work in Progress. Members still celebrated their best pictures, but they no longer felt that every meeting had to be a competition. Alex returned to the trees and took a clearer photograph with ideas he had learned from his friends.",
+        "translation": "翌月、部は「制作途中」と呼ぶ短い時間を加えた。最良の写真を祝い続けたが、毎回が競争でなければならないとは思わなくなった。アレックスは木々の所へ戻り、友人から学んだ考えを使って、より鮮明な写真を撮った。"
+      }
+    ],
+    "paragraphMappings": [
+      {
+        "paragraphId": "p1",
+        "sourceParagraphId": "p1",
+        "start": 0,
+        "end": 344
+      },
+      {
+        "paragraphId": "p2",
+        "sourceParagraphId": "p1",
+        "start": 345,
+        "end": 680
+      },
+      {
+        "paragraphId": "p3",
+        "sourceParagraphId": "p1",
+        "start": 681,
+        "end": 972
+      }
+    ],
+    "reviewParagraphs": [
+      {
+        "id": "p1",
+        "english": "The photography club held a meeting where each member showed one picture. Most students brought their best work. Alex brought a photograph that was too dark. Some members wondered why he had chosen it. Alex explained that he liked the shape of the trees but had used the wrong camera setting. He wanted advice about taking the same scene again.",
+        "translation": "写真部は、各部員が一枚見せる会合を開いた。大半の生徒は最もよい作品を持ってきた。アレックスは暗すぎる写真を持ってきた。なぜその写真を選んだのか、不思議に思う部員もいた。木々の形は好きだったが、カメラの設定を間違えたと説明した。同じ景色を撮り直す助言が欲しかった。"
+      },
+      {
+        "id": "p2",
+        "english": "The discussion became more lively than usual. One student suggested a different time of day, and another showed how to change a setting. Soon other members began sharing pictures that had not turned out well. The club adviser said that showing success could encourage people, but showing an unfinished attempt could invite useful help.",
+        "translation": "話し合いは普段より活発になった。一人が違う時間帯を提案し、別の一人が設定の変え方を示した。やがて他の部員も、うまく撮れなかった写真を見せ始めた。顧問は、成功例で人を励ませるが、未完成の試みを見せれば有用な助けを得られると話した。"
+      },
+      {
+        "id": "p3",
+        "english": "The following month, the club added a short session called Work in Progress. Members still celebrated their best pictures, but they no longer felt that every meeting had to be a competition. Alex returned to the trees and took a clearer photograph with ideas he had learned from his friends.",
+        "translation": "翌月、部は「制作途中」と呼ぶ短い時間を加えた。最良の写真を祝い続けたが、毎回が競争でなければならないとは思わなくなった。アレックスは木々の所へ戻り、友人から学んだ考えを使って、より鮮明な写真を撮った。"
+      }
+    ],
+    "syntaxOffsetBasis": "reviewParagraphs",
+    "reviewEvidence": {
+      "q1": {
+        "paragraphId": "p2",
+        "quote": "an unfinished attempt could invite useful help"
+      },
+      "q2": {
+        "paragraphId": "p1",
+        "quote": "He wanted advice about taking the same scene again."
+      },
+      "q3": {
+        "paragraphId": "p3",
+        "quote": "a short session called Work in Progress"
+      },
+      "q4": {
+        "paragraphId": "p3",
+        "quote": "Alex returned to the trees and took a clearer photograph"
+      }
+    },
+    "reviewWordCount": 164,
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  },
+  {
+    "id": "reading-l1-f04-10",
+    "level": 1,
+    "format": 4,
+    "title": "遠くの友達と読む本",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "english": "Two schools in different towns started an online book club. The teachers chose the same short novel for both groups. At the first meeting, students tried to discuss the whole book at once. The conversation moved quickly, and several students who had read carefully said very little. For the second meeting, the teachers asked each group to bring one question and one favorite passage. They sent these to the other school two days before the call. Students had time to think and look at the book again. During the meeting, they discovered that they understood one character's choice differently. Instead of arguing about who was right, they pointed to words in the story and explained their reasons. The meeting ended with more questions than it had started with, but everyone wanted to read the next book. The teachers were happy because the club had become a place for careful conversation rather than a test of who could answer fastest.",
+        "translation": "別の町の二校が、オンライン読書クラブを始めた。先生たちは両方のグループに同じ短い小説を選んだ。最初の会では、本全体を一度に議論しようとした。話は速く進み、よく読んでいた何人かの生徒もほとんど発言しなかった。二回目には、先生は各グループに質問一つと好きな一節を持ち寄るよう頼んだ。通話の二日前に、それらを相手校へ送った。生徒は考えたり本を読み返したりする時間を得た。会合中、一人の登場人物の選択を違って理解していると分かった。どちらが正しいか争わず、物語の言葉を示して理由を説明した。開始時より多くの問いを残して会は終わったが、皆は次の本を読みたがった。読書会が早答えの競争ではなく、丁寧に話し合う場になったので、先生たちは喜んだ。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "最も適切な題名は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "小説の速読記録大会",
+            "explanation": "根拠は「a place for careful conversation」。小説の速読記録大会という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "教師だけのテレビ会議",
+            "explanation": "根拠は「a place for careful conversation」。教師だけのテレビ会議という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "同じ答えを覚える試験",
+            "explanation": "根拠は「a place for careful conversation」。同じ答えを覚える試験という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "準備と根拠で深まる読書会",
+            "explanation": "準備した問いと本文の根拠による対話が中心。"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "準備した問いと本文の根拠による対話が中心。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "a place for careful conversation"
+        }
+      },
+      {
+        "id": "q2",
+        "prompt": "二日前に送ったものは？",
+        "options": [
+          {
+            "id": "a",
+            "text": "本を買うお金",
+            "explanation": "根拠は「one question and one favorite passage」。本を買うお金という選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "次の試験の答え",
+            "explanation": "根拠は「one question and one favorite passage」。次の試験の答えという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "c",
+            "text": "質問一つと好きな一節",
+            "explanation": "問いと一節を事前に共有した。"
+          },
+          {
+            "id": "d",
+            "text": "学校全員の成績",
+            "explanation": "根拠は「one question and one favorite passage」。学校全員の成績という選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "問いと一節を事前に共有した。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "one question and one favorite passage"
+        }
+      },
+      {
+        "id": "q3",
+        "prompt": "解釈が違った時どうしたか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "先生の答えを写した",
+            "explanation": "根拠は「they pointed to words in the story and explained their reasons」。先生の答えを写したという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "b",
+            "text": "本文の語句を示し理由を説明した",
+            "explanation": "根拠を使って説明し合った。"
+          },
+          {
+            "id": "c",
+            "text": "通信をすぐ切った",
+            "explanation": "根拠は「they pointed to words in the story and explained their reasons」。通信をすぐ切ったという選択肢は、その内容に合いません。"
+          },
+          {
+            "id": "d",
+            "text": "本を読まずに投票した",
+            "explanation": "根拠は「they pointed to words in the story and explained their reasons」。本を読まずに投票したという選択肢は、その内容に合いません。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "根拠を使って説明し合った。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "they pointed to words in the story and explained their reasons"
+        }
+      },
+      {
+        "id": "q4",
+        "prompt": "第一回で、よく読んだ生徒も発言が少なかった背景は？",
+        "options": [
+          {
+            "id": "a",
+            "text": "他校との通信を永久にやめた",
+            "explanation": "次回もオンラインで話し合った。"
+          },
+          {
+            "id": "b",
+            "text": "会話が速く本全体を一度に扱った",
+            "explanation": "whole book at onceとconversation moved quicklyが状況を示す。"
+          },
+          {
+            "id": "c",
+            "text": "全員が本を読むことを禁止された",
+            "explanation": "had read carefullyとある。"
+          },
+          {
+            "id": "d",
+            "text": "短い小説を一切選ばなかった",
+            "explanation": "同じ短い小説を選んでいる。"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "whole book at onceとconversation moved quicklyが状況を示す。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "The conversation moved quickly"
+        }
+      },
+      {
+        "id": "q5",
+        "prompt": "会の終わりに問いが増えたことは、本文でどう扱われるか。",
+        "options": [
+          {
+            "id": "a",
+            "text": "次も読みたいと思える丁寧な対話の一部",
+            "explanation": "more questionsがあってもeveryone wanted to read the next book。"
+          },
+          {
+            "id": "b",
+            "text": "全員が活動をやめる理由",
+            "explanation": "継続への意欲がある。"
+          },
+          {
+            "id": "c",
+            "text": "先生が読書を禁止した理由",
+            "explanation": "先生は変化を喜んだ。"
+          },
+          {
+            "id": "d",
+            "text": "最速回答者だけを決める試験の成功",
+            "explanation": "rather than a testとあり試験とは異なる。"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "more questionsがあってもeveryone wanted to read the next book。",
+        "evidence": {
+          "paragraphId": "p1",
+          "quote": "everyone wanted to read the next book"
+        }
+      }
+    ],
+    "syntax": [
+      {
+        "id": "reading-l1-f04-10:p1-s001",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s001",
+        "sentence": "Two schools in different towns started an online book club.",
+        "start": 0,
+        "end": 59,
+        "translation": "別の町の二校が、オンライン読書クラブを始めた。",
+        "explanation": "in different townsがschoolsを修飾する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Two schools in different towns",
+            "start": 0,
+            "end": 30
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "started",
+            "start": 31,
+            "end": 38
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "an online book club",
+            "start": 39,
+            "end": 58
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Two schools in different towns / V: started / O: an online book club",
+        "grammarPoints": [
+          "in different townsがschoolsを修飾する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-10:p1-s002",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s002",
+        "sentence": "The teachers chose the same short novel for both groups.",
+        "start": 60,
+        "end": 116,
+        "translation": "先生たちは両方のグループに同じ短い小説を選んだ。",
+        "explanation": "forは読書の対象となるグループ。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The teachers",
+            "start": 60,
+            "end": 72
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "chose",
+            "start": 73,
+            "end": 78
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "the same short novel",
+            "start": 79,
+            "end": 99
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "for both groups",
+            "start": 100,
+            "end": 115
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The teachers / V: chose / O: the same short novel",
+        "grammarPoints": [
+          "forは読書の対象となるグループ。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-10:p1-s003",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s003",
+        "sentence": "At the first meeting, students tried to discuss the whole book at once.",
+        "start": 117,
+        "end": 188,
+        "translation": "最初の会では、本全体を一度に議論しようとした。",
+        "explanation": "try＋to不定詞は〜しようと試みる。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "At the first meeting",
+            "start": 117,
+            "end": 137
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "students",
+            "start": 139,
+            "end": 147
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "tried",
+            "start": 148,
+            "end": 153
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "to discuss the whole book at once",
+            "start": 154,
+            "end": 187
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: students / V: tried / O: to discuss the whole book at once",
+        "grammarPoints": [
+          "try＋to不定詞は〜しようと試みる。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-10:p1-s004",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p1",
+        "sentenceId": "p1-s004",
+        "sentence": "The conversation moved quickly, and several students who had read carefully said very little.",
+        "start": 189,
+        "end": 282,
+        "translation": "話は速く進み、よく読んでいた何人かの生徒もほとんど発言しなかった。",
+        "explanation": "who節がstudentsを修飾する。very littleは発言内容がごく少量。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The conversation",
+            "start": 189,
+            "end": 205
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "moved",
+            "start": 206,
+            "end": 211
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "quickly",
+            "start": 212,
+            "end": 219
+          },
+          {
+            "id": "n4",
+            "role": "S",
+            "text": "several students who had read carefully",
+            "start": 225,
+            "end": 264
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "said",
+            "start": 265,
+            "end": 269
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "very little",
+            "start": 270,
+            "end": 281
+          },
+          {
+            "id": "n7",
+            "role": "clause",
+            "text": "who had read carefully",
+            "start": 242,
+            "end": 264
+          },
+          {
+            "id": "n8",
+            "role": "phrase",
+            "text": "several students",
+            "start": 225,
+            "end": 241,
+            "kind": "先行詞"
+          }
+        ],
+        "relations": [
+          {
+            "from": "n7",
+            "to": "n8",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: The conversation / V: moved / S: several students who had read carefully / V: said / O: very little",
+        "grammarPoints": [
+          "who節がstudentsを修飾する。very littleは発言内容がごく少量。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-10:p2-s001",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s001",
+        "sentence": "For the second meeting, the teachers asked each group to bring one question and one favorite passage.",
+        "start": 0,
+        "end": 101,
+        "translation": "二回目には、先生は各グループに質問一つと好きな一節を持ち寄るよう頼んだ。",
+        "explanation": "ask＋人・集団＋to不定詞。bringのOは二項並列。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "For the second meeting",
+            "start": 0,
+            "end": 22
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "the teachers",
+            "start": 24,
+            "end": 36
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "asked",
+            "start": 37,
+            "end": 42
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "each group",
+            "start": 43,
+            "end": 53
+          },
+          {
+            "id": "n5",
+            "role": "C",
+            "text": "to bring one question and one favorite passage",
+            "start": 54,
+            "end": 100
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: the teachers / V: asked / O: each group / C: to bring one question and one favorite passage",
+        "grammarPoints": [
+          "ask＋人・集団＋to不定詞。bringのOは二項並列。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-10:p2-s002",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s002",
+        "sentence": "They sent these to the other school two days before the call.",
+        "start": 102,
+        "end": 163,
+        "translation": "通話の二日前に、それらを相手校へ送った。",
+        "explanation": "theseは質問と一節。two daysがbeforeの前に付いて時差を示す。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "They",
+            "start": 102,
+            "end": 106
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "sent",
+            "start": 107,
+            "end": 111
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "these",
+            "start": 112,
+            "end": 117
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "to the other school",
+            "start": 118,
+            "end": 137
+          },
+          {
+            "id": "n5",
+            "role": "M",
+            "text": "two days before the call",
+            "start": 138,
+            "end": 162
+          }
+        ],
+        "relations": [
+          {
+            "from": "n4",
+            "to": "n2",
+            "type": "modifies"
+          },
+          {
+            "from": "n5",
+            "to": "n2",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: They / V: sent / O: these",
+        "grammarPoints": [
+          "theseは質問と一節。two daysがbeforeの前に付いて時差を示す。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-10:p2-s003",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p2",
+        "sentenceId": "p2-s003",
+        "sentence": "Students had time to think and look at the book again.",
+        "start": 164,
+        "end": 218,
+        "translation": "生徒は考えたり本を読み返したりする時間を得た。",
+        "explanation": "thinkとlookがtoを共有しtimeの用途を説明する。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Students",
+            "start": 164,
+            "end": 172
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had",
+            "start": 173,
+            "end": 176
+          },
+          {
+            "id": "n3",
+            "role": "O",
+            "text": "time to think and look at the book again",
+            "start": 177,
+            "end": 217
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: Students / V: had / O: time to think and look at the book again",
+        "grammarPoints": [
+          "thinkとlookがtoを共有しtimeの用途を説明する。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-10:p3-s001",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s001",
+        "sentence": "During the meeting, they discovered that they understood one character's choice differently.",
+        "start": 0,
+        "end": 92,
+        "translation": "会合中、一人の登場人物の選択を違って理解していると分かった。",
+        "explanation": "that節が発見内容。differentlyは解釈の違い。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "During the meeting",
+            "start": 0,
+            "end": 18
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "they",
+            "start": 20,
+            "end": 24
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "discovered",
+            "start": 25,
+            "end": 35
+          },
+          {
+            "id": "n4",
+            "role": "O",
+            "text": "that they understood one character's choice differently",
+            "start": 36,
+            "end": 91
+          }
+        ],
+        "relations": [
+          {
+            "from": "n1",
+            "to": "n3",
+            "type": "modifies"
+          }
+        ],
+        "skeleton": "S: they / V: discovered / O: that they understood one character's choice differently",
+        "grammarPoints": [
+          "that節が発見内容。differentlyは解釈の違い。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-10:p3-s002",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p3",
+        "sentenceId": "p3-s002",
+        "sentence": "Instead of arguing about who was right, they pointed to words in the story and explained their reasons.",
+        "start": 93,
+        "end": 196,
+        "translation": "どちらが正しいか争わず、物語の言葉を示して理由を説明した。",
+        "explanation": "Instead of＋動名詞。その内部のwho節はaboutのO。二動詞がtheyを共有。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "M",
+            "text": "Instead of arguing about who was right",
+            "start": 93,
+            "end": 131
+          },
+          {
+            "id": "n2",
+            "role": "S",
+            "text": "they",
+            "start": 133,
+            "end": 137
+          },
+          {
+            "id": "n3",
+            "role": "V",
+            "text": "pointed",
+            "start": 138,
+            "end": 145
+          },
+          {
+            "id": "n4",
+            "role": "M",
+            "text": "to words in the story",
+            "start": 146,
+            "end": 167
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "explained",
+            "start": 172,
+            "end": 181
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "their reasons",
+            "start": 182,
+            "end": 195
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: they / V: pointed / V: explained / O: their reasons",
+        "grammarPoints": [
+          "Instead of＋動名詞。その内部のwho節はaboutのO。二動詞がtheyを共有。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-10:p4-s001",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s001",
+        "sentence": "The meeting ended with more questions than it had started with, but everyone wanted to read the next book.",
+        "start": 0,
+        "end": 106,
+        "translation": "開始時より多くの問いを残して会は終わったが、皆は次の本を読みたがった。",
+        "explanation": "比較節内のwithのOにquestionsを補って読む。butは未解決の問いと継続意欲の対比。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The meeting",
+            "start": 0,
+            "end": 11
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "ended",
+            "start": 12,
+            "end": 17
+          },
+          {
+            "id": "n3",
+            "role": "M",
+            "text": "with more questions than it had started with",
+            "start": 18,
+            "end": 62
+          },
+          {
+            "id": "n4",
+            "role": "S",
+            "text": "everyone",
+            "start": 68,
+            "end": 76
+          },
+          {
+            "id": "n5",
+            "role": "V",
+            "text": "wanted",
+            "start": 77,
+            "end": 83
+          },
+          {
+            "id": "n6",
+            "role": "O",
+            "text": "to read the next book",
+            "start": 84,
+            "end": 105
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The meeting / V: ended / S: everyone / V: wanted / O: to read the next book",
+        "grammarPoints": [
+          "比較節内のwithのOにquestionsを補って読む。butは未解決の問いと継続意欲の対比。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      },
+      {
+        "id": "reading-l1-f04-10:p4-s002",
+        "passageId": "reading-l1-f04-10",
+        "contentVersion": 2,
+        "paragraphId": "p4",
+        "sentenceId": "p4-s002",
+        "sentence": "The teachers were happy because the club had become a place for careful conversation rather than a test of who could answer fastest.",
+        "start": 107,
+        "end": 239,
+        "translation": "読書会が早答えの競争ではなく、丁寧に話し合う場になったので、先生たちは喜んだ。",
+        "explanation": "because節の過去完了で会の変化。rather thanが二つの役割を対比、who節はofのO。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "The teachers",
+            "start": 107,
+            "end": 119
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "were",
+            "start": 120,
+            "end": 124
+          },
+          {
+            "id": "n3",
+            "role": "C",
+            "text": "happy",
+            "start": 125,
+            "end": 130
+          },
+          {
+            "id": "n4",
+            "role": "clause",
+            "text": "because the club had become a place for careful conversation rather than a test of who could answer fastest",
+            "start": 131,
+            "end": 238
+          }
+        ],
+        "relations": [],
+        "skeleton": "S: The teachers / V: were / C: happy",
+        "grammarPoints": [
+          "because節の過去完了で会の変化。rather thanが二つの役割を対比、who節はofのO。"
+        ],
+        "readingOrder": "主節の主語と動詞を確認し、解説に沿って句節・否定・比較の範囲を読み、日本語訳で意味を確かめる。",
+        "reviewStatus": "ai_author_checked_human_pending",
+        "offsetBasis": "reviewParagraphs"
+      }
+    ],
+    "wordCount": 159,
+    "recommendedSeconds": 210,
+    "vocabulary": [
+      {
+        "english": "passage",
+        "meaning": "文章の一節"
+      },
+      {
+        "english": "character",
+        "meaning": "登場人物"
+      }
+    ],
+    "content": {
+      "sourceIds": [
+        "original-reading-l1-v1"
+      ],
+      "contentVersion": 2,
+      "qualityStatus": "review_required",
+      "autoChecked": true,
+      "humanReviewed": false,
+      "productionApproved": false,
+      "examFrequency": null,
+      "selectionReason": "高校入試相当を目安とする150〜250語の独自長文。各形式10題。難易度・自然さ・解答一意性は校閲待ち。",
+      "sourceUsage": [
+        {
+          "sourceId": "original-reading-l1-v1",
+          "fields": [
+            "title",
+            "paragraphs",
+            "questions",
+            "syntax",
+            "vocabulary"
+          ]
+        }
+      ]
+    },
+    "previousSyntax": [
+      {
+        "id": "s1",
+        "paragraphId": "p1",
+        "sentence": "Students had time to think and look at the book again.",
+        "start": 447,
+        "end": 501,
+        "translation": "生徒は考え、本を読み直す時間を得た。",
+        "explanation": "to think and lookがtimeの内容を説明し、toはlookの前で省略される。",
+        "spans": [
+          {
+            "id": "n1",
+            "role": "S",
+            "text": "Students",
+            "start": 447,
+            "end": 455
+          },
+          {
+            "id": "n2",
+            "role": "V",
+            "text": "had",
+            "start": 456,
+            "end": 459
+          }
+        ],
+        "relations": []
+      }
+    ],
+    "sentences": [
+      {
+        "id": "p1-s001",
+        "paragraphId": "p1",
+        "english": "Two schools in different towns started an online book club.",
+        "translation": "別の町の二校が、オンライン読書クラブを始めた。",
+        "start": 0,
+        "end": 59,
+        "sourceEnglish": "Two schools in different towns started an online book club.",
+        "sourceStart": 0,
+        "sourceEnd": 59,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p1-s001"
+      },
+      {
+        "id": "p1-s002",
+        "paragraphId": "p1",
+        "english": "The teachers chose the same short novel for both groups.",
+        "translation": "先生たちは両方のグループに同じ短い小説を選んだ。",
+        "start": 60,
+        "end": 116,
+        "sourceEnglish": "The teachers chose the same short novel for both groups.",
+        "sourceStart": 60,
+        "sourceEnd": 116,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p1-s002"
+      },
+      {
+        "id": "p1-s003",
+        "paragraphId": "p1",
+        "english": "At the first meeting, students tried to discuss the whole book at once.",
+        "translation": "最初の会では、本全体を一度に議論しようとした。",
+        "start": 117,
+        "end": 188,
+        "sourceEnglish": "At the first meeting, students tried to discuss the whole book at once.",
+        "sourceStart": 117,
+        "sourceEnd": 188,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p1-s003"
+      },
+      {
+        "id": "p1-s004",
+        "paragraphId": "p1",
+        "english": "The conversation moved quickly, and several students who had read carefully said very little.",
+        "translation": "話は速く進み、よく読んでいた何人かの生徒もほとんど発言しなかった。",
+        "start": 189,
+        "end": 282,
+        "sourceEnglish": "The conversation moved quickly, and several students who had read carefully said very little.",
+        "sourceStart": 189,
+        "sourceEnd": 282,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p1-s004"
+      },
+      {
+        "id": "p2-s001",
+        "paragraphId": "p2",
+        "english": "For the second meeting, the teachers asked each group to bring one question and one favorite passage.",
+        "translation": "二回目には、先生は各グループに質問一つと好きな一節を持ち寄るよう頼んだ。",
+        "start": 0,
+        "end": 101,
+        "sourceEnglish": "For the second meeting, the teachers asked each group to bring one question and one favorite passage.",
+        "sourceStart": 283,
+        "sourceEnd": 384,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p2-s001"
+      },
+      {
+        "id": "p2-s002",
+        "paragraphId": "p2",
+        "english": "They sent these to the other school two days before the call.",
+        "translation": "通話の二日前に、それらを相手校へ送った。",
+        "start": 102,
+        "end": 163,
+        "sourceEnglish": "They sent these to the other school two days before the call.",
+        "sourceStart": 385,
+        "sourceEnd": 446,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p2-s002"
+      },
+      {
+        "id": "p2-s003",
+        "paragraphId": "p2",
+        "english": "Students had time to think and look at the book again.",
+        "translation": "生徒は考えたり本を読み返したりする時間を得た。",
+        "start": 164,
+        "end": 218,
+        "sourceEnglish": "Students had time to think and look at the book again.",
+        "sourceStart": 447,
+        "sourceEnd": 501,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p2-s003"
+      },
+      {
+        "id": "p3-s001",
+        "paragraphId": "p3",
+        "english": "During the meeting, they discovered that they understood one character's choice differently.",
+        "translation": "会合中、一人の登場人物の選択を違って理解していると分かった。",
+        "start": 0,
+        "end": 92,
+        "sourceEnglish": "During the meeting, they discovered that they understood one character's choice differently.",
+        "sourceStart": 502,
+        "sourceEnd": 594,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p3-s001"
+      },
+      {
+        "id": "p3-s002",
+        "paragraphId": "p3",
+        "english": "Instead of arguing about who was right, they pointed to words in the story and explained their reasons.",
+        "translation": "どちらが正しいか争わず、物語の言葉を示して理由を説明した。",
+        "start": 93,
+        "end": 196,
+        "sourceEnglish": "Instead of arguing about who was right, they pointed to words in the story and explained their reasons.",
+        "sourceStart": 595,
+        "sourceEnd": 698,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p3-s002"
+      },
+      {
+        "id": "p4-s001",
+        "paragraphId": "p4",
+        "english": "The meeting ended with more questions than it had started with, but everyone wanted to read the next book.",
+        "translation": "開始時より多くの問いを残して会は終わったが、皆は次の本を読みたがった。",
+        "start": 0,
+        "end": 106,
+        "sourceEnglish": "The meeting ended with more questions than it had started with, but everyone wanted to read the next book.",
+        "sourceStart": 699,
+        "sourceEnd": 805,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p4-s001"
+      },
+      {
+        "id": "p4-s002",
+        "paragraphId": "p4",
+        "english": "The teachers were happy because the club had become a place for careful conversation rather than a test of who could answer fastest.",
+        "translation": "読書会が早答えの競争ではなく、丁寧に話し合う場になったので、先生たちは喜んだ。",
+        "start": 107,
+        "end": 239,
+        "sourceEnglish": "The teachers were happy because the club had become a place for careful conversation rather than a test of who could answer fastest.",
+        "sourceStart": 806,
+        "sourceEnd": 938,
+        "sourceParagraphId": "p1",
+        "syntaxId": "reading-l1-f04-10:p4-s002"
+      }
+    ],
+    "exerciseParagraphs": [
+      {
+        "id": "p1",
+        "english": "Two schools in different towns started an online book club. The teachers chose the same short novel for both groups. At the first meeting, students tried to discuss the whole book at once. The conversation moved quickly, and several students who had read carefully said very little.",
+        "translation": "別の町の二校が、オンライン読書クラブを始めた。先生たちは両方のグループに同じ短い小説を選んだ。最初の会では、本全体を一度に議論しようとした。話は速く進み、よく読んでいた何人かの生徒もほとんど発言しなかった。"
+      },
+      {
+        "id": "p2",
+        "english": "For the second meeting, the teachers asked each group to bring one question and one favorite passage. They sent these to the other school two days before the call. Students had time to think and look at the book again.",
+        "translation": "二回目には、先生は各グループに質問一つと好きな一節を持ち寄るよう頼んだ。通話の二日前に、それらを相手校へ送った。生徒は考えたり本を読み返したりする時間を得た。"
+      },
+      {
+        "id": "p3",
+        "english": "During the meeting, they discovered that they understood one character's choice differently. Instead of arguing about who was right, they pointed to words in the story and explained their reasons.",
+        "translation": "会合中、一人の登場人物の選択を違って理解していると分かった。どちらが正しいか争わず、物語の言葉を示して理由を説明した。"
+      },
+      {
+        "id": "p4",
+        "english": "The meeting ended with more questions than it had started with, but everyone wanted to read the next book. The teachers were happy because the club had become a place for careful conversation rather than a test of who could answer fastest.",
+        "translation": "開始時より多くの問いを残して会は終わったが、皆は次の本を読みたがった。読書会が早答えの競争ではなく、丁寧に話し合う場になったので、先生たちは喜んだ。"
+      }
+    ],
+    "paragraphMappings": [
+      {
+        "paragraphId": "p1",
+        "sourceParagraphId": "p1",
+        "start": 0,
+        "end": 282
+      },
+      {
+        "paragraphId": "p2",
+        "sourceParagraphId": "p1",
+        "start": 283,
+        "end": 501
+      },
+      {
+        "paragraphId": "p3",
+        "sourceParagraphId": "p1",
+        "start": 502,
+        "end": 698
+      },
+      {
+        "paragraphId": "p4",
+        "sourceParagraphId": "p1",
+        "start": 699,
+        "end": 938
+      }
+    ],
+    "reviewParagraphs": [
+      {
+        "id": "p1",
+        "english": "Two schools in different towns started an online book club. The teachers chose the same short novel for both groups. At the first meeting, students tried to discuss the whole book at once. The conversation moved quickly, and several students who had read carefully said very little.",
+        "translation": "別の町の二校が、オンライン読書クラブを始めた。先生たちは両方のグループに同じ短い小説を選んだ。最初の会では、本全体を一度に議論しようとした。話は速く進み、よく読んでいた何人かの生徒もほとんど発言しなかった。"
+      },
+      {
+        "id": "p2",
+        "english": "For the second meeting, the teachers asked each group to bring one question and one favorite passage. They sent these to the other school two days before the call. Students had time to think and look at the book again.",
+        "translation": "二回目には、先生は各グループに質問一つと好きな一節を持ち寄るよう頼んだ。通話の二日前に、それらを相手校へ送った。生徒は考えたり本を読み返したりする時間を得た。"
+      },
+      {
+        "id": "p3",
+        "english": "During the meeting, they discovered that they understood one character's choice differently. Instead of arguing about who was right, they pointed to words in the story and explained their reasons.",
+        "translation": "会合中、一人の登場人物の選択を違って理解していると分かった。どちらが正しいか争わず、物語の言葉を示して理由を説明した。"
+      },
+      {
+        "id": "p4",
+        "english": "The meeting ended with more questions than it had started with, but everyone wanted to read the next book. The teachers were happy because the club had become a place for careful conversation rather than a test of who could answer fastest.",
+        "translation": "開始時より多くの問いを残して会は終わったが、皆は次の本を読みたがった。読書会が早答えの競争ではなく、丁寧に話し合う場になったので、先生たちは喜んだ。"
+      }
+    ],
+    "syntaxOffsetBasis": "reviewParagraphs",
+    "reviewEvidence": {
+      "q1": {
+        "paragraphId": "p4",
+        "quote": "a place for careful conversation"
+      },
+      "q2": {
+        "paragraphId": "p2",
+        "quote": "one question and one favorite passage"
+      },
+      "q3": {
+        "paragraphId": "p3",
+        "quote": "they pointed to words in the story and explained their reasons"
+      },
+      "q4": {
+        "paragraphId": "p1",
+        "quote": "The conversation moved quickly"
+      },
+      "q5": {
+        "paragraphId": "p4",
+        "quote": "everyone wanted to read the next book"
+      }
+    },
+    "reviewWordCount": 159,
+    "review": {
+      "fullTranslation": "ai_checked_human_pending",
+      "fullSyntax": "ai_checked_human_pending",
+      "questionUniqueness": "ai_checked_human_pending"
+    }
+  }
+]

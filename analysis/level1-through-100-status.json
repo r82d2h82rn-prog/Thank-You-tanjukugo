@@ -1,0 +1,709 @@
+{
+  "target": 100,
+  "sentenceComplete": 40,
+  "humanReviewed": 0,
+  "allComplete": false,
+  "next": 41,
+  "passages": [
+    {
+      "number": 1,
+      "id": "reading-l1-f01-01",
+      "title": "返す日を決めた本棚",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 2,
+      "id": "reading-l1-f01-02",
+      "title": "雨の日の市場",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 14
+    },
+    {
+      "number": 3,
+      "id": "reading-l1-f01-03",
+      "title": "静かなベンチ",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 4,
+      "id": "reading-l1-f01-04",
+      "title": "修理を見せる日",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 16
+    },
+    {
+      "number": 5,
+      "id": "reading-l1-f01-05",
+      "title": "遅れたバスの知らせ",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 6,
+      "id": "reading-l1-f01-06",
+      "title": "昼食を残さない工夫",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 7,
+      "id": "reading-l1-f01-07",
+      "title": "夜の明かりを調べる",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 14
+    },
+    {
+      "number": 8,
+      "id": "reading-l1-f01-08",
+      "title": "博物館の短い説明",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 9,
+      "id": "reading-l1-f01-09",
+      "title": "走らない運動会",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 12
+    },
+    {
+      "number": 10,
+      "id": "reading-l1-f01-10",
+      "title": "種を交換する箱",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 11,
+      "id": "reading-l1-f02-01",
+      "title": "駅の青い矢印",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 12,
+      "id": "reading-l1-f02-02",
+      "title": "二人分のレシピ",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 12
+    },
+    {
+      "number": 13,
+      "id": "reading-l1-f02-03",
+      "title": "迷子の犬のカード",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 14
+    },
+    {
+      "number": 14,
+      "id": "reading-l1-f02-04",
+      "title": "学校放送の速さ",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 15,
+      "id": "reading-l1-f02-05",
+      "title": "同じ景色を描く三人",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 16,
+      "id": "reading-l1-f02-06",
+      "title": "坂道の自転車地図",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 17,
+      "id": "reading-l1-f02-07",
+      "title": "道具を貸す店",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 18,
+      "id": "reading-l1-f02-08",
+      "title": "手作りの新聞",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 19,
+      "id": "reading-l1-f02-09",
+      "title": "水を集めるタンク",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 14
+    },
+    {
+      "number": 20,
+      "id": "reading-l1-f02-10",
+      "title": "音のない映画の夕べ",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 14
+    },
+    {
+      "number": 21,
+      "id": "reading-l1-f03-01",
+      "title": "写真に写る前に",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 14
+    },
+    {
+      "number": 22,
+      "id": "reading-l1-f03-02",
+      "title": "比べる条件をそろえる",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 23,
+      "id": "reading-l1-f03-03",
+      "title": "二つの運動場の記憶",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 14
+    },
+    {
+      "number": 24,
+      "id": "reading-l1-f03-04",
+      "title": "初めて遊ぶ人のために",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 15
+    },
+    {
+      "number": 25,
+      "id": "reading-l1-f03-05",
+      "title": "山への荷物を減らす",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 26,
+      "id": "reading-l1-f03-06",
+      "title": "難しい二小節",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 14
+    },
+    {
+      "number": 27,
+      "id": "reading-l1-f03-07",
+      "title": "曇り空の星を見る会",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 28,
+      "id": "reading-l1-f03-08",
+      "title": "島の配達予定",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 29,
+      "id": "reading-l1-f03-09",
+      "title": "絵のついた昼食メニュー",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 30,
+      "id": "reading-l1-f03-10",
+      "title": "話す前の一分間",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 31,
+      "id": "reading-l1-f04-01",
+      "title": "川辺で気づいたこと",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 12
+    },
+    {
+      "number": 32,
+      "id": "reading-l1-f04-02",
+      "title": "番号札の裏側",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 12
+    },
+    {
+      "number": 33,
+      "id": "reading-l1-f04-03",
+      "title": "古い地図と新しい道",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 34,
+      "id": "reading-l1-f04-04",
+      "title": "教室に残った椅子",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 35,
+      "id": "reading-l1-f04-05",
+      "title": "閉じたままのノート",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 36,
+      "id": "reading-l1-f04-06",
+      "title": "違う速さで歩く",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 11
+    },
+    {
+      "number": 37,
+      "id": "reading-l1-f04-07",
+      "title": "届かなかった招待状",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 11
+    },
+    {
+      "number": 38,
+      "id": "reading-l1-f04-08",
+      "title": "二つの値札",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 12
+    },
+    {
+      "number": 39,
+      "id": "reading-l1-f04-09",
+      "title": "一枚の練習写真",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 13
+    },
+    {
+      "number": 40,
+      "id": "reading-l1-f04-10",
+      "title": "遠くの友達と読む本",
+      "status": "sentence_translation_and_syntax_complete_human_pending",
+      "alignedSentences": 11
+    },
+    {
+      "number": 41,
+      "id": "reading-l1-f05-01",
+      "title": "返事を待つポスター",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 42,
+      "id": "reading-l1-f05-02",
+      "title": "二種類の展示札",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 43,
+      "id": "reading-l1-f05-03",
+      "title": "借りた傘の行方",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 44,
+      "id": "reading-l1-f05-04",
+      "title": "キャンプ場からのメール",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 45,
+      "id": "reading-l1-f05-05",
+      "title": "二台の録音機",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 46,
+      "id": "reading-l1-f05-06",
+      "title": "一番前の席",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 47,
+      "id": "reading-l1-f05-07",
+      "title": "朝の観察記録",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 48,
+      "id": "reading-l1-f05-08",
+      "title": "返信の小さな工夫",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 49,
+      "id": "reading-l1-f05-09",
+      "title": "砂浜に残すもの",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 50,
+      "id": "reading-l1-f05-10",
+      "title": "交換日記の白いページ",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 51,
+      "id": "reading-l1-f06-01",
+      "title": "閉店前の花屋",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 52,
+      "id": "reading-l1-f06-02",
+      "title": "掲示板の空いた列",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 53,
+      "id": "reading-l1-f06-03",
+      "title": "駅で待つ赤い箱",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 54,
+      "id": "reading-l1-f06-04",
+      "title": "予約表の鉛筆の印",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 55,
+      "id": "reading-l1-f06-05",
+      "title": "発表前の窓辺",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 56,
+      "id": "reading-l1-f06-06",
+      "title": "食堂の小さな皿",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 57,
+      "id": "reading-l1-f06-07",
+      "title": "坂の上のバス停",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 58,
+      "id": "reading-l1-f06-08",
+      "title": "名前のない封筒",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 59,
+      "id": "reading-l1-f06-09",
+      "title": "旅先の二枚の切符",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 60,
+      "id": "reading-l1-f06-10",
+      "title": "箱に残された予備の糸",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 61,
+      "id": "reading-l1-f07-01",
+      "title": "見つけやすい落とし物箱",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 62,
+      "id": "reading-l1-f07-02",
+      "title": "新しい走路の印",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 63,
+      "id": "reading-l1-f07-03",
+      "title": "修学旅行の音声案内",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 64,
+      "id": "reading-l1-f07-04",
+      "title": "窓辺の展示を守る",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 65,
+      "id": "reading-l1-f07-05",
+      "title": "注文票の丸い印",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 66,
+      "id": "reading-l1-f07-06",
+      "title": "物語のもう一つの結末",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 67,
+      "id": "reading-l1-f07-07",
+      "title": "小道を案内する地図",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 68,
+      "id": "reading-l1-f07-08",
+      "title": "お祝いの食卓を準備する",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 69,
+      "id": "reading-l1-f07-09",
+      "title": "遠足の後の質問",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 70,
+      "id": "reading-l1-f07-10",
+      "title": "小さな舞台の大きな音",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 71,
+      "id": "reading-l1-f08-01",
+      "title": "段ボールの橋",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 72,
+      "id": "reading-l1-f08-02",
+      "title": "地域の短い音を集める",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 73,
+      "id": "reading-l1-f08-03",
+      "title": "図書委員の返事",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 74,
+      "id": "reading-l1-f08-04",
+      "title": "文化祭の待ち合わせ場所",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 75,
+      "id": "reading-l1-f08-05",
+      "title": "親子で作る木の箱",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 76,
+      "id": "reading-l1-f08-06",
+      "title": "駅前の花壇の水やり",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 77,
+      "id": "reading-l1-f08-07",
+      "title": "初めての字幕づくり",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 78,
+      "id": "reading-l1-f08-08",
+      "title": "公園で開く小さな図書室",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 79,
+      "id": "reading-l1-f08-09",
+      "title": "クラスの席替え案",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 80,
+      "id": "reading-l1-f08-10",
+      "title": "古いラジオの行き先",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 81,
+      "id": "reading-l1-f09-01",
+      "title": "昼休みの短い相談会",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 82,
+      "id": "reading-l1-f09-02",
+      "title": "誰も読まない説明書",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 83,
+      "id": "reading-l1-f09-03",
+      "title": "毎日の練習と週末の試合",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 84,
+      "id": "reading-l1-f09-04",
+      "title": "野菜の形と売り場",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 85,
+      "id": "reading-l1-f09-05",
+      "title": "町の名前を残す看板",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 86,
+      "id": "reading-l1-f09-06",
+      "title": "二通の面接の手紙",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 87,
+      "id": "reading-l1-f09-07",
+      "title": "一日の数字だけでは",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 88,
+      "id": "reading-l1-f09-08",
+      "title": "二つの言葉で道を案内する",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 89,
+      "id": "reading-l1-f09-09",
+      "title": "学校新聞の訂正欄",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 90,
+      "id": "reading-l1-f09-10",
+      "title": "自分たちで選ぶ遠足",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 91,
+      "id": "reading-l1-f10-01",
+      "title": "入口に用意された椅子",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 92,
+      "id": "reading-l1-f10-02",
+      "title": "雨で変わる練習予定",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 93,
+      "id": "reading-l1-f10-03",
+      "title": "貸し出す前の写真",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 94,
+      "id": "reading-l1-f10-04",
+      "title": "初めての司会役",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 95,
+      "id": "reading-l1-f10-05",
+      "title": "短い時間で片付ける",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 96,
+      "id": "reading-l1-f10-06",
+      "title": "約束した机",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 97,
+      "id": "reading-l1-f10-07",
+      "title": "暖房を直す間の教室",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 98,
+      "id": "reading-l1-f10-08",
+      "title": "久しぶりの帰り道",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 99,
+      "id": "reading-l1-f10-09",
+      "title": "舞台を支える手",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    },
+    {
+      "number": 100,
+      "id": "reading-l1-f10-10",
+      "title": "別の課題で役立った力",
+      "status": "not_enriched",
+      "alignedSentences": 0
+    }
+  ]
+}

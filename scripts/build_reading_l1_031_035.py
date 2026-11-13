@@ -86,6 +86,15 @@ for p in out:
    at=syntax['sentence'].index(head)+syntax['start'];ident=f"n{len(syntax['spans'])+1}"
    syntax['spans'].append({'id':ident,'role':'phrase','text':head,'start':at,'end':at+len(head),'kind':'先行詞'})
    syntax['relations'].append({'from':node['id'],'to':ident,'type':'modifies'})
+# Object-depictive participles describe the object, not the matrix predicate.
+for p in out:
+ for syntax in p['syntax']:
+  for part,head in {'filling part of it with earth':'workers'}.items():
+   modifier=next((x for x in syntax['spans'] if x['text']==part),None)
+   target=next((x for x in syntax['spans'] if x['text']==head),None)
+   if modifier and target:
+    syntax['relations']=[x for x in syntax['relations'] if x['from']!=modifier['id']]
+    syntax['relations'].append({'from':modifier['id'],'to':target['id'],'type':'modifies'})
 extras=[
  [('美術の授業でベンが描いたものは？',['鳥と橋と作業員の明るい帽子','携帯の修理方法だけ','初めて見た別の学校','雨でなくなった橋'],['drewの後に三つの題材が並ぶ。','携帯の修理図ではない。','自分の毎日の道中を描いた。','橋がなくなったとは述べていない。'],"Ben drew the bird, the bridge, and the worker's bright hat.")],
  [('番号札があれば、客は何ができたか。',['近くの広場で待つか他店を訪ねる','順番を無視していつでも入る','パンを無料で受け取る','全ての店を閉鎖する'],['could waitとvisitが順番までの選択肢を示す。','入れる番号は掲示板で示した。','料金の変更ではない。','他店を訪ねられる仕組み。'],'Customers could wait in the nearby square or visit another shop'),('試行後に他の店にも利点があったと分かる記述は？',['初めて訪れる店を発見した客がいた','パンの材料を全て変えた','地元のテレビ番組が終了した','広場が消えた'],['customers ... discovered shopsという観察が根拠。','bread did not changeとある。','番組終了の記述はない。','広場は待機場所として利用した。'],'they had discovered shops they had never visited')],
@@ -100,6 +109,17 @@ for i,(p,questions) in enumerate(zip(out,extras)):
   p['questions'].append({'id':qid,'prompt':prompt,'options':[{'id':'abcd'[n],'text':options[j],'explanation':reasons[j]} for n,j in enumerate(order)],'correctOptionId':'abcd'[order.index(0)],'explanation':reasons[0],'evidence':evidence})
   p['reviewEvidence'][qid]={'paragraphId':next(x['id'] for x in p['reviewParagraphs'] if quote in x['english']),'quote':quote}
 path=ROOT/'content/readings/enriched-level1-031-035.json'
-if path.exists():assert json.loads(path.read_text())==out,'refuse changed saved revision'
+if path.exists():
+ existing=json.loads(path.read_text())
+ if existing!=out:
+  # The former AI draft is backed by GitHub commit 22f392b3240c5e3f08cf98e0136f97e046853cb6.
+  # Only this relation array may change; English, questions and offsets stay fixed.
+  before=copy.deepcopy(existing);after=copy.deepcopy(out)
+  for collection in (before,after):
+   for passage in collection:
+    for syntax in passage['syntax']:
+     if syntax['sentence'].startswith('Another showed workers'):syntax['relations']=[]
+  assert before==after,'refuse edits beyond the documented modifier link'
+
 path.write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n')
 print('Compiled',len(out),'readings and',sum(len(p['sentences']) for p in out),'sentences')
