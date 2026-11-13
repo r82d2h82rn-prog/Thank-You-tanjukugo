@@ -1,0 +1,94 @@
+{
+  "batch": "l2-first5-v2",
+  "baseRemoteCommit": "c50c06942d867856ceb8fec12dddd82d127861b5",
+  "humanReviewed": 0,
+  "preservedOtherRevisions": 15,
+  "preservedOtherDigest": "6d2ee4ba549f503a09e23735fa7ce0fc385d312a788c3fbfa614e3f69076935a",
+  "passages": [
+    {
+      "id": "reading-l2-f01-01",
+      "words": 272,
+      "paragraphs": 4,
+      "questions": 5,
+      "sentences": 17,
+      "sentenceTranslations": 17,
+      "fullSentenceSyntax": 17,
+      "originalDigest": "943b5a4125d3ae74f749cc2871b9af68f622725ba481c6343d5776311c8dd93f",
+      "preservedQuestionsDigest": "dd81e77eb4f2267d567308722c5d305ec1c03150eecc35aa53b0570766132a78",
+      "difficulty": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      }
+    },
+    {
+      "id": "reading-l2-f01-02",
+      "words": 281,
+      "paragraphs": 5,
+      "questions": 6,
+      "sentences": 18,
+      "sentenceTranslations": 18,
+      "fullSentenceSyntax": 18,
+      "originalDigest": "8c9fa3cef3540f24dba8c81f2c9949c4a7a1574843630827409a2f6f930daa75",
+      "preservedQuestionsDigest": "0d621970f934c6126e456ffd68a51ae2b05db32f7cd07e654f3e11a41f9a90ed",
+      "difficulty": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      }
+    },
+    {
+      "id": "reading-l2-f01-03",
+      "words": 277,
+      "paragraphs": 4,
+      "questions": 5,
+      "sentences": 17,
+      "sentenceTranslations": 17,
+      "fullSentenceSyntax": 17,
+      "originalDigest": "1143bedd1f6d2c02327afc8116024325a6bdc9bfcd1e4492a9fcfe2c852d3940",
+      "preservedQuestionsDigest": "ace1c0bac8f0b3ed0bb005ece096eab0a48a5c237385dbda51db12a21f47a346",
+      "difficulty": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      }
+    },
+    {
+      "id": "reading-l2-f01-04",
+      "words": 277,
+      "paragraphs": 5,
+      "questions": 7,
+      "sentences": 19,
+      "sentenceTranslations": 19,
+      "fullSentenceSyntax": 19,
+      "originalDigest": "31922ca2233ac012833f85ce8f019545a62cc06f8b0313ef9b9d555efa2798fd",
+      "preservedQuestionsDigest": "9c472783997b594dec79965fd9a785d6e3827a7982a98f6800e345b1e5880aab",
+      "difficulty": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      }
+    },
+    {
+      "id": "reading-l2-f01-05",
+      "words": 272,
+      "paragraphs": 4,
+      "questions": 6,
+      "sentences": 17,
+      "sentenceTranslations": 17,
+      "fullSentenceSyntax": 17,
+      "originalDigest": "c9d3c3607219e7ab3118ad43fdc2f52972a53b28e31f54e89094b0bcdd4f1fbe",
+      "preservedQuestionsDigest": "17878b81d597565f52ad010f9801ed0e4af911979fe23a4b64f9a40d30d572be",
+      "difficulty": {
+        "vocabulary": 2,
+        "syntax": 2,
+        "logic": 2,
+        "questions": 2
+      }
+    }
+  ]
+}

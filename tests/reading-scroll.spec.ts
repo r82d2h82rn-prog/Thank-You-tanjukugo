@@ -1,9 +1,9 @@
 import {test,expect} from '@playwright/test';
 import data from '../content/readings/enriched.json';
-const p=data[0];
-test('one page scroller restores tabs and displays final sentence and every syntax link',async({page})=>{
+for(const p of [data[0],...data.filter(p=>p.level===2)])test(`one page scroller restores tabs and displays final sentence: ${p.id}`,async({page})=>{
+ await page.setViewportSize({width:390,height:844});
  await page.goto('/');await page.getByRole('tab',{name:'長文読解',exact:true}).click();
- await page.getByRole('button',{name:'長文読解 LEVEL 1 · 100題',exact:true}).click();
+ await page.getByRole('button',{name:`長文読解 LEVEL ${p.level} · 100題`,exact:true}).click();
  await page.getByRole('button',{name:`${p.title}を選ぶ`,exact:true}).click();await page.getByRole('button',{name:'この長文を無料解放する',exact:true}).click();
  const scroll=page.getByTestId('reading-page-scroll');await expect(scroll).toBeVisible();
  const body=page.getByTestId('reading-body-pane');await expect(body).toBeVisible();
@@ -15,6 +15,11 @@ test('one page scroller restores tabs and displays final sentence and every synt
  await expect.poll(()=>scroll.evaluate(e=>e.scrollTop)).toBeGreaterThan(y-50);
  const last=p.sentences.at(-1)!;const button=page.getByRole('button',{name:`構文解説：${last.english}`,exact:true});await button.click();await expect(page.getByText(last.translation,{exact:true})).toBeVisible();
  await page.getByRole('button',{name:'構文解説を閉じる',exact:true}).click();await expect(button).toBeVisible();
+ await page.getByRole('button',{name:'全文和訳',exact:true}).click();
+ const lastParagraph=p.paragraphs.at(-1)!;
+ const translation=page.getByTestId('reading-translation-pane').getByText(lastParagraph.translation,{exact:true});
+ await translation.scrollIntoViewIfNeeded();await expect(translation).toBeVisible();
+ await page.getByRole('button',{name:'設問の正誤・解説',exact:true}).click();
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
  expect(await page.getByTestId('reading-question-pane').evaluate(el=>getComputedStyle(el).overflowY)).not.toBe('scroll');
 });

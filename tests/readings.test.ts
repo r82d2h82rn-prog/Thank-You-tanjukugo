@@ -61,6 +61,6 @@ test('real Level 2 passages preserve Level 1 unlocks, results and independent fr
  const a=Object.fromEntries(l2[0].questions.map(q=>[q.id,q.correctOptionId]));
  state=recordReading(state,l2[0],gradeReading(l2[0],a,240,'level2-attempt'));
  assert.equal(state.reading!.records[l1[0].id],original);
- assert.equal(state.reading!.records[l2[0].id].best.correct,3);
+ assert.equal(state.reading!.records[l2[0].id].best.correct,l2[0].questions.length);
  assert.deepEqual(decodeState(JSON.stringify(state)),state);
 });

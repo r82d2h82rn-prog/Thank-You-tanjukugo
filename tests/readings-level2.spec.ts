@@ -1,0 +1,22 @@
+import {test,expect} from '@playwright/test';
+import {readingCatalog as readings} from '../src/readingCatalog';
+const key='thank-you.learning.v1',first=readings.find(p=>p.level===2)!;
+test('Level 2 has its own 100 readings, unlock and saved result while keeping Level 1 choices',async({page})=>{
+ const existing=readings.filter(p=>p.level===1).slice(0,3).map(p=>p.id);
+ await page.addInitScript(({k,ids})=>localStorage.setItem(k,JSON.stringify({version:1,progress:{},favorites:[],settings:{sound:false,speech:false},permanentAwards:[],reading:{unlockedByLevel:{1:ids},records:{}}})),{k:key,ids:existing});
+ await page.goto('/');
+ await page.getByRole('tab',{name:'長文読解',exact:true}).click();
+ await page.getByRole('button',{name:'長文読解 LEVEL 2 · 100題',exact:true}).click();
+ await expect(page.getByText('無料解放 0 / 3題 · 全10形式各10題',{exact:true})).toBeVisible();
+ await page.getByRole('button',{name:`${first.title}を選ぶ`,exact:true}).click();
+ await page.getByRole('button',{name:'この長文を無料解放する',exact:true}).click();
+ await page.getByRole('button',{name:'設問',exact:true}).click();
+ for(const [i,q] of first.questions.entries())await page.getByRole('button',{name:`問${i+1} ${q.correctOptionId.toUpperCase()}. ${q.options.find(o=>o.id===q.correctOptionId)!.text}`,exact:true}).click();
+ await page.getByRole('button',{name:'全設問を提出して採点',exact:true}).click();
+ await expect(page.getByRole('heading',{name:`結果 ${first.questions.length} / ${first.questions.length} · 100%`,exact:true})).toBeVisible();
+ await expect.poll(()=>page.evaluate(({k,id})=>JSON.parse(localStorage.getItem(k)!).reading.records[id]?.best.correct,{k:key,id:first.id})).toBe(first.questions.length);
+ expect(await page.evaluate(k=>JSON.parse(localStorage.getItem(k)!).reading.unlockedByLevel[1],key)).toEqual(existing);
+ await page.reload();await page.getByRole('tab',{name:'長文読解',exact:true}).click();
+ await page.getByRole('button',{name:'長文読解 LEVEL 2 · 100題',exact:true}).click();
+ await expect(page.getByRole('button',{name:`${first.title}を読む`,exact:true})).toBeVisible();
+});

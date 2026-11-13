@@ -14,11 +14,42 @@ test('preserved revision texts have aligned translations and syntax for every se
  for(const p of enriched){
   const old=legacy.find(x=>x.id===p.id)!;assert.equal(p.content.contentVersion,old.content.contentVersion+1);
   assert.deepEqual(p.questions.slice(0,old.questions.length),old.questions);
-  assert.deepEqual(p.paragraphs.map(x=>x.english),old.paragraphs.map(x=>x.english));
+  assert.deepEqual(p.paragraphs.slice(0,old.paragraphs.length).map(x=>({id:x.id,english:x.english})),old.paragraphs.map(x=>({id:x.id,english:x.english})));
+  assert.equal(new Set(p.paragraphs.map(x=>x.id)).size,p.paragraphs.length);
   for(const para of readingParagraphs(p,true)){const ranges=sentenceRanges(para.id,para.english);assert.equal(ranges.length,p.sentences.filter(s=>s.paragraphId===para.id).length);
    for(const r of ranges){const s=p.syntax.find(s=>s.paragraphId===para.id&&s.start===r.start&&s.end===r.end)!;assert.ok(s);assert.equal(s.sentence,r.english);assert.ok(s.translation);assert.ok(s.explanation);assert.ok(s.spans.some(x=>x.role==='S'));assert.ok(s.spans.some(x=>x.role==='V'));for(const span of s.spans)assert.equal(para.english.slice(span.start,span.end),span.text);}
   }
  }
+});
+test('the first five Level 2 revisions meet length and variation standards without changing old questions',()=>{
+ const batch=enriched.filter(p=>p.level===2);assert.equal(batch.length,5);
+ assert.deepEqual(batch.map(p=>p.paragraphs.length),[4,5,4,5,4]);
+ assert.deepEqual(batch.map(p=>p.questions.length),[5,6,5,7,6]);
+ assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),88);
+ for(const p of batch){
+  const old=legacy.find(x=>x.id===p.id)!;
+  assert.deepEqual(p.previousSyntax,old.syntax);
+  const words=p.paragraphs.map(x=>x.english).join(' ').match(/[A-Za-z]+(?:['-][A-Za-z]+)*/g)!.length;
+  assert.equal(p.wordCount,words);assert.ok(words>=250&&words<=400);
+  for(const para of p.paragraphs){
+   const sentences=p.sentences.filter(x=>x.paragraphId===para.id);
+   assert.equal(para.translation,sentences.map(s=>s.translation).join(''));
+   assert.deepEqual(sentences.map(s=>({id:s.id,english:s.english,start:s.start,end:s.end})),sentenceRanges(para.id,para.english));
+   for(const s of sentences)assert.equal(p.syntax.find(x=>x.id===s.syntaxId)!.translation,s.translation);
+  }
+  const right=Object.fromEntries(p.questions.map(q=>[q.id,q.correctOptionId]));
+  assert.equal(gradeReading(p,right,100,'new').correct,p.questions.length);
+  for(const q of p.questions)for(const option of q.options){
+   assert.ok(option.explanation);assert.equal(gradeReading(p,{...right,[q.id]:option.id},100,'one-change').correct,p.questions.length-(option.id===q.correctOptionId?0:1));
+  }
+  const oldAttempt=gradeReading(old,Object.fromEntries(old.questions.map(q=>[q.id,q.correctOptionId])),100,'v1');
+  const state=recordReading(recordReading(emptyState(),old,oldAttempt),p,gradeReading(p,right,200,'v2'));
+  assert.deepEqual(state.reading!.records[p.id].first,oldAttempt);assert.equal(oldAttempt.total,3);
+  assert.equal(state.reading!.records[p.id].latest.total,p.questions.length);
+ }
+ const first=batch[0].syntax.find(x=>x.sentence.startsWith('Even'))!;
+ const even=first.spans.find(x=>x.text==='Even')!,subject=first.spans.find(x=>x.text==='a skilled volunteer')!;
+ assert.ok(first.relations.some(x=>x.from===even.id&&x.to===subject.id));
 });
 test('adding questions never recalculates the score saved for an earlier version',()=>{
  const old=legacy[0],current=enriched[0];const answers=Object.fromEntries(old.questions.map(q=>[q.id,q.correctOptionId]));

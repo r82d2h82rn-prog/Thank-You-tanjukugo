@@ -168,6 +168,7 @@ def audit(root=ROOT, release=False):
         for original in reading_drafts:
             replacement=replacements.get(original['id'])
             if replacement and replacement['questions'][:len(original['questions'])]!=original['questions']: issues.append({'id':original['id'],'error':'original question identity changed'})
+            if replacement and [(p['id'],p['english']) for p in replacement['paragraphs'][:len(original['paragraphs'])]]!=[(p['id'],p['english']) for p in original['paragraphs']]: issues.append({'id':original['id'],'error':'original paragraph identity changed'})
         reading_drafts=[replacements.get(p['id'],p) for p in reading_drafts]
     draft_counts['reading']=[sum(p.get('level')==l for p in reading_drafts) for l in range(1,5)]
     for entry in reading_drafts:

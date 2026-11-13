@@ -1,5 +1,7 @@
 # 長文統合修正：第1段階と5題の試行バッチ
 
+最新の優先方針（バッチ04）：各LEVELの先行10題を整備する。LEVEL2最初の5題を補完済み。最新の件数・検証・継続先は[LEVEL2バッチ04](READING_LEVEL2_FIRST5_CHECKPOINT.md)を参照。以下は以前のバッチ記録であり、「次はLEVEL1」の記述より現在の方針を優先する。
+
 対象ブランチ feat/readings-l3-l4-quality。調査基準コミット06ff8eeaf1b45693f40f6d04ac6c6a07ec29f6ee。
 
 ## 監査で分かった不足

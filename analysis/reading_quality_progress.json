@@ -18,7 +18,8 @@
         10,
         10,
         10
-      ]
+      ],
+      "sentenceAlignedTranslationAndSyntaxEnriched": 15
     },
     "2": {
       "authored": 100,
@@ -38,7 +39,8 @@
         10,
         10,
         10
-      ]
+      ],
+      "sentenceAlignedTranslationAndSyntaxEnriched": 5
     },
     "3": {
       "authored": 10,
@@ -58,7 +60,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "sentenceAlignedTranslationAndSyntaxEnriched": 0
     },
     "4": {
       "authored": 10,
@@ -78,10 +81,12 @@
         0,
         0,
         0
-      ]
+      ],
+      "sentenceAlignedTranslationAndSyntaxEnriched": 0
     }
   },
   "protectedExistingRecords": 200,
   "complete": false,
-  "note": "構造検証と意味・難易度の編集確認は別工程。既存200題の評価は自動一次評価、確定品質確認は未完了。"
+  "note": "構造検証と意味・難易度の編集確認は別工程。既存200題の評価は自動一次評価、確定品質確認は未完了。",
+  "currentPriority": "各LEVEL先行10題の補完。LEVEL1改訂15題を保持、LEVEL2の01〜05を補完、次はLEVEL2の06〜10。人間の正式校閲と実機確認は未完了。"
 }

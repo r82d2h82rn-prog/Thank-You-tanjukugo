@@ -10,7 +10,7 @@ test('legacy source bytes stay identical and all 200 IDs remain in the combined 
  assert.deepEqual(readFileSync('content/readings/drafts.json'),readFileSync('content/backups/readings-20261113/level1-level2.json'));
  assert.equal(legacy.length,200);
  assert.equal(new Set(readingCatalog.map(p=>p.id)).size,readingCatalog.length);
- for(const p of legacy) { const current=readingCatalog.find(x=>x.id===p.id)!; assert.deepEqual(current.paragraphs.map(x=>x.english),p.paragraphs.map(x=>x.english)); assert.deepEqual(current.questions.slice(0,p.questions.length),p.questions); }
+ for(const p of legacy) { const current=readingCatalog.find(x=>x.id===p.id)!; assert.deepEqual(current.paragraphs.slice(0,p.paragraphs.length).map(x=>({id:x.id,english:x.english})),p.paragraphs.map(x=>({id:x.id,english:x.english}))); assert.deepEqual(current.questions.slice(0,p.questions.length),p.questions); }
 });
 test('upper-level answers grade exactly once and changing one answer changes the score by one',()=>{
  for(const raw of advanced){

@@ -1,5 +1,5 @@
 import {test,expect} from '@playwright/test';
-import readings from '../content/readings/drafts.json';
+import {readingCatalog as readings} from '../src/readingCatalog';
 const key='thank-you.learning.v1',first=readings[0];
 const openList=async(page:any)=>{
  await page.getByRole('tab',{name:'長文読解',exact:true}).click();
@@ -20,26 +20,26 @@ test('reading navigation, explicit free choice, retained answers, review and dur
  const q=first.questions[0];
  await page.getByRole('button',{name:`問1 ${q.correctOptionId.toUpperCase()}. ${q.options.find(o=>o.id===q.correctOptionId)!.text}`,exact:true}).click();
  await page.getByRole('button',{name:'本文',exact:true}).click();
- const pane=page.getByTestId('reading-body-pane');
+ const pane=page.getByTestId('reading-page-scroll');
  await pane.evaluate(el=>{el.scrollTop=250;});
  await expect.poll(()=>pane.evaluate(el=>el.scrollTop)).toBeGreaterThan(100);
  await page.getByRole('tab',{name:'ホーム',exact:true}).click();
  await page.getByRole('tab',{name:'長文読解',exact:true}).click();
  await expect.poll(()=>pane.evaluate(el=>el.scrollTop)).toBeGreaterThan(100);
  await page.getByRole('button',{name:'設問',exact:true}).click();
- await expect(page.getByText('回答 1/3 · 提出前は変更できます。',{exact:true})).toBeVisible();
+ await expect(page.getByText(`回答 1/${first.questions.length} · 提出前は変更できます。`,{exact:true})).toBeVisible();
  for(const [i,item] of first.questions.entries())await page.getByRole('button',{name:`問${i+1} ${item.correctOptionId.toUpperCase()}. ${item.options.find(o=>o.id===item.correctOptionId)!.text}`,exact:true}).click();
  await page.getByRole('button',{name:'全設問を提出して採点',exact:true}).click();
- await expect(page.getByRole('heading',{name:'結果 3 / 3 · 100%',exact:true})).toBeVisible();
+ await expect(page.getByRole('heading',{name:`結果 ${first.questions.length} / ${first.questions.length} · 100%`,exact:true})).toBeVisible();
  await page.getByRole('button',{name:'本文・和訳・構文',exact:true}).click();
  await page.getByRole('button',{name:`構文解説：${first.syntax[0].sentence}`,exact:true}).click();
- await expect(page.getByText('構文の見方',{exact:true})).toBeVisible();
+ await expect(page.getByText('英文・構文の見方',{exact:true})).toBeVisible();
  await expect.poll(async()=>page.evaluate(({k,id})=>JSON.parse(localStorage.getItem(k)!).reading.records[id].attempts,{k:key,id:first.id})).toBe(1);
  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
  await page.screenshot({path:'test-results/reading-mobile.png',fullPage:true});
  await page.reload();await openList(page);
  await expect(page.getByRole('button',{name:`${first.title}を読む`,exact:true})).toBeVisible();
- await expect(page.getByText(/最高 3\/3/).first()).toBeVisible();
+ await expect(page.getByText(new RegExp(`最高 ${first.questions.length}/${first.questions.length}`)).first()).toBeVisible();
 });
 test('three free readings remain fixed after refresh and a fourth stays locked',async({page})=>{
  await page.addInitScript(({k,ids})=>localStorage.setItem(k,JSON.stringify({version:1,progress:{},favorites:[],settings:{sound:false,speech:false},permanentAwards:[],reading:{unlockedByLevel:{1:ids},records:{}}})),{k:key,ids:readings.slice(0,3).map(p=>p.id)});
