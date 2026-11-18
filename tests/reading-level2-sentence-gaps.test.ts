@@ -1,19 +1,24 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import legacy from '../content/readings/drafts.json';
-import batch from '../content/readings/enriched-level2-sentence-gap5.json';
+import firstBatch from '../content/readings/enriched-level2-sentence-gap5.json';
+import nextBatch from '../content/readings/enriched-level2-sentence-gap-next5.json';
 import {readingCatalog} from '../src/readingCatalog';
 import {readingRevisions} from '../src/readingRevisions';
 import {sentenceRanges} from '../src/readingSentences';
 import {gradeReading,readingParagraphs,recordReading} from '../src/readings';
 import {emptyState,decodeState} from '../src/model';
 
-test('Level 2 items 21–25 map inserted sentences and following source text separately without leaking answers',()=>{
- const originals=legacy.filter(p=>p.level===2).slice(20,25);
+for(const {batch,start,end,sentences} of [
+ {batch:firstBatch,start:20,end:25,sentences:94},
+ {batch:nextBatch,start:25,end:30,sentences:93},
+]) {
+test(`Level 2 items ${start+1}–${end} map inserted sentences and following source text separately without leaking answers`,()=>{
+ const originals=legacy.filter(p=>p.level===2).slice(start,end);
  assert.deepEqual(batch.map(p=>p.id),originals.map(p=>p.id));
  assert.equal(new Set(readingRevisions.map(p=>p.id)).size,readingRevisions.length);
  assert.deepEqual(batch.map(p=>p.questions.length),[5,6,5,7,6]);
- assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),94);
+ assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),sentences);
  for(const [i,p] of batch.entries()){
   const old=originals[i];
   assert.deepEqual(readingCatalog.find(x=>x.id===p.id),p);
@@ -62,7 +67,7 @@ test('Level 2 items 21–25 map inserted sentences and following source text sep
  }
 });
 
-test('sentence insertion revisions keep each answer independently graded and preserve old three-question scores',()=>{
+test(`Level 2 items ${start+1}–${end} keep each answer independently graded and preserve old three-question scores`,()=>{
  for(const p of batch){
   const old=legacy.find(x=>x.id===p.id)!,right=Object.fromEntries(p.questions.map(q=>[q.id,q.correctOptionId]));
   for(const q of p.questions)for(const o of q.options){assert.ok(o.explanation);assert.equal(gradeReading(p,{...right,[q.id]:o.id},300,'changed').correct,p.questions.length-(o.id===q.correctOptionId?0:1));}
@@ -73,3 +78,4 @@ test('sentence insertion revisions keep each answer independently graded and pre
   assert.deepEqual(decodeState(JSON.stringify(state)),state);
  }
 });
+}

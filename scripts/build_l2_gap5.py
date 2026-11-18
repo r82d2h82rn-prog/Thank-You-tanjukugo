@@ -125,12 +125,13 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25'], default='11-15')
+    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30'], default='11-15')
     args = parser.parse_args()
     start, end, stem, output, base = {
         '11-15': (10, 15, 'l2-gap5', 'enriched-level2-gap5', 'd4b18c1841488dbd596aacd2d9dc27d011cc0c56'),
         '16-20': (15, 20, 'l2-gap-next5', 'enriched-level2-gap-next5', 'f3a873d311f3153493f2b34fd984d0a18c862694'),
         '21-25': (20, 25, 'l2-sentence-gap5', 'enriched-level2-sentence-gap5', '1d69f03c4b842a8e94eda305a22ab6a3625667ec'),
+        '26-30': (25, 30, 'l2-sentence-gap-next5', 'enriched-level2-sentence-gap-next5', '115332f356a14e255836a7165549c42c68de95c7'),
     }[args.batch]
     originals, batch = compile_batch(start, end, stem)
     path = ROOT / f'content/readings/{output}.json'
@@ -142,6 +143,6 @@ if __name__ == '__main__':
             'paragraphs':len(p['paragraphs']),'questions':len(p['questions']),'sentences':len(p['sentences']),
             'translationCoverage':1,'syntaxCoverage':1,'originalDigest':digest(old)} for old,p in zip(originals,batch)]}
     manifest_name = {'11-15': 'reading_l2_gap5_batch', '16-20': 'reading_l2_gap_next5_batch',
-                     '21-25': 'reading_l2_sentence_gap5_batch'}[args.batch]
+                     '21-25': 'reading_l2_sentence_gap5_batch', '26-30': 'reading_l2_sentence_gap_next5_batch'}[args.batch]
     (ROOT / f'analysis/{manifest_name}.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(manifest,ensure_ascii=False))

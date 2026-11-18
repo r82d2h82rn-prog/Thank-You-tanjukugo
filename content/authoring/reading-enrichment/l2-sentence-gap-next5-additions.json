@@ -1,0 +1,371 @@
+[
+  {
+    "id": "reading-l2-f03-06",
+    "paragraphs": [
+      "At the next meeting, the engineer asks how a later reader would know whether a surprising number came from the weather or from a mistake. Her colleague explains that the notes should include the time of a check and any change in the method. If an entry is corrected, the original should remain readable beside the explanation. This does not make every reading perfect. It allows someone else to follow the decisions behind the record, instead of seeing only a clean list of numbers that appear to agree."
+    ],
+    "rationale": "前置詞付き関係詞、間接疑問、使役、不定詞を読み、記録の見た目と検証可能な履歴を区別する。",
+    "questions": [
+      {
+        "prompt": "同僚は、観測値以外に何をメモへ含めるべきだと説明したか。",
+        "correctIndex": 0,
+        "quote": "the time of a check and any change in the method",
+        "options": [
+          {
+            "text": "点検した時刻と、方法を変えた場合のその変更。",
+            "explanation": "後の読者が値の背景を追えるよう、点検の時刻と方法の変更を記す。"
+          },
+          {
+            "text": "成功した結果だけを選んだ一覧。",
+            "explanation": "成功だけを残さず、疑問や訂正、方法の変更も記録する。"
+          },
+          {
+            "text": "劇的な嵐が起こるはずの日付だけ。",
+            "explanation": "嵐の予言ではなく、実際の点検と方法の履歴が対象である。"
+          },
+          {
+            "text": "記録に関係しない同僚全員の私生活。",
+            "explanation": "私生活の収集は述べられていない。"
+          }
+        ]
+      },
+      {
+        "prompt": "記入を訂正する場合の扱いとして、本文に合うのはどれか。",
+        "correctIndex": 0,
+        "quote": "the original should remain readable beside the explanation",
+        "options": [
+          {
+            "text": "説明とともに、元の記入も読めるように残す。",
+            "explanation": "訂正の理由と元の記録を後から確認できる状態にする。"
+          },
+          {
+            "text": "数字の一致を見せるため、元の記入を分からなくする。",
+            "explanation": "見た目の整った数字だけを残すことと対比し、元の記入を読めるようにすると述べる。"
+          },
+          {
+            "text": "訂正が一度でもあれば、全測定を必ず無価値とする。",
+            "explanation": "すべての測定を否定せず、訂正過程を確認できるようにする。"
+          },
+          {
+            "text": "訂正すると全観測値が自動的に完全になる。",
+            "explanation": "全値が完全になるわけではないと明記される。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f03-07",
+    "paragraphs": [
+      "The assistant also asked staff to note where each new response had been collected. This helped them see whether the extra cards were reaching people at the alternative exit, rather than merely collecting more messages from the same table. A larger pile of cards alone would not answer that question.",
+      "They did not assume that the new responses represented every visitor either. Instead, the next report explained which routes were covered and which experiences still needed attention. The staff aimed to make it easier for different visitors to respond, while remaining clear about the limits of what had been heard."
+    ],
+    "rationale": "関係節・間接疑問・動名詞主語・受動態を読み、回答数の増加と回答経路の広がりを区別する。",
+    "questions": [
+      {
+        "prompt": "新しい回答ごとに、追加で記録するよう求めたことは何か。",
+        "correctIndex": 0,
+        "quote": "where each new response had been collected",
+        "options": [
+          {
+            "text": "その回答をどこで集めたか。",
+            "explanation": "別の出口を使う人にも届いているかを見るため、回答の収集場所を記録した。"
+          },
+          {
+            "text": "回答者が書かなかった批判を想像して補ったもの。",
+            "explanation": "記録したのは実際の収集場所で、架空の意見を加えることではない。"
+          },
+          {
+            "text": "好意的な回答だけを選ぶための点数。",
+            "explanation": "批判も含めて別の経路から意見を集める方針である。"
+          },
+          {
+            "text": "回答者全員が使った交通機関の運賃。",
+            "explanation": "交通費の記録は述べられていない。"
+          }
+        ]
+      },
+      {
+        "prompt": "回答用紙が増えただけでは、何を判断できないと述べているか。",
+        "correctIndex": 0,
+        "quote": "reaching people at the alternative exit",
+        "options": [
+          {
+            "text": "別の出口を使う人にも回答の機会が届いたか。",
+            "explanation": "同じ場所からの回答が増えただけかもしれず、数だけでは新しい経路をカバーできたか分からない。"
+          },
+          {
+            "text": "紙が実際に使われているかどうか。",
+            "explanation": "用紙を集めたことは分かっており、問題はどの人々から集まったかである。"
+          },
+          {
+            "text": "美術館が存在するかどうか。",
+            "explanation": "美術館の存在は問題になっていない。"
+          },
+          {
+            "text": "来場者が展示物を一つも見られなかったかどうかだけ。",
+            "explanation": "本文の問いは別出口を使う人への到達であり、全員が何も見られなかったという話ではない。"
+          }
+        ]
+      },
+      {
+        "prompt": "次の報告書では、新しい回答をどのように扱ったか。",
+        "correctIndex": 0,
+        "quote": "which routes were covered and which experiences still needed attention",
+        "options": [
+          {
+            "text": "把握できた経路と、まだ注意を向ける必要がある体験を明示した。",
+            "explanation": "新しい方法でも全員を代表すると決めつけず、把握した範囲と残る不足を説明した。"
+          },
+          {
+            "text": "全来場者の意見を完全に代表すると断定した。",
+            "explanation": "全員を代表すると考えたわけではないと否定されている。"
+          },
+          {
+            "text": "以前の称賛はすべて虚偽だったと決めた。",
+            "explanation": "称賛の価値は認め、その適用範囲を理解するという方針は変わらない。"
+          },
+          {
+            "text": "収集経路の説明をやめ、回答数だけを掲載した。",
+            "explanation": "経路と残る体験を説明したという記述に反する。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f03-08",
+    "paragraphs": [
+      "To make these opportunities clearer, the students drew an example journey with both an outward and a return trip. A train that seemed optional in one direction could be essential for getting home after an activity ended. They then asked what a proposed replacement would actually allow the same passenger to do. They also listed costs and questions about the capacity of the replacement service. Their examples did not settle the final decision. They made it harder to confuse a lower passenger count with a complete account of what a departure enabled."
+    ],
+    "rationale": "完了不定詞・関係節・比較表現・間接疑問を読み、利用人数に加えて往復の移動機会と代替案の条件を考える。",
+    "questions": [
+      {
+        "prompt": "学生が往路と復路の両方を図にした理由として、本文に合うのはどれか。",
+        "correctIndex": 0,
+        "quote": "essential for getting home after an activity ended",
+        "options": [
+          {
+            "text": "活動後の帰宅を可能にする便の役割も分かるようにするため。",
+            "explanation": "片道だけでは不要に見える便も、活動が終わった後の帰宅には不可欠な場合がある。"
+          },
+          {
+            "text": "すべての利用者が朝だけ移動すると証明するため。",
+            "explanation": "朝以外の通院・帰宅・活動の役割を調べている。"
+          },
+          {
+            "text": "鉄道の運営費を報告から削除するため。",
+            "explanation": "費用も残しており、代替サービスの費用と輸送力の疑問も列挙する。"
+          },
+          {
+            "text": "帰りの列車はどれも不要だと決めるため。",
+            "explanation": "帰宅に不可欠な便がありうるという説明と逆である。"
+          }
+        ]
+      },
+      {
+        "prompt": "提案された代替サービスについて確認しようとしたことは何か。",
+        "correctIndex": 0,
+        "quote": "what a proposed replacement would actually allow the same passenger to do",
+        "options": [
+          {
+            "text": "同じ利用者が実際に何をできるようになるかと、費用・輸送力の条件。",
+            "explanation": "往復の移動機会を保てるかという問いに加え、費用や容量の問題も検討対象にしている。"
+          },
+          {
+            "text": "利用人数さえ減れば、どんな代替案でも問題ないか。",
+            "explanation": "人数だけでなく、移動によって可能になる活動と代替案の条件を調べる。"
+          },
+          {
+            "text": "住民の用途をすべて除き、朝の人数だけを残せるか。",
+            "explanation": "用途を具体化するために往復の例を作っている。"
+          },
+          {
+            "text": "例を一つ描けば、財政問題が必ずすべて解決するか。",
+            "explanation": "例は最終判断を決着させないと明記される。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f03-09",
+    "paragraphs": [
+      "The teacher then asked how the new suggestion would work for students with very little free time. Optional practice was not equally easy to use if some students had a quiet room and others did not. A familiar word such as optional also needed an explanation of the conditions behind it.",
+      "The class listed what everyone should learn and asked which forms of support could make that learning possible. They did not settle every question about homework. However, they could now test a proposal against both concerns, instead of assuming that a new label had already solved the disagreement."
+    ],
+    "rationale": "間接疑問・動名詞主語・目的格関係詞・部分否定を読み、言葉の定義と提案の具体的な条件を照合する。",
+    "questions": [
+      {
+        "prompt": "先生が新たに問いかけたのは、どのような生徒にとっての提案の働きか。",
+        "correctIndex": 0,
+        "quote": "students with very little free time",
+        "options": [
+          {
+            "text": "自由に使える時間がごく少ない生徒。",
+            "explanation": "新しい提案が、特に時間の少ない生徒にどう機能するかを問うた。"
+          },
+          {
+            "text": "全員が同じだけの自由時間を持つという架空の生徒だけ。",
+            "explanation": "自由時間の違いが問題であり、同じだと仮定していない。"
+          },
+          {
+            "text": "宿題を一切受け取らないと決めた教師。",
+            "explanation": "対象は生徒で、教師の宿題の受領ではない。"
+          },
+          {
+            "text": "全科目の試験を永久に免除された生徒。",
+            "explanation": "試験免除についての記述はない。"
+          }
+        ]
+      },
+      {
+        "prompt": "任意練習を「同じように利用しやすい」とは言えない例として挙げられたものはどれか。",
+        "correctIndex": 0,
+        "quote": "some students had a quiet room and others did not",
+        "options": [
+          {
+            "text": "静かな部屋がある生徒と、ない生徒がいること。",
+            "explanation": "任意であっても、実際に取り組める環境が異なれば利用のしやすさは同じではない。"
+          },
+          {
+            "text": "すべての生徒に全く同じ静かな部屋があること。",
+            "explanation": "本文はその環境に差がある場合を述べる。"
+          },
+          {
+            "text": "任意という言葉がどの生徒にも絶対に理解できないこと。",
+            "explanation": "語が理解不能なのではなく、利用条件の説明も必要だとする。"
+          },
+          {
+            "text": "試験の準備を全員が不要だと同意したこと。",
+            "explanation": "試験準備は一方の重要な懸念として残る。"
+          }
+        ]
+      },
+      {
+        "prompt": "次にクラスが整理したことは何か。",
+        "correctIndex": 0,
+        "quote": "what everyone should learn",
+        "options": [
+          {
+            "text": "全員が学ぶべき内容と、それを可能にする支援。",
+            "explanation": "共通の学習目標を挙げ、実現に必要な支援の形を検討した。"
+          },
+          {
+            "text": "各家庭の事情をすべて無視するための決まり。",
+            "explanation": "家庭での時間や場所の違いを考慮している。"
+          },
+          {
+            "text": "どの生徒も学ばなくてよいという結論。",
+            "explanation": "what everyone should learnとあり、学習の不要論ではない。"
+          },
+          {
+            "text": "公平という語を禁止するための罰則。",
+            "explanation": "語は禁止せず、意味と条件を確かめている。"
+          }
+        ]
+      },
+      {
+        "prompt": "最後に得られた進歩として、本文が述べるのはどれか。",
+        "correctIndex": 0,
+        "quote": "test a proposal against both concerns",
+        "options": [
+          {
+            "text": "新しい言葉だけで解決したとせず、双方の懸念に照らして案を検討できるようになった。",
+            "explanation": "全問が解決したわけではないが、共通準備と生活の違いという両面から案を調べられるようになった。"
+          },
+          {
+            "text": "任意と名付けた瞬間、すべての対立が自動的に消えた。",
+            "explanation": "ラベルだけでは不一致は解決しないという結論に反する。"
+          },
+          {
+            "text": "一方の懸念を聞くことは今後不要になった。",
+            "explanation": "both concernsとあり、双方の懸念に照らすことが進歩である。"
+          },
+          {
+            "text": "宿題に関するすべての問いに唯一の答えが出た。",
+            "explanation": "すべての問題を決着させたわけではないと述べている。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f03-10",
+    "paragraphs": [
+      "During the trial, volunteers recorded how long each regular task took and which jobs were left unfinished. A blank space on the schedule did not mean that someone would eventually fill it. The group agreed to review the planted area if the available help was not enough. They also recorded who should be contacted when equipment needed attention. These records gave residents something more concrete to discuss than whether the drawing looked beautiful. Delaying the stage could then be understood as a decision about capacity, rather than simply a loss of enthusiasm."
+    ],
+    "rationale": "動名詞主語・関係節・間接疑問・受動態を読み、設計図の魅力と継続できる人手・作業量を区別する。",
+    "questions": [
+      {
+        "prompt": "試行期間中に、通常作業について何を記録したか。",
+        "correctIndex": 0,
+        "quote": "how long each regular task took and which jobs were left unfinished",
+        "options": [
+          {
+            "text": "各作業にかかった時間と、終わらずに残った仕事。",
+            "explanation": "現実の作業量と未完了の内容を記録し、計画を管理できるか確かめた。"
+          },
+          {
+            "text": "図の色を好む人の数だけ。",
+            "explanation": "見た目の評価ではなく、維持作業の時間と未完了の仕事を記録した。"
+          },
+          {
+            "text": "舞台の建設を全員がすでに約束した証拠。",
+            "explanation": "舞台追加は試行後に検討するもので、全員の約束があるとはない。"
+          },
+          {
+            "text": "担当未定の仕事は必ず終わるという予測だけ。",
+            "explanation": "空欄が自然に埋まるとは限らないという説明に反する。"
+          }
+        ]
+      },
+      {
+        "prompt": "予定表の空欄について、本文に合う理解はどれか。",
+        "correctIndex": 0,
+        "quote": "did not mean that someone would eventually fill it",
+        "options": [
+          {
+            "text": "誰かがそのうち埋めると当然視してはいけない。",
+            "explanation": "担当者や実行可能性を確認せず、空欄を将来の誰かに任せることを避ける。"
+          },
+          {
+            "text": "空欄があるだけで、必要な人手はすべて確保済みだ。",
+            "explanation": "担当が見えない部分を、確保できた労力とみなしていない。"
+          },
+          {
+            "text": "空欄はすべての住民が毎日働くという約束を表す。",
+            "explanation": "そのような約束は述べられていない。"
+          },
+          {
+            "text": "空欄が一つでもあれば庭全体を永久に閉じる。",
+            "explanation": "人手が足りなければ植栽範囲を見直すのであり、永久閉鎖を決めてはいない。"
+          }
+        ]
+      },
+      {
+        "prompt": "舞台の追加を遅らせる判断は、記録によってどう理解できるようになったか。",
+        "correctIndex": 0,
+        "quote": "a decision about capacity, rather than simply a loss of enthusiasm",
+        "options": [
+          {
+            "text": "単なる意欲の低下でなく、管理できる能力や人手に基づく判断。",
+            "explanation": "作業時間・未完了の仕事・連絡先などの具体的情報により、拡張の時期を実行可能性から検討できる。"
+          },
+          {
+            "text": "建設が終われば維持作業は不要になるという判断。",
+            "explanation": "維持を設計に含めるという全体の論旨に反する。"
+          },
+          {
+            "text": "住民は美しい場所を全く望まないという証明。",
+            "explanation": "美しさを否定せず、それだけでなく管理の条件を議論できるようにした。"
+          },
+          {
+            "text": "試行前に全員が舞台を永久に禁止したという意味。",
+            "explanation": "追加を遅らせることと、永久禁止は異なる。"
+          }
+        ]
+      }
+    ]
+  }
+]
