@@ -37,7 +37,27 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
             pattern = r'\S.*?(?:[.!?](?=\s|$)|$)'
             sources, matches = list(re.finditer(pattern, source['english'])), list(re.finditer(pattern, para['english']))
             translations = []
-            for i, (sm, m) in enumerate(zip(sources, matches, strict=True)):
+            sentence_gap = p['format'] == 3
+            if not sentence_gap:
+                assert len(sources) == len(matches)
+            gap_start = source['english'].find('[1]')
+            gap_end = gap_start + len(answer)
+            delta = len(answer) - 3
+            for i, m in enumerate(matches):
+                if sentence_gap:
+                    def source_offset(position, is_end=False):
+                        if gap_start < 0 or position <= gap_start:
+                            return position
+                        if position >= gap_end:
+                            return position - delta
+                        return gap_start + (3 if is_end else 0)
+                    source_start = source_offset(m.start())
+                    source_end = source_offset(m.end(), True)
+                    source_english = source['english'][source_start:source_end]
+                    source_index = next(j for j, sm in enumerate(sources) if sm.start() <= source_start and sm.end() >= source_end)
+                else:
+                    sm = sources[i]
+                    source_start, source_end, source_english = sm.start(), sm.end(), sm.group()
                 row = next(rows)
                 assert len(row) in (3, 4), row
                 jp, annotation, note = row[:3]
@@ -62,7 +82,7 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
                     relations.append({'from': next(s['id'] for s in spans if s['text'] == a),
                                       'to': next(s['id'] for s in spans if s['text'] == b), 'type': 'modifies'})
                 assert any(s['role'] == 'S' for s in spans) and any(s['role'] == 'V' for s in spans)
-                previous = [s['explanation'] for s in old['syntax'] if s['sentence'] == sm.group()]
+                previous = [s['explanation'] for s in old['syntax'] if s['sentence'] == source_english]
                 explanation = note + (' 既存解説：' + ' '.join(previous) if previous else '')
                 syntax = {'id': f"{p['id']}:{sid}", 'passageId': p['id'], 'contentVersion': 2,
                     'paragraphId': para['id'], 'sentenceId': sid, 'sentence': en, 'start': m.start(), 'end': m.end(),
@@ -72,8 +92,10 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
                     'reviewStatus': 'ai_author_checked_human_pending', 'offsetBasis': 'reviewParagraphs'}
                 p['syntax'].append(syntax)
                 p['sentences'].append({'id': sid, 'paragraphId': para['id'], 'english': en, 'translation': jp,
-                    'start': m.start(), 'end': m.end(), 'sourceEnglish': sm.group(), 'sourceStart': sm.start(),
-                    'sourceEnd': sm.end(), 'syntaxId': syntax['id']})
+                    'start': m.start(), 'end': m.end(), 'sourceEnglish': source_english, 'sourceStart': source_start,
+                    'sourceEnd': source_end, 'syntaxId': syntax['id'],
+                    **({'sourceSentenceId': f"{source['id']}-s{source_index+1:03}",
+                        'sourceKind': 'gap' if source_english == '[1]' else 'text'} if sentence_gap else {})})
                 translations.append(jp)
             source['translation'] = para['translation'] = ''.join(translations)
         for q in extra['questions']:
@@ -103,11 +125,12 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--batch', choices=['11-15', '16-20'], default='11-15')
+    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25'], default='11-15')
     args = parser.parse_args()
     start, end, stem, output, base = {
         '11-15': (10, 15, 'l2-gap5', 'enriched-level2-gap5', 'd4b18c1841488dbd596aacd2d9dc27d011cc0c56'),
         '16-20': (15, 20, 'l2-gap-next5', 'enriched-level2-gap-next5', 'f3a873d311f3153493f2b34fd984d0a18c862694'),
+        '21-25': (20, 25, 'l2-sentence-gap5', 'enriched-level2-sentence-gap5', '1d69f03c4b842a8e94eda305a22ab6a3625667ec'),
     }[args.batch]
     originals, batch = compile_batch(start, end, stem)
     path = ROOT / f'content/readings/{output}.json'
@@ -118,6 +141,7 @@ if __name__ == '__main__':
         'passages':[{'id':p['id'],'words':p['wordCount'],'reviewWords':p['reviewWordCount'],
             'paragraphs':len(p['paragraphs']),'questions':len(p['questions']),'sentences':len(p['sentences']),
             'translationCoverage':1,'syntaxCoverage':1,'originalDigest':digest(old)} for old,p in zip(originals,batch)]}
-    manifest_name = 'reading_l2_gap5_batch' if args.batch == '11-15' else 'reading_l2_gap_next5_batch'
+    manifest_name = {'11-15': 'reading_l2_gap5_batch', '16-20': 'reading_l2_gap_next5_batch',
+                     '21-25': 'reading_l2_sentence_gap5_batch'}[args.batch]
     (ROOT / f'analysis/{manifest_name}.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(manifest,ensure_ascii=False))

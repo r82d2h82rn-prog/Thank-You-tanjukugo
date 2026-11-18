@@ -1,0 +1,51 @@
+[
+  {
+    "id":"reading-l2-f03-01",
+    "paragraphs":["The students also added a short label explaining which changes had been made for the exhibition. A visitor could then distinguish a correction made by a family cook from an explanation added by the students. The donor helped them choose examples that showed how a recipe had developed without revealing a private disagreement. Not every personal detail had to appear on the wall. What mattered was making the choices visible, so readers could understand both the surviving material and the decisions that shaped its public presentation."],
+    "rationale":"挿入文のTheyの指示先、関係詞、受動態、間接疑問、部分否定を読み、読みやすい編集と資料の履歴の両立を理解する。",
+    "questions":[
+      {"prompt":"学生が変更内容を説明するラベルを付けたことで、何を区別できるようになったか。","correctIndex":0,"quote":"distinguish a correction made by a family cook from an explanation added by the students","options":[{"text":"家庭で料理した人による修正と、展示を作る学生による補足。","explanation":"レシピが家庭で使われた際の変更と、展示のための編集とを分けて理解できるようにした。"},{"text":"寄贈者が料理を実際に作ったかどうかの確定的な証拠。","explanation":"ラベルの目的は編集の段階を区別することで、寄贈者の調理経験を証明するとは述べていない。"},{"text":"原紙を一度も読まずに料理を完成させる方法。","explanation":"資料の変更の説明であり、読まずに料理する方法ではない。"},{"text":"すべての家族の意見が一致していたかどうか。","explanation":"私的な意見の不一致を公開せずに事例を選んだのであり、全員一致を判定したとはない。"}]},
+      {"prompt":"最後の段落が示す、個人的な記述の展示方針として最も適切なのはどれか。","correctIndex":0,"quote":"Not every personal detail had to appear on the wall","options":[{"text":"すべてを公開する必要はなく、何を選びどう編集したかを読者に分かるようにする。","explanation":"非公開にする詳細があっても、資料の選択と編集の判断を見えるようにすることが重要だと結ぶ。"},{"text":"個人的な情報は必ずすべて公開しなければならない。","explanation":"Not everyとあり、全詳細の公開は必要としていない。"},{"text":"学生が加えた説明も、昔の料理人が書いたものとして見せる。","explanation":"二つの変更の出所を区別できるようにした内容に反する。"},{"text":"個人的な記述を削ったことは読者に知らせない。","explanation":"選択を明らかにすることを重視しており、編集を隠す方針ではない。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f03-02",
+    "paragraphs":["After publication, one reader asked whether a blank area on a drawing meant there was nothing worth visiting there. Ella replied that it might simply be a place the writer rarely used. She suggested reading the notes beside each map before choosing a route.","Two drawings could also be compared without deciding that one must be wrong. A steep street might matter to a runner, while a safe crossing mattered to a parent. Using the maps together could reveal questions for a visit, but it could not replace checking current local conditions."],
+    "rationale":"挿入文のThese differencesの指示先、関係副詞、間接疑問、譲歩・対比を読み、地図の空白や視点の違いの意味を考える。",
+    "questions":[
+      {"prompt":"地図の空白について、エラはどのような可能性を述べたか。","correctIndex":0,"quote":"a place the writer rarely used","options":[{"text":"描いた人があまり使わない場所だった可能性。","explanation":"何も価値がない場所ではなく、その人の生活で利用頻度が低いだけかもしれないと説明した。"},{"text":"何も存在しないことが必ず証明されている場所。","explanation":"空白を地域の完全な調査結果とみなしていない。"},{"text":"雑誌社がすべての住民の立ち入りを禁止した場所。","explanation":"立ち入り禁止の決定は述べられていない。"},{"text":"デジタル地図で存在しないと確認された場所。","explanation":"デジタル地図による確認はなく、描き手の利用状況が理由として挙げられる。"}]},
+      {"prompt":"経路を選ぶ前にエラが読むよう提案したのは何か。","correctIndex":0,"quote":"reading the notes beside each map before choosing a route","options":[{"text":"それぞれの地図に添えられた説明。","explanation":"地図の視点や限界を理解するため、横にある説明を読むことを勧めた。"},{"text":"全投稿者の個人的な通信記録。","explanation":"通信記録ではなく、公開された地図の補足説明である。"},{"text":"地図を一枚だけ正解と決めた公式順位表。","explanation":"異なる地図の一方を必ず誤りとする必要はないと述べる。"},{"text":"空白の地域には行く価値がないという注意書き。","explanation":"空白を無価値の証明としないという説明に反する。"}]},
+      {"prompt":"複数の地図を一緒に使うことの利点と限界として、本文に合うものはどれか。","correctIndex":0,"quote":"could not replace checking current local conditions","options":[{"text":"現地で確かめたい問いが見つかるが、現在の状況の確認は別に必要である。","explanation":"地図を組み合わせれば関心や問いが広がる一方、現状の確認に代わるわけではないと結ぶ。"},{"text":"複数の地図を見れば、その後の地域の変化もすべて分かる。","explanation":"現在の地域の状態を別に確認する必要があるとしている。"},{"text":"安全な横断箇所と急な坂は、必ず同じ一人が描く。","explanation":"親と走者の関心の違いを例にしており、同一人物に限定していない。"},{"text":"二つの地図が違えば、どちらかを誤りとして必ず捨てる必要がある。","explanation":"一方が必ず誤りと決めずに比較できると明記されている。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f03-03",
+    "paragraphs":["During a second trial, the designers asked users to record missed deadlines and unwanted interruptions separately. Fewer messages alone would not show that the app had become more helpful. A quiet app could still fail to remind someone about important work.","The team compared these records with comments about daily routines. They also asked whether marking a task complete was easy enough to do at the moment the work ended. This helped them examine the whole process, rather than treating the number of messages as the only measure of success."],
+    "rationale":"挿入文のthat problem、仮定法過去完了、受動分詞、間接疑問を読み、通知数と利用者を助ける機能を区別する。",
+    "questions":[
+      {"prompt":"二回目の試験で、別々に記録するよう求めたものは何か。","correctIndex":0,"quote":"missed deadlines and unwanted interruptions separately","options":[{"text":"期限に間に合わなかったことと、望まない通知で中断されたこと。","explanation":"必要な通知が機能しているかと、不要な妨げがあるかを別々に見られるようにした。"},{"text":"家族の食事の献立と、すべての授業の内容。","explanation":"生活の場面は出てくるが、献立や授業内容の記録は求めていない。"},{"text":"通知を切った人の責任感の順位だけ。","explanation":"利用者を無責任と決めつけず、設計の問題を調べる方針である。"},{"text":"アプリの色と、使ったスマートフォンの値段だけ。","explanation":"外観や端末価格ではなく、期限と中断について記録した。"}]},
+      {"prompt":"通知が減っただけでは、アプリの改善を判断できない理由はどれか。","correctIndex":0,"quote":"A quiet app could still fail to remind someone about important work","options":[{"text":"静かになっても、大切な課題を知らせる役割を果たさないかもしれないため。","explanation":"中断を減らすことと、必要な課題を思い出せることの両方を確かめる必要がある。"},{"text":"通知が多いほど必ずすべての利用者の期限忘れがなくなるため。","explanation":"不要な通知が重要な情報を埋もれさせるという説明に反する。"},{"text":"課題の期限を記録することは不可能だから。","explanation":"期限を逃したことも試験で記録している。"},{"text":"すべての利用者が食事中の通知を希望していたため。","explanation":"食事中の通知は問題として挙げられている。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f03-04",
+    "paragraphs":["The volunteers separated information likely to remain useful from details that needed regular checking. General advice could stay in a reusable booklet, while route changes appeared on a dated sheet. One member was responsible for checking that sheet before each walk.","They also compared quotations using the number of guides they expected to distribute, not just the number a printer offered cheaply. A larger order might still make sense when the information was stable and demand was clear. The important change was asking what the group would actually have to manage after the printing bill had been paid."],
+    "rationale":"挿入文による因果の要約、動名詞主語、受動態、間接疑問を読み、単価と更新・管理負担の関係を理解する。",
+    "questions":[
+      {"prompt":"新しい冊子と日付入りの用紙は、どのように使い分けられたか。","correctIndex":0,"quote":"General advice could stay in a reusable booklet, while route changes appeared on a dated sheet","options":[{"text":"長く使える一般的な助言を冊子にし、経路変更は日付入りの用紙で伝えた。","explanation":"情報の変わりやすさに応じて、繰り返し使う部分と更新する部分を分けた。"},{"text":"変更しやすい経路だけを永久保存し、一般的な助言は毎日捨てた。","explanation":"安定した助言を再利用し、経路変更を更新するという本文と逆である。"},{"text":"すべての情報を同じ冊子に固定し、更新を禁止した。","explanation":"定期確認が必要な情報を分け、担当者も置いている。"},{"text":"冊子には何も書かず、すべて口頭だけにした。","explanation":"冊子と用紙という二つの書面を利用している。"}]},
+      {"prompt":"日付入りの用紙の確認は、誰がいつ行うことになったか。","correctIndex":0,"quote":"One member was responsible for checking that sheet before each walk","options":[{"text":"担当する一人のメンバーが、毎回の散歩前に確認した。","explanation":"one memberとbefore each walkが担当と確認時点を示す。"},{"text":"すべての来訪者が、散歩終了後に一度だけ確認した。","explanation":"確認は担当メンバーによる事前の作業である。"},{"text":"印刷会社だけが、五年後に確認した。","explanation":"担当はグループ内のメンバーで、確認は毎回の散歩前である。"},{"text":"担当者は決めず、翌年まで誰も確認しなかった。","explanation":"責任者と毎回の確認時点が明確に設けられている。"}]},
+      {"prompt":"新たに見積りを比べる際、基準にした数量はどれか。","correctIndex":0,"quote":"the number of guides they expected to distribute","options":[{"text":"実際に配布すると予想する案内の部数。","explanation":"安く提示された印刷部数だけでなく、必要になる実使用部数で比較した。"},{"text":"印刷会社が最も多く作れる部数だけ。","explanation":"安く大量に作れる数量だけに注目しないという方針である。"},{"text":"前年に保管した冊子の重さだけ。","explanation":"重さだけを比較基準にしたとは述べられていない。"},{"text":"近所の店舗の総数だけ。","explanation":"見積りの基準として挙げたのは配布予定数である。"}]},
+      {"prompt":"大量注文について、最後の段落はどう述べているか。","correctIndex":0,"quote":"when the information was stable and demand was clear","options":[{"text":"情報が変わりにくく必要数が明確なら、合理的な場合もある。","explanation":"大量注文を一律に否定せず、情報の安定性と需要が判断条件だとする。"},{"text":"どんな条件でも大量注文は必ず最も安い。","explanation":"条件付きの可能性であり、常に最安とは断定していない。"},{"text":"大量注文はどんな場合でも禁止すべきである。","explanation":"might still make senseとあり、妥当な場合を認めている。"},{"text":"請求書を払えば、その後の管理作業を考える必要はない。","explanation":"印刷代の支払い後に何を管理するかを考えることが、重要な変化だと結ぶ。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f03-05",
+    "paragraphs":["For the new diagram, performers checked whether the arrows showed the exchanges they considered important. They pointed out that an entrance could change slightly depending on who was leading the song. The student therefore described the diagram as a record of one rehearsal, not a rule for every performance. She kept the recording and the written notes, but explained what each could and could not show. The account became more useful when its limits were clear and the performers could recognize their own activity in the way it was presented."],
+    "rationale":"挿入文による共同活動の説明、完了不定詞、関係副詞、間接疑問を読み、音符・録音・図の役割と限界を理解する。",
+    "questions":[
+      {"prompt":"出演者は、何によって歌に加わるタイミングが少し変わりうると指摘したか。","correctIndex":0,"quote":"depending on who was leading the song","options":[{"text":"誰が歌を導いているか。","explanation":"who was leading the songが入りの変化に関わる条件として示されている。"},{"text":"学生が使う録音機器の販売価格。","explanation":"機器の値段による違いは述べられていない。"},{"text":"大学の教室にある椅子の数。","explanation":"座席数はこの説明に関係しない。"},{"text":"すべての演奏で同じ人物が必ず休むという規則。","explanation":"一定の規則に固定せず、導く人によって変わる可能性を示している。"}]},
+      {"prompt":"学生は、新しい図をどのようなものとして説明したか。","correctIndex":0,"quote":"a record of one rehearsal, not a rule for every performance","options":[{"text":"すべての演奏の規則ではなく、一回の練習の記録。","explanation":"図が捉えた場面の範囲を明示し、すべての演奏へ一律に当てはめないようにした。"},{"text":"村人全員の演奏を永遠に統一する規則。","explanation":"not a rule for every performanceと明確に否定されている。"},{"text":"録音と音符にはどんな価値もないことの証明。","explanation":"録音も音符も残し、それぞれ何が示せるかを説明している。"},{"text":"二回の訪問で自分が専門家になったことの証明。","explanation":"専門家になったとは主張しないという第三段落の方針に反する。"}]},
+      {"prompt":"最後の段落で、説明がより役立つものになった条件として挙げられるものはどれか。","correctIndex":0,"quote":"its limits were clear and the performers could recognize their own activity","options":[{"text":"記録の限界が明確で、出演者自身も自分たちの活動をその説明の中に認められること。","explanation":"限界を示すことと、当事者の活動を伝えられていることの両方を重視している。"},{"text":"出演者が確認する機会をなくし、学生だけで図を完成させること。","explanation":"出演者が図を確認して指摘を加えている。"},{"text":"どの資料も歌のすべてを完全に伝えられると断定すること。","explanation":"各資料が示せることと示せないことを説明するという内容に反する。"},{"text":"同じ旋律をもっときれいに録音することだけ。","explanation":"音の質だけでなく、参加者の活動と記録の範囲を理解することを重視している。"}]}
+    ]
+  }
+]
