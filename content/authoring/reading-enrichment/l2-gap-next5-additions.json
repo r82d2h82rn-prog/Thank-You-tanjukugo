@@ -1,0 +1,51 @@
+[
+  {
+    "id":"reading-l2-f02-06",
+    "paragraphs":["She also noticed that the sofa combined two features: it was soft and it received sunlight. Her photographs could not show which feature mattered more to the cat. In her report, she replaced a claim about softness with a description of the place where the cat had actually rested. She did not delete the photographs or call them useless. Instead, she listed the questions they could answer and those they left open. A carefully limited conclusion could be useful now, while suggesting what a later observation should try to distinguish."],
+    "rationale":"対比の接続詞、間接疑問、動名詞主語、使役構文を読み、観察範囲と原因についての主張を区別する。",
+    "questions":[
+      {"prompt":"ソファについての観察からは、なぜ柔らかさだけの効果を判断できなかったか。","correctIndex":0,"quote":"the sofa combined two features: it was soft and it received sunlight","options":[{"text":"柔らかいことと日光が当たることが同じ場所に重なっていたため。","explanation":"ソファは柔らかく、かつ日当たりもよい。写真からはどちらの特徴が猫にとって重要かを分けられない。"},{"text":"ソファが一週間の途中で家から撤去されたため。","explanation":"家具の撤去は述べていない。問題は二つの特徴が同時に存在する点である。"},{"text":"写真には猫が一度も写っていなかったため。","explanation":"猫の位置を写真で記録しており、猫が写っていないわけではない。"},{"text":"家のすべての場所に同じ量の日光が当たっていたため。","explanation":"家中の日当たりが同じとは述べられていない。"}]},
+      {"prompt":"最後の段落で、撮影した写真はどのように扱われたか。","correctIndex":0,"quote":"listed the questions they could answer and those they left open","options":[{"text":"写真を残し、答えられる問いと未解決の問いを整理した。","explanation":"写真を消したり無価値としたりせず、利用できる範囲と残る問いを記した。"},{"text":"結論が限定されたため、写真をすべて破棄した。","explanation":"did not delete the photographsと明確に否定されている。"},{"text":"猫が柔らかさだけを好むという証明として公表した。","explanation":"柔らかさについての主張を、実際に休んだ場所の記述に置き換えた。"},{"text":"追加観察をしなくても一日の好みを確定できるとした。","explanation":"他の時間帯の記録が必要だという限界は維持されている。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f02-07",
+    "paragraphs":["At the second event, volunteers counted uniforms collected rather than simply counting visitors at the door. They found that appointments brought fewer people into the room at once, but allowed some families to choose more comfortably. A quieter room was therefore not necessarily a sign of lower demand.","The organizers kept the questionnaire anonymous and asked which parts of the service still felt difficult. They did not require families to explain their income when giving feedback. Their next decisions would depend on both practical results and people's experiences, rather than on a crowded room alone."],
+    "rationale":"結果を表す接続表現、関係節、形式目的語、部分否定を読み、来場者数とサービスの利用しやすさを区別する。",
+    "questions":[
+      {"prompt":"二回目の交換会では、主に何を数えるようにしたか。","correctIndex":0,"quote":"counted uniforms collected rather than simply counting visitors at the door","options":[{"text":"入口に来た人数だけでなく、受け取られた制服の数。","explanation":"来場者を数えるだけの評価から、制服が実際に受け取られた数へ注目を移した。"},{"text":"各家庭の月収の合計。","explanation":"所得についての説明を求めず、数えたのは受け取られた制服である。"},{"text":"寄付をしなかった家庭の名前。","explanation":"寄付しなくても受領できる仕組みで、寄付しない家庭の名簿は作っていない。"},{"text":"会場に一度に入れた最大人数だけ。","explanation":"混雑そのものだけでなく、利用の結果を見る方針である。"}]},
+      {"prompt":"静かな会場が需要の低下を意味するとは限らない理由はどれか。","correctIndex":0,"quote":"appointments brought fewer people into the room at once","options":[{"text":"予約によって訪問時間が分かれ、一度にいる人数が少なくなったため。","explanation":"一度の在室人数が減っても、時間を分けて利用している可能性がある。混雑度だけでは需要を判断できない。"},{"text":"制服は一着も受け取られなくなったため。","explanation":"受け取られた制服を数えており、利用がゼロになったとは書かれていない。"},{"text":"静かな会場への入室を全家庭に禁止したため。","explanation":"静かな訪問を希望する人のために予約枠を設けている。"},{"text":"二回目は寄付者しか入れなくしたため。","explanation":"寄付を受領条件にしないという仕組みに反する。"}]},
+      {"prompt":"次の改善を決める際に、主催者が重視するとしたものはどれか。","correctIndex":0,"quote":"both practical results and people's experiences","options":[{"text":"実際の利用結果と利用者の体験の両方。","explanation":"制服が活用された結果だけでなく、利用時の困難や気持ちも改善判断に使う。"},{"text":"入口の混雑だけ。","explanation":"rather than on a crowded room aloneとあり、混雑だけに頼る判断を避けている。"},{"text":"意見を出した全家庭の所得証明だけ。","explanation":"意見提出の際に所得の説明を求めないと明記される。"},{"text":"最初のサイズ不一致という推測だけ。","explanation":"匿名調査で別の懸念が分かっており、当初の推測だけで判断する方針ではない。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f02-08",
+    "paragraphs":["For each approved clip, the club kept a note of what the speaker had agreed to share. Students checked the note again when they prepared a new page, rather than relying on memory. They also gave speakers a contact address for questions about the collection. One resident later asked for a clip to be removed because it included a relative's name. The students took it down and discussed a version without the name. They treated permission as something to keep checking as the project changed, not as a single task completed forever."],
+    "rationale":"Untilの時の節、動名詞、使役・受動態、所有格関係詞を読み、同意の対象と企画変更時の確認を理解する。",
+    "questions":[
+      {"prompt":"公開を認められた音声ごとに記録したものは何か。","correctIndex":0,"quote":"a note of what the speaker had agreed to share","options":[{"text":"話者が何を共有することに同意したか。","explanation":"各音声に同意範囲の記録を付け、新しいページを作る時も照合した。"},{"text":"将来のあらゆる利用を自動的に許可するという約束。","explanation":"一度の同意を全用途への同意とみなさないことが本文の中心である。"},{"text":"話者の家族全員の意見を推測したもの。","explanation":"家族全員の意見を推測して記録したとは述べていない。"},{"text":"公開していない会話も必ず公開するという日程。","explanation":"公開しない録音や文章要約の選択も認めている。"}]},
+      {"prompt":"親族の名前を含む音声の削除を求められた際、学生はどう対応したか。","correctIndex":0,"quote":"took it down and discussed a version without the name","options":[{"text":"音声をいったん取り下げ、名前を含まない版について話し合った。","explanation":"既存の音声を削除し、名前なしの版を検討した。検討後に公開したとまでは書かれていない。"},{"text":"以前の許可があるので、そのまま公開し続けた。","explanation":"取り下げたという記述に反する。"},{"text":"名前を含まない版を相談なしで直ちに公開した。","explanation":"discussedとあるだけで、即公開したとは述べられていない。"},{"text":"方言の資料集全体を永久に廃止した。","explanation":"対象の音声への対応であり、全企画の廃止は述べていない。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f02-09",
+    "paragraphs":["When staff discussed the records, they noticed that the number of empty rooms varied from day to day. Counting five rooms with lights on would mean something different if only six rooms were empty than if twenty were empty. They therefore added the total number of empty rooms to each record.","This made comparisons clearer, but did not turn the exercise into a controlled experiment. Changes in working hours could still affect the results. The report described the observation method and its limits, so another office could understand the findings without assuming that the same savings would occur everywhere."],
+    "rationale":"By＋動名詞、仮定の比較、関係節、分詞句を読み、比較の基準と因果推論の限界を区別する。",
+    "questions":[
+      {"prompt":"点灯している無人室の数に加え、何を記録したか。","correctIndex":0,"quote":"the total number of empty rooms to each record","options":[{"text":"無人室そのものの総数。","explanation":"点灯した無人室が全無人室のうちどれだけあるかを比較できるよう、全無人室数を追加した。"},{"text":"研修参加者全員の試験成績。","explanation":"研修による不在は述べるが、参加者の成績を調べたとはない。"},{"text":"すべての照明の購入価格。","explanation":"比較の基準として追加したのは空き部屋の数で、購入価格ではない。"},{"text":"他社の従業員全員の勤務時間。","explanation":"他社の勤務記録を収集したとは述べられていない。"}]},
+      {"prompt":"点灯した無人室が同じ五室でも、意味が異なるのはどのような場合か。","correctIndex":0,"quote":"if only six rooms were empty than if twenty were empty","options":[{"text":"無人室全体が六室の時と二十室の時。","explanation":"点灯数が同じでも、比較対象となる全無人室数が違えば点灯している割合が違う。"},{"text":"観察者が五という数字を別の色で書いた時。","explanation":"数字の色についての記述はなく、全無人室数が比較の条件である。"},{"text":"点灯した部屋の数が五室からゼロ室に減った時。","explanation":"設問は点灯数が同じ五室の場合の比較である。"},{"text":"どちらの日も無人室の総数と観察条件が同じ時。","explanation":"例として挙げたのは全無人室数が異なる場合であり、同じ場合ではない。"}]},
+      {"prompt":"新しい記録方法を使っても残る限界はどれか。","correctIndex":0,"quote":"Changes in working hours could still affect the results","options":[{"text":"勤務時間の変化などがなお結果に影響しうる。","explanation":"比較は明確になっても統制実験にはならず、勤務時間などの影響は残る。"},{"text":"無人室の総数は絶対に数えられない。","explanation":"実際に総数を記録へ加えている。"},{"text":"電気代が下がった事実自体が存在しなくなる。","explanation":"請求額が下がった事実と、その原因の確かさは別問題である。"},{"text":"照明についての観察がすべて無意味になる。","explanation":"限界を示しつつ観察結果を報告しており、無意味とはしていない。"}]},
+      {"prompt":"他の事務所がこの報告を読む際に、避けるべき理解はどれか。","correctIndex":0,"quote":"assuming that the same savings would occur everywhere","options":[{"text":"どの事務所でも同じ節電量が必ず得られるという理解。","explanation":"報告は方法と限界を説明し、場所を問わず同じ効果が出るという一般化を避けようとしている。"},{"text":"点灯数を一定時刻に記録したという理解。","explanation":"これは第三段落に示された実際の観察方法である。"},{"text":"記録の比較を明確にするため全無人室数を追加したという理解。","explanation":"これは第四・第五段落で述べる改善内容そのものである。"},{"text":"勤務時間が結果に影響する可能性が残るという理解。","explanation":"これは報告で認めた限界に合っている。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f02-10",
+    "paragraphs":["The following spring, a new member found that one tree was missing from its marked position. Instead of immediately recording that it had died, she checked the earlier photograph and asked the gardener. The tree had been moved during repairs to a path. The group updated its location and kept the old entry as part of the record. This small incident showed why a map needed a history of changes, not just a current total. It also reminded students to separate what they had observed from the explanation they still needed to check."],
+    "rationale":"譲歩の接続詞、関係節、疑問詞節、過去完了を読み、観測した変化と未確認の説明を区別する。",
+    "questions":[
+      {"prompt":"翌春、木が元の位置にないと分かった新メンバーがしたことはどれか。","correctIndex":0,"quote":"checked the earlier photograph and asked the gardener","options":[{"text":"以前の写真を確認し、園芸家に尋ねた。","explanation":"枯れたと即断せず、過去の資料と園芸家への確認によって理由を調べた。"},{"text":"観察せずに枯死したと記録した。","explanation":"Instead of immediately recording that it had diedとあり、その即断を避けている。"},{"text":"元の記録と写真をすべて消した。","explanation":"以前の写真を確認し、古い項目も履歴として残している。"},{"text":"総数が変わらないよう別の木の写真に無断で差し替えた。","explanation":"写真の差し替えや総数の操作は述べていない。"}]},
+      {"prompt":"その木が元の場所になかった理由は何か。","correctIndex":0,"quote":"had been moved during repairs to a path","options":[{"text":"通路の補修中に別の場所へ移されていた。","explanation":"had been movedが過去の移動を示し、during repairsがその状況を説明する。"},{"text":"新メンバーの観察中に自然に移動した。","explanation":"観察より前に補修に伴って移されたのであり、木が自然に動いたのではない。"},{"text":"前年の調査で、その場所に木があると作り話をしていた。","explanation":"過去の写真があり、木の存在を捏造したとは述べていない。"},{"text":"園芸家がすべての成木を切り倒していた。","explanation":"対象の木は移された。成木全体の伐採についての記述はない。"}]},
+      {"prompt":"最後の段落が示す記録作成の教訓はどれか。","correctIndex":0,"quote":"separate what they had observed from the explanation they still needed to check","options":[{"text":"見た変化と、なお確認が必要な理由とを分け、変更の履歴も残すこと。","explanation":"位置の変化だけから枯死を推測せず、理由を確認して位置と履歴を更新したことを教訓にしている。"},{"text":"地図には常に総数だけを載せ、過去の情報は残さないこと。","explanation":"current totalだけでなくhistory of changesが必要だと述べている。"},{"text":"過去の写真があれば、関係者へ確認する必要はなくなること。","explanation":"写真の確認に加えて園芸家に尋ねており、どちらか一方で十分とはしていない。"},{"text":"観察で分からない理由は、最も印象的な説明で補うこと。","explanation":"理由を推測で埋めず、確認が必要な説明を区別するという結論に反する。"}]}
+    ]
+  }
+]

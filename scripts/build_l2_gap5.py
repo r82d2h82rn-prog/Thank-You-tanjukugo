@@ -1,4 +1,4 @@
-"""Compile authored Level 2 items 11–15; keep question and review text separate."""
+"""Compile authored Level 2 gap batches; keep question and review text separate."""
 import copy
 import hashlib
 import json
@@ -13,10 +13,10 @@ def digest(value):
     return hashlib.sha256(json.dumps(value, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
 
 
-def compile_batch():
-    originals = [p for p in json.loads((ROOT / 'content/readings/drafts.json').read_text()) if p['level'] == 2][10:15]
-    additions = json.loads((AUTHOR / 'l2-gap5-additions.json').read_text())
-    rows = iter(line.split('\t') for line in (AUTHOR / 'l2-gap5.tsv').read_text().splitlines() if line and not line.startswith('#'))
+def compile_batch(start=10, end=15, stem='l2-gap5'):
+    originals = [p for p in json.loads((ROOT / 'content/readings/drafts.json').read_text()) if p['level'] == 2][start:end]
+    additions = json.loads((AUTHOR / f'{stem}-additions.json').read_text())
+    rows = iter(line.split('\t') for line in (AUTHOR / f'{stem}.tsv').read_text().splitlines() if line and not line.startswith('#'))
     result = []
     for old, extra in zip(originals, additions, strict=True):
         assert old['id'] == extra['id']
@@ -101,14 +101,23 @@ def compile_batch():
 
 
 if __name__ == '__main__':
-    originals, batch = compile_batch()
-    path = ROOT / 'content/readings/enriched-level2-gap5.json'
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--batch', choices=['11-15', '16-20'], default='11-15')
+    args = parser.parse_args()
+    start, end, stem, output, base = {
+        '11-15': (10, 15, 'l2-gap5', 'enriched-level2-gap5', 'd4b18c1841488dbd596aacd2d9dc27d011cc0c56'),
+        '16-20': (15, 20, 'l2-gap-next5', 'enriched-level2-gap-next5', 'f3a873d311f3153493f2b34fd984d0a18c862694'),
+    }[args.batch]
+    originals, batch = compile_batch(start, end, stem)
+    path = ROOT / f'content/readings/{output}.json'
     if path.exists():
         assert json.loads(path.read_text()) == batch, 'Refuse a different saved revision'
     path.write_text(json.dumps(batch, ensure_ascii=False, indent=2)+'\n')
-    manifest = {'batch':'l2-items11-15-v2', 'baseCommit':'d4b18c1841488dbd596aacd2d9dc27d011cc0c56', 'humanReviewed':0,
+    manifest = {'batch':f'l2-items{args.batch}-v2', 'baseCommit':base, 'humanReviewed':0,
         'passages':[{'id':p['id'],'words':p['wordCount'],'reviewWords':p['reviewWordCount'],
             'paragraphs':len(p['paragraphs']),'questions':len(p['questions']),'sentences':len(p['sentences']),
             'translationCoverage':1,'syntaxCoverage':1,'originalDigest':digest(old)} for old,p in zip(originals,batch)]}
-    (ROOT / 'analysis/reading_l2_gap5_batch.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
+    manifest_name = 'reading_l2_gap5_batch' if args.batch == '11-15' else 'reading_l2_gap_next5_batch'
+    (ROOT / f'analysis/{manifest_name}.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(manifest,ensure_ascii=False))
