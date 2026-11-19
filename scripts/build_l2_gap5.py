@@ -147,7 +147,7 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40', '41-45', '46-50', '51-55'], default='11-15')
+    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40', '41-45', '46-50', '51-55', '56-60'], default='11-15')
     args = parser.parse_args()
     start, end, stem, output, base = {
         '11-15': (10, 15, 'l2-gap5', 'enriched-level2-gap5', 'd4b18c1841488dbd596aacd2d9dc27d011cc0c56'),
@@ -159,6 +159,7 @@ if __name__ == '__main__':
         '41-45': (40, 45, 'l2-reference5', 'enriched-level2-reference5', 'bc846e59a2faca7ad628b509bd24b1b534a6c91e'),
         '46-50': (45, 50, 'l2-reference-next5', 'enriched-level2-reference-next5', 'e32d3e594ac9e0a380bbc27408b89837072de223'),
         '51-55': (50, 55, 'l2-inference5', 'enriched-level2-inference5', 'e32d3e594ac9e0a380bbc27408b89837072de223'),
+        '56-60': (55, 60, 'l2-inference-next5', 'enriched-level2-inference-next5', '42db8c36d5dfff02f23d5d1b228e47fa6a44387c'),
     }[args.batch]
     originals, batch = compile_batch(start, end, stem)
     path = ROOT / f'content/readings/{output}.json'
@@ -171,6 +172,6 @@ if __name__ == '__main__':
             'translationCoverage':1,'syntaxCoverage':1,'originalDigest':digest(old)} for old,p in zip(originals,batch)]}
     manifest_name = {'11-15': 'reading_l2_gap5_batch', '16-20': 'reading_l2_gap_next5_batch',
                      '21-25': 'reading_l2_sentence_gap5_batch', '26-30': 'reading_l2_sentence_gap_next5_batch',
-                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch', '41-45': 'reading_l2_reference5_batch', '46-50': 'reading_l2_reference_next5_batch', '51-55': 'reading_l2_inference5_batch'}[args.batch]
+                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch', '41-45': 'reading_l2_reference5_batch', '46-50': 'reading_l2_reference_next5_batch', '51-55': 'reading_l2_inference5_batch', '56-60': 'reading_l2_inference_next5_batch'}[args.batch]
     (ROOT / f'analysis/{manifest_name}.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(manifest,ensure_ascii=False))

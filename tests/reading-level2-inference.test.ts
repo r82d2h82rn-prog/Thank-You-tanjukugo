@@ -2,6 +2,7 @@ import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import legacy from '../content/readings/drafts.json';
 import firstBatch from '../content/readings/enriched-level2-inference5.json';
+import nextBatch from '../content/readings/enriched-level2-inference-next5.json';
 import {readingCatalog} from '../src/readingCatalog';
 import {readingRevisions} from '../src/readingRevisions';
 import {sentenceRanges} from '../src/readingSentences';
@@ -10,6 +11,7 @@ import {emptyState,decodeState} from '../src/model';
 
 for(const {batch,start,end,sentences,questionCounts} of [
  {batch:firstBatch,start:50,end:55,sentences:100,questionCounts:[5,7,6,5,6]},
+ {batch:nextBatch,start:55,end:60,sentences:99,questionCounts:[6,5,7,6,5]},
 ]) {
 test(`Level 2 inference readings ${start+1}–${end} retain original questions and align every unaltered sentence without gap substitution`,()=>{
  const originals=legacy.filter(p=>p.level===2).slice(start,end);
