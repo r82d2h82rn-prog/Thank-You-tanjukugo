@@ -98,12 +98,27 @@ def validate_reading(p):
     if p.get('reviewParagraphs') is not None:
         review=p['reviewParagraphs'];syntax_paragraphs={x['id']:x for x in review}
         if len(review)!=len(paragraphs) or set(syntax_paragraphs)!=set(paragraphs):errors.append('review paragraph IDs differ')
+        insertion=p.get('insertionSolution')
+        if p['format']==7:
+            if not isinstance(insertion,dict):
+                errors.append('insertion solution missing');insertion=None
+            else:
+                marker=insertion.get('marker','');sentence=insertion.get('sentence','')
+                question=next((q for q in p['questions'] if q['id']==insertion.get('questionId')),None)
+                if not question or not any(o['id']==question['correctOptionId'] and o['text']==marker for o in question['options']):errors.append('insertion solution not equal to correct option')
+                if not re.fullmatch(r'\[[A-D]\]',marker) or not sentence or sentence!=p.get('insert',{}).get('sentence'):errors.append('insertion marker/sentence invalid')
+                if sorted(re.findall(r'\[[A-D]\]',' '.join(x['english'] for x in paragraphs.values())))!=['[A]','[B]','[C]','[D]']:errors.append('insertion source markers invalid')
+                target=paragraphs.get(insertion.get('paragraphId'),{}).get('english','')
+                if not marker or target.count(marker)!=1:errors.append('insertion source paragraph invalid')
+                if p.get('gapSolutions'):errors.append('insertion and gap solutions conflict')
         for pid,para in paragraphs.items():
             completed=para['english']
             for token,value in p.get('gapSolutions',{}).items():
                 q=next((q for q in p['questions'] if q['id']==value.get('questionId')),None)
                 if not q or not any(o['id']==q['correctOptionId'] and o['text']==value.get('answer') for o in q['options']):errors.append('gap solution not equal to correct option')
                 completed=completed.replace(token,value.get('answer',''))
+            if p['format']==7 and insertion:
+                completed=re.sub(r'\[[A-D]\]',lambda m:insertion.get('sentence','') if m.group()==insertion.get('marker') else '',completed)
             if syntax_paragraphs.get(pid,{}).get('english')!=completed:errors.append('review completion differs from original and solutions')
     if not p['syntax']: errors.append('syntax missing')
     for syntax in p['syntax']:
@@ -162,15 +177,13 @@ def audit(root=ROOT, release=False):
     reading_drafts=read_json(reading_path) if reading_path.exists() else []
     advanced_path=root/'content/readings/advanced.json'
     if advanced_path.exists(): reading_drafts+=read_json(advanced_path)
-    enriched_path=root/'content/readings/enriched.json'
-    if enriched_path.exists():
-        replacements={p['id']:p for p in read_json(enriched_path)}
-        level3_path=root/'content/readings/enriched-level3.json'
-        if level3_path.exists(): replacements.update({p['id']:p for p in read_json(level3_path)})
-        level4_path=root/'content/readings/enriched-level4.json'
-        if level4_path.exists(): replacements.update({p['id']:p for p in read_json(level4_path)})
-        for next_path in sorted((root/'content/readings').glob('enriched-level*-next5.json')):
-            replacements.update({p['id']:p for p in read_json(next_path)})
+    revision_paths=sorted((root/'content/readings').glob('enriched*.json'))
+    if revision_paths:
+        replacements={}
+        for revision_path in revision_paths:
+            for replacement in read_json(revision_path):
+                if replacement['id'] in replacements:issues.append({'id':replacement['id'],'error':'duplicate reading revision'})
+                replacements[replacement['id']]=replacement
         for original in reading_drafts:
             replacement=replacements.get(original['id'])
             if replacement and replacement['questions'][:len(original['questions'])]!=original['questions']: issues.append({'id':original['id'],'error':'original question identity changed'})

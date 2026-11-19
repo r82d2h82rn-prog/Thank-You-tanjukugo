@@ -1,6 +1,6 @@
 import contextlib, csv, hashlib, io, json, pathlib, sys, tempfile, unittest
 sys.path.insert(0,str(pathlib.Path(__file__).resolve().parents[1]/'scripts'))
-from content_pipeline import audit, import_candidates, validate_reading, validate_provenance, validate_entry, write_json, write_csv, read_csv
+from content_pipeline import audit, import_candidates, validate_reading, validate_provenance, validate_entry, write_json, write_csv, read_csv, read_json
 from analyze_corpus import analyze, phrase_hits, tokens
 from import_official_lists import parse_list, ingest
 from import_authored_words import ingest as ingest_authored
@@ -138,4 +138,36 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(validate_reading(passage),[])
         passage['syntax'][0]['spans'][0]['end']=4; self.assertIn('syntax offsets invalid',validate_reading(passage))
         passage['questions'][0]['correctOptionId']='not-real'; self.assertIn('reading options/answer/explanations invalid',validate_reading(passage))
+    def test_insertion_review_checks_answer_position_and_rejects_missing_or_corrupt_completion(self):
+        import copy
+        project=pathlib.Path(__file__).resolve().parents[1]
+        for name in ['enriched-level2-insert5.json','enriched-level2-insert-next5.json']:
+            for passage in read_json(project/'content/readings'/name):
+                self.assertEqual(validate_reading(passage),[])
+                bad=copy.deepcopy(passage);bad.pop('insertionSolution')
+                self.assertIn('insertion solution missing',validate_reading(bad))
+                bad=copy.deepcopy(passage);bad['insertionSolution']['marker']='[Z]'
+                self.assertIn('insertion solution not equal to correct option',validate_reading(bad))
+                bad=copy.deepcopy(passage);bad['insertionSolution']['paragraphId']='not-real'
+                self.assertIn('insertion source paragraph invalid',validate_reading(bad))
+                bad=copy.deepcopy(passage)
+                target=next(p for p in bad['reviewParagraphs'] if p['id']==bad['insertionSolution']['paragraphId'])
+                target['english']=target['english'].replace(bad['insert']['sentence'],'')
+                self.assertIn('review completion differs from original and solutions',validate_reading(bad))
+
+    def test_audit_loads_revisions_without_next5_name_or_base_overlay(self):
+        project=pathlib.Path(__file__).resolve().parents[1]
+        original=next(p for p in read_json(project/'content/readings/drafts.json') if p['id']=='reading-l2-f07-01')
+        revision=read_json(project/'content/readings/enriched-level2-insert5.json')[0]
+        write_json(self.root/'content/sources.json',read_json(project/'content/sources.json'))
+        write_json(self.root/'content/readings/drafts.json',[original])
+        path=self.root/'content/readings/enriched-level2-insert5.json'
+        write_json(path,[revision])
+        with contextlib.redirect_stdout(io.StringIO()):self.assertTrue(audit(self.root))
+        revision['insertionSolution']['marker']='[A]'
+        write_json(path,[revision])
+        with contextlib.redirect_stdout(io.StringIO()):self.assertFalse(audit(self.root))
+        report=read_json(self.root/'analysis/content_audit.json')
+        self.assertTrue(any(x['error']=='insertion solution not equal to correct option' for x in report['issues']))
+
 if __name__=='__main__': unittest.main()

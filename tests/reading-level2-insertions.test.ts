@@ -1,7 +1,8 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import legacy from '../content/readings/drafts.json';
-import batch from '../content/readings/enriched-level2-insert5.json';
+import firstBatch from '../content/readings/enriched-level2-insert5.json';
+import nextBatch from '../content/readings/enriched-level2-insert-next5.json';
 import {readingCatalog} from '../src/readingCatalog';
 import {readingRevisions} from '../src/readingRevisions';
 import {sentenceRanges} from '../src/readingSentences';
@@ -10,11 +11,15 @@ import {emptyState,decodeState} from '../src/model';
 
 const words=(text:string)=>(text.replace(/\[[A-D]\]/g,'').match(/[A-Za-z]+(?:['-][A-Za-z]+)*/g)??[]).length;
 
-test('Level 2 items 61–65 keep original insertion questions and reveal the completed reading only after submission',()=>{
- const originals=legacy.filter(p=>p.level===2).slice(60,65);
+for(const {batch,start,end,sentences,questionCounts} of [
+ {batch:firstBatch,start:60,end:65,sentences:106,questionCounts:[5,6,7,5,6]},
+ {batch:nextBatch,start:65,end:70,sentences:109,questionCounts:[6,5,6,7,5]},
+]) {
+test(`Level 2 items ${start+1}–${end} keep original insertion questions and reveal the completed reading only after submission`,()=>{
+ const originals=legacy.filter(p=>p.level===2).slice(start,end);
  assert.deepEqual(batch.map(p=>p.id),originals.map(p=>p.id));
- assert.deepEqual(batch.map(p=>p.questions.length),[5,6,7,5,6]);
- assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),106);
+ assert.deepEqual(batch.map(p=>p.questions.length),questionCounts);
+ assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),sentences);
  assert.equal(new Set(readingRevisions.map(p=>p.id)).size,readingRevisions.length);
  for(const [i,p] of batch.entries()){
   const old=originals[i],marker=old.questions[0].options.find(o=>o.id===old.questions[0].correctOptionId)!.text;
@@ -53,7 +58,7 @@ test('Level 2 items 61–65 keep original insertion questions and reveal the com
  }
 });
 
-test('insertion source coordinates cover every original text character once and map the inserted sentence to its answer marker',()=>{
+test(`insertion ${start+1}–${end} source coordinates cover every original text character once and map the inserted sentence to its answer marker`,()=>{
  for(const p of batch){
   const inserted=p.sentences.filter(s=>s.sourceKind==='insertion');assert.equal(inserted.length,1);
   assert.equal(inserted[0].english,p.insert.sentence);assert.equal(inserted[0].translation,p.insert.translation);
@@ -80,7 +85,7 @@ test('insertion source coordinates cover every original text character once and 
  }
 });
 
-test('insertion revision choices grade independently while older three-question attempts retain their saved scores',()=>{
+test(`insertion ${start+1}–${end} revision choices grade independently while older three-question attempts retain their saved scores`,()=>{
  for(const p of batch){
   const old=legacy.find(x=>x.id===p.id)!,right=Object.fromEntries(p.questions.map(q=>[q.id,q.correctOptionId]));
   for(const q of p.questions){
@@ -94,3 +99,5 @@ test('insertion revision choices grade independently while older three-question 
   assert.deepEqual(decodeState(JSON.stringify(state)),state);
  }
 });
+
+}
