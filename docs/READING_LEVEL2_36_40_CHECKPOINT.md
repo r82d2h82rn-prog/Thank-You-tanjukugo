@@ -30,4 +30,8 @@ LEVEL2は100題中40題740文を全英文補完。全LEVEL累計75題1498文（L
 
 利用者の「次」「デプロイも」に従い、先行31〜35の完成分と今回36〜40を同じGitHubのmainへ保存し、Git連携のVercel本番デプロイを行う。対象はr82d2h82rn-prog/Thank-You-tanjukugo、Vercelはyukitoshis-projects-2c28f209/tanjukugo。公開成功は新コミットのDeployment has completedステータスで確認する。未関連のanalysis/selection_decisions.jsonは含めない。
 
-次はLEVEL2の41〜45題（reading-l2-f05-01〜05、内容一致）。元の本文と設問を保持して続行する。
+次はLEVEL2の41〜45題（reading-l2-f05-01〜05、指示語）。元の本文と設問を保持して続行する。
+
+### 公開成功確認
+
+2026-11-19、mainコミットbc846e59a2faca7ad628b509bd24b1b534a6c91eのVercelステータスsuccess・Deployment has completedを確認。31〜40題目は公開反映済み。ローカルとリモートの対象16ファイルすべてのblob SHA一致を確認。デプロイ確認先：https://vercel.com/yukitoshis-projects-2c28f209/tanjukugo/G8wmJpfEs2oE8erF6qF4rVtDU8Gq。実機画面操作の確認とは区別する。

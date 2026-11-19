@@ -142,7 +142,7 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40'], default='11-15')
+    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40', '41-45'], default='11-15')
     args = parser.parse_args()
     start, end, stem, output, base = {
         '11-15': (10, 15, 'l2-gap5', 'enriched-level2-gap5', 'd4b18c1841488dbd596aacd2d9dc27d011cc0c56'),
@@ -151,6 +151,7 @@ if __name__ == '__main__':
         '26-30': (25, 30, 'l2-sentence-gap-next5', 'enriched-level2-sentence-gap-next5', '115332f356a14e255836a7165549c42c68de95c7'),
         '31-35': (30, 35, 'l2-title5', 'enriched-level2-title5', '784acd951bd9bcd06c9837574b9ac5fcc8dac4e5'),
         '36-40': (35, 40, 'l2-title-next5', 'enriched-level2-title-next5', '784acd951bd9bcd06c9837574b9ac5fcc8dac4e5'),
+        '41-45': (40, 45, 'l2-reference5', 'enriched-level2-reference5', 'bc846e59a2faca7ad628b509bd24b1b534a6c91e'),
     }[args.batch]
     originals, batch = compile_batch(start, end, stem)
     path = ROOT / f'content/readings/{output}.json'
@@ -163,6 +164,6 @@ if __name__ == '__main__':
             'translationCoverage':1,'syntaxCoverage':1,'originalDigest':digest(old)} for old,p in zip(originals,batch)]}
     manifest_name = {'11-15': 'reading_l2_gap5_batch', '16-20': 'reading_l2_gap_next5_batch',
                      '21-25': 'reading_l2_sentence_gap5_batch', '26-30': 'reading_l2_sentence_gap_next5_batch',
-                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch'}[args.batch]
+                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch', '41-45': 'reading_l2_reference5_batch'}[args.batch]
     (ROOT / f'analysis/{manifest_name}.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(manifest,ensure_ascii=False))

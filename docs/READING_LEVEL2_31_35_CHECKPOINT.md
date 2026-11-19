@@ -43,3 +43,7 @@ GitHubの最初のblob保存は、自動承認審査により「短い継続指�
 ### 公開処理再開
 
 2026-11-19に利用者から「次」「デプロイも」の明示指示を受領。36〜40題と合わせ、同じGitHubリポジトリmainへの保存とVercel本番反映を再開する。過去の保留記録は当時の状態であり、今回の成否は新コミットのVercelステータスで確認する。
+
+### 公開成功確認
+
+2026-11-19、mainコミットbc846e59a2faca7ad628b509bd24b1b534a6c91eのVercelステータスsuccess・Deployment has completedを確認。31〜40題目は公開反映済み。ローカルとリモートの対象16ファイルすべてのblob SHA一致を確認。デプロイ確認先：https://vercel.com/yukitoshis-projects-2c28f209/tanjukugo/G8wmJpfEs2oE8erF6qF4rVtDU8Gq。実機画面操作の確認とは区別する。
