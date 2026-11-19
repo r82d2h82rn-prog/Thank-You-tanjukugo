@@ -4,6 +4,8 @@ export function sentenceRanges(paragraphId:string,text:string):SentenceRange[] {
  const abbr=/\b(?:Mr|Mrs|Ms|Dr|Prof|Sr|Jr|St|vs|etc|e\.g|i\.e)\.$/i;
  for(let i=0;i<text.length;i++){
   if(!/[.!?]/.test(text[i]))continue;
+  // A question quoted as the A in "from A to B" does not end the outer sentence.
+  if(text[i]==='?'&&/\bfrom\s+(?:Which|What|Who|Where|When|Why|How)\b[^.!?]*\?$/.test(text.slice(start,i+1))&&/^\s+to\s+(?:Which|What|Who|Where|When|Why|How)\b/.test(text.slice(i+1)))continue;
   if(text[i]==='.'&&(/\d/.test(text[i-1]??'')&&/\d/.test(text[i+1]??'')))continue;
   if(text[i]==='.'&&(abbr.test(text.slice(start,i+1))||/\b[A-Z]\.$/.test(text.slice(start,i+1))))continue;
   let end=i+1;while(/["'”’)]/.test(text[end]??'')&&end<text.length)end++;

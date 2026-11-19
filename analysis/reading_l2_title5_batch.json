@@ -1,0 +1,62 @@
+{
+  "batch": "l2-items31-35-v2",
+  "baseCommit": "784acd951bd9bcd06c9837574b9ac5fcc8dac4e5",
+  "humanReviewed": 0,
+  "passages": [
+    {
+      "id": "reading-l2-f04-01",
+      "words": 271,
+      "reviewWords": 271,
+      "paragraphs": 4,
+      "questions": 5,
+      "sentences": 17,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "e059ff5c56eff9fab71b0f07d378d7013300b869a901b83c6eb9465b11b183ea"
+    },
+    {
+      "id": "reading-l2-f04-02",
+      "words": 276,
+      "reviewWords": 276,
+      "paragraphs": 5,
+      "questions": 6,
+      "sentences": 18,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "cdde2c1cc4ddd81519f19cc101d981c18a48404e7beca0c5bd6f116f65b5feae"
+    },
+    {
+      "id": "reading-l2-f04-03",
+      "words": 264,
+      "reviewWords": 264,
+      "paragraphs": 4,
+      "questions": 5,
+      "sentences": 19,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "32e23b6a96499d15099c3853506a9912dc90c6714329065be07df68dbb6a79db"
+    },
+    {
+      "id": "reading-l2-f04-04",
+      "words": 271,
+      "reviewWords": 271,
+      "paragraphs": 5,
+      "questions": 7,
+      "sentences": 20,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "038bb24f998879b7f5dff5805d07c671bb822cecfc8df3beb4405cd562974bcb"
+    },
+    {
+      "id": "reading-l2-f04-05",
+      "words": 264,
+      "reviewWords": 264,
+      "paragraphs": 4,
+      "questions": 6,
+      "sentences": 18,
+      "translationCoverage": 1,
+      "syntaxCoverage": 1,
+      "originalDigest": "22d8539d473c412e671d3401d7faecfbfbf36e01697fad2e753ab84a52361e26"
+    }
+  ]
+}

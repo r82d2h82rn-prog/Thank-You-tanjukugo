@@ -13,6 +13,21 @@ def digest(value):
     return hashlib.sha256(json.dumps(value, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
 
 
+def sentence_matches(text):
+    matches = list(re.finditer(r'\S.*?(?:[.!?](?=\s|$)|$)', text))
+    result, i = [], 0
+    while i < len(matches):
+        m = matches[i]
+        if (i + 1 < len(matches)
+                and re.search(r'\bfrom\s+(?:Which|What|Who|Where|When|Why|How)\b[^.!?]*\?$', m.group())
+                and re.match(r'to\s+(?:Which|What|Who|Where|When|Why|How)\b', matches[i+1].group())):
+            m = re.compile(r'\S[\s\S]*').match(text, m.start(), matches[i+1].end())
+            i += 1
+        result.append(m)
+        i += 1
+    return result
+
+
 def compile_batch(start=10, end=15, stem='l2-gap5'):
     originals = [p for p in json.loads((ROOT / 'content/readings/drafts.json').read_text()) if p['level'] == 2][start:end]
     additions = json.loads((AUTHOR / f'{stem}-additions.json').read_text())
@@ -28,14 +43,16 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
         for english in extra['paragraphs']:
             p['paragraphs'].append({'id': f"p{len(p['paragraphs']) + 1}", 'english': english, 'translation': ''})
         answer = next(o['text'] for o in old['questions'][0]['options'] if o['id'] == old['questions'][0]['correctOptionId'])
-        assert sum(x['english'].count('[1]') for x in p['paragraphs']) == 1
-        p['gapSolutions'] = {'[1]': {'questionId': 'q1', 'answer': answer}}
-        p['reviewParagraphs'] = copy.deepcopy(p['paragraphs'])
-        p['syntaxOffsetBasis'] = 'reviewParagraphs'
-        for source, para in zip(p['paragraphs'], p['reviewParagraphs'], strict=True):
+        has_gap = p['format'] in (2, 3)
+        assert sum(x['english'].count('[1]') for x in p['paragraphs']) == int(has_gap)
+        if has_gap:
+            p['gapSolutions'] = {'[1]': {'questionId': 'q1', 'answer': answer}}
+            p['reviewParagraphs'] = copy.deepcopy(p['paragraphs'])
+        review_paragraphs = p['reviewParagraphs'] if has_gap else p['paragraphs']
+        p['syntaxOffsetBasis'] = 'reviewParagraphs' if has_gap else 'paragraphs'
+        for source, para in zip(p['paragraphs'], review_paragraphs, strict=True):
             para['english'] = source['english'].replace('[1]', answer)
-            pattern = r'\S.*?(?:[.!?](?=\s|$)|$)'
-            sources, matches = list(re.finditer(pattern, source['english'])), list(re.finditer(pattern, para['english']))
+            sources, matches = sentence_matches(source['english']), sentence_matches(para['english'])
             translations = []
             sentence_gap = p['format'] == 3
             if not sentence_gap:
@@ -89,7 +106,7 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
                     'translation': jp, 'explanation': explanation, 'spans': spans, 'relations': relations,
                     'skeleton': ' / '.join(s['role']+': '+s['text'] for s in spans if s['role'] in ('S','V','O','C')),
                     'grammarPoints': [note], 'readingOrder': '主節のSとVを先に押さえ、解説に沿って句節の働きと修飾先、対比・否定の範囲を確認し、全文訳と照合する。',
-                    'reviewStatus': 'ai_author_checked_human_pending', 'offsetBasis': 'reviewParagraphs'}
+                    'reviewStatus': 'ai_author_checked_human_pending', 'offsetBasis': p['syntaxOffsetBasis']}
                 p['syntax'].append(syntax)
                 p['sentences'].append({'id': sid, 'paragraphId': para['id'], 'english': en, 'translation': jp,
                     'start': m.start(), 'end': m.end(), 'sourceEnglish': source_english, 'sourceStart': source_start,
@@ -108,7 +125,7 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
                 'explanation': q['options'][q['correctIndex']]['explanation'],
                 'evidence': {'paragraphId': next(x['id'] for x in p['paragraphs'] if q['quote'] in x['english']), 'quote': q['quote']}})
         words = lambda paras: len(re.findall(r"[A-Za-z]+(?:['-][A-Za-z]+)*", ' '.join(x['english'] for x in paras)))
-        p['wordCount'], p['reviewWordCount'] = words(p['paragraphs']), words(p['reviewParagraphs'])
+        p['wordCount'], p['reviewWordCount'] = words(p['paragraphs']), words(review_paragraphs)
         p['recommendedSeconds'] = round(p['reviewWordCount']*1.3/15)*15
         p['difficulty'] = {'scores': {'vocabulary':2,'syntax':2,'logic':2,'questions':2},
             'method':'AI rubric: 1=高校入試、2=大学受験基礎、3=標準〜難関、4=難関、5=最難関',
@@ -125,13 +142,15 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30'], default='11-15')
+    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40'], default='11-15')
     args = parser.parse_args()
     start, end, stem, output, base = {
         '11-15': (10, 15, 'l2-gap5', 'enriched-level2-gap5', 'd4b18c1841488dbd596aacd2d9dc27d011cc0c56'),
         '16-20': (15, 20, 'l2-gap-next5', 'enriched-level2-gap-next5', 'f3a873d311f3153493f2b34fd984d0a18c862694'),
         '21-25': (20, 25, 'l2-sentence-gap5', 'enriched-level2-sentence-gap5', '1d69f03c4b842a8e94eda305a22ab6a3625667ec'),
         '26-30': (25, 30, 'l2-sentence-gap-next5', 'enriched-level2-sentence-gap-next5', '115332f356a14e255836a7165549c42c68de95c7'),
+        '31-35': (30, 35, 'l2-title5', 'enriched-level2-title5', '784acd951bd9bcd06c9837574b9ac5fcc8dac4e5'),
+        '36-40': (35, 40, 'l2-title-next5', 'enriched-level2-title-next5', '784acd951bd9bcd06c9837574b9ac5fcc8dac4e5'),
     }[args.batch]
     originals, batch = compile_batch(start, end, stem)
     path = ROOT / f'content/readings/{output}.json'
@@ -143,6 +162,7 @@ if __name__ == '__main__':
             'paragraphs':len(p['paragraphs']),'questions':len(p['questions']),'sentences':len(p['sentences']),
             'translationCoverage':1,'syntaxCoverage':1,'originalDigest':digest(old)} for old,p in zip(originals,batch)]}
     manifest_name = {'11-15': 'reading_l2_gap5_batch', '16-20': 'reading_l2_gap_next5_batch',
-                     '21-25': 'reading_l2_sentence_gap5_batch', '26-30': 'reading_l2_sentence_gap_next5_batch'}[args.batch]
+                     '21-25': 'reading_l2_sentence_gap5_batch', '26-30': 'reading_l2_sentence_gap_next5_batch',
+                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch'}[args.batch]
     (ROOT / f'analysis/{manifest_name}.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(manifest,ensure_ascii=False))

@@ -1,0 +1,51 @@
+[
+  {
+    "id":"reading-l2-f04-01",
+    "paragraphs":["For the next display, the organizers noted the time and viewpoint of each image. They noticed that several photographs repeated the same corner, while another entrance appeared in none. They invited people who used that entrance to describe their routines, even if they had no photograph to offer. These accounts were shown beside the images, with their different sources made clear. The number of pictures was therefore not the only sign of progress. The collection became more informative when people could see which experiences it included and which it still left open."],
+    "rationale":"主題の適用範囲、関係節、譲歩節、間接疑問を読み、複数の視点と不足の明示を理解する。",
+    "questions":[
+      {"prompt":"次の展示を準備する際、写真の収集にどのような偏りが見つかったか。","correctIndex":0,"quote":"several photographs repeated the same corner, while another entrance appeared in none","options":[{"text":"同じ角を写した写真が複数ある一方、別の入口は一枚にも写っていなかった。","explanation":"写真の多さだけでなく、撮影された場所の偏りを点検した。"},{"text":"すべての入口を同じ回数ずつ撮影できていた。","explanation":"一度も写っていない入口があったと述べる。"},{"text":"写真はすべて同じ時刻に撮られていたと確定した。","explanation":"同じ角への偏りは述べるが、すべて同時刻とは述べていない。"},{"text":"写真以外の説明はすべて展示から排除された。","explanation":"撮影されていない入口を使う人の説明も展示した。"}]},
+      {"prompt":"最後の段落から分かる、この企画の改善の考え方はどれか。","correctIndex":0,"quote":"which experiences it included and which it still left open","options":[{"text":"写真の枚数だけでなく、含まれる体験とまだ捉えていない体験を見えるようにする。","explanation":"数を唯一の進歩の尺度とせず、収録範囲と不足を明らかにすることで情報が豊かになった。"},{"text":"写真を持っていない人の説明には価値がないとする。","explanation":"写真がなくても普段の使い方を説明してもらった。"},{"text":"一枚の最も本物らしい写真を決め、残りを捨てる。","explanation":"複数の部分的な視点を重ねるという主題に反する。"},{"text":"不足が見つかったら、それを示さずに展示を完成扱いにする。","explanation":"まだ示せていない範囲も見えるようにする方針である。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f04-02",
+    "paragraphs":["For later projects, the designer kept brief dated notes at the moments when her plan changed. She recorded what evidence had challenged an idea and why she chose a different approach. These notes did not mean that every rough sketch belonged in the final portfolio.","When preparing a new presentation, she selected examples that explained an important decision and kept the finished result beside them. A reader could then connect a problem, a change, and its outcome. The aim was to make judgment visible, rather than to suggest that uncertainty alone was proof of good design."],
+    "rationale":"関係副詞、間接疑問、形式目的語、比較を読み、完成品と選択した制作過程の両立を理解する。",
+    "questions":[
+      {"prompt":"後の企画で、その都度メモした内容は何か。","correctIndex":0,"quote":"what evidence had challenged an idea and why she chose a different approach","options":[{"text":"案を見直すきっかけになった証拠と、別の方法を選んだ理由。","explanation":"見た目の変化だけでなく、判断につながった証拠と理由を記録した。"},{"text":"面接後に思いついた架空の経緯だけ。","explanation":"計画を変えた時点で日付付きの記録を残すのであり、後から過程を創作するのではない。"},{"text":"すべての下絵を必ず公開するという約束。","explanation":"全下絵を作品集に載せる必要はないと述べている。"},{"text":"完成品を保存しないと決めた理由だけ。","explanation":"選んだ過程の例とともに完成品も残している。"}]},
+      {"prompt":"新しい発表に載せる過程の例は、どのように選んだか。","correctIndex":0,"quote":"examples that explained an important decision","options":[{"text":"重要な判断を説明する例を選び、完成結果と並べた。","explanation":"過程を無差別に全部見せるのでなく、判断を追える例を結果と組み合わせた。"},{"text":"不確かさのある下絵だけを選び、完成品は隠した。","explanation":"完成結果もその横に残したと明記されている。"},{"text":"見た目が似ているだけで、判断と無関係な資料を集めた。","explanation":"選定基準は重要な判断を説明できることである。"},{"text":"読者が問題と結果を結びつけられない例を優先した。","explanation":"問題・変更・結果のつながりを読めるようにした。"}]},
+      {"prompt":"最後の段落が避けようとしている誤解はどれか。","correctIndex":0,"quote":"uncertainty alone was proof of good design","options":[{"text":"迷っていたという事実だけで、よい設計だと証明できるという誤解。","explanation":"重視するのは判断の見える化であり、不確かさ自体をよい設計の保証とはしない。"},{"text":"完成した見た目が技能を示すこともあるという理解。","explanation":"完成品が技能を示す価値は本文でも認められている。"},{"text":"重要な変更の理由を説明すれば思考を追いやすいという理解。","explanation":"これは企画で実現しようとした価値そのものである。"},{"text":"完成品と選んだ改訂例の両方が役立つという理解。","explanation":"結果と過程の両立が全体の主題である。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f04-03",
+    "paragraphs":["In a later check, staff asked volunteers to find a departure from several common approaches to the entrance. They noted whether people could identify the platform before reaching the screen, not just whether they liked its appearance. One position was still difficult when another sign blocked part of the view. Staff adjusted the arrangement and checked again. A successful test from one clear position was not enough. The board had to remain useful from the places where passengers would actually look, including when the entrance became crowded again."],
+    "rationale":"使役、関係節、間接疑問、比較を読み、見栄えの評価と具体的な利用課題の評価を区別する。",
+    "questions":[
+      {"prompt":"後の確認で、ボランティアに求めた課題は何か。","correctIndex":0,"quote":"find a departure from several common approaches to the entrance","options":[{"text":"入口へ向かう複数のよく使われる経路から、出発便を見つけること。","explanation":"実際に人が近づく位置を変え、必要な便の情報を見つけられるか確かめた。"},{"text":"無人の広いホールから写真の美しさだけを採点すること。","explanation":"見た目だけではなく、実際の経路から便や番線を確認する課題である。"},{"text":"すべての案内を読まずに暗記で答えること。","explanation":"暗記を試したという記述はない。"},{"text":"列車の本数をすべて減らす計画を作ること。","explanation":"運行本数ではなく案内表示の使いやすさを調べている。"}]},
+      {"prompt":"一か所で確認に成功するだけでは不十分だった理由として、本文に合うものはどれか。","correctIndex":0,"quote":"another sign blocked part of the view","options":[{"text":"別の位置では案内の一部が他の表示に遮られ、混雑時の見え方も異なりうるため。","explanation":"一つの見通しのよい位置の成功を、すべての実使用位置へ一般化しない。"},{"text":"ボランティア全員が画面を嫌っていたため。","explanation":"全員の好みを問題にしているのではなく、見える位置や遮蔽物の差を確認している。"},{"text":"写真を別の場所へ移していなかったため。","explanation":"写真はすでに別の場所に移した。それでも残る見え方の問題があった。"},{"text":"すべての列車の番線が同じだったため。","explanation":"番線がすべて同じという記述はない。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f04-04",
+    "paragraphs":["For the next collection, the students agreed to check the center's request before asking others to donate. The coordinator marked the list with a date, because useful materials and available storage could change. A book that was suitable once might not be needed again.","After delivery, the students asked which materials had actually been used and which remained difficult to use. They did not treat polite thanks as a complete evaluation. The answers helped them plan a smaller, more focused collection next time. Support became a continuing conversation about the receiver's work, rather than a single impressive delivery."],
+    "rationale":"関係節、間接疑問、受動態、動名詞を読み、支援の量と受け手の継続的な必要を区別する。",
+    "questions":[
+      {"prompt":"次に寄付を募る際、ほかの人に寄付を呼びかける前に何をすることにしたか。","correctIndex":0,"quote":"check the center's request before asking others to donate","options":[{"text":"センターが必要としているものを確認する。","explanation":"先に集めてから押し付けるのでなく、依頼内容を確かめて募集する順序にした。"},{"text":"最も大きな本の山を必ず作ると約束する。","explanation":"量だけでなく相手の必要に合うことを重視する。"},{"text":"受け手が意見を言えないようにする。","explanation":"センターとの継続的な対話を大切にする方針に反する。"},{"text":"使い道を聞かず古い教科書をすべて発送する。","explanation":"もとの方法を反省し、依頼を確認するよう変えた。"}]},
+      {"prompt":"希望資料の一覧に日付を付けた理由は何か。","correctIndex":0,"quote":"useful materials and available storage could change","options":[{"text":"必要な資料や使える保管場所は変わる可能性があるため。","explanation":"一度適していた資料が次も必要とは限らず、依頼の時点を分かるようにした。"},{"text":"日付を付けるだけで、すべての寄付が必ず役立つため。","explanation":"日付は確認の手掛かりであり、全寄付の有用性を保証しない。"},{"text":"寄付を受け付ける日を永久に一日に固定するため。","explanation":"永久の受付日の指定ではなく、必要や保管条件の変化への対応である。"},{"text":"一度買った本は二度と使えないため。","explanation":"必要が変わる可能性を述べており、同じ本の再利用を一律に否定していない。"}]},
+      {"prompt":"配達後に尋ねたことは何か。","correctIndex":0,"quote":"which materials had actually been used and which remained difficult to use","options":[{"text":"実際に使われた資料と、まだ使いにくかった資料。","explanation":"届けた量だけでなく、受け手の現場での利用状況を確かめた。"},{"text":"送り手を褒める言葉だけ。","explanation":"丁寧なお礼を完全な評価とはみなさず、使われ方を尋ねた。"},{"text":"センターにすべての本を捨てさせる方法。","explanation":"資料をどう活用できたかの確認であり、全廃棄の要求ではない。"},{"text":"学生が寄付の山を撮った写真の枚数だけ。","explanation":"写真の枚数ではなく、資料の利用状況を調べている。"}]},
+      {"prompt":"最後の段落で支援はどのようなものになったと述べているか。","correctIndex":0,"quote":"a continuing conversation about the receiver's work","options":[{"text":"一度の印象的な配達ではなく、受け手の仕事についての継続的な対話。","explanation":"利用状況の確認と次の計画を通じて、相手の実際の仕事に合わせる関係へ変わった。"},{"text":"感謝されれば、その後の状況を尋ねない活動。","explanation":"礼だけで評価を終わらせず、使い方を確認している。"},{"text":"大きい配達ほど必ず良いとする競争。","explanation":"次は小規模で焦点を絞った収集を計画している。"},{"text":"受け手の希望より送り手の見栄えを優先すること。","explanation":"受け手中心に支援を考えるという主題の逆である。"}]}
+    ]
+  },
+  {
+    "id":"reading-l2-f04-05",
+    "paragraphs":["They later separated questions that needed an answer before the next meeting from ideas that could develop more slowly. When a change was urgent, they explained the deadline and checked whether the other person could respond in time. An unread message did not become a promise of immediate action. They also added brief notes to the shared document when work was still in progress. This made their effort easier to recognize without requiring constant replies. The new arrangement depended less on guessing interest from silence and more on making expectations clear."],
+    "rationale":"関係節、間接疑問、使役、比較を読み、返信速度からの推測と明示した期待の違いを理解する。",
+    "questions":[
+      {"prompt":"後に、どのような問いや考えを分けて扱うようにしたか。","correctIndex":0,"quote":"questions that needed an answer before the next meeting from ideas that could develop more slowly","options":[{"text":"次の会議までに回答が必要な問いと、時間をかけて発展させられる考え。","explanation":"急ぎかどうか、いつまでに答えが必要かに応じて連絡の扱いを分けた。"},{"text":"相手の意見はすべて不要とする区別。","explanation":"共同作業を続け、期限と作業の状態を共有している。"},{"text":"すべての考えに一分以内の回答を義務付ける区別。","explanation":"ゆっくり発展させる考えも認め、常時の即答は求めていない。"},{"text":"歴史資料は読まず、通知だけを増やす区別。","explanation":"連絡の期待を明確にするのであり、資料を読む作業を否定していない。"}]},
+      {"prompt":"緊急の変更がある場合、二人は何をしたか。","correctIndex":0,"quote":"explained the deadline and checked whether the other person could respond in time","options":[{"text":"期限を説明し、相手が間に合うように応答できるか確認した。","explanation":"送っただけで即対応を約束したとみなさず、時間の条件を共有した。"},{"text":"未読でも送信直後から対応義務があると決めた。","explanation":"未読メッセージが即行動の約束になるわけではないと否定される。"},{"text":"相手の生活時間に関係なく催促だけを繰り返した。","explanation":"期限と対応可能性を確かめる方法へ変えた。"},{"text":"緊急の変更も一切知らせないことにした。","explanation":"緊急時の速い連絡には価値を認めている。"}]},
+      {"prompt":"作業途中の短いメモを共有文書に残すことには、どのような利点があったか。","correctIndex":0,"quote":"recognize without requiring constant replies","options":[{"text":"絶えず返信を求めなくても、作業していることを互いに把握しやすくなった。","explanation":"短い進捗メモで努力を見えるようにし、沈黙から関心を推測する必要を減らした。"},{"text":"時差や機器共有の制約が完全になくなった。","explanation":"条件そのものを消したのでなく、互いの期待と状態を伝えやすくした。"},{"text":"遅い返事は必ず不真面目だと証明できた。","explanation":"速さだけで関与を測るのをやめるという主題に反する。"},{"text":"会議や文書を使わず、全連絡を停止できた。","explanation":"定期確認と共有文書を使って共同作業を継続している。"}]}
+    ]
+  }
+]
