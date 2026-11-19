@@ -85,6 +85,17 @@ def validate_reading(p):
     if not 3<=len(p['questions'])<=10: errors.append('reading question count')
     paragraphs={x['id']:x for x in p['paragraphs']}
     if len(paragraphs)!=len(p['paragraphs']) or any(not x.get('english') or not x.get('translation') for x in p['paragraphs']): errors.append('paragraphs/translations invalid')
+    if p['format']==8:
+        order=p.get('paragraphOrder');continuation=p.get('continuationParagraphIds',[])
+        valid_order=isinstance(order,list) and len(order)==4 and all(isinstance(x,str) for x in order) and len(set(order))==4
+        valid_continuation=isinstance(continuation,list) and all(isinstance(x,str) for x in continuation)
+        if not valid_order or not valid_continuation:
+            errors.append('paragraph ordering IDs invalid')
+        else:
+            combined=order+continuation
+            if len(combined)!=len(paragraphs) or len(set(combined))!=len(combined) or set(combined)!=set(paragraphs):errors.append('paragraph order/continuation coverage invalid')
+            question=next((q for q in p['questions'] if q.get('id')=='q1'),None)
+            if not question or not any(o.get('id')==question.get('correctOptionId') and o.get('text')=='→'.join(x.removeprefix('p') for x in order) for o in question.get('options',[])):errors.append('paragraph order not equal to correct option')
     qids=set()
     for q in p['questions']:
         options=q.get('options',[]); option_ids=[o.get('id') for o in options]

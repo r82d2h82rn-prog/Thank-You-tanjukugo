@@ -58,6 +58,10 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
         p['syntax'], p['sentences'] = [], []
         for english in extra['paragraphs']:
             p['paragraphs'].append({'id': f"p{len(p['paragraphs']) + 1}", 'english': english, 'translation': ''})
+        if p['format'] == 8:
+            assert len(old['paragraphs']) == 4 and len(old['paragraphOrder']) == 4
+            assert set(old['paragraphOrder']) == {x['id'] for x in old['paragraphs']}
+            p['continuationParagraphIds'] = [x['id'] for x in p['paragraphs'][len(old['paragraphs']):]]
         answer = next(o['text'] for o in old['questions'][0]['options'] if o['id'] == old['questions'][0]['correctOptionId'])
         has_gap = p['format'] in (2, 3)
         has_insert = p['format'] == 7
@@ -180,7 +184,7 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40', '41-45', '46-50', '51-55', '56-60', '61-65', '66-70'], default='11-15')
+    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40', '41-45', '46-50', '51-55', '56-60', '61-65', '66-70', '71-75'], default='11-15')
     args = parser.parse_args()
     start, end, stem, output, base = {
         '11-15': (10, 15, 'l2-gap5', 'enriched-level2-gap5', 'd4b18c1841488dbd596aacd2d9dc27d011cc0c56'),
@@ -195,6 +199,7 @@ if __name__ == '__main__':
         '56-60': (55, 60, 'l2-inference-next5', 'enriched-level2-inference-next5', '42db8c36d5dfff02f23d5d1b228e47fa6a44387c'),
         '61-65': (60, 65, 'l2-insert5', 'enriched-level2-insert5', '11b6fed889ecda96f4b3ab7207e4ae344616c879'),
         '66-70': (65, 70, 'l2-insert-next5', 'enriched-level2-insert-next5', '0ecafd3efb652b7421a8e0564ea222db2b1fa34f'),
+        '71-75': (70, 75, 'l2-order5', 'enriched-level2-order5', 'f64ccc42952be213124f7967a05d9be08a30d27a'),
     }[args.batch]
     originals, batch = compile_batch(start, end, stem)
     path = ROOT / f'content/readings/{output}.json'
@@ -207,6 +212,6 @@ if __name__ == '__main__':
             'translationCoverage':1,'syntaxCoverage':1,'originalDigest':digest(old)} for old,p in zip(originals,batch)]}
     manifest_name = {'11-15': 'reading_l2_gap5_batch', '16-20': 'reading_l2_gap_next5_batch',
                      '21-25': 'reading_l2_sentence_gap5_batch', '26-30': 'reading_l2_sentence_gap_next5_batch',
-                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch', '41-45': 'reading_l2_reference5_batch', '46-50': 'reading_l2_reference_next5_batch', '51-55': 'reading_l2_inference5_batch', '56-60': 'reading_l2_inference_next5_batch', '61-65': 'reading_l2_insert5_batch', '66-70': 'reading_l2_insert_next5_batch'}[args.batch]
+                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch', '41-45': 'reading_l2_reference5_batch', '46-50': 'reading_l2_reference_next5_batch', '51-55': 'reading_l2_inference5_batch', '56-60': 'reading_l2_inference_next5_batch', '61-65': 'reading_l2_insert5_batch', '66-70': 'reading_l2_insert_next5_batch', '71-75': 'reading_l2_order5_batch'}[args.batch]
     (ROOT / f'analysis/{manifest_name}.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(manifest,ensure_ascii=False))

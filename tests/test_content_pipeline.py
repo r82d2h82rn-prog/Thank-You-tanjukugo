@@ -170,4 +170,16 @@ class PipelineTests(unittest.TestCase):
         report=read_json(self.root/'analysis/content_audit.json')
         self.assertTrue(any(x['error']=='insertion solution not equal to correct option' for x in report['issues']))
 
+    def test_ordering_continuations_cover_all_paragraphs_and_keep_original_correct_order(self):
+        import copy
+        project=pathlib.Path(__file__).resolve().parents[1]
+        for passage in read_json(project/'content/readings/enriched-level2-order5.json'):
+            self.assertEqual(validate_reading(passage),[])
+            bad=copy.deepcopy(passage);bad['continuationParagraphIds']=[]
+            self.assertIn('paragraph order/continuation coverage invalid',validate_reading(bad))
+            bad=copy.deepcopy(passage);bad['continuationParagraphIds']=[bad['paragraphOrder'][0]]
+            self.assertIn('paragraph order/continuation coverage invalid',validate_reading(bad))
+            bad=copy.deepcopy(passage);bad['paragraphOrder'].reverse()
+            self.assertIn('paragraph order not equal to correct option',validate_reading(bad))
+
 if __name__=='__main__': unittest.main()

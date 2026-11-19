@@ -2,6 +2,7 @@ import {test,expect} from '@playwright/test';
 import data from '../content/readings/enriched.json';
 import {readingCatalog} from '../src/readingCatalog';
 import {readingRevisions} from '../src/readingRevisions';
+import {type Passage,readingParagraphLabel} from '../src/readings';
 for(const p of readingRevisions.filter(p=>p.level!==1||p.id===data[0].id))test(`one page scroller restores tabs and displays final sentence: ${p.id}`,async({page})=>{
  await page.setViewportSize({width:390,height:844});
  await page.goto('/');await page.getByRole('tab',{name:'長文読解',exact:true}).click();
@@ -9,12 +10,18 @@ for(const p of readingRevisions.filter(p=>p.level!==1||p.id===data[0].id))test(`
  await page.getByRole('button',{name:`${p.title}を選ぶ`,exact:true}).click();await page.getByRole('button',{name:'この長文を無料解放する',exact:true}).click();
  const scroll=page.getByTestId('reading-page-scroll');await expect(scroll).toBeVisible();
  const body=page.getByTestId('reading-body-pane');await expect(body).toBeVisible();
+ const continuation=(p as Passage).continuationParagraphIds;
+ if(continuation?.length){
+  await expect(body.getByText('並べ替えるのは段落1〜4です。「続きの本文」は並べ替えた本文の後に続きます。',{exact:true})).toBeVisible();
+  expect(await body.getByText(/^(段落 \d+|続きの本文 \d+)$/).allTextContents()).toEqual(p.paragraphs.map(x=>readingParagraphLabel(p,x.id)));
+ }
  await scroll.hover();await page.mouse.wheel(0,800);await expect.poll(()=>scroll.evaluate(e=>e.scrollTop)).toBeGreaterThan(100);
  const y=await scroll.evaluate(e=>e.scrollTop);await page.getByRole('button',{name:'設問',exact:true}).click({force:true});
  await expect.poll(()=>scroll.evaluate(e=>e.scrollTop)).toBeLessThan(5);
  for(const [i,q] of p.questions.entries())await page.getByRole('button',{name:`問${i+1} ${q.correctOptionId.toUpperCase()}. ${q.options.find(o=>o.id===q.correctOptionId)!.text}`,exact:true}).click();
  await page.getByRole('button',{name:'全設問を提出して採点',exact:true}).click();await page.getByRole('button',{name:'本文・和訳・構文',exact:true}).click();
  await expect.poll(()=>scroll.evaluate(e=>e.scrollTop)).toBeGreaterThan(y-50);
+ if(continuation?.length)expect(await body.getByText(/^(段落 \d+|続きの本文 \d+)$/).allTextContents()).toEqual([...p.paragraphOrder!,...continuation].map(id=>readingParagraphLabel(p,id)));
  const last=p.sentences.at(-1)!;const button=page.getByRole('button',{name:`構文解説：${last.english}`,exact:true});await button.click();await expect(page.getByText(last.translation,{exact:true})).toBeVisible();
  await page.getByRole('button',{name:'構文解説を閉じる',exact:true}).click();await expect(button).toBeVisible();
  await page.getByRole('button',{name:'全文和訳',exact:true}).click();
