@@ -33,6 +33,7 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
     additions = json.loads((AUTHOR / f'{stem}-additions.json').read_text())
     rows = iter(line.split('\t') for line in (AUTHOR / f'{stem}.tsv').read_text().splitlines() if line and not line.startswith('#'))
     result = []
+    first_item_number = start + 1
     for old, extra in zip(originals, additions, strict=True):
         assert old['id'] == extra['id']
         p = copy.deepcopy(old)
@@ -133,7 +134,11 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
         p['review'] = {k:'ai_checked_human_pending' for k in ('fullTranslation','fullSyntax','questionUniqueness','englishNaturalness')}
         assert p['questions'][:len(old['questions'])] == old['questions']
         assert [(x['id'],x['english']) for x in p['paragraphs'][:len(old['paragraphs'])]] == [(x['id'],x['english']) for x in old['paragraphs']]
-        assert 250 <= p['reviewWordCount'] <= 400 and 4 <= len(p['questions']) <= 7
+        # User correction: items 51–75 are 300–350 words; 76–100 are 350–400.
+        index = first_item_number + len(result)
+        minimum, maximum = (350, 400) if index >= 76 else (300, 350) if index >= 51 else (250, 400)
+        assert minimum <= p['reviewWordCount'] <= maximum, (p['id'], p['reviewWordCount'], minimum, maximum)
+        assert 4 <= len(p['questions']) <= 7
         result.append(p)
     assert next(rows, None) is None, 'Unused annotation rows'
     return originals, result
@@ -142,7 +147,7 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40', '41-45'], default='11-15')
+    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40', '41-45', '46-50', '51-55'], default='11-15')
     args = parser.parse_args()
     start, end, stem, output, base = {
         '11-15': (10, 15, 'l2-gap5', 'enriched-level2-gap5', 'd4b18c1841488dbd596aacd2d9dc27d011cc0c56'),
@@ -152,6 +157,8 @@ if __name__ == '__main__':
         '31-35': (30, 35, 'l2-title5', 'enriched-level2-title5', '784acd951bd9bcd06c9837574b9ac5fcc8dac4e5'),
         '36-40': (35, 40, 'l2-title-next5', 'enriched-level2-title-next5', '784acd951bd9bcd06c9837574b9ac5fcc8dac4e5'),
         '41-45': (40, 45, 'l2-reference5', 'enriched-level2-reference5', 'bc846e59a2faca7ad628b509bd24b1b534a6c91e'),
+        '46-50': (45, 50, 'l2-reference-next5', 'enriched-level2-reference-next5', 'e32d3e594ac9e0a380bbc27408b89837072de223'),
+        '51-55': (50, 55, 'l2-inference5', 'enriched-level2-inference5', 'e32d3e594ac9e0a380bbc27408b89837072de223'),
     }[args.batch]
     originals, batch = compile_batch(start, end, stem)
     path = ROOT / f'content/readings/{output}.json'
@@ -164,6 +171,6 @@ if __name__ == '__main__':
             'translationCoverage':1,'syntaxCoverage':1,'originalDigest':digest(old)} for old,p in zip(originals,batch)]}
     manifest_name = {'11-15': 'reading_l2_gap5_batch', '16-20': 'reading_l2_gap_next5_batch',
                      '21-25': 'reading_l2_sentence_gap5_batch', '26-30': 'reading_l2_sentence_gap_next5_batch',
-                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch', '41-45': 'reading_l2_reference5_batch'}[args.batch]
+                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch', '41-45': 'reading_l2_reference5_batch', '46-50': 'reading_l2_reference_next5_batch', '51-55': 'reading_l2_inference5_batch'}[args.batch]
     (ROOT / f'analysis/{manifest_name}.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(manifest,ensure_ascii=False))

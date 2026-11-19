@@ -1,19 +1,23 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import legacy from '../content/readings/drafts.json';
-import batch from '../content/readings/enriched-level2-reference5.json';
+import firstBatch from '../content/readings/enriched-level2-reference5.json';
+import nextBatch from '../content/readings/enriched-level2-reference-next5.json';
 import {readingCatalog} from '../src/readingCatalog';
 import {readingRevisions} from '../src/readingRevisions';
 import {sentenceRanges} from '../src/readingSentences';
 import {gradeReading,readingParagraphs,recordReading} from '../src/readings';
 import {emptyState,decodeState} from '../src/model';
 
-const start=40,end=45,sentences=92;
+for(const {batch,start,end,sentences,questionCounts} of [
+ {batch:firstBatch,start:40,end:45,sentences:92,questionCounts:[5,6,5,7,6]},
+ {batch:nextBatch,start:45,end:50,sentences:95,questionCounts:[6,5,7,5,6]},
+]) {
 test(`Level 2 reference readings ${start+1}–${end} retain original questions and align every unaltered sentence without gap substitution`,()=>{
  const originals=legacy.filter(p=>p.level===2).slice(start,end);
  assert.deepEqual(batch.map(p=>p.id),originals.map(p=>p.id));
  assert.equal(new Set(readingRevisions.map(p=>p.id)).size,readingRevisions.length);
- assert.deepEqual(batch.map(p=>p.questions.length),[5,6,5,7,6]);
+ assert.deepEqual(batch.map(p=>p.questions.length),questionCounts);
  assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),sentences);
  for(const [i,p] of batch.entries()){
   const old=originals[i];
@@ -59,3 +63,5 @@ test(`reference revision ${start+1}–${end} grading and saved history preserve 
 });
 
 
+
+}
