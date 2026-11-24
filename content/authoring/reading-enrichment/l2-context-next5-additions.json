@@ -1,0 +1,375 @@
+[
+  {
+    "id": "reading-l2-f10-06",
+    "paragraphs": [
+      "Before the next review, members checked whether the posted explanation could be understood without attending the original meeting. A student who had been absent could find the winning proposal, but could not see why a cheaper alternative had been rejected. The council added a short comparison showing how both ideas met the published criteria. Listing the rules was not the same as showing how they had been applied to a particular choice.",
+      "Another reader noticed that an estimated cost had been copied incorrectly. Members corrected the figure and kept a note of the correction beside the explanation. They did not describe the earlier mistake as evidence that openness had failed. Making the reasoning visible had allowed someone else to question a detail that mattered. The next budget review would still involve difficult choices and incomplete information. However, students now had a clearer way to distinguish disagreement about priorities from an error in the facts. The council treated transparency as a practice of explaining and correcting, rather than a claim that publishing one notice made every decision beyond criticism."
+    ],
+    "rationale": "transparentを意思決定の基準・適用・訂正可能性から読む。関係節、受動態、形式目的語、動名詞と完了形を扱う。",
+    "questions": [
+      {
+        "prompt": "欠席した生徒に説明を確認してもらい、何が不足していると分かったか。",
+        "options": [
+          {
+            "text": "安い代案をなぜ退けたかという、基準の具体的な適用の説明",
+            "explanation": "勝った案は分かっても代案との比較理由が不明だったため、基準に照らした両案の比較を加えた。"
+          },
+          {
+            "text": "予算を秘密にする手続",
+            "explanation": "利用可能な予算も示す方針である。"
+          },
+          {
+            "text": "全員に同じ物を買うという約束",
+            "explanation": "全員の希望を満たすことは保証していない。"
+          },
+          {
+            "text": "投票した生徒全員の私生活",
+            "explanation": "公開すべき私生活の記録は述べていない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "Listing the rules was not the same as showing how they had been applied to a particular choice."
+      },
+      {
+        "prompt": "誤記の訂正をそばに残したことは、透明性のどの役割を示すか。",
+        "options": [
+          {
+            "text": "一度公開すれば全ての批判を終わらせられること",
+            "explanation": "公開後も批判や訂正を受け入れるという内容である。"
+          },
+          {
+            "text": "理由を見えるようにすると、他者が重要な事実の誤りに気づき、修正につなげられること",
+            "explanation": "見える説明によって他者が費用の誤記を指摘でき、訂正も記録した。"
+          },
+          {
+            "text": "公開した費用が間違っていても直す必要はないこと",
+            "explanation": "図表の数字を訂正している。"
+          },
+          {
+            "text": "優先事項への反対意見は全て事実の誤りであること",
+            "explanation": "優先事項の違いと事実の誤りを区別しやすくなった。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "Making the reasoning visible had allowed someone else to question a detail that mattered."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f10-07",
+    "paragraphs": [
+      "For the next class project, students made a small table showing the purpose of each reserved period. Testing time included watching a new visitor use a display and leaving room to act on what was observed. A trial at the very last minute would reveal problems without giving anyone a chance to repair them. The class therefore placed a short correction period after the trial, rather than treating the trial itself as the final task.",
+      "When one model took longer to build than expected, members discussed which features could be simplified. They did not quietly borrow all the testing time to finish an extra moving part. The table made the cost of that choice visible: more building would mean less opportunity to check whether people understood the result. Allocating time did not make delays disappear or give the class more afternoons. It made competing uses of the same hours easier to compare. At the final project review, students carefully considered both what they had built and whether the protected periods had served their intended purposes."
+    ],
+    "rationale": "allocateを有限時間の優先事項と機会費用から読む。関係節、間接疑問、否定、動名詞と不定詞の働きを扱う。",
+    "questions": [
+      {
+        "prompt": "試用の後に短い修正時間を置いたのはなぜか。",
+        "options": [
+          {
+            "text": "試用の結果を見ても絶対に変更しないため",
+            "explanation": "観察したことへ対応するための時間である。"
+          },
+          {
+            "text": "作る時間を無限に増やすため",
+            "explanation": "午後の回数は増えていない。"
+          },
+          {
+            "text": "問題を見つけるだけでなく、直す機会も確保するため",
+            "explanation": "最後の瞬間の試用では問題に対応できないため、観察後に修正できる時間を確保した。"
+          },
+          {
+            "text": "試用を他のクラスに見せないため",
+            "explanation": "新しい利用者の行動を観察する時間も含んでいる。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "A trial at the very last minute would reveal problems without giving anyone a chance to repair them."
+      },
+      {
+        "prompt": "製作が遅れたとき、表が見えるようにしたのは何か。",
+        "options": [
+          {
+            "text": "機能を増やすために確認の時間を使えば、理解を点検する機会が減るという代償",
+            "explanation": "同じ時間の競合する使い方を比べるため、製作の追加と試用機会の減少を明示した。"
+          },
+          {
+            "text": "全ての作業が同時に必ず終わる保証",
+            "explanation": "遅れ自体を消す方法ではない。"
+          },
+          {
+            "text": "試用は制作物と無関係だという結論",
+            "explanation": "理解し使える展示のために試用が重要である。"
+          },
+          {
+            "text": "模型の動く部分を必ず全て増やす義務",
+            "explanation": "一部の機能を簡略化できるか話し合った。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "The table made the cost of that choice visible: more building would mean less opportunity to check whether people understood the result."
+      },
+      {
+        "prompt": "本文全体でallocateが表すのは、どのような判断か。",
+        "options": [
+          {
+            "text": "目立つ仕事が全てを使い切ってから、残りを偶然分けること",
+            "explanation": "必要な活動が消えないよう事前に意図的に確保する。"
+          },
+          {
+            "text": "試用すれば完成品の機能を必ず全て実現できるとすること",
+            "explanation": "野心的な機能は一部残らず、時間も有限である。"
+          },
+          {
+            "text": "全員に無制限の午後を与えること",
+            "explanation": "三回という制約がある。"
+          },
+          {
+            "text": "有限の時間を目的ごとに確保し、競合する用途や結果も比べること",
+            "explanation": "配分は優先順位を表し、試用と修正が本来の役割を果たしたかも見直す。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "Allocating time did not make delays disappear or give the class more afternoons."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f10-08",
+    "paragraphs": [
+      "During the trial, one night worker reported that noise continued after the agreed time on two days. The mediator asked residents to discuss those occasions rather than return immediately to the claim that one group should lose all use of the courtyard. Families explained that the posted hours were difficult to read from the play area. The group then moved the shared notice and agreed who would remind visitors of the shared conditions.",
+      "At the review date, residents considered both the location of activities and the way the agreement had been explained. They kept the smaller play area but adjusted one period after hearing from people who had not attended the first meeting. The change did not prove that the original compromise had been pointless. A trial had provided evidence about how the plan worked in daily life. Important interests could remain stable even when the practical arrangement needed revision. Compromise meant continuing to make room for those interests, not demanding that people stop reporting problems once they had accepted an initial plan."
+    ],
+    "rationale": "compromiseを重要な利害の保護と取決めの修正から読む。関係節、間接疑問、完了形、譲歩と限定を扱う。",
+    "questions": [
+      {
+        "prompt": "試行中、騒音の問題への具体的な対応は何だったか。",
+        "options": [
+          {
+            "text": "双方の庭の利用を永久に全て禁止した",
+            "explanation": "利用を続ける条件を改善した。"
+          },
+          {
+            "text": "時間の掲示を読みやすい場所へ移し、条件を伝える担当を決めた",
+            "explanation": "掲示が遊び場から読みにくいと分かり、場所と周知の方法を改めた。"
+          },
+          {
+            "text": "報告した夜勤者が今後発言できないようにした",
+            "explanation": "報告を具体的な調整の材料にしている。"
+          },
+          {
+            "text": "最初の時間制限は存在しなかったことにした",
+            "explanation": "合意した時間を過ぎた二日について検討した。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "The group then moved the shared notice and agreed who would remind visitors of the shared conditions."
+      },
+      {
+        "prompt": "見直しで時間の一部を調整したとき、何を根拠にしたか。",
+        "options": [
+          {
+            "text": "住民全員が毎日不満ゼロになったという証明",
+            "explanation": "完全な満足は保証されていない。"
+          },
+          {
+            "text": "最初の会議に出なかった人は利害がないという判断",
+            "explanation": "その人々の声も聞いている。"
+          },
+          {
+            "text": "試行で分かった日常の使われ方と、初回会議にいなかった人の意見",
+            "explanation": "試行を証拠とし、参加できなかった人の必要も踏まえて調整した。"
+          },
+          {
+            "text": "全ての資源は必ず同じ大きさに分けるという規則",
+            "explanation": "同じ大きさへの機械的な分割とは区別している。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "They kept the smaller play area but adjusted one period after hearing from people who had not attended the first meeting."
+      },
+      {
+        "prompt": "本文が示すcompromiseと見直しの関係はどれか。",
+        "options": [
+          {
+            "text": "一度合意したら問題を報告してはいけない",
+            "explanation": "問題の報告を続ける余地を残している。"
+          },
+          {
+            "text": "一か所でも直すと初めの合意は必ず無意味だったことになる",
+            "explanation": "修正は試行で得た情報に基づく改善とする。"
+          },
+          {
+            "text": "合意した瞬間に全ての利害の違いが消える",
+            "explanation": "重要な利害と相違は残る。"
+          },
+          {
+            "text": "重要な利害を保つため、具体的な取決めは検証して変えられる",
+            "explanation": "守るべき利害は継続し、形は日常の証拠に合わせて修正できる。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "Important interests could remain stable even when the practical arrangement needed revision."
+      },
+      {
+        "prompt": "住民の仲介者が、問題のあった二日について話し合うよう求めた意図として最適なのはどれか。",
+        "options": [
+          {
+            "text": "一方の全面的な利用権を否定する応酬に戻らず、具体的な問題を調整するため",
+            "explanation": "最初の対立を繰り返すのでなく、実際の出来事と共有条件を手がかりに修正する。"
+          },
+          {
+            "text": "騒音が一度も起きなかったと宣言するため",
+            "explanation": "実際に二日問題があったという報告を扱っている。"
+          },
+          {
+            "text": "全ての庭の資源を正確に半分に切るため",
+            "explanation": "重要な利益の保護は機械的な等分と異なる。"
+          },
+          {
+            "text": "日常生活の情報を次の見直しから除外するため",
+            "explanation": "試行の日常の情報を見直しに使っている。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "The mediator asked residents to discuss those occasions rather than return immediately to the claim that one group should lose all use of the courtyard."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f10-09",
+    "paragraphs": [
+      "The instructor later asked her to keep both versions and record exactly which colors she had changed. Remembering that one picture felt warmer was not enough to explain the decision to another painter. A short note beside the images helped her return to the same relationship instead of searching through the whole painting again.",
+      "She also noticed that the classroom light changed how the shadows appeared. For a later comparison, she showed the two versions in the same place under the same light. This did not turn the exercise into a perfect scientific test, but reduced one source of confusion. She asked viewers to describe what they saw before offering her own interpretation.",
+      "Some noticed the warmer shadow immediately; others continued to focus on the flowers. Their different reactions did not make the change meaningless or prove that everyone experienced it in the same way. The student learned to distinguish the small choice she had made from the range of responses it could invite. A subtle effect could matter without being equally obvious to every viewer."
+    ],
+    "rationale": "subtleを小さいが意味を持つ色差と観客の多様な反応から読む。分詞、知覚構文、間接疑問と比較条件の限定を扱う。",
+    "questions": [
+      {
+        "prompt": "変更した色を正確に記録したのはなぜか。",
+        "options": [
+          {
+            "text": "二枚の絵を見比べる機会を全てなくすため",
+            "explanation": "両方の版を残して比較する。"
+          },
+          {
+            "text": "絵の意味を全員に一つだけに限定するため",
+            "explanation": "見る人の反応は複数あり得るとしている。"
+          },
+          {
+            "text": "どの関係を変えたか再び確認でき、他の描き手にも説明しやすくするため",
+            "explanation": "暖かく感じたという記憶だけでは、変更の判断を伝えるのに不十分だった。"
+          },
+          {
+            "text": "中央の花が存在しなかったと証明するため",
+            "explanation": "花は一部の観客がなお注目した対象である。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "A short note beside the images helped her return to the same relationship instead of searching through the whole painting again."
+      },
+      {
+        "prompt": "同じ場所・同じ照明で二枚を示したことについて、本文はどう述べるか。",
+        "options": [
+          {
+            "text": "完全な科学的実験にはならないが、混乱の一因を減らした",
+            "explanation": "照明が影の見え方を変えるため条件をそろえたが、完全さは保証しない。"
+          },
+          {
+            "text": "全員の知覚を完全に同じにした",
+            "explanation": "見る人の反応は依然異なった。"
+          },
+          {
+            "text": "影の色を全て同一に塗り直した",
+            "explanation": "示す条件をそろえたのであり、色差を消したのではない。"
+          },
+          {
+            "text": "どんな照明でも絵は全く同じに見えると証明した",
+            "explanation": "照明によって見え方が変わると気づいたことが理由である。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "This did not turn the exercise into a perfect scientific test, but reduced one source of confusion."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f10-10",
+    "paragraphs": [
+      "Before another demonstration, the club wrote the agreed steps on a shared sheet. It included a place to record interruptions or mistakes rather than quietly repeating a trial until the result looked attractive. If a group could not follow a step, its record would say what had happened. Keeping the procedure consistent did not mean pretending that every attempt had gone exactly as planned. Readers needed to know where the intended method and the actual work differed.",
+      "Students then compared notes from more than one trial for each filter. Results could vary even when the main conditions were kept the same. They described that variation instead of selecting only the clearest sample. A difference seen once might need further investigation before it could support a strong conclusion about a material. The report kept its narrow purpose: a classroom comparison of visible changes under stated conditions. It did not claim to establish which water was safe to drink. A consistent method made the evidence easier to examine, while an honest record showed how far that evidence could reasonably be used."
+    ],
+    "rationale": "consistentを手順の安定と結果の変動の区別から読む。受動態、間接疑問、関係節、完了形と否定を扱う。",
+    "questions": [
+      {
+        "prompt": "手順どおりに進められないことがあった場合、記録はどうする方針か。",
+        "options": [
+          {
+            "text": "見栄えのよい結果だけになるまで黙ってやり直す",
+            "explanation": "中断や間違いも記録し、都合のよい反復を隠さない。"
+          },
+          {
+            "text": "何が起き、予定の方法と実作業がどこで違ったかを残す",
+            "explanation": "一貫した方法を目指すことと、全試行が予定どおりだったふりをすることは異なる。"
+          },
+          {
+            "text": "失敗した試行は全て存在しなかったことにする",
+            "explanation": "中断や誤りの欄を設けている。"
+          },
+          {
+            "text": "不一致が一つでもあれば全て飲用安全とする",
+            "explanation": "飲用安全を調べる試験ではない。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "Readers needed to know where the intended method and the actual work differed."
+      },
+      {
+        "prompt": "同じ主な条件でも試行ごとの結果が変わったとき、どうしたか。",
+        "options": [
+          {
+            "text": "最も透明な一例だけを結果として選んだ",
+            "explanation": "最も明瞭な試料だけを選ばず変動を述べた。"
+          },
+          {
+            "text": "一度の違いから素材について強い結論を確定した",
+            "explanation": "強い結論にはさらに調査が必要な場合がある。"
+          },
+          {
+            "text": "変動を説明し、一回だけ見えた差の解釈には追加の検討の余地を残した",
+            "explanation": "複数回の記録で変動を扱い、単発の結果の過大解釈を避けた。"
+          },
+          {
+            "text": "結果が必ず同一になるまで数字を書き換えた",
+            "explanation": "一貫しているのは方法であって結果の強制ではない。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "A difference seen once might need further investigation before it could support a strong conclusion about a material."
+      },
+      {
+        "prompt": "本文全体が区別しているものは何か。",
+        "options": [
+          {
+            "text": "比較可能な手順・正直な記録と、結果の一致や飲用安全の保証",
+            "explanation": "手順をそろえ、実施の違いと変動も記録するが、結果の同一や安全性の結論を求める試験ではない。"
+          },
+          {
+            "text": "全ての試行で同じ結果を出すことと、資料を隠すこと",
+            "explanation": "結果をそろえたり資料を隠したりすることを目指していない。"
+          },
+          {
+            "text": "色水の比較と、全ての現実の水が安全だという確定",
+            "explanation": "後者は明確に主張していない。"
+          },
+          {
+            "text": "方法を説明しない方が、結論が強くなるという規則",
+            "explanation": "読者には方法と限界を示す必要があるとしている。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "The report kept its narrow purpose: a classroom comparison of visible changes under stated conditions."
+      }
+    ]
+  }
+]

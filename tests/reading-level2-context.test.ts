@@ -1,18 +1,22 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import legacy from '../content/readings/drafts.json';
-import batch from '../content/readings/enriched-level2-context5.json';
+import firstBatch from '../content/readings/enriched-level2-context5.json';
+import nextBatch from '../content/readings/enriched-level2-context-next5.json';
 import {readingCatalog} from '../src/readingCatalog';
 import {readingRevisions} from '../src/readingRevisions';
 import {sentenceRanges} from '../src/readingSentences';
 import {gradeReading,readingParagraphs,recordReading} from '../src/readings';
 import {emptyState,decodeState} from '../src/model';
 
-const start=90,paragraphs=[5,6,5,5,6],sentences=114;
+for(const {batch,start,paragraphs,sentences,questions} of [
+ {batch:firstBatch,start:90,paragraphs:[5,6,5,5,6],sentences:114,questions:[6,5,7,6,5]},
+ {batch:nextBatch,start:95,paragraphs:[5,5,5,6,5],sentences:113,questions:[5,6,7,5,6]}
+]){
 test(`Level 2 vocabulary-in-context readings ${start+1}–${start+5} preserve source questions and align every sentence in the 350–400 word readings`,()=>{
  const originals=legacy.filter(p=>p.level===2).slice(start,start+5);
  assert.deepEqual(batch.map(p=>p.id),originals.map(p=>p.id));
- assert.deepEqual(batch.map(p=>p.questions.length),[6,5,7,6,5]);
+ assert.deepEqual(batch.map(p=>p.questions.length),questions);
  assert.deepEqual(batch.map(p=>p.paragraphs.length),paragraphs);
  assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),sentences);
  assert.equal(new Set(readingRevisions.map(p=>p.id)).size,readingRevisions.length);
@@ -58,4 +62,37 @@ test(`context revisions ${start+1} grade all options and preserve earlier three-
   assert.ok(state.reading!.records[p.id].archivedAttempts!.some(x=>x.id==='v1'));
   assert.deepEqual(decodeState(JSON.stringify(state)),state);
  }
+});
+
+}
+
+test('all 100 Level 2 readings retain source identities and align every sentence within the final word bands',()=>{
+ const originals=legacy.filter(p=>p.level===2),revised=readingRevisions.filter(p=>p.level===2);
+ assert.equal(originals.length,100);assert.equal(revised.length,100);
+ assert.deepEqual(new Set(revised.map(p=>p.id)),new Set(originals.map(p=>p.id)));
+ let sentences=0;
+ for(const [i,old] of originals.entries()){
+  const p=revised.find(p=>p.id===old.id)!;
+  assert.equal(revised.filter(x=>x.id===old.id).length,1);
+  assert.deepEqual(readingCatalog.find(x=>x.id===p.id),p);
+  assert.deepEqual(p.questions.slice(0,old.questions.length),old.questions);
+  assert.deepEqual(p.paragraphs.slice(0,old.paragraphs.length).map(x=>[x.id,x.english]),old.paragraphs.map(x=>[x.id,x.english]));
+  const paras=readingParagraphs(p,true),words=paras.map(x=>x.english).join(' ').match(/[A-Za-z]+(?:['-][A-Za-z]+)*/g)!.length;
+  const [min,max]=i>=75?[350,400]:i>=50?[300,350]:[250,400];
+  assert.ok(words>=min&&words<=max,`${i+1}: ${words}`);
+  assert.equal(words,('reviewWordCount' in p?p.reviewWordCount:p.wordCount));
+  let total=0;
+  for(const para of paras){
+   const ranges=sentenceRanges(para.id,para.english),rows=p.sentences.filter(s=>s.paragraphId===para.id);
+   assert.deepEqual(rows.map(s=>({id:s.id,english:s.english,start:s.start,end:s.end})),ranges);
+   assert.equal(para.translation,rows.map(s=>s.translation).join(''));
+   for(const row of rows){
+    const syntax=p.syntax.find(s=>s.paragraphId===para.id&&s.start===row.start&&s.end===row.end&&s.sentence===row.english);
+    assert.ok(row.translation);assert.ok(syntax);assert.equal(syntax.translation,row.translation);
+   }
+   total+=ranges.length;
+  }
+  assert.equal(total,p.sentences.length);sentences+=total;
+ }
+ assert.equal(sentences,2008);
 });
