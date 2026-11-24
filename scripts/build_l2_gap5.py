@@ -184,7 +184,7 @@ def compile_batch(start=10, end=15, stem='l2-gap5'):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40', '41-45', '46-50', '51-55', '56-60', '61-65', '66-70', '71-75', '76-80', '81-85', '86-90'], default='11-15')
+    parser.add_argument('--batch', choices=['11-15', '16-20', '21-25', '26-30', '31-35', '36-40', '41-45', '46-50', '51-55', '56-60', '61-65', '66-70', '71-75', '76-80', '81-85', '86-90', '91-95'], default='11-15')
     args = parser.parse_args()
     start, end, stem, output, base = {
         '11-15': (10, 15, 'l2-gap5', 'enriched-level2-gap5', 'd4b18c1841488dbd596aacd2d9dc27d011cc0c56'),
@@ -203,6 +203,7 @@ if __name__ == '__main__':
         '76-80': (75, 80, 'l2-order-next5', 'enriched-level2-order-next5', 'a629f13d5da8715fc88f7e2c6edad85d347ff823'),
         '81-85': (80, 85, 'l2-summary5', 'enriched-level2-summary5', 'e66747c5e830055f2617371b8a957a8d1974d958'),
         '86-90': (85, 90, 'l2-summary-next5', 'enriched-level2-summary-next5', '743fcc1a00d6102c36d41e14f22954dfc899900c'),
+        '91-95': (90, 95, 'l2-context5', 'enriched-level2-context5', '1cec3a42528bc8702f93b967d543c14943db0beb'),
     }[args.batch]
     originals, batch = compile_batch(start, end, stem)
     path = ROOT / f'content/readings/{output}.json'
@@ -215,6 +216,6 @@ if __name__ == '__main__':
             'translationCoverage':1,'syntaxCoverage':1,'originalDigest':digest(old)} for old,p in zip(originals,batch)]}
     manifest_name = {'11-15': 'reading_l2_gap5_batch', '16-20': 'reading_l2_gap_next5_batch',
                      '21-25': 'reading_l2_sentence_gap5_batch', '26-30': 'reading_l2_sentence_gap_next5_batch',
-                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch', '41-45': 'reading_l2_reference5_batch', '46-50': 'reading_l2_reference_next5_batch', '51-55': 'reading_l2_inference5_batch', '56-60': 'reading_l2_inference_next5_batch', '61-65': 'reading_l2_insert5_batch', '66-70': 'reading_l2_insert_next5_batch', '71-75': 'reading_l2_order5_batch', '76-80': 'reading_l2_order_next5_batch', '81-85': 'reading_l2_summary5_batch', '86-90': 'reading_l2_summary_next5_batch'}[args.batch]
+                     '31-35': 'reading_l2_title5_batch', '36-40': 'reading_l2_title_next5_batch', '41-45': 'reading_l2_reference5_batch', '46-50': 'reading_l2_reference_next5_batch', '51-55': 'reading_l2_inference5_batch', '56-60': 'reading_l2_inference_next5_batch', '61-65': 'reading_l2_insert5_batch', '66-70': 'reading_l2_insert_next5_batch', '71-75': 'reading_l2_order5_batch', '76-80': 'reading_l2_order_next5_batch', '81-85': 'reading_l2_summary5_batch', '86-90': 'reading_l2_summary_next5_batch', '91-95': 'reading_l2_context5_batch'}[args.batch]
     (ROOT / f'analysis/{manifest_name}.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps(manifest,ensure_ascii=False))

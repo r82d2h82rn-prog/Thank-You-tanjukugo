@@ -1,0 +1,376 @@
+[
+  {
+    "id": "reading-l2-f10-01",
+    "paragraphs": [
+      "Before the next rehearsal, the director asked members to check a short example message. It named a proposed meeting time, the reason it might change, and the date when another update would be sent. One reader initially understood that date as a promise that permission would have arrived by then. The director changed the wording to make clear that it was a date for checking, not a guarantee of approval. Being more specific about an update did not remove the uncertainty about the event itself.",
+      "The team then put a status beside each scene in the shared table. When someone copied a time into another message, the status and the latest update date were to travel with it. Older versions were marked so that members could see which information had been replaced. These changes did not prevent bad weather or ensure that every plan would succeed. They made it easier to tell the difference between a working plan and a commitment, while giving people a clear place to check before making changes to their own travel and family arrangements."
+    ],
+    "rationale": "tentativeを確定状態・更新予定日の区別で読み取る。過去完了、受動態、関係節、形式目的語と情報の持ち出しを扱う。",
+    "questions": [
+      {
+        "prompt": "更新予定日について生じた誤解は何か。",
+        "options": [
+          {
+            "text": "確認する日付を、その日までに許可が出る保証と受け取った",
+            "explanation": "更新を送る日と許可が得られる時期は別であり、表現を直して区別した。"
+          },
+          {
+            "text": "撮影場所が全て屋内だと受け取った",
+            "explanation": "屋内かどうかの誤解は本文にない。"
+          },
+          {
+            "text": "日程表に一つも時刻が書かれていないと受け取った",
+            "explanation": "具体的な時刻が確定のように見えたことが問題である。"
+          },
+          {
+            "text": "監督が更新を一切しないと約束したと思った",
+            "explanation": "更新を送る日が示されていた。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "One reader initially understood that date as a promise that permission would have arrived by then."
+      },
+      {
+        "prompt": "別のメッセージに時刻を写すとき、一緒に伝えることにしたのは何か。",
+        "options": [
+          {
+            "text": "元の見出しを消したことだけ",
+            "explanation": "留保を切り離すのではなく、状態と更新日も添える。"
+          },
+          {
+            "text": "各場面の確定状態と最新の更新日",
+            "explanation": "時刻だけが独り歩きしないよう、確定状態と情報の新しさを一緒に伝える。"
+          },
+          {
+            "text": "全員の家族の予定",
+            "explanation": "私的な家族の予定を共有する方針ではない。"
+          },
+          {
+            "text": "必ず晴れるという保証",
+            "explanation": "天候を保証する変更ではない。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "When someone copied a time into another message, the status and the latest update date were to travel with it."
+      },
+      {
+        "prompt": "本文の最後の段落で示される改善の効果はどれか。",
+        "options": [
+          {
+            "text": "全ての撮影が予定どおり成功するようになった",
+            "explanation": "成功や天候の保証ではないと明示される。"
+          },
+          {
+            "text": "準備のための仮予定は全てなくなった",
+            "explanation": "仮予定は準備に役立つまま残る。"
+          },
+          {
+            "text": "仮の計画と確定した約束を見分け、確認する場所が分かりやすくなった",
+            "explanation": "不確実さを消すのではなく、その状態と確認経路を明確にした。"
+          },
+          {
+            "text": "数字を載せることが全面的に禁止された",
+            "explanation": "時刻を載せつつ留保も伝える改善である。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "They made it easier to tell the difference between a working plan and a commitment, while giving people a clear place to check before making changes to their own travel and family arrangements."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f10-02",
+    "paragraphs": [
+      "Before introducing the shorter process, the receptionist watched two applicants complete a trial version. One used the website, while the other chose the paper application. Both could finish without entering the same address twice. However, the paper applicant was unsure whether a separate online account was also required. The school added a clear statement that either application route was acceptable.",
+      "Staff also checked whether the shorter signature sheet still identified the application it belonged to. Removing repeated details would not help if a signature could no longer be matched to the right record. They kept a simple reference number for that purpose rather than asking for the full address again.",
+      "After the first week, the manager reviewed common questions from applicants and mistakes reported by staff. A shorter form was not automatically a clearer one. The aim was to remove repetition that served no useful function while retaining the information and routes people actually needed. The school judged the change by how the whole process worked, not merely by the number of boxes it had deleted."
+    ],
+    "rationale": "redundantを役に立たない二重入力から推測し、署名の照合と代替経路を保つ。間接疑問、分詞、形式主語と目的の比較を扱う。",
+    "questions": [
+      {
+        "prompt": "試行した紙の申込者が分からなかったことは何か。",
+        "options": [
+          {
+            "text": "住所を三回書く場所",
+            "explanation": "同じ住所は一度で済んでいる。"
+          },
+          {
+            "text": "署名が他人のものかどうか",
+            "explanation": "他人の署名という問題は書かれていない。"
+          },
+          {
+            "text": "学校で学べる楽器の種類",
+            "explanation": "試行で示された疑問ではない。"
+          },
+          {
+            "text": "紙を選んでも別途オンラインアカウントが必要かどうか",
+            "explanation": "紙の申込みが独立した代替手段だと分かるよう、どちらの経路も可能だと明記した。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "However, the paper applicant was unsure whether a separate online account was also required."
+      },
+      {
+        "prompt": "短い署名用紙に参照番号を残した理由は何か。",
+        "options": [
+          {
+            "text": "住所を再び全部書かせず、署名と該当する申込記録を対応させるため",
+            "explanation": "重複のない短縮でも必要な対応づけは残す必要があり、参照番号でその機能を保った。"
+          },
+          {
+            "text": "削除した記入欄の数だけを最大にするため",
+            "explanation": "欄の数より全体の機能で評価する。"
+          },
+          {
+            "text": "紙で申し込む人を全て断るため",
+            "explanation": "紙の代替経路を維持した。"
+          },
+          {
+            "text": "申込みを記録できなくするため",
+            "explanation": "正しい記録に照合するための番号である。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "They kept a simple reference number for that purpose rather than asking for the full address again."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f10-03",
+    "paragraphs": [
+      "Before the trial began, students worked with staff to describe what caring for the approved plants would involve each week. The list included routine tasks and a way to report problems to the responsible adult. It also asked who would be available during school holidays. A plan that depended on one enthusiastic student being present every day would not become workable simply because the drawing used fewer containers. The practical question concerned the continuing work as well as the first installation.",
+      "During the trial, the committee kept notes on the time and materials actually needed. Students discovered that their first estimate of the work had been too optimistic. They revised the care schedule before proposing any expansion. Success in the agreed area would not show that the whole roof could support the original design. Any larger phase would still need the relevant checks and permission. The smaller project gave them experience for a better proposal, rather than a reason to treat every remaining condition as settled. In this sense, feasibility was something to examine as the plan developed, not a label that ended all further questions."
+    ],
+    "rationale": "feasibleを条件と継続作業から読む。関係節、間接疑問、動名詞、過去完了と限定された試行からの一般化の限界を扱う。",
+    "questions": [
+      {
+        "prompt": "休暇中に誰が世話できるか確認したのはなぜか。",
+        "options": [
+          {
+            "text": "容器を小さくすれば世話は完全に不要になるため",
+            "explanation": "容器の数を減らしても継続作業は必要である。"
+          },
+          {
+            "text": "一人の熱意に頼るだけでは、継続して実行できる計画にならないため",
+            "explanation": "日々の世話と休暇中の担当まで考え、設置だけでなく維持の実現可能性を確かめた。"
+          },
+          {
+            "text": "専門家による確認を全て生徒の推測で置き換えるため",
+            "explanation": "専門的な条件はなお専門確認と許可を要する。"
+          },
+          {
+            "text": "活動を直ちに永久中止するため",
+            "explanation": "承認された範囲で試行を行っている。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "It also asked who would be available during school holidays."
+      },
+      {
+        "prompt": "試行の記録から分かり、修正したことは何か。",
+        "options": [
+          {
+            "text": "屋上全体で池も含む元の設計が既に承認されたこと",
+            "explanation": "限定した範囲の試行であり、全体の承認ではない。"
+          },
+          {
+            "text": "全ての植物が必ず世話なしで育つこと",
+            "explanation": "実際に必要な時間と資材を記録している。"
+          },
+          {
+            "text": "必要作業の当初の見積りが楽観的すぎ、世話の予定を直す必要があったこと",
+            "explanation": "拡大を提案する前に、実際の必要作業を踏まえて予定を改めた。"
+          },
+          {
+            "text": "予定を見直す必要は今後一切ないこと",
+            "explanation": "発展に伴って条件を確認し続ける。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "Students discovered that their first estimate of the work had been too optimistic."
+      },
+      {
+        "prompt": "承認された範囲でうまくいっても、それだけでは何が言えないか。",
+        "options": [
+          {
+            "text": "生徒が経験を得たこと",
+            "explanation": "試行はよりよい提案の経験を与える。"
+          },
+          {
+            "text": "世話に実作業が必要だったこと",
+            "explanation": "必要な作業は試行で記録された。"
+          },
+          {
+            "text": "小さな計画にも目的があったこと",
+            "explanation": "小さく始めても目的への関与は維持できる。"
+          },
+          {
+            "text": "屋上全体が元の設計に対応でき、拡大の条件も全て解決したこと",
+            "explanation": "試行の範囲を超えた構造条件などには、なお確認と許可が必要である。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "Success in the agreed area would not show that the whole roof could support the original design."
+      },
+      {
+        "prompt": "本文全体でのfeasibleの捉え方として最も適切なのはどれか。",
+        "options": [
+          {
+            "text": "現実の条件と継続作業を確かめ、発展に応じて検討し続ける実行可能性",
+            "explanation": "最初の制約確認と試行後の見直しを通じて実現する道筋を検討することで、無制約の保証ではない。"
+          },
+          {
+            "text": "一度付ければその後の疑問が全て不要になる保証",
+            "explanation": "最後で、そのような終結のラベルではないと述べる。"
+          },
+          {
+            "text": "全員の好みが完全に一致すること",
+            "explanation": "好みの一致ではなく現実の条件に照らす。"
+          },
+          {
+            "text": "大規模であるほど必ず実行できるという基準",
+            "explanation": "限定して始めることで実現可能な段階を作った。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "In this sense, feasibility was something to examine as the plan developed, not a label that ended all further questions."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f10-04",
+    "paragraphs": [
+      "For the revised report, staff first agreed what would count as observed use of a corridor panel. Walking past it and stopping to read it were recorded separately. They also kept notes on the times when each space had been observed. A quiet morning session could not automatically represent a busy afternoon. The observation schedule was included so readers could judge coverage. These details helped readers understand the scope of the figures instead of treating them as a complete count of everyone interested in local history.",
+      "The team then noticed another difficulty: someone could enter the main room and later stop in the corridor. Adding the two totals would not necessarily give the number of different visitors. The report therefore described observations of use, not a verified total of unique people. This distinction did not make the corridor activity unimportant. It made the claim fit the evidence. The library planned a later study if it needed a different measure, rather than stretching the current figures to answer a question they had not been designed to address."
+    ],
+    "rationale": "overlookedを集計方法と範囲から推測する。知覚構文、関係節、受動態、動名詞主語と実人数・観察数の区別を扱う。",
+    "questions": [
+      {
+        "prompt": "改訂した観察で、通路では何を分けて記録したか。",
+        "options": [
+          {
+            "text": "展示に関心のある人全員とない人全員の確定数",
+            "explanation": "全員の内面的関心を確定した調査ではない。"
+          },
+          {
+            "text": "図書館の職員と全地域住民",
+            "explanation": "その分類を記録したとは述べない。"
+          },
+          {
+            "text": "ただ通り過ぎることと、立ち止まってパネルを読むこと",
+            "explanation": "観察された利用の基準を決め、通過と読む行動を区別した。"
+          },
+          {
+            "text": "展示品の購入価格と利益",
+            "explanation": "販売の調査ではない。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "Walking past it and stopping to read it were recorded separately."
+      },
+      {
+        "prompt": "部屋と通路の数を単純に足せない理由は何か。",
+        "options": [
+          {
+            "text": "同じ人が部屋と通路の両方を使っている可能性があるため",
+            "explanation": "二つの観察総数を足すと、異なる来場者の人数では重複が生じ得る。"
+          },
+          {
+            "text": "通路を使う人は一人もいなかったため",
+            "explanation": "通路の利用を可視化することが出発点である。"
+          },
+          {
+            "text": "展示室の面積が倍になったため",
+            "explanation": "展示の規模は変わっていない。"
+          },
+          {
+            "text": "主催者が架空の数値を必ず加えたため",
+            "explanation": "架空の人数を足すことを明確に避けた。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "Adding the two totals would not necessarily give the number of different visitors."
+      },
+      {
+        "prompt": "最終的に報告は、数字を何として示したか。",
+        "options": [
+          {
+            "text": "全地域の歴史への関心を完全に表す人数",
+            "explanation": "観察の時間と範囲に限界がある。"
+          },
+          {
+            "text": "観察された利用であって、重複を確かめた実人数ではないもの",
+            "explanation": "観察した活動の価値を保ちつつ、人数としての断定の範囲を限定した。"
+          },
+          {
+            "text": "参加を妨げた悪意のある人の数",
+            "explanation": "見落としは方法から生じ得るという内容である。"
+          },
+          {
+            "text": "次の調査でも変更してはいけない唯一の指標",
+            "explanation": "別の指標が必要なら後の調査を計画するとしている。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "The report therefore described observations of use, not a verified total of unique people."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f10-05",
+    "paragraphs": [
+      "At the review meeting, a shopkeeper explained that she had helped every evening but could not continue at that pace. Her neighbors had seen her shop open and assumed that she no longer needed support. The association recorded remaining needs separately from whether a business had reopened. Returning to work did not necessarily mean that losses had been recovered or that the owner had enough time to rest.",
+      "Members also asked who could take each task and for how long. A name on a contact list was not a promise of unlimited help. The list included ways to update availability, and requests that could not be met were kept visible rather than treated as failures of community spirit.",
+      "The next report described achievements alongside the work still unfinished. It recognized cooperation without expecting a few volunteers to carry every burden. The association continued seeking appropriate outside assistance where local resources were insufficient. Resilience described an ability to respond and learn; it did not require people to hide exhaustion or pretend that support was no longer necessary."
+    ],
+    "rationale": "resilientを協力と残る負担の見直しから読む。関係節、部分否定、間接疑問、動名詞主語と支援の限界を扱う。",
+    "questions": [
+      {
+        "prompt": "開店を再開したかと、残る必要を別々に記録したのはなぜか。",
+        "options": [
+          {
+            "text": "再開した店には損失が一切なかったから",
+            "explanation": "再開しても損失の回復や休息が十分とは限らない。"
+          },
+          {
+            "text": "開店した人は必ず支援を拒否したから",
+            "explanation": "店主は負担が続けられないことを説明した。"
+          },
+          {
+            "text": "地域の協力は役立たなかったと決めたから",
+            "explanation": "協力の成果は認めている。"
+          },
+          {
+            "text": "再開だけでは損失の回復や負担の解消までは分からないから",
+            "explanation": "周囲の再開への見方と本人の疲労の差を踏まえ、必要を見えなくしないようにした。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "Returning to work did not necessarily mean that losses had been recovered or that the owner had enough time to rest."
+      },
+      {
+        "prompt": "連絡先の名簿について、どのような扱いをしたか。",
+        "options": [
+          {
+            "text": "対応可能な時間を更新できるようにし、満たせない要望も見える形で残した",
+            "explanation": "名前があることを無制限の協力の約束とはせず、地域の力の限界も記録した。"
+          },
+          {
+            "text": "記載された人は無期限に全ての仕事を引き受けるとした",
+            "explanation": "無制限の助力の約束ではないと述べる。"
+          },
+          {
+            "text": "応じられない要望は地域の精神の失敗として全て消した",
+            "explanation": "失敗扱いせず見える形に残す。"
+          },
+          {
+            "text": "地域外の支援は二度と求めないとした",
+            "explanation": "地元の資源が足りない場合は外部の適切な支援を求めた。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "The list included ways to update availability, and requests that could not be met were kept visible rather than treated as failures of community spirit."
+      }
+    ]
+  }
+]
