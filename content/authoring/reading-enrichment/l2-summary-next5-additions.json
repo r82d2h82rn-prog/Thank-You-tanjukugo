@@ -1,0 +1,375 @@
+[
+  {
+    "id": "reading-l2-f09-06",
+    "paragraphs": [
+      "For the proposed survey, students first drew a boundary around the places they intended to include. They listed shops on side streets as well as the official stalls, and asked businesses to separate festival visitors from regular customers where possible. A shop's total sales could not automatically be counted as festival spending. Nor could reports of more customers establish how much each person had spent. The students wanted the next set of figures to answer a clearly defined question rather than simply look more complete.",
+      "They also checked how the previous year's figures had been collected. If the new survey covered more businesses, its total could rise even without a change in visitor behavior. The report therefore proposed keeping the old stall measure alongside the broader estimate for one year. Readers would be able to see what had changed in the method before comparing the totals. Expanding a measure was useful only if its new boundaries were explained. A larger number alone would not show whether the festival had brought more money into the village."
+    ],
+    "rationale": "部分指標と全体の推論を区別し、比較年度の測定範囲変更を検討する。関係節、過去完了、nor倒置、間接疑問を扱う。",
+    "questions": [
+      {
+        "prompt": "次の調査で、店の総売上をそのまま祭りの消費額に加えないのはなぜか。",
+        "options": [
+          {
+            "text": "通常の客の購入が含まれる可能性があり、来客数だけでも支出額は分からないため",
+            "explanation": "祭りの客と通常客を可能な範囲で分け、客数と一人当たりの支出額も区別する必要がある。"
+          },
+          {
+            "text": "脇道の店では誰も買物しないと分かったため",
+            "explanation": "パン店と飲食店は祭りの客が増えたと報告している。"
+          },
+          {
+            "text": "売上の数字はどんな目的にも使えないため",
+            "explanation": "定義した範囲に合う数字を集め直す計画で、数字自体を否定しない。"
+          },
+          {
+            "text": "客が多ければ一人当たり支出も必ず増えるため",
+            "explanation": "客数増から各人の支出額は確定できない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "A shop's total sales could not automatically be counted as festival spending."
+      },
+      {
+        "prompt": "一年間、旧来の屋台の指標も残す提案をした目的は何か。",
+        "options": [
+          {
+            "text": "新しい調査の範囲を隠して全体の増収を演出するため",
+            "explanation": "方法の変化を説明することを重視している。"
+          },
+          {
+            "text": "範囲の拡大による数値の変化と、実際の行動の変化を区別しやすくするため",
+            "explanation": "対象店が増えただけでも総額が上がり得るため、新旧を併記して比較の条件を示す。"
+          },
+          {
+            "text": "脇道の店の情報を永久に除くため",
+            "explanation": "広い推計値も併記する提案である。"
+          },
+          {
+            "text": "来年は調査を全くしないため",
+            "explanation": "より広い調査の実施方法を提案している。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "The report therefore proposed keeping the old stall measure alongside the broader estimate for one year."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f09-07",
+    "paragraphs": [
+      "During one practice session, a visitor asked why two similar objects had different storage instructions. The trainee could describe the materials listed on the labels, but did not know the reason for the difference. She explained that limit and offered to ask the staff member responsible for the museum's collections. Instead of guessing from the objects' appearance, she wrote down the question and checked how the visitor could receive a reply. The supervisor praised the way she had kept the question open without turning an uncertain idea into a fact.",
+      "At the next scheduled training meeting, trainees compared the questions they had referred to staff. Some revealed gaps in the training notes, while others required information beyond a guide's role. The museum revised one explanation and added a clear contact route for specialist questions. It did not expect volunteers to become experts on every subject. It expected them to prepare carefully, notice when their knowledge was insufficient, and connect visitors with an appropriate next step. Being honest about a limit worked best when it was accompanied by practical help."
+    ],
+    "rationale": "事実の準備と知識の限界への対応を両立する。受動態、省略、間接疑問、動名詞主語と専門照会の手順を扱う。",
+    "questions": [
+      {
+        "prompt": "保管方法の違いについて、研修中の案内者がしたことは何か。",
+        "options": [
+          {
+            "text": "見た目から理由を推測し、確実な事実として答えた",
+            "explanation": "外観からの推測を避け、知らない理由を説明した。"
+          },
+          {
+            "text": "素材の表示も読まず質問を拒否した",
+            "explanation": "表示にある素材は説明でき、次の支援もした。"
+          },
+          {
+            "text": "分かる範囲を説明し、質問を記録して専門の職員への確認と返答の方法を確かめた",
+            "explanation": "知らないことを認めるだけで終えず、具体的な照会と返答の手段を整えた。"
+          },
+          {
+            "text": "来館者に必ず翌日来館するよう命じた",
+            "explanation": "返答を受け取る方法を確認したが、翌日の来館を命じてはいない。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "Instead of guessing from the objects' appearance, she wrote down the question and checked how the visitor could receive a reply."
+      },
+      {
+        "prompt": "職員へ回した質問を研修者同士で比べた結果、何が分かったか。",
+        "options": [
+          {
+            "text": "研修資料の不足と、案内者の役割を超える専門的な問いの両方があった",
+            "explanation": "一部は資料改善に使い、別のものには専門の連絡経路を設けた。"
+          },
+          {
+            "text": "どの質問にも同じ答えを暗記すればよい",
+            "explanation": "問いの種類が異なるので一つの答えでは対応できない。"
+          },
+          {
+            "text": "全ての問いが来館者の誤りだった",
+            "explanation": "質問を通じて資料の不足も明らかになった。"
+          },
+          {
+            "text": "事実を学ぶ研修を今後全てやめるべきだ",
+            "explanation": "慎重な準備は引き続き期待される。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "Some revealed gaps in the training notes, while others required information beyond a guide's role."
+      },
+      {
+        "prompt": "本文全体が重視する、不確かさへの責任ある対応はどれか。",
+        "options": [
+          {
+            "text": "分からないと言えば、その後の支援は一切不要である",
+            "explanation": "限界の正直な説明に実際の手助けを伴わせることを重視する。"
+          },
+          {
+            "text": "全分野の専門家になるまで一切案内しない",
+            "explanation": "全分野の専門家になることは期待されていない。"
+          },
+          {
+            "text": "自信のある話し方なら不明点も断定してよい",
+            "explanation": "不確かな考えを事実へ変えて示すことを避ける。"
+          },
+          {
+            "text": "準備した知識とその限界を認識し、必要な確認や支援につなげる",
+            "explanation": "事実学習、限界の認識、適切な次の行動を組み合わせるのが中心。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "Being honest about a limit worked best when it was accompanied by practical help."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f09-08",
+    "paragraphs": [
+      "Before the paper reports were stopped, the committee tested one monthly summary against the information teachers actually used. It discovered that a calendar entry could describe a planned meeting without showing whether it had taken place. A list of plans was not automatically a record of attendance. The clubs therefore added a brief confirmation after each session, including whether the meeting had been canceled. This gave the summary a clearer basis without requiring students to write the entire report again.",
+      "For the first month, a teacher and two club members checked a sample of summaries together. They found that one heading was unclear and changed it before the system was extended to all clubs. The school also recorded who would correct an entry when a mistake was found. This check included both practical clarity and responsibility for corrections. Reducing repeated work did not mean allowing errors to pass unnoticed. By checking the information rather than defending a particular medium, the committee could preserve the old purpose while improving the way people carried it out."
+    ],
+    "rationale": "規則の目的と媒体を区別し、予定と実施の差も確認する。関係節、受動態、形式主語、間接疑問と分詞表現を扱う。",
+    "questions": [
+      {
+        "prompt": "月次要約の試行で見つかった問題は何か。",
+        "options": [
+          {
+            "text": "予定の記載だけでは、実際の実施や出席を確認できないこと",
+            "explanation": "予定表の項目が会合の実施を必ずしも示さず、計画一覧と出席記録は同じではなかった。"
+          },
+          {
+            "text": "全ての先生が情報を一度も使っていなかったこと",
+            "explanation": "現在地確認や長期傾向の把握に使われていた。"
+          },
+          {
+            "text": "紙なら記入ミスが絶対に起きないこと",
+            "explanation": "媒体の絶対的な優劣は述べない。"
+          },
+          {
+            "text": "オンラインのカレンダーが全く存在しなかったこと",
+            "explanation": "元からカレンダーに入力していた。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "A list of plans was not automatically a record of attendance."
+      },
+      {
+        "prompt": "部活動が各回の後に短い確認を加えたのは、何のためか。",
+        "options": [
+          {
+            "text": "毎週の全報告書をもう一度書くため",
+            "explanation": "全体を再び書く負担を避けている。"
+          },
+          {
+            "text": "予定と実際の実施状況を区別し、要約の基になる情報を明確にするため",
+            "explanation": "中止かどうかも含む事後確認により、要約を予定だけから作る問題を補った。"
+          },
+          {
+            "text": "月次要約の利用を中止するため",
+            "explanation": "要約の根拠を改善して継続する。"
+          },
+          {
+            "text": "授業後の所在を把握することを放棄するため",
+            "explanation": "監督や振り返りに必要な情報は保つ。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "The clubs therefore added a brief confirmation after each session, including whether the meeting had been canceled."
+      },
+      {
+        "prompt": "全ての部に広げる前の確認で、学校はどうしたか。",
+        "options": [
+          {
+            "text": "不明瞭な見出しは古いので変更しなかった",
+            "explanation": "見出しを変更してから拡大した。"
+          },
+          {
+            "text": "誤った項目は発見しても修正せず放置した",
+            "explanation": "誰が修正するかも記録した。"
+          },
+          {
+            "text": "先生と部員が一緒に一部の要約を見て、見出しを直し、誤記の修正担当も決めた",
+            "explanation": "少数の要約で利用者の確認を行い、分かりやすさと修正の仕組みを整えた。"
+          },
+          {
+            "text": "全員に一度も見せずに全情報を削除した",
+            "explanation": "情報の利用を調べ、段階的に確認している。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "The school also recorded who would correct an entry when a mistake was found."
+      },
+      {
+        "prompt": "本文全体の規則改訂の姿勢を最もよく表すのはどれか。",
+        "options": [
+          {
+            "text": "新しい媒体なら内容を検証しなくてよい",
+            "explanation": "新しい要約も実際の用途と照合した。"
+          },
+          {
+            "text": "古い手順という理由だけで必ず残す",
+            "explanation": "古さを知恵の証拠とみなす態度を退ける。"
+          },
+          {
+            "text": "重複削減のためには情報の正確さを犠牲にしてよい",
+            "explanation": "誤りを見逃すこととは区別する。"
+          },
+          {
+            "text": "媒体自体を守るより、必要な機能と情報の質を確かめて手順を変える",
+            "explanation": "旧手順の目的を調べ、重複を減らしつつ新方式の情報も点検した。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "By checking the information rather than defending a particular medium, the committee could preserve the old purpose while improving the way people carried it out."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f09-09",
+    "paragraphs": [
+      "To test the new arrangement, staff gave three first-time users short examples of problems and asked where they would begin. One person looking for help with a damaged notice chose an unexpected heading. Her explanation showed that two headings sounded almost identical outside the organization. Staff changed the wording and repeated the task with a new reader, rather than telling the first person that she should have known the intended difference.",
+      "They also added a visible way to contact the center when no heading seemed suitable. That route remained available even when the online categories changed. Common situations could guide many visitors, but could not describe every unusual case. The page was meant to support contact, not make help conditional on choosing the right category.",
+      "At later reviews, the team examined unsuccessful searches as well as popular links. A high number of clicks could mean interest, but might also mean that people were moving between pages without finding an answer. Short observations of actual use helped staff distinguish those possibilities. The center kept accurate answers and continued checking the routes by which people reached them."
+    ],
+    "rationale": "情報の正確さと発見可能性を区別する。関係節、仮定的推量、過去完了、動名詞と指標の複数解釈を扱う。",
+    "questions": [
+      {
+        "prompt": "初めて利用する人が予想外の見出しを選んだとき、職員は何をしたか。",
+        "options": [
+          {
+            "text": "正しい部署名を覚えるまで相談を禁止した",
+            "explanation": "利用者に知識を要求するのでなく見出しを改善した。"
+          },
+          {
+            "text": "回答が全部間違っていると判断して消した",
+            "explanation": "主な問題は入口の分類であり、正確な回答は残した。"
+          },
+          {
+            "text": "二つの見出しの区別が外部には分かりにくいと知り、語句を直して新たな人に試した",
+            "explanation": "利用者の説明から分類名の紛らわしさを発見し、修正後に再度試行した。"
+          },
+          {
+            "text": "その人が読む気がないと結論した",
+            "explanation": "意欲不足と決めつけず実際の経路を観察した。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "Staff changed the wording and repeated the task with a new reader, rather than telling the first person that she should have known the intended difference."
+      },
+      {
+        "prompt": "クリック数の多さだけでページが役立ったと判断できないのはなぜか。",
+        "options": [
+          {
+            "text": "関心だけでなく、答えが見つからずページ間を動き回った結果かもしれないため",
+            "explanation": "利用の観察により、関心と迷っている状態の両方の可能性を区別する必要がある。"
+          },
+          {
+            "text": "全てのクリックは必ず誤操作だから",
+            "explanation": "常に誤操作とは述べていない。"
+          },
+          {
+            "text": "検索に失敗した人は存在しないから",
+            "explanation": "失敗した検索も見直しの対象にしている。"
+          },
+          {
+            "text": "正確な回答はもう不要だから",
+            "explanation": "正確な回答を維持し、その到達経路も点検する。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "A high number of clicks could mean interest, but might also mean that people were moving between pages without finding an answer."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f09-10",
+    "paragraphs": [
+      "After seeing the display, one shopper asked which bag had traveled the shorter distance. The diagram identified the places used in production, but did not include every journey between them. The student marked the distance as not documented instead of estimating it from the label alone. A nearby sewing workshop did not necessarily mean that the cloth had traveled a short way. She added a note explaining what would have to be checked before making that comparison.",
+      "Another shopper cared most about keeping a bag in use for several years. He asked both sellers whether a damaged handle could be replaced and how he could contact someone about a repair. Those questions revealed information that a broad claim about local production had not supplied. The student added a repair column to her display, keeping confirmed answers separate from unanswered questions. Her aim was not to assign every bag a single score. It was to make the reasons for a choice easier to examine, while leaving room for different priorities and for information that was still missing."
+    ],
+    "rationale": "好印象の表示と工程の確認状態を区別する。省略、関係節、形式目的語、間接疑問、基準に応じた判断を扱う。",
+    "questions": [
+      {
+        "prompt": "移動距離を「記録なし」とした理由は何か。",
+        "options": [
+          {
+            "text": "近くで縫えば素材も必ず近くで作られたと分かったため",
+            "explanation": "近くの縫製所から素材の移動距離は分からない。"
+          },
+          {
+            "text": "工程の場所は分かっても、その間の全ての移動は図に記されていなかったため",
+            "explanation": "距離比較に必要な行程の情報が欠けており、表示だけからの推計を避けた。"
+          },
+          {
+            "text": "二つの袋は輸送を一切していないため",
+            "explanation": "複数の場所で製作されている。"
+          },
+          {
+            "text": "地元製という語だけで全ての距離を計算できるため",
+            "explanation": "一語では関連情報全体を含められないというのが中心。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "The diagram identified the places used in production, but did not include every journey between them."
+      },
+      {
+        "prompt": "長く使いたい客の問いによって、新たに加わったのは何か。",
+        "options": [
+          {
+            "text": "全ての袋に同じ点数を付ける欄",
+            "explanation": "一つの総合点を付けることを目標にしていない。"
+          },
+          {
+            "text": "価格を必ず倍にする規則",
+            "explanation": "値上げの規則は本文にない。"
+          },
+          {
+            "text": "持ち手の交換や相談先について、確認済みと未回答を分けた修理の欄",
+            "explanation": "客の修理の問いに応じ、情報の確認状態も区別して表示した。"
+          },
+          {
+            "text": "全ての優先順位を一つに統一する指示",
+            "explanation": "異なる優先順位の余地を残している。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "The student added a repair column to her display, keeping confirmed answers separate from unanswered questions."
+      },
+      {
+        "prompt": "本文が支持する表示の役割として最も適切なのはどれか。",
+        "options": [
+          {
+            "text": "必要な工程や不明点を見えるようにし、異なる優先基準で判断する手がかりを与える",
+            "explanation": "短い好印象の語だけで決めず、工程・距離の不明点・修理などを検討する材料にする。"
+          },
+          {
+            "text": "表示が好印象なら追加の問いをなくす",
+            "explanation": "好印象の語は問いを促すべきとしている。"
+          },
+          {
+            "text": "一つの語で全ての価値判断を自動的に完了させる",
+            "explanation": "全ての関連事実を一語が含むとはしない。"
+          },
+          {
+            "text": "情報が一つでも欠けた袋は全て購入禁止にする",
+            "explanation": "不明点を区別して表示するが、購入禁止を指示しない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "It was to make the reasons for a choice easier to examine, while leaving room for different priorities and for information that was still missing."
+      }
+    ]
+  }
+]

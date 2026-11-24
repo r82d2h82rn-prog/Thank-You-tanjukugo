@@ -1,19 +1,24 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import legacy from '../content/readings/drafts.json';
-import batch from '../content/readings/enriched-level2-summary5.json';
+import firstBatch from '../content/readings/enriched-level2-summary5.json';
+import nextBatch from '../content/readings/enriched-level2-summary-next5.json';
 import {readingCatalog} from '../src/readingCatalog';
 import {readingRevisions} from '../src/readingRevisions';
 import {sentenceRanges} from '../src/readingSentences';
 import {gradeReading,readingParagraphs,recordReading} from '../src/readings';
 import {emptyState,decodeState} from '../src/model';
 
-test('Level 2 summaries 81–85 preserve source questions and align every sentence in the 350–400 word readings',()=>{
- const originals=legacy.filter(p=>p.level===2).slice(80,85);
+for(const {batch,start,paragraphs,sentences} of [
+ {batch:firstBatch,start:80,paragraphs:[6,5,5,6,5],sentences:112},
+ {batch:nextBatch,start:85,paragraphs:[5,5,5,6,5],sentences:117}
+]){
+test(`Level 2 summaries ${start+1}–${start+5} preserve source questions and align every sentence in the 350–400 word readings`,()=>{
+ const originals=legacy.filter(p=>p.level===2).slice(start,start+5);
  assert.deepEqual(batch.map(p=>p.id),originals.map(p=>p.id));
  assert.deepEqual(batch.map(p=>p.questions.length),[5,6,7,5,6]);
- assert.deepEqual(batch.map(p=>p.paragraphs.length),[6,5,5,6,5]);
- assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),112);
+ assert.deepEqual(batch.map(p=>p.paragraphs.length),paragraphs);
+ assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),sentences);
  assert.equal(new Set(readingRevisions.map(p=>p.id)).size,readingRevisions.length);
  for(const [i,p] of batch.entries()){
   const old=originals[i];
@@ -44,7 +49,7 @@ test('Level 2 summaries 81–85 preserve source questions and align every senten
  }
 });
 
-test('summary revisions grade all options and preserve earlier three-question results through persistence',()=>{
+test(`summary revisions ${start+1} grade all options and preserve earlier three-question results through persistence`,()=>{
  for(const p of batch){
   const old=legacy.find(x=>x.id===p.id)!,right=Object.fromEntries(p.questions.map(q=>[q.id,q.correctOptionId]));
   for(const q of p.questions){
@@ -58,3 +63,5 @@ test('summary revisions grade all options and preserve earlier three-question re
   assert.deepEqual(decodeState(JSON.stringify(state)),state);
  }
 });
+
+}
