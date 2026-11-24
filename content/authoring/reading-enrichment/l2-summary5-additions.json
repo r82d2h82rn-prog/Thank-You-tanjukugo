@@ -1,0 +1,376 @@
+[
+  {
+    "id": "reading-l2-f09-01",
+    "paragraphs": [
+      "Before approving the repairs, the council displayed a draft plan near the park entrance. Beside it, a notice explained which observations had influenced each choice. Residents could leave comments there or reply by telephone. This mattered because the first online survey had missed some people who visited regularly but rarely used the council's website.",
+      "One comment pointed out that the student had visited only in daylight. Evening users might need something different, especially better lighting along the path. The council arranged another visit before deciding where the remaining money should go. It did not treat the earlier observations as a complete picture simply because they were more detailed than the original vote.",
+      "The final report kept both the first survey and the later comments. Readers could easily follow how the questions and the plan had changed. The council also named requests that could not be met within the current budget, rather than leaving them out of the record. Broader participation had improved the discussion, but it had not removed the need to explain difficult choices."
+    ],
+    "rationale": "既成選択肢と生活経験からの問題設定を比較する。複合関係詞、間接疑問、観察時間の偏りと予算の限界を扱う。",
+    "questions": [
+      {
+        "prompt": "意見を電話でも受け付けた理由として最も適切なのはどれか。",
+        "options": [
+          {
+            "text": "最初のオンライン調査で声を拾えなかった利用者にも参加の手段を設けるため",
+            "explanation": "公園によく来てもウェブサイトをほとんど使わない人が、最初の調査では漏れていた。"
+          },
+          {
+            "text": "公園を使う人は全員ウェブサイトを使わないと分かったため",
+            "explanation": "漏れた人がいたのであって、全員が使わないとは述べていない。"
+          },
+          {
+            "text": "修繕についての説明を一切公表しないため",
+            "explanation": "入口で案と各選択に影響した観察を説明している。"
+          },
+          {
+            "text": "予算の限界を電話ならなくせるため",
+            "explanation": "参加手段を増やしても予算上の難しい選択は残る。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "the first online survey had missed some people who visited regularly but rarely used the council's website."
+      },
+      {
+        "prompt": "昼間だけの観察への指摘を受け、協議会はどう対応したか。",
+        "options": [
+          {
+            "text": "最初の投票より詳しいので追加確認は不要とした",
+            "explanation": "観察が詳しくても全体像とはみなさなかった。"
+          },
+          {
+            "text": "残りの資金の使い道を決める前に再び現地を見ることにした",
+            "explanation": "夜の利用者の照明などの必要を確認するため、決定前に追加の訪問を計画した。"
+          },
+          {
+            "text": "夕方以降の利用を全面的に禁止した",
+            "explanation": "利用禁止は書かれていない。"
+          },
+          {
+            "text": "全ての要望を予算に関係なく実行した",
+            "explanation": "予算内で満たせない要望は記録に残した。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "The council arranged another visit before deciding where the remaining money should go."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f09-02",
+    "paragraphs": [
+      "Several months later, a customer asked whether a bowl was suitable for a microwave. The card beside it described the maker's careful experiments, but did not answer that question. The owner checked with the maker and added a separate use label. She kept the story, while making sure that readers could find the practical answer without having to infer it from a general claim about care. A moving account of someone's work did not establish every property of the finished object.",
+      "At a meeting with the makers, she shared the interview notes without identifying individual customers. One maker noticed that readers had taken a description of an old technique as a promise that every stage was done by hand. The card was revised to state which stages used tools. This did not make the work less valuable; it made the description more precise. The owner continued asking what customers noticed and what remained unclear. She treated the cards as information that needed checking, rather than as stories whose success could be judged only by how attractive they sounded."
+    ],
+    "rationale": "背景の物語と実用的事実の両立を読む。分詞、間接疑問、受動態、限定的な否定と情報の誤解・訂正を扱う。",
+    "questions": [
+      {
+        "prompt": "電子レンジについての質問から明らかになったことは何か。",
+        "options": [
+          {
+            "text": "作家の熱意を語れば全ての使用条件が証明できる",
+            "explanation": "作業への思いは完成品の全ての性質を確定しない。"
+          },
+          {
+            "text": "器の背景情報は全て削除すべきだ",
+            "explanation": "物語は維持し、別の使用表示を加えた。"
+          },
+          {
+            "text": "製作背景の説明と、特定の用途に使えるという情報は区別して確認すべきだ",
+            "explanation": "試行の物語は電子レンジ適否への答えでなく、作家に確認して実用表示を加えた。"
+          },
+          {
+            "text": "価格だけで電子レンジ適否が必ず判断できる",
+            "explanation": "価格から用途を推定したとは述べない。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "The card beside it described the maker's careful experiments, but did not answer that question."
+      },
+      {
+        "prompt": "古い技法についてのカードを修正したのはなぜか。",
+        "options": [
+          {
+            "text": "一部の読者が、全工程が手作業だという意味に受け取っていたため",
+            "explanation": "全工程が手作業という誤解に対応し、工具を使う工程を明記した。"
+          },
+          {
+            "text": "手作業という語を使えば必ず商品価値がなくなるため",
+            "explanation": "価値を下げるためではなく、説明の精度を上げる修正である。"
+          },
+          {
+            "text": "全工程で道具を使わないと新たに証明されたため",
+            "explanation": "道具を使う工程を説明している。"
+          },
+          {
+            "text": "購入者全員の名前を掲示するため",
+            "explanation": "個人を特定せずに聞き取りメモを共有した。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "The card was revised to state which stages used tools."
+      },
+      {
+        "prompt": "最後の段落で示されるカードの評価姿勢はどれか。",
+        "options": [
+          {
+            "text": "響きが魅力的なら事実確認は不要とする",
+            "explanation": "魅力的な響きだけによる評価を退ける。"
+          },
+          {
+            "text": "売上だけで全ての理解の変化を判定する",
+            "explanation": "最初から売上だけでなく理解を調べている。"
+          },
+          {
+            "text": "カードは一度完成したら変更しない",
+            "explanation": "実際に説明を修正し、確認を継続する。"
+          },
+          {
+            "text": "魅力だけでなく、理解された内容と不明点を継続して確かめる",
+            "explanation": "何に気づき何が不明かを尋ね、確認すべき情報としてカードを扱っている。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "The owner continued asking what customers noticed and what remained unclear."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f09-03",
+    "paragraphs": [
+      "The tutor later asked the learner to cover the correction and explain her first sentence aloud. She could often identify the problem, but sometimes repeated the rule without connecting it to the situation. For those entries, they added a question about the speaker's purpose. Choosing a suitable structure required attention to what the sentence was meant to do, not only to whether its words appeared on a list of common errors.",
+      "A week later, the learner tried a short task without opening the notebook. She then compared her choices with the selected entries and marked which difficulties had returned. A correct answer on one occasion did not mean that an entry could immediately be removed. Instead, she used several later attempts to decide what still needed practice. The notebook remained a tool for making choices visible, not a collection that had to grow forever. Entries that no longer helped could eventually be moved to a separate section, leaving space for problems that were still active in her own writing."
+    ],
+    "rationale": "修正記録を状況に合う表現選択へつなぐ。関係節、省略、動名詞、過去完了と反復確認の論理を扱う。",
+    "questions": [
+      {
+        "prompt": "規則を言えるのに状況と結び付けられないとき、何を加えたか。",
+        "options": [
+          {
+            "text": "話し手の目的についての問い",
+            "explanation": "文が何を意図して使われるかを考えるため、目的を尋ねる問いを加えた。"
+          },
+          {
+            "text": "誤りを一切隠さない全ページの複写",
+            "explanation": "全てを保存することが目的ではない。"
+          },
+          {
+            "text": "無関係な単語の一覧だけ",
+            "explanation": "よくある誤りの一覧だけでは構文選択に不十分と述べる。"
+          },
+          {
+            "text": "その記録の即時削除",
+            "explanation": "状況と規則を結ぶために記録を補う。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "For those entries, they added a question about the speaker's purpose."
+      },
+      {
+        "prompt": "一週間後、ノートを開かずに課題を行ったのは、本文の流れではどのような役割か。",
+        "options": [
+          {
+            "text": "一回成功した項目は永久に習得済みと保証する",
+            "explanation": "一度の正答では即削除できないとしている。"
+          },
+          {
+            "text": "ノートの内容を見なくても選べるか確かめ、戻ってきた難しさを見つける",
+            "explanation": "自力で解答した後に記録と照合し、再び現れた困難を印した。"
+          },
+          {
+            "text": "訂正文は全て誤りだと証明する",
+            "explanation": "正しいモデルの価値を否定していない。"
+          },
+          {
+            "text": "新しい状況で練習するのをやめる",
+            "explanation": "実際に短い課題を行っている。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "She then compared her choices with the selected entries and marked which difficulties had returned."
+      },
+      {
+        "prompt": "記録を別の欄へ移してよいのは、どのようなものか。",
+        "options": [
+          {
+            "text": "書いた直後の全記録",
+            "explanation": "書いてすぐに全て移すのではない。"
+          },
+          {
+            "text": "一度だけ偶然正解した項目全て",
+            "explanation": "一回の正答では削除の根拠にならない。"
+          },
+          {
+            "text": "複数回の練習を経て、今はもう役立たなくなった記録",
+            "explanation": "後の試行で必要な練習を見極め、役立たなくなった記録を移して現在の課題の余地を確保する。"
+          },
+          {
+            "text": "本人が理由を説明できない項目だけ",
+            "explanation": "説明できない項目は目的の問いなどを加えて練習する対象である。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "Entries that no longer helped could eventually be moved to a separate section, leaving space for problems that were still active in her own writing."
+      },
+      {
+        "prompt": "本文全体のノートづくりの目的として最も適切なのはどれか。",
+        "options": [
+          {
+            "text": "見える誤りをゼロにしてページの美しさだけを競う",
+            "explanation": "初めの方針では同じ誤りが反復し、実用的な記録へ変えた。"
+          },
+          {
+            "text": "生涯の全ての間違いを一冊に永久保存する",
+            "explanation": "選択的に残し、役立たない項目は移せるとしている。"
+          },
+          {
+            "text": "正しい例文を使う学習を全てやめる",
+            "explanation": "正しいモデルもなお重視している。"
+          },
+          {
+            "text": "自分の選択と修正理由を見える形にし、現在必要な練習に役立てる",
+            "explanation": "初判断・理由・状況を比較し、自力の課題でなお残る問題を見極める記録である。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "The notebook remained a tool for making choices visible, not a collection that had to grow forever."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f09-04",
+    "paragraphs": [
+      "For the next stage, volunteers asked a small group of shoppers to keep a simple record for one week. Each person noted shopping trips, whether a bag was needed, and whether an existing bag was used. This separated the number of people who owned a bag from the number of occasions on which they actually reused one.",
+      "Some pages were incomplete, so the club reported how many records had been returned and which days were missing. It did not fill empty spaces with assumed successful trips. Nor did it claim that one week represented every season or every kind of shopping. The new records answered a narrower question than the one implied by the original celebration of distribution totals.",
+      "Students also kept the two campaigns separate in their report. They could describe patterns within each group, but the shoppers had not been assigned at random. Differences between the groups might therefore reflect their earlier habits as well as the campaigns. Better questions made the report more useful without turning a small local project into proof of a universal rule."
+    ],
+    "rationale": "配布数と再使用、所有者数と機会数を区別する。間接疑問、関係前置詞、受動態、nor倒置と因果推論の限界を扱う。",
+    "questions": [
+      {
+        "prompt": "新しい記録で、袋を持っている人の数とは分けて調べたのは何か。",
+        "options": [
+          {
+            "text": "袋の色ごとの販売価格",
+            "explanation": "色別価格の調査ではない。"
+          },
+          {
+            "text": "全ての袋の製造時の排出量",
+            "explanation": "製造時の環境負荷は測っていない。"
+          },
+          {
+            "text": "既存の袋が実際に再使用された機会の数",
+            "explanation": "所有と再使用の実際の回数を区別することを目指した。"
+          },
+          {
+            "text": "店の総売上だけ",
+            "explanation": "売上は記録の対象として挙げていない。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "This separated the number of people who owned a bag from the number of occasions on which they actually reused one."
+      },
+      {
+        "prompt": "二つの企画の差を、そのまま企画の効果の差と断定できない理由は何か。",
+        "options": [
+          {
+            "text": "参加者を無作為に分けておらず、以前の習慣の差も影響し得るため",
+            "explanation": "各群内の傾向は記述できても、企画以前の違いが残る。"
+          },
+          {
+            "text": "一週間の記録が全季節の行動を完全に表すため",
+            "explanation": "一週間が全季節を代表するとは主張しない。"
+          },
+          {
+            "text": "返却されなかった記録を全て成功と数えたため",
+            "explanation": "空欄を成功と仮定して埋めることを避けた。"
+          },
+          {
+            "text": "買物客は誰も袋を必要としなかったため",
+            "explanation": "袋の必要の有無を記録したが、全員不要とは述べない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "Differences between the groups might therefore reflect their earlier habits as well as the campaigns."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f09-05",
+    "paragraphs": [
+      "Before the revised audition, the directors gave applicants a short description of the criteria and the paired task. They explained that changing an idea after listening to a partner could count as useful evidence, rather than as a failure to defend a prepared performance. Applicants would still have time to show individual preparation. The aim was to make the purpose of each part visible, not to replace one mysterious test with another.",
+      "Afterward, the judges compared their notes before choosing the cast. When two observers disagreed, they returned to a particular moment in the scene instead of describing an applicant simply as impressive or weak. They also considered whether a partner had allowed enough room for the other person to respond. A quiet performance could have more than one explanation. The group planned to review the criteria after rehearsals began, comparing the qualities noticed in the audition with the demands of shared work. Such a review could reveal weaknesses in the process, but it would not make a single selection decision free from uncertainty."
+    ],
+    "rationale": "公平を同一条件と関連能力を示す機会の両面から捉える。分詞句、関係節、譲歩、形式目的語とペア相手の影響を扱う。",
+    "questions": [
+      {
+        "prompt": "事前に、相手の話を聞いて考えを変えることの意味を説明したのはなぜか。",
+        "options": [
+          {
+            "text": "個人の準備を見せる機会を全てなくすため",
+            "explanation": "個人の準備を示す時間も維持する。"
+          },
+          {
+            "text": "協働に必要な適応を、準備の失敗と誤解されないようにするため",
+            "explanation": "変更を有用な証拠と扱い、用意した演技を守れなかった失敗と混同しないようにした。"
+          },
+          {
+            "text": "申込者に必ず同じ演技をさせるため",
+            "explanation": "相手に反応しながら演じる力も見ようとしている。"
+          },
+          {
+            "text": "どの意見も無条件で同じ点数とするため",
+            "explanation": "明確な基準で具体的な行動を観察する。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "They explained that changing an idea after listening to a partner could count as useful evidence, rather than as a failure to defend a prepared performance."
+      },
+      {
+        "prompt": "審査員の意見が分かれたとき、何を手がかりにしたか。",
+        "options": [
+          {
+            "text": "最初の印象を表す一語だけ",
+            "explanation": "印象的・弱いという漠然とした形容に頼らない。"
+          },
+          {
+            "text": "申込者の名前の響き",
+            "explanation": "名前で選ぶとは書かれていない。"
+          },
+          {
+            "text": "場面の中の具体的な瞬間と、相手が応答の余地を与えたかどうか",
+            "explanation": "具体的な場面に戻り、相手との関係が演技の見え方に影響することも検討した。"
+          },
+          {
+            "text": "全員の意見を記録から消すこと",
+            "explanation": "観察メモを比較している。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "They also considered whether a partner had allowed enough room for the other person to respond."
+      },
+      {
+        "prompt": "稽古が始まってから審査基準を見直す計画について、本文の立場はどれか。",
+        "options": [
+          {
+            "text": "実際の共同作業との対応を確かめて弱点を発見できるが、選抜の不確実さは残る",
+            "explanation": "現場の要求との比較は改善に役立つが、一回の選抜を完全にはしない。"
+          },
+          {
+            "text": "後で見直せば過去の選抜は必ず完全だったと証明できる",
+            "explanation": "選抜に不確実さが残ると明言している。"
+          },
+          {
+            "text": "最初の審査が終われば実際の稽古を見る意味はない",
+            "explanation": "実際の共同作業の要求と審査で見えた特性を比較する。"
+          },
+          {
+            "text": "ペアで静かだった人は必ず能力がないとする",
+            "explanation": "静かな演技には複数の理由があり得ると述べる。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "Such a review could reveal weaknesses in the process, but it would not make a single selection decision free from uncertainty."
+      }
+    ]
+  }
+]
