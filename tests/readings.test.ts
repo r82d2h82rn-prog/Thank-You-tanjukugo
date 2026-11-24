@@ -2,20 +2,21 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {readingRevisions as enriched} from '../src/readingRevisions';
 import { readingCatalog as data } from '../src/readingCatalog';
-import checkpoint from '../analysis/reading_checkpoint.json';
+import legacy from '../content/readings/drafts.json';
+import advanced from '../content/readings/advanced.json';
+const raw=[...legacy,...advanced];
 import { emptyState, decodeState, answer } from '../src/model';
 import { gradeReading, Passage, readingAccess, recordReading, unlockReading } from '../src/readings';
 const passages=data as Passage[];
 test('reading drafts match the measured quota, have evidence and exact syntax offsets',()=>{
  assert.ok(passages.length>=200 && passages.length<=400);
- assert.equal(checkpoint.complete,passages.length===400);
- assert.equal(passages.reduce((n,p)=>n+p.questions.length,0),checkpoint.totalQuestions+enriched.reduce((n,p)=>n+p.questions.length-3,0));
- assert.equal(passages.length,checkpoint.authoredPassages);
+ assert.equal(raw.length,passages.length);
+ assert.equal(passages.reduce((n,p)=>n+p.questions.length,0),raw.reduce((n,p)=>n+p.questions.length,0)+enriched.reduce((n,p)=>n+p.questions.length-raw.find(x=>x.id===p.id)!.questions.length,0));
  assert.equal(new Set(passages.map(p=>p.id)).size,passages.length);
  for(const level of [1,2] as const){
   const pool=passages.filter(p=>p.level===level);assert.equal(pool.length,100);
   assert.deepEqual(Array.from({length:10},(_,i)=>pool.filter(p=>p.format===i+1).length),[10,10,10,10,10,10,10,10,10,10]);
-  assert.deepEqual(checkpoint.levels[String(level) as '1'|'2'].countsByFormat,[10,10,10,10,10,10,10,10,10,10]);
+  assert.deepEqual(Array.from({length:10},(_,i)=>raw.filter(p=>p.level===level&&p.format===i+1).length),[10,10,10,10,10,10,10,10,10,10]);
  }
  for(const p of passages){
   // Apply the user's revised Level 2 ranges only to enriched passages; legacy drafts retain their original bounds.

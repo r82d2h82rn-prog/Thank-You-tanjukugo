@@ -22,5 +22,6 @@ import level2Summary from '../content/readings/enriched-level2-summary5.json';
 import level2SummaryNext from '../content/readings/enriched-level2-summary-next5.json';
 import level2Context from '../content/readings/enriched-level2-context5.json';
 import level2ContextNext from '../content/readings/enriched-level2-context-next5.json';
+import level3Gap from '../content/readings/l3_f02.json';
 // Each immutable overlay retains the source passage and question identities.
-export const readingRevisions=[...lower,...level3,...level4,...level2Next,...level3Next,...level4Next,...level2Gap,...level2GapNext,...level2SentenceGap,...level2SentenceGapNext,...level2Title,...level2TitleNext,...level2Reference,...level2ReferenceNext,...level2Inference,...level2InferenceNext,...level2Insert,...level2InsertNext,...level2Order,...level2OrderNext,...level2Summary,...level2SummaryNext,...level2Context,...level2ContextNext];
+export const readingRevisions=[...lower,...level3,...level4,...level2Next,...level3Next,...level4Next,...level2Gap,...level2GapNext,...level2SentenceGap,...level2SentenceGapNext,...level2Title,...level2TitleNext,...level2Reference,...level2ReferenceNext,...level2Inference,...level2InferenceNext,...level2Insert,...level2InsertNext,...level2Order,...level2OrderNext,...level2Summary,...level2SummaryNext,...level2Context,...level2ContextNext,...level3Gap];

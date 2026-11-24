@@ -1,0 +1,1396 @@
+[
+  [
+    {
+      "prompt": "空所[1]に最も適切な語句はどれか。",
+      "options": [
+        [
+          "rather than",
+          "判断の条件と忠実な反復を対比する。"
+        ],
+        [
+          "regardless of",
+          "反復の仕方を無関係とする全面否定ではない。"
+        ],
+        [
+          "in addition to",
+          "等しく追加するのでなく重点の違いを示す。"
+        ],
+        [
+          "because of",
+          "反復を根拠に判断時点が決まる話ではない。"
+        ]
+      ],
+      "quote": "What the document preserved",
+      "meaning": "〜ではなく、〜よりむしろ"
+    },
+    {
+      "prompt": "最初の手順書の主な不足は何か。",
+      "options": [
+        [
+          "動作の選択や停止を判断する根拠",
+          "順序は残っても選ぶ理由が不足した。"
+        ],
+        [
+          "工具や動作の詳しい記述",
+          "impressive detailとある。"
+        ],
+        [
+          "全ての写真の存在",
+          "写真はあるが小さな変化が見えない。"
+        ],
+        [
+          "経験者が作業した事実",
+          "経験者が執筆している。"
+        ]
+      ],
+      "quote": "the reasons for choosing one action over another"
+    },
+    {
+      "prompt": "見直しの日付が保証しないものは何か。",
+      "options": [
+        [
+          "全ての対象への現在の適合",
+          "日付とあらゆる対象への適合を区別する。"
+        ],
+        [
+          "その節が確認された時点",
+          "日付は最新の見直しを示す。"
+        ],
+        [
+          "以前の版を見直した事実",
+          "最新の見直しが記される。"
+        ],
+        [
+          "記録上の日付の存在",
+          "日付は各節に置かれる。"
+        ]
+      ],
+      "quote": "did not guarantee that the advice remained suitable"
+    },
+    {
+      "prompt": "初心者による試用が示したのは何か。",
+      "options": [
+        [
+          "警告に気づくことと深刻さを判断できることは別",
+          "気づいたが援助の要否は分からなかった。"
+        ],
+        [
+          "専門的作業を初心者に全て任せられる",
+          "専門作業は役割外のまま。"
+        ],
+        [
+          "書面は全ての指導を不要にする",
+          "指導者への経路も加えた。"
+        ],
+        [
+          "曲がりの警告は誰にも読めない",
+          "newcomerは警告を認識した。"
+        ]
+      ],
+      "quote": "could not tell whether the movement she saw was serious enough"
+    },
+    {
+      "prompt": "筆者が支持しそうな引継ぎ方法はどれか。",
+      "options": [
+        [
+          "判断の根拠・例外・相談先を残し、適用限界も示す",
+          "結論のquestions and limitsに合う。"
+        ],
+        [
+          "成功した動作だけを最短で列挙する",
+          "最初の不足を繰り返す。"
+        ],
+        [
+          "全ての将来事例を予測済みと宣言する",
+          "予見の限界を認めている。"
+        ],
+        [
+          "初心者の変更を無条件に正式手順とする",
+          "変更は指導者が検討できる。"
+        ]
+      ],
+      "quote": "preserving questions and limits as well as successful movements"
+    }
+  ],
+  [
+    {
+      "prompt": "空所[1]に最も適切な語はどれか。",
+      "options": [
+        [
+          "unless",
+          "同意がない限り共有しないという必要条件。"
+        ],
+        [
+          "because",
+          "同意を共有しない理由にはしない。"
+        ],
+        [
+          "although",
+          "同意を逆接で無視する方針ではない。"
+        ],
+        [
+          "once",
+          "同意後に共有を禁じる意味ではない。"
+        ]
+      ],
+      "quote": "different contributions had been treated",
+      "meaning": "〜しない限り"
+    },
+    {
+      "prompt": "提供者の異議の対象は何か。",
+      "options": [
+        [
+          "種の借用を全ての話の複製許可と同一視したこと",
+          "物と付随情報の許可の混同を問う。"
+        ],
+        [
+          "近隣住民が豆を育てること",
+          "neighbors growing the beansは歓迎。"
+        ],
+        [
+          "個人の知識がどんな形でも共有されること",
+          "全知識の非公開を要求していない。"
+        ],
+        [
+          "種の来歴が何も残っていないこと",
+          "家族の話が公開案内に載った。"
+        ]
+      ],
+      "quote": "had not expected a family account to circulate independently"
+    },
+    {
+      "prompt": "空欄について妥当な解釈はどれか。",
+      "options": [
+        [
+          "非公開か出所未確認かなど、状態を区別すべきだ",
+          "利用不可と根拠未確認を区別する。"
+        ],
+        [
+          "品種には歴史がないと確定する",
+          "historyがない証拠とはしない。"
+        ],
+        [
+          "提供者に話す価値のあることがない",
+          "donorの価値を否定しない。"
+        ],
+        [
+          "不明な部分はもっともらしい話で埋める",
+          "seamless accountの危険を指摘する。"
+        ]
+      ],
+      "quote": "distinguish an unavailable account from one whose source"
+    },
+    {
+      "prompt": "利用目的が以前の同意に含まれないときはどうするか。",
+      "options": [
+        [
+          "再び提供者へ尋ねる",
+          "proposed use was not coveredならask again。"
+        ],
+        [
+          "全記録を直ちに破棄する",
+          "廃止ではなく確認経路を設ける。"
+        ],
+        [
+          "以前の同意を無制限に広げる",
+          "現在の希望と異なり得る。"
+        ],
+        [
+          "空欄を自由利用の印とする",
+          "空欄は自由利用を意味しない。"
+        ]
+      ],
+      "quote": "ask the contributor again if a proposed use was not covered"
+    },
+    {
+      "prompt": "完全そうな記述より有用になり得るのはなぜか。",
+      "options": [
+        [
+          "何が根拠で何を共有できないか判断できるから",
+          "根拠と条件の違いを見えるようにした。"
+        ],
+        [
+          "情報の量が少なければ常に正確だから",
+          "量だけの基準ではない。"
+        ],
+        [
+          "個人の記憶は全て確定事実だから",
+          "source未確認という状態も残す。"
+        ],
+        [
+          "分類が一つなら条件も同じだから",
+          "まさに同一許可の想定を修正した。"
+        ]
+      ],
+      "quote": "apparent completeness was a poor substitute"
+    },
+    {
+      "prompt": "終段落の主張に最も近いものはどれか。",
+      "options": [
+        [
+          "共有は条件を確認し直せる関係の中で続けられる",
+          "clarified and revisedと交流継続に合う。"
+        ],
+        [
+          "同意を一度得れば以後の問いは不要",
+          "present wishesの確認が必要。"
+        ],
+        [
+          "全不一致が消えない限り交流は禁止",
+          "不一致は残るが収集物は育つ。"
+        ],
+        [
+          "情報を借りれば所有する物と同じに扱える",
+          "最後に退けた思い込みである。"
+        ]
+      ],
+      "quote": "permission could be clarified and revised"
+    }
+  ],
+  [
+    {
+      "prompt": "空所[1]に最も適切な語はどれか。",
+      "options": [
+        [
+          "proxy",
+          "アクセスそのものでなく代理指標。"
+        ],
+        [
+          "destination",
+          "開館時間は移動の終点ではない。"
+        ],
+        [
+          "obstacle",
+          "時間増は障害そのものではない。"
+        ],
+        [
+          "guarantee",
+          "利用機会の保証とはしない。"
+        ]
+      ],
+      "quote": "the opportunity that residents actually had",
+      "meaning": "代理指標"
+    },
+    {
+      "prompt": "開館時間の数値に問題があるとされた理由は何か。",
+      "options": [
+        [
+          "正確でも利用可能な機会全体を表さない場合がある",
+          "バスや窓口の条件が欠ける。"
+        ],
+        [
+          "記録した時間が全て誤りだった",
+          "number was accurateとある。"
+        ],
+        [
+          "延長が誰の助けにもならなかった",
+          "Neither accountはその結論を否定。"
+        ],
+        [
+          "建物に入れば全ての用事が完了する",
+          "予約品の窓口が閉まる例がある。"
+        ]
+      ],
+      "quote": "not automatically an additional hour of usable service"
+    },
+    {
+      "prompt": "少数の移動記録でできることとできないことはどれか。",
+      "options": [
+        [
+          "欠けた条件を発見できるが住民全体の頻度は確定できない",
+          "定性的発見と頻度推定を分ける。"
+        ],
+        [
+          "全住民の困難の割合を確定できる",
+          "without establishing how commonとある。"
+        ],
+        [
+          "個人の好み全てを図書館が制御できる",
+          "did not require treating every preferenceとある。"
+        ],
+        [
+          "数字の指標を全て廃止すべきと証明できる",
+          "opening-hours figureは残す。"
+        ]
+      ],
+      "quote": "without establishing how common each difficulty was"
+    },
+    {
+      "prompt": "確認日も残したのはなぜか。",
+      "options": [
+        [
+          "図書館の時刻が同じでも交通の条件は変わり得る",
+          "指標と実際の関係が時間で変わる。"
+        ],
+        [
+          "確認日があれば接続を永久に保証できる",
+          "不明なら未確認と示す。"
+        ],
+        [
+          "過去の情報は全て利用禁止だから",
+          "古い観察を現在の保証にしない。"
+        ],
+        [
+          "日付だけで予約品を受け取れるから",
+          "窓口の利用条件も別途必要。"
+        ]
+      ],
+      "quote": "a transport connection could change"
+    },
+    {
+      "prompt": "単一得点への合算についての研究者の問いは何を明らかにするか。",
+      "options": [
+        [
+          "重みや数える障害の選択にも価値判断が含まれる",
+          "式は判断を消さず内部に移す。"
+        ],
+        [
+          "計算式なら判断を完全に消せる",
+          "would not eliminate judgmentとある。"
+        ],
+        [
+          "全障害の重みは必ず等しい",
+          "誰の優先事項かを問う。"
+        ],
+        [
+          "得点化はどの用途にも無価値",
+          "全得点化の禁止とは述べない。"
+        ]
+      ],
+      "quote": "whose priorities that weight would represent"
+    },
+    {
+      "prompt": "結論のresourcesとopportunitiesの関係はどれか。",
+      "options": [
+        [
+          "資源は機会を改善し得るが両者のつながりを調べる必要がある",
+          "改善可能性と検討の必要を両立する。"
+        ],
+        [
+          "資源が多ければ全員に同じ機会が必ずある",
+          "同一視を否定する事例がある。"
+        ],
+        [
+          "機会は資源と完全に無関係である",
+          "could improveを認める。"
+        ],
+        [
+          "住民の全条件を一つの指標で完全に表せる",
+          "境界を明示する立場である。"
+        ]
+      ],
+      "quote": "did not remove the need to examine the link"
+    },
+    {
+      "prompt": "筆者がよい指標に求めるものは何か。",
+      "options": [
+        [
+          "有用性の根拠と限界を説明し、条件変化で見直せること",
+          "最後の関係節の定義に合う。"
+        ],
+        [
+          "意思決定を例外なく簡単にすること",
+          "not one that made every decision simple。"
+        ],
+        [
+          "常に一つの地区だけを最高にすること",
+          "順位自体を目的にしていない。"
+        ],
+        [
+          "説明より数字を大きく見せること",
+          "精度と根拠の区別を重視。"
+        ]
+      ],
+      "quote": "whose usefulness could be explained, questioned, and reconsidered"
+    }
+  ],
+  [
+    {
+      "prompt": "空所[1]に最も適切な語はどれか。",
+      "options": [
+        [
+          "provisional",
+          "あり得るが未確認なので暫定的。"
+        ],
+        [
+          "irrelevant",
+          "関連する手がかりに基づいている。"
+        ],
+        [
+          "exhaustive",
+          "完全に網羅した説明ではない。"
+        ],
+        [
+          "anonymous",
+          "印が示すのは匿名性でなく確定状態。"
+        ]
+      ],
+      "quote": "the connection was plausible but had not been independently confirmed",
+      "meaning": "暫定的な"
+    },
+    {
+      "prompt": "来館者の記憶は何を可能にしたか。",
+      "options": [
+        [
+          "新日付を確定はしないが、問いを開き直す理由となった",
+          "識別の誤りもあり得るが再検討の根拠。"
+        ],
+        [
+          "来館者の同定が必ず正しいと証明した",
+          "identification might be mistaken。"
+        ],
+        [
+          "写真の撮影者を確定した",
+          "後でも撮影者は未解決。"
+        ],
+        [
+          "元の封筒が偽造だったと証明した",
+          "封筒の偽造は述べていない。"
+        ]
+      ],
+      "quote": "a reason to reopen a question"
+    },
+    {
+      "prompt": "同じくらい断定的な説明へ置換する問題は何か。",
+      "options": [
+        [
+          "不確かさを解決せず隠してしまう",
+          "equally confidentな置換の帰結。"
+        ],
+        [
+          "全ての解釈を等しく確定する必要がある",
+          "equally well supportedとしない。"
+        ],
+        [
+          "元の封筒だけで全情報が確定する",
+          "資料を比較して検討する。"
+        ],
+        [
+          "公開文書は一切改訂できなくなる",
+          "複数回の改訂を行っている。"
+        ]
+      ],
+      "quote": "would have hidden the uncertainty rather than resolved it"
+    },
+    {
+      "prompt": "担当者が区別した二つの信頼は何か。",
+      "options": [
+        [
+          "特定の同定の確かさと、館が証拠を保存・検討することへの信頼",
+          "formerとlatterの参照先。"
+        ],
+        [
+          "古い写真の価格と新しい説明の価格",
+          "価格の比較ではない。"
+        ],
+        [
+          "職員同士の一致と全住民の同意",
+          "全員同意を求めていない。"
+        ],
+        [
+          "記憶を全面否定する態度と文書を全面否定する態度",
+          "双方の証拠を扱う。"
+        ]
+      ],
+      "quote": "confidence in a particular identification"
+    },
+    {
+      "prompt": "終段落の目的を最もよく表すのはどれか。",
+      "options": [
+        [
+          "公表する確かさを、その根拠に釣り合わせる",
+          "見かけのcertaintyがreasonsを超えない。"
+        ],
+        [
+          "全ての問いを永久に未解決にする",
+          "not to keep every question unanswered。"
+        ],
+        [
+          "公開した主張は批判対象から外す",
+          "訂正と根拠を公開する。"
+        ],
+        [
+          "新資料が一部を支えれば全項目を確定する",
+          "撮影者など残る不明点を区別。"
+        ]
+      ],
+      "quote": "did not exceed the reasons available for making it"
+    }
+  ],
+  [
+    {
+      "prompt": "空所[1]に最も適切な語はどれか。",
+      "options": [
+        [
+          "whereas",
+          "選択した人々の目的の違いを対比する。"
+        ],
+        [
+          "therefore",
+          "片方が他方の結果という関係ではない。"
+        ],
+        [
+          "for example",
+          "第二集団は第一集団の具体例ではない。"
+        ],
+        [
+          "provided that",
+          "第二集団を第一集団成立の条件にしない。"
+        ]
+      ],
+      "quote": "The chronological recording was selected",
+      "meaning": "一方で"
+    },
+    {
+      "prompt": "滞在時間の差だけから音声の効果を断定できない理由は何か。",
+      "options": [
+        [
+          "選ぶ前から来訪目的が違っていた可能性がある",
+          "prior preferencesと版の関連がある。"
+        ],
+        [
+          "両録音が必ず同じ効果と証明された",
+          "効果ゼロを確定はしない。"
+        ],
+        [
+          "全員が同じ版を聴いていた",
+          "二つの版が選ばれている。"
+        ],
+        [
+          "機器が全て故障していた",
+          "機器の一律故障は述べない。"
+        ]
+      ],
+      "quote": "even if the recordings themselves had produced no difference"
+    },
+    {
+      "prompt": "無作為割当の提案に残る検討事項は何か。",
+      "options": [
+        [
+          "利用者の目的に合わない導入を拒む可能性にも配慮すること",
+          "比較の強さと利用者の選択の両立。"
+        ],
+        [
+          "割り当てれば全ての理解が同じになること",
+          "同じ理解は保証しない。"
+        ],
+        [
+          "来館者に目的を持たせないこと",
+          "目的を否定する提案ではない。"
+        ],
+        [
+          "既存の数字の名称だけ変えること",
+          "新たな計画が必要。"
+        ]
+      ],
+      "quote": "might reasonably refuse an introduction"
+    },
+    {
+      "prompt": "長い利用時間に複数の意味があるのはなぜか。",
+      "options": [
+        [
+          "集中だけでなく休止や迷いの時間も含み得る",
+          "計時の対象と行動を区別する。"
+        ],
+        [
+          "長ければ常に理解が深い",
+          "staying longerの妥当性を問い直す。"
+        ],
+        [
+          "短い訪問は必ず不満足",
+          "quickly satisfiedの例がある。"
+        ],
+        [
+          "機器の時間が心的理解を直接測る",
+          "direct records of understandingにしない。"
+        ]
+      ],
+      "quote": "was not necessarily a continuous period of attention"
+    },
+    {
+      "prompt": "一人の聞き手の誤解に基づく修正を、本文はどう限定したか。",
+      "options": [
+        [
+          "全員の代表とせず、特定のつなぎを改善した",
+          "single accountと改善箇所を区別。"
+        ],
+        [
+          "全員が同じ対象を取り違えたとした",
+          "every listenerとはしない。"
+        ],
+        [
+          "音声の全内容を廃止した",
+          "transitionを修正した。"
+        ],
+        [
+          "質問を覚えていれば理解は正しいとした",
+          "想起と正しい対応付けは違う。"
+        ]
+      ],
+      "quote": "without claiming that this single account represented every listener"
+    },
+    {
+      "prompt": "筆者が評価に求めるものは何か。",
+      "options": [
+        [
+          "観察・推論・未検証を区別し次の設計に役立てる",
+          "最終文が評価の役割と限界を述べる。"
+        ],
+        [
+          "単一の勝者をどんな根拠でも決める",
+          "not a simple winner。"
+        ],
+        [
+          "数値を全て捨て経験談だけにする",
+          "timing recordsも残した。"
+        ],
+        [
+          "条件が同じ機器なら因果効果は確定とする",
+          "利用者の選択が交絡し得る。"
+        ]
+      ],
+      "quote": "what had been observed, what had been inferred"
+    }
+  ],
+  [
+    {
+      "prompt": "空所[1]に最も適切な語はどれか。",
+      "options": [
+        [
+          "reciprocal",
+          "双方が提供し学べる相互性。"
+        ],
+        [
+          "incidental",
+          "偶然の副産物ではなく設計変更。"
+        ],
+        [
+          "uniform",
+          "同一量の提供は要求しない。"
+        ],
+        [
+          "irreversible",
+          "変更し続ける余地を残す。"
+        ]
+      ],
+      "quote": "both groups could name something",
+      "meaning": "相互に与え合う"
+    },
+    {
+      "prompt": "最初の登録方法が見えにくくしたものは何か。",
+      "options": [
+        [
+          "新来者が持つ教える経験や提供できる知識",
+          "必要な助けしか尋ねなかった。"
+        ],
+        [
+          "地元表現を学ぶ必要そのもの",
+          "助けが必要なことは記録した。"
+        ],
+        [
+          "地元住民の全員の出席日数",
+          "出席日の隠蔽ではない。"
+        ],
+        [
+          "交流会の開催場所",
+          "場所の問題ではない。"
+        ]
+      ],
+      "quote": "experience remained largely invisible"
+    },
+    {
+      "prompt": "reciprocalを等量提供としない理由は何か。",
+      "options": [
+        [
+          "目的を決める機会が重要で、必要量の完全な等しさではない",
+          "誰がpurposeを定められるかを重視。"
+        ],
+        [
+          "全員が同じ語彙を話さなければならない",
+          "量や語数の統一は求めない。"
+        ],
+        [
+          "一方の実用支援の必要は否定すべきだから",
+          "immediate needは否定しない。"
+        ],
+        [
+          "貢献する機会を与えない方が公平だから",
+          "双方に提供機会を開く。"
+        ]
+      ],
+      "quote": "who could define the purpose of the encounter"
+    },
+    {
+      "prompt": "文化の代表を演じたくないという希望はどう扱われたか。",
+      "options": [
+        [
+          "相互性の一部として尊重された",
+          "機会と義務を分けた。"
+        ],
+        [
+          "貢献に失敗した証拠とされた",
+          "rather than evidence of failure。"
+        ],
+        [
+          "参加者の変更要求を禁止した",
+          "別のarrangementを求められる。"
+        ],
+        [
+          "全員の学習目標が不要とされた",
+          "学びたいことを挙げられる。"
+        ]
+      ],
+      "quote": "part of reciprocity"
+    },
+    {
+      "prompt": "出席者数だけでは分からないのは何か。",
+      "options": [
+        [
+          "参加者が方向を決める機会を持ったか",
+          "割当役割を受け入れただけとの区別。"
+        ],
+        [
+          "部屋へ来た延べ回数",
+          "出席数はまさに数える対象。"
+        ],
+        [
+          "名簿上の参加者数",
+          "数の記録で確認できる。"
+        ],
+        [
+          "開催した会場の広さの数値だけ",
+          "本文が評価する主要な問いではない。"
+        ]
+      ],
+      "quote": "Counting attendance alone would not reveal"
+    },
+    {
+      "prompt": "要約を参加者が訂正できることの意味は何か。",
+      "options": [
+        [
+          "交流の評価資料の作り方にも相互性を及ぼす",
+          "production of evidenceにも原則が及ぶ。"
+        ],
+        [
+          "全解釈の一致を保証する",
+          "did not guarantee agreement。"
+        ],
+        [
+          "主催者の説明を参加者の唯一の声とする",
+          "取り違えを防ぐ機会。"
+        ],
+        [
+          "不一致を必ず公開記録から削除する",
+          "differenceを記録できる。"
+        ]
+      ],
+      "quote": "the production of evidence about the exchange"
+    },
+    {
+      "prompt": "筆者の立場を最もよく表すものはどれか。",
+      "options": [
+        [
+          "実用支援を保ちつつ、役割と目的を問い直せる関係を続ける",
+          "最後の二文と限定的成果を統合する。"
+        ],
+        [
+          "支援の受け手は知識を持たないと仮定する",
+          "empty containersという見方を拒む。"
+        ],
+        [
+          "一回の交流で地域の全不均衡が消えたとする",
+          "did not establish disappearance。"
+        ],
+        [
+          "数量が同じでない交流は全て拒む",
+          "perfect balanceの要求ではない。"
+        ]
+      ],
+      "quote": "the continuing possibility of changing who asked"
+    }
+  ],
+  [
+    {
+      "prompt": "空所[1]に最も適切な語はどれか。",
+      "options": [
+        [
+          "therefore",
+          "外観だけでは目的が定まらないため目標を分ける。"
+        ],
+        [
+          "nevertheless",
+          "直前の指摘への逆接ではない。"
+        ],
+        [
+          "similarly",
+          "同じ行為の並列でなく帰結。"
+        ],
+        [
+          "meanwhile",
+          "単なる時間の同時性ではない。"
+        ]
+      ],
+      "quote": "Their questions showed that choosing a past appearance",
+      "meaning": "したがって"
+    },
+    {
+      "prompt": "専門家の問いは何を否定したか。",
+      "options": [
+        [
+          "古い写真一枚が現在の再生目的を自動的に定めるという考え",
+          "写真の範囲と現在の条件を問う。"
+        ],
+        [
+          "写真がどんな証拠にもならないという考えを支持した",
+          "Neither expertは全面否定を退ける。"
+        ],
+        [
+          "運河を改善する必要性全て",
+          "neglectedのままにせよとはしない。"
+        ],
+        [
+          "住民への相談が許されること",
+          "住民の利用希望を聞く。"
+        ]
+      ],
+      "quote": "not the same as choosing a defensible purpose"
+    },
+    {
+      "prompt": "改訂案の説明が示す必要があったものは何か。",
+      "options": [
+        [
+          "各選択の目的と、目的間の取捨選択",
+          "which choices served which goals。"
+        ],
+        [
+          "全目的が必ず同時に最大化した証明",
+          "tensionsは消えない。"
+        ],
+        [
+          "古い写真との類似だけ",
+          "present needsも根拠。"
+        ],
+        [
+          "専門調査が以後不要という結論",
+          "specialist investigationはなお必要。"
+        ]
+      ],
+      "quote": "where one goal had been limited to protect another"
+    },
+    {
+      "prompt": "目標を後で変更する際、必要とされたものは何か。",
+      "options": [
+        [
+          "他者が吟味できる理由",
+          "changed target自体を公開の議論へ。"
+        ],
+        [
+          "起きた結果を都合よく成功と呼ぶだけの説明",
+          "merely convenient descriptionを拒む。"
+        ],
+        [
+          "目標の変更を見えなくすること",
+          "retain distinction throughout。"
+        ],
+        [
+          "写真を別の時代のものに取り替えることだけ",
+          "画像差替えの提案ではない。"
+        ]
+      ],
+      "quote": "reasons that others could inspect"
+    },
+    {
+      "prompt": "最後のrestorationの捉え方はどれか。",
+      "options": [
+        [
+          "歴史を踏まえた現在の意図的選択で、後の評価も必要",
+          "deliberate interventionと評価基盤。"
+        ],
+        [
+          "人間の判断なしに過去をそのまま再現すること",
+          "明確に否定する比喩。"
+        ],
+        [
+          "過去の記録を使わないこと",
+          "history remained important。"
+        ],
+        [
+          "どの基準でも異論の出ない完成状態",
+          "every disputeは解消しない。"
+        ]
+      ],
+      "quote": "a deliberate intervention informed by history"
+    }
+  ],
+  [
+    {
+      "prompt": "空所[1]に最も適切な語はどれか。",
+      "options": [
+        [
+          "compatible",
+          "新ソフトで開ける互換性の限定。"
+        ],
+        [
+          "identical",
+          "ソフトとファイルの同一ではない。"
+        ],
+        [
+          "permanent",
+          "永久保存の保証ではない。"
+        ],
+        [
+          "independent",
+          "新システムから独立する話ではない。"
+        ]
+      ],
+      "quote": "the program could open it without reporting an error",
+      "meaning": "互換性のある"
+    },
+    {
+      "prompt": "変換で失われた重要な区別は何か。",
+      "options": [
+        [
+          "未実施と実施失敗という異なる経緯",
+          "emptyと別記号がmissingへ統合。"
+        ],
+        [
+          "全ての数値の大小",
+          "visible numberは変更なし。"
+        ],
+        [
+          "元の全ての日付",
+          "全日付の消失は述べない。"
+        ],
+        [
+          "新ソフトの名前と版だけ",
+          "記録の意味の問題である。"
+        ]
+      ],
+      "quote": "two different histories appear identical"
+    },
+    {
+      "prompt": "職員の説明が一致しなかったときはどうしたか。",
+      "options": [
+        [
+          "単一ラベルへ無理に断定せず不確かさを残す",
+          "required a single labelだけでは選ばない。"
+        ],
+        [
+          "新ソフトが必要とするので一解釈を選ぶ",
+          "退けた対応である。"
+        ],
+        [
+          "長年の職員の話を全て正しいとする",
+          "用途が事業で異なった。"
+        ],
+        [
+          "原記録を直ちに消す",
+          "unchanged copyを保持。"
+        ]
+      ],
+      "quote": "recorded the uncertainty instead of selecting one interpretation"
+    },
+    {
+      "prompt": "難しい事例を試験に含めた理由は何か。",
+      "options": [
+        [
+          "欠落の種類など、変換が壊し得る区別を検討するため",
+          "difficult casesは試験対象の一部。"
+        ],
+        [
+          "全件を成功したように見せるため",
+          "都合のよい選択を避ける。"
+        ],
+        [
+          "処理しやすい例だけが代表的だから",
+          "complete entriesだけでは気づきにくい。"
+        ],
+        [
+          "例外は分析前に必ず削除すべきだから",
+          "明確に否定する。"
+        ]
+      ],
+      "quote": "what happened to different kinds of absence"
+    },
+    {
+      "prompt": "短い注記と詳細記録への経路の役割は何か。",
+      "options": [
+        [
+          "会議にいなかった利用者も留保を吟味できるようにする",
+          "後のusersの判断を支える。"
+        ],
+        [
+          "全将来分析の適切さを保証する",
+          "could not guarantee。"
+        ],
+        [
+          "原記録への照会を禁止する",
+          "route to fuller recordを提供。"
+        ],
+        [
+          "変換をなかったことにする",
+          "変換の意味を説明する。"
+        ]
+      ],
+      "quote": "without having attended the meetings"
+    },
+    {
+      "prompt": "筆者が区別する必要性と十分性はどれか。",
+      "options": [
+        [
+          "互換性は実用上必要だが意味の保存の全てではない",
+          "結論のnot complete description。"
+        ],
+        [
+          "開ければ元の意味は必ず全て同じ",
+          "counterexampleが本文の中心。"
+        ],
+        [
+          "数値が同じなら全分類の意味も同じ",
+          "二種類のabsenceが消えた。"
+        ],
+        [
+          "不完全な変換は何にも使えない",
+          "usable by new toolsも成果。"
+        ]
+      ],
+      "quote": "a necessary practical achievement"
+    }
+  ],
+  [
+    {
+      "prompt": "空所[1]に最も適切な語はどれか。",
+      "options": [
+        [
+          "nevertheless",
+          "流暢さの尺度では不成功でも重要な変化がある。"
+        ],
+        [
+          "therefore",
+          "不成功の因果結果とするのでなく対比。"
+        ],
+        [
+          "for instance",
+          "前の不成功の例示ではない。"
+        ],
+        [
+          "otherwise",
+          "条件未達の別の帰結ではない。"
+        ]
+      ],
+      "quote": "By those measures",
+      "meaning": "それにもかかわらず"
+    },
+    {
+      "prompt": "回想のためらいを戻すことは、何を示すか。",
+      "options": [
+        [
+          "中断が表現の目的に関わる改善になり得る",
+          "留保を戻すため一時的に流暢さが減った。"
+        ],
+        [
+          "台詞の速度だけで全進歩が測れる",
+          "単純な回数ではdelayになる。"
+        ],
+        [
+          "全てのためらいは舞台から除くべき",
+          "一律の削除を修正した。"
+        ],
+        [
+          "元の回想は完全に確定した事実だった",
+          "uncertain recollectionである。"
+        ]
+      ],
+      "quote": "Restoring those qualifications required"
+    },
+    {
+      "prompt": "演出者の反論が警戒したものは何か。",
+      "options": [
+        [
+          "過程の価値を、上演に至らないことの都合のよい説明にすること",
+          "processの無条件美化を防ぐ。"
+        ],
+        [
+          "全ての話合いが無価値であること",
+          "thoughtful discussionを全面否定しない。"
+        ],
+        [
+          "住民の意見を聞くこと自体",
+          "相談を改善に使っている。"
+        ],
+        [
+          "台詞を覚えることが一度もないこと",
+          "記憶の全否定ではない。"
+        ]
+      ],
+      "quote": "a convenient explanation for rehearsals"
+    },
+    {
+      "prompt": "一度入れた間を後で除いたことは何を示すか。",
+      "options": [
+        [
+          "試した理由も戻した理由も記録すれば判断を追える",
+          "reasons for trying and abandoningを残した。"
+        ],
+        [
+          "慎重に話した修正は必ず成功する",
+          "Not every revision worked。"
+        ],
+        [
+          "最終台本だけで全判断の経緯が分かる",
+          "台本だけではconcealされる。"
+        ],
+        [
+          "変更を戻すと記録は全て無価値になる",
+          "記録は後の理解に役立つ。"
+        ]
+      ],
+      "quote": "the reason for trying it and the reason for abandoning it"
+    },
+    {
+      "prompt": "住民への相談は何を保証しないか。",
+      "options": [
+        [
+          "全ての声を公正に表したこと",
+          "consultation itselfをproofとしない。"
+        ],
+        [
+          "選んだ箇所へ意見を述べる機会",
+          "invited to commentとある。"
+        ],
+        [
+          "対応した変更を説明できること",
+          "which changesを説明した。"
+        ],
+        [
+          "意見の違いが記録されること",
+          "disagreementsを残す。"
+        ]
+      ],
+      "quote": "proof that every voice had been represented fairly"
+    },
+    {
+      "prompt": "観察者が自分の問いも記録した理由は何か。",
+      "options": [
+        [
+          "評価者の存在が対象の変化にも関与し得るから",
+          "evaluationは過程の外ではない。"
+        ],
+        [
+          "観察者が完全に中立と証明されたから",
+          "neutral distanceという提示を避ける。"
+        ],
+        [
+          "参加者に訂正を禁じるため",
+          "summaryを訂正できる。"
+        ],
+        [
+          "全記録を観察者の私見へ置き換えるため",
+          "参加者の修正も認める。"
+        ]
+      ],
+      "quote": "evaluation was not taking place outside the process"
+    },
+    {
+      "prompt": "筆者が「中断は進歩」と評価する際の条件は何か。",
+      "options": [
+        [
+          "目的との関係を具体的に吟味できること",
+          "provided that以下の限定。"
+        ],
+        [
+          "中断なら理由に関係なく常に価値があること",
+          "無条件評価ではない。"
+        ],
+        [
+          "上演可能性の尺度を全て捨てること",
+          "readinessも最終評価に含む。"
+        ],
+        [
+          "全住民が台本全体を承認すること",
+          "entire production承認は求めない。"
+        ]
+      ],
+      "quote": "relationship between the interruption and the group"
+    }
+  ],
+  [
+    {
+      "prompt": "空所[1]に最も適切な語句はどれか。",
+      "options": [
+        [
+          "insofar as",
+          "表した条件に関わる範囲に有用性を限定。"
+        ],
+        [
+          "even though",
+          "条件との関係は逆接ではない。"
+        ],
+        [
+          "as soon as",
+          "時点で有用性が始まる意味ではない。"
+        ],
+        [
+          "regardless of whether",
+          "条件にかかわらず有用とはしない。"
+        ]
+      ],
+      "quote": "Beyond that range",
+      "meaning": "〜する範囲において"
+    },
+    {
+      "prompt": "精密そうな地図だけでは分からないのは何か。",
+      "options": [
+        [
+          "その主張をどの範囲へ適用できるか",
+          "visual precisionは適用範囲を確定しない。"
+        ],
+        [
+          "色分けが表示されたこと",
+          "different colorがある。"
+        ],
+        [
+          "対象地域の境界が図にあること",
+          "clear boundaryとある。"
+        ],
+        [
+          "結果を引用しやすいこと",
+          "easy to quoteと認める。"
+        ]
+      ],
+      "quote": "how broadly the maps could be used"
+    },
+    {
+      "prompt": "シナリオと予報の違いは何か。",
+      "options": [
+        [
+          "明示した可能性の帰結の検討で、起こると期待する出来事の断定ではない",
+          "exploring consequencesの定義。"
+        ],
+        [
+          "全てのシナリオが必ず実現する",
+          "forecastとしては提示しない。"
+        ],
+        [
+          "どの前提でも順位は同じと保証する",
+          "uncertain inputに依存するものもある。"
+        ],
+        [
+          "前提を考えない単なる画像の装飾",
+          "assumptionsを変えて比較する。"
+        ]
+      ],
+      "quote": "not presented as a forecast"
+    },
+    {
+      "prompt": "住民のモデル外の質問をどう扱ったか。",
+      "options": [
+        [
+          "別種の証拠と公共の判断が必要な事柄として区別した",
+          "計算がinformできる範囲を分けた。"
+        ],
+        [
+          "シミュレーション外なので無関係として退けた",
+          "did not dismiss。"
+        ],
+        [
+          "全て計算だけで回答したとした",
+          "other kinds of evidenceが必要。"
+        ],
+        [
+          "工事中の利用は不要と宣言した",
+          "利用可能な空間を問うている。"
+        ]
+      ],
+      "quote": "what required other kinds of evidence and public judgment"
+    },
+    {
+      "prompt": "表に未確認の前提も示した目的は何か。",
+      "options": [
+        [
+          "近くの数値の精密さから確実さを借りないため",
+          "certaintyの移転を防ぐ。"
+        ],
+        [
+          "全ての優先事項が同じと証明するため",
+          "優先事項と証拠の異論を区別する。"
+        ],
+        [
+          "数字は全て不正とみなすため",
+          "数値自体の全面否定ではない。"
+        ],
+        [
+          "前提が不明なら計算結果を捏造するため",
+          "未確認と表示した。"
+        ]
+      ],
+      "quote": "borrowing certainty from the precision of a nearby number"
+    },
+    {
+      "prompt": "画像自体に適用範囲を添えた理由は何か。",
+      "options": [
+        [
+          "別文書へ写されたときにも主張の条件を残しやすくする",
+          "留保がclaimに伴うようにする。"
+        ],
+        [
+          "後の全引用を完全に制御する",
+          "could not control every later use。"
+        ],
+        [
+          "技術報告を全面的に削除する",
+          "fuller explanationへの経路もある。"
+        ],
+        [
+          "どんな条件でも予測が当たると示す",
+          "conditionalのまま伝える。"
+        ]
+      ],
+      "quote": "would remain visible if the image were copied"
+    },
+    {
+      "prompt": "不利な結果が出た場合の姿勢はどれか。",
+      "options": [
+        [
+          "成功の定義を自動で変えず、説明し前提修正も見えるようにする",
+          "目標の基準と説明責任を残す。"
+        ],
+        [
+          "結果が悪ければ目標を黙って取り替える",
+          "not automatic changeとある。"
+        ],
+        [
+          "結果と無関係に全前提を永久固定する",
+          "new evidenceは修正を正当化し得る。"
+        ],
+        [
+          "比較に都合のよい観察だけを残す",
+          "選択的記録の提案ではない。"
+        ]
+      ],
+      "quote": "an automatic change in the definition of success"
+    },
+    {
+      "prompt": "最終段落が支持するモデルの利用はどれか。",
+      "options": [
+        [
+          "証拠と条件の関係を保ちながら判断に使う",
+          "限定された根拠として行動をinformする。"
+        ],
+        [
+          "不完全なので全面拒否する",
+          "neither rejectionと述べる。"
+        ],
+        [
+          "精密な計算なら世界も同じほど特定済みとする",
+          "最後のwithoutで退ける。"
+        ],
+        [
+          "モデルを使えば決断の必要がなくなる",
+          "need for a decisionは消さない。"
+        ]
+      ],
+      "quote": "a relationship between a claim and the conditions"
+    }
+  ]
+]
