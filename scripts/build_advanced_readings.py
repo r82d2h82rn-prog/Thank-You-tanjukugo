@@ -4,6 +4,7 @@ import collections,hashlib,json,re,sys
 from pathlib import Path
 from content_pipeline import validate_reading,validate_provenance
 from reading_quality import ROOT,protect,main as quality
+from level3_word_policy import validate_level3_word_count
 
 def write(path,value):path.parent.mkdir(parents=True,exist_ok=True);path.write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n')
 def build(level,form):
@@ -19,6 +20,7 @@ def build(level,form):
  for i,a in enumerate(authored):
   pid=f'reading-l{level}-f{form:02}-{i+1:02}';paragraphs=[{'id':f'p{j+1}','english':en,'translation':jp} for j,(en,jp) in enumerate(zip(a['en'],a['jp']))];assert len(a['en'])==len(a['jp'])
   body=' '.join(a['en']);wc=len(re.findall(r"[A-Za-z]+(?:['-][A-Za-z]+)*",body));assert (400 if level==3 else 600)<=wc<=(600 if level==3 else 900),(pid,wc)
+  if level==3: validate_level3_word_count(form,i+1,wc)
   questions=[]
   for j,(prompt,options,reasons,quote) in enumerate(a['questions']):
    order=list(range(4));shift=(i+2*j+level)%4;order=order[shift:]+order[:shift]
