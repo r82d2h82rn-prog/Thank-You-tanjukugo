@@ -1,19 +1,24 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import legacy from '../content/readings/drafts.json';
-import batch from '../content/readings/enriched-level2-order5.json';
+import firstBatch from '../content/readings/enriched-level2-order5.json';
+import nextBatch from '../content/readings/enriched-level2-order-next5.json';
 import {readingCatalog} from '../src/readingCatalog';
 import {readingRevisions} from '../src/readingRevisions';
 import {sentenceRanges} from '../src/readingSentences';
 import {gradeReading,readingParagraphs,readingParagraphLabel,recordReading} from '../src/readings';
 import {emptyState,decodeState} from '../src/model';
 
-test('Level 2 items 71–75 retain four-paragraph ordering questions and show every continuation after the solved order',()=>{
- const originals=legacy.filter(p=>p.level===2).slice(70,75);
+for(const {batch,start,questions,paragraphs,sentences,min,max} of [
+ {batch:firstBatch,start:70,questions:[5,6,7,5,6],paragraphs:[6,5,6,5,6],sentences:98,min:300,max:350},
+ {batch:nextBatch,start:75,questions:[6,6,7,5,6],paragraphs:[6,6,6,6,6],sentences:113,min:350,max:400}
+]){
+test(`Level 2 items ${start+1}–${start+5} retain four-paragraph ordering questions and show every continuation after the solved order`,()=>{
+ const originals=legacy.filter(p=>p.level===2).slice(start,start+5);
  assert.deepEqual(batch.map(p=>p.id),originals.map(p=>p.id));
- assert.deepEqual(batch.map(p=>p.questions.length),[5,6,7,5,6]);
- assert.deepEqual(batch.map(p=>p.paragraphs.length),[6,5,6,5,6]);
- assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),98);
+ assert.deepEqual(batch.map(p=>p.questions.length),questions);
+ assert.deepEqual(batch.map(p=>p.paragraphs.length),paragraphs);
+ assert.equal(batch.reduce((n,p)=>n+p.sentences.length,0),sentences);
  assert.equal(new Set(readingRevisions.map(p=>p.id)).size,readingRevisions.length);
  for(const [i,p] of batch.entries()){
   const old=originals[i];
@@ -33,7 +38,7 @@ test('Level 2 items 71–75 retain four-paragraph ordering questions and show ev
   for(const id of p.paragraphOrder)assert.equal(readingParagraphLabel(p,id),`段落 ${id.slice(1)}`);
   for(const [j,id] of p.continuationParagraphIds.entries())assert.equal(readingParagraphLabel(p,id),`続きの本文 ${j+1}`);
   const words=reviewed.map(x=>x.english).join(' ').match(/[A-Za-z]+(?:['-][A-Za-z]+)*/g)!.length;
-  assert.equal(p.wordCount,words);assert.equal(p.reviewWordCount,words);assert.ok(words>=300&&words<=350);
+  assert.equal(p.wordCount,words);assert.equal(p.reviewWordCount,words);assert.ok(words>=min&&words<=max);
   assert.equal(p.syntaxOffsetBasis,'paragraphs');assert.ok(!('reviewParagraphs' in p));
   for(const para of reviewed){
    const rows=p.sentences.filter(s=>s.paragraphId===para.id);
@@ -52,7 +57,7 @@ test('Level 2 items 71–75 retain four-paragraph ordering questions and show ev
  }
 });
 
-test('ordering review rejects missing or duplicate continuation IDs instead of losing or repeating text',()=>{
+test(`ordering review ${start+1} rejects missing or duplicate continuation IDs instead of losing or repeating text`,()=>{
  const p=batch[0];
  assert.throws(()=>readingParagraphs({...p,continuationParagraphIds:[]},true));
  assert.throws(()=>readingParagraphs({...p,continuationParagraphIds:['p5','p5']},true));
@@ -62,7 +67,7 @@ test('ordering review rejects missing or duplicate continuation IDs instead of l
  assert.equal(readingParagraphs(old,false),old.paragraphs);
 });
 
-test('ordering revisions grade every option independently and keep original three-question attempts unchanged',()=>{
+test(`ordering revisions ${start+1} grade every option independently and keep original three-question attempts unchanged`,()=>{
  for(const p of batch){
   const old=legacy.find(x=>x.id===p.id)!,right=Object.fromEntries(p.questions.map(q=>[q.id,q.correctOptionId]));
   for(const q of p.questions){assert.equal(q.options.length,4);assert.ok(p.paragraphs.find(x=>x.id===q.evidence.paragraphId)?.english.includes(q.evidence.quote));
@@ -75,3 +80,5 @@ test('ordering revisions grade every option independently and keep original thre
   assert.deepEqual(decodeState(JSON.stringify(state)),state);
  }
 });
+
+}

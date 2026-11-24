@@ -1,0 +1,397 @@
+[
+  {
+    "id": "reading-l2-f08-06",
+    "paragraphs": [
+      "After the exhibition, one visitor offered to help with the proposed experiment. Nao first wrote down the outcome she would compare: the number of words recalled after a short reading task. A rating of enjoyment would be recorded separately. She wanted to avoid treating a pleasant feeling as evidence of better memory again. She also planned to use the same music volume and the same amount of reading time for everyone. These choices would make the question narrower, but would not remove every possible difference between students.",
+      "Her teacher suggested a small trial before inviting the whole class. Instructions that seemed clear to Nao might confuse another person, and an unsuitable task could hide any difference. Nao added a page for recording unexpected problems, including interruptions and equipment failures. She would keep those notes even if they made the eventual report less simple. The new plan did not promise a result in favor of music. It described how she hoped to investigate a limited question and how readers could judge the limits of any later conclusion."
+    ],
+    "rationale": "好みと学習効果、操作化と計画・結果を区別する研究報告。間接疑問節、譲歩節、比較と否定の作用域を読ませる。",
+    "questions": [
+      {
+        "prompt": "楽しさの評価を別に記録するのはなぜか。",
+        "options": [
+          {
+            "text": "好ましさを記憶改善の証拠と取り違えないため",
+            "explanation": "楽しさの評定と単語の再生数を分け、再び両者を混同するのを避ける。"
+          },
+          {
+            "text": "楽しさが記憶と全く無関係だと既に証明したため",
+            "explanation": "関係がないと結論したのではなく、異なる測定値として分ける。"
+          },
+          {
+            "text": "単語を覚えた数を調べる計画を取り消すため",
+            "explanation": "記憶の指標は再生できた単語数であり、取り消していない。"
+          },
+          {
+            "text": "全員に同じ音楽を好きになってもらうため",
+            "explanation": "好みの統一を目指す実験ではない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "She wanted to avoid treating a pleasant feeling as evidence of better memory again."
+      },
+      {
+        "prompt": "中断や機器の故障の記録を残す目的として最も適切なのはどれか。",
+        "options": [
+          {
+            "text": "必ず音楽に有利な結果へ調整するため",
+            "explanation": "音楽に有利な結論を約束しないと明示している。"
+          },
+          {
+            "text": "後の結論を読む人が実施条件や限界を判断できるようにするため",
+            "explanation": "問題の記録は報告を単純化するために消さず、結論の限界を評価する手がかりにする。"
+          },
+          {
+            "text": "計画を書けばもう実験を行わなくてよいから",
+            "explanation": "計画を実施結果の代わりにはしていない。"
+          },
+          {
+            "text": "短い試行であらゆる個人差を消せるから",
+            "explanation": "条件の統一でも全ての個人差は除けないと述べる。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "She would keep those notes even if they made the eventual report less simple."
+      },
+      {
+        "prompt": "本文全体を通じた奈緒の変化を最もよく表すものはどれか。",
+        "options": [
+          {
+            "text": "質問紙を無価値とみなし全て廃棄した",
+            "explanation": "報告を聴取習慣の記述へ限定し、価値は残している。"
+          },
+          {
+            "text": "未実施の実験を成功した結果として発表した",
+            "explanation": "提案と結果を区別している。"
+          },
+          {
+            "text": "好みから広い効果を断定する姿勢から、問いと測定の範囲を明示する姿勢へ変わった",
+            "explanation": "初めの学習効果の断定を改め、測る対象と後の結論の限界を明示した。"
+          },
+          {
+            "text": "学習効果の確認を諦め好みだけを将来も尋ねることにした",
+            "explanation": "将来の小実験では単語の再生数を比較する計画を立てている。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "It described how she hoped to investigate a limited question and how readers could judge the limits of any later conclusion."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f08-07",
+    "paragraphs": [
+      "The newspaper then asked two new readers to review a draft without looking up any other information. One could explain which team had won, but could not explain whether the team would play again. The editors added a sentence about the next round instead of another list of statistics. They kept the headline short and put the extra explanation directly below the score. The aim was to let a newcomer understand the report without making a regular fan search through a long introduction for the result.",
+      "At the following meeting, the editors separated two questions: whether a post was shared and whether a reader understood it. A widely shared message could still leave an important point unclear. They began collecting short comments alongside the sharing figures, while recognizing that only some readers would respond. Those comments could reveal a missing explanation, but could not prove that every silent reader had understood. Speed remained useful, yet the team now checked whether its words gave people a fair chance to join the conversation."
+    ],
+    "rationale": "速報の正確さを背景理解まで拡張する編集改善。関係節、間接疑問節、理解の推測と測定の限界を扱う。",
+    "questions": [
+      {
+        "prompt": "次の試合について一文を加えたのはなぜか。",
+        "options": [
+          {
+            "text": "優勝したチーム名が間違っていたため",
+            "explanation": "試読者は勝ったチームを説明できていた。"
+          },
+          {
+            "text": "得点を載せるのをやめるため",
+            "explanation": "点数は引き続き上に置いている。"
+          },
+          {
+            "text": "追加の統計だけでは読者に次の展開が伝わらなかったため",
+            "explanation": "勝者は分かっても再び試合をするか分からなかったため、次のラウンドの説明を加えた。"
+          },
+          {
+            "text": "全員がその競技の専門家だったため",
+            "explanation": "背景を持たない新しい読者への試読である。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "One could explain which team had won, but could not explain whether the team would play again."
+      },
+      {
+        "prompt": "見出しと説明の配置に込められた意図はどれか。",
+        "options": [
+          {
+            "text": "新しい読者にも背景を伝え、常連にも結果を見つけやすくする",
+            "explanation": "短い見出しと上部の点数を保ち、その直下に背景説明を置くことで両方に配慮する。"
+          },
+          {
+            "text": "全ての読者に長い導入を読ませてから点数を示す",
+            "explanation": "常連が長い導入から結果を探す必要がないようにしている。"
+          },
+          {
+            "text": "背景説明を別サイトで調べることを必須にする",
+            "explanation": "別の情報を調べなくても理解できるか試している。"
+          },
+          {
+            "text": "常連からの閲覧を禁止する",
+            "explanation": "新規読者向けの改善は常連の排除を意味しない。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "They kept the headline short and put the extra explanation directly below the score."
+      },
+      {
+        "prompt": "共有数とコメントについて、編集部は何を認めているか。",
+        "options": [
+          {
+            "text": "共有数が多ければ全員の理解を証明できる",
+            "explanation": "広く共有されても重要な点が不明な場合がある。"
+          },
+          {
+            "text": "返事をしない人は必ず理解していない",
+            "explanation": "無回答者の理解については断定しない。"
+          },
+          {
+            "text": "短いコメントには改善の手がかりがない",
+            "explanation": "不足した説明が明らかになる可能性を認めている。"
+          },
+          {
+            "text": "反応は参考になるが、全ての読者の理解までは証明できない",
+            "explanation": "コメントは欠けた説明を示せるが、一部の読者しか答えず、無回答者全員の理解は証明できない。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "Those comments could reveal a missing explanation, but could not prove that every silent reader had understood."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f08-08",
+    "paragraphs": [
+      "A month later, staff invited people with different needs to try the approach during ordinary opening hours. A wheelchair user found the slope comfortable, but a parent noticed that a temporary notice board narrowed the route. The board was moved before the next event. This small problem showed that a thoughtful design could still be weakened by everyday decisions about furniture and signs. Staff therefore added a route check to the preparations for each exhibition, rather than assuming that the building work had solved access forever.",
+      "The center also kept photographs of the original entrance beside the architect's early drawings. Visitors could compare the plans with the final arrangement and see which features had been kept. A resident who had initially opposed the change helped write a caption about the station's former use. The discussion had made room for both memories and present needs. Keeping that record did not mean freezing the building again. It gave future staff reasons for the decisions and a basis for considering further changes."
+    ],
+    "rationale": "歴史の保存と参加を入口の改良・日常管理・記録に結び付ける。受動態、関係節、動名詞主語と対比を扱う。",
+    "questions": [
+      {
+        "prompt": "新しい通路の点検を続ける必要があると分かったきっかけは何か。",
+        "options": [
+          {
+            "text": "元の高い段差が全く変更されなかったこと",
+            "explanation": "新しく緩やかな斜面を設けている。"
+          },
+          {
+            "text": "一時的な掲示板が通路を狭くしていたこと",
+            "explanation": "設計後も日常的な配置が使いやすさを損ねることを示した。"
+          },
+          {
+            "text": "全員が学習センターに反対したこと",
+            "explanation": "様々な立場の住民が関与しており全員の反対ではない。"
+          },
+          {
+            "text": "写真が一枚も残っていなかったこと",
+            "explanation": "元の入口の写真を保存している。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "a parent noticed that a temporary notice board narrowed the route."
+      },
+      {
+        "prompt": "当初反対していた住民の行動は、話合いについて何を示すか。",
+        "options": [
+          {
+            "text": "歴史の記憶を捨てなければ参加できなかった",
+            "explanation": "元の駅の用途について説明文を書く形で記憶を共有している。"
+          },
+          {
+            "text": "初めに反対した人の意見は最後まで聞かなかった",
+            "explanation": "反対した住民も説明文づくりに参加している。"
+          },
+          {
+            "text": "過去への思いを持つ人も、現在の必要と両立する形で関われた",
+            "explanation": "元の用途を説明する住民の参加が、記憶と現在の必要の両方を扱う話合いを具体化している。"
+          },
+          {
+            "text": "元の設計へ全面的に戻した",
+            "explanation": "完成した配置を図面と比べるのであって、元へ戻したとは述べていない。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "A resident who had initially opposed the change helped write a caption about the station's former use."
+      },
+      {
+        "prompt": "図面や写真を残すことの、将来の職員にとっての意義はどれか。",
+        "options": [
+          {
+            "text": "判断の理由を理解し、さらに変更を考える基盤にできる",
+            "explanation": "記録は将来の変更を禁じるのではなく、判断の理由と検討の基盤を渡す。"
+          },
+          {
+            "text": "建物を二度と変更しないと約束する",
+            "explanation": "記録を残すことは再び建物を固定することではない。"
+          },
+          {
+            "text": "毎回同じ掲示板で通路を塞ぐよう求める",
+            "explanation": "掲示板は移動され、通路点検も続ける。"
+          },
+          {
+            "text": "新しい入口の存在を隠す",
+            "explanation": "元の図面と完成状態を比べられるようにしている。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "It gave future staff reasons for the decisions and a basis for considering further changes."
+      },
+      {
+        "prompt": "本文全体が示す保存と利用の関係として最も適切なのはどれか。",
+        "options": [
+          {
+            "text": "外観が残れば利用できない人の経験は考えなくてよい",
+            "explanation": "本文は一部の人を外に残す保存を問い直す。"
+          },
+          {
+            "text": "歴史を大切にするなら全ての現代的利用をやめるべきだ",
+            "explanation": "学習センターとして利用しながら旧特徴も見せる。"
+          },
+          {
+            "text": "新しい設計さえ完成すれば日常の管理は不要だ",
+            "explanation": "掲示板の問題から点検を継続する。"
+          },
+          {
+            "text": "歴史の意味を伝えつつ、実際に参加できる状態を整え続けることが大切だ",
+            "explanation": "入口の改良、歴史の記録、利用時の点検が保存と参加の両立を支える。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "This small problem showed that a thoughtful design could still be weakened by everyday decisions about furniture and signs."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f08-09",
+    "paragraphs": [
+      "In one homework response, a student explained why she had abandoned her first idea. She had called the gate a sign of safety because it could keep danger out. A later line, however, described someone waiting outside it in the cold. That detail did not erase her first observation, but made it harder to claim that the image was entirely comforting. She now described the gate as protection for one person and a barrier for another. Her revised explanation connected the two details instead of choosing only the easier one.",
+      "The teacher returned the work with comments on the link between claims and quotations. She asked students to explain how a chosen phrase supported a reading, rather than simply copying a line beneath an opinion. During the next lesson, students exchanged responses and identified places where a connection needed more explanation. They were allowed to disagree with a conclusion while recognizing the care behind it. The exercise gave them a shared method for discussing differences without requiring everyone to end with the same interpretation."
+    ],
+    "rationale": "本文根拠による複数解釈の吟味を具体化する。仮定的な可能性、部分否定、関係節、引用と主張の論理を扱う。",
+    "questions": [
+      {
+        "prompt": "生徒が門の解釈を修正した理由はどれか。",
+        "options": [
+          {
+            "text": "教師が安全という解釈を禁止したため",
+            "explanation": "教師の禁止ではなく、後の一行の根拠を踏まえた修正である。"
+          },
+          {
+            "text": "安全を示す最初の観察が全く不可能だと証明されたため",
+            "explanation": "後の細部は最初の観察を消すのではなく、全面的に安心できる像という断定を難しくする。"
+          },
+          {
+            "text": "門の外で寒さの中待つ人物が、保護だけでは説明できない面を示したため",
+            "explanation": "誰かを守る一方で別の人の障壁にもなるという解釈へ広げた。"
+          },
+          {
+            "text": "引用を一切使わなくてよいと分かったため",
+            "explanation": "二つの細部をつなげて説明している。"
+          }
+        ],
+        "correctIndex": 2,
+        "quote": "A later line, however, described someone waiting outside it in the cold."
+      },
+      {
+        "prompt": "教師が引用について求めたのは何か。",
+        "options": [
+          {
+            "text": "意見の下へ一行を写せば十分だということ",
+            "explanation": "単に引用を置くのではなく、解釈をどう支えるか説明する必要がある。"
+          },
+          {
+            "text": "引用と主張のつながりを説明すること",
+            "explanation": "選んだ句がどう解釈を支えるか明示することを求めた。"
+          },
+          {
+            "text": "全員が必ず同じ結論に至ること",
+            "explanation": "同じ解釈に落ち着くことは要求しない。"
+          },
+          {
+            "text": "他者の結論には必ず同意すること",
+            "explanation": "慎重さを認めながら結論には異議を唱えてよい。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "She asked students to explain how a chosen phrase supported a reading, rather than simply copying a line beneath an opinion."
+      }
+    ]
+  },
+  {
+    "id": "reading-l2-f08-10",
+    "paragraphs": [
+      "Before the following festival, two new members tried changing a panel using only the written instructions. They discovered that the tool mentioned in the guide was missing from the storage box. They also found that a panel could be fitted upside down unless its top edge was marked. The team supplied the tool and added a small arrow on the back of each panel. Testing the instructions with new users exposed problems that the original designers had overlooked because they already knew how the sign worked.",
+      "After the event, the team recorded the replacement cost and the time spent cleaning and storing the frame. These figures would help the next group compare repair with buying another sign. They did not yet establish how many years the frame would last. Members stored the guide with the panels and left space for later corrections. A reusable object needed an arrangement for passing on knowledge as well as strong materials. Without that arrangement, a future team might discard a sound frame simply because replacing its information seemed too difficult."
+    ],
+    "rationale": "耐久性を素材と情報交換・知識継承の両面から検討する。間接疑問、受動態、過去完了、原因節と動名詞主語を扱う。",
+    "questions": [
+      {
+        "prompt": "新しいメンバーに手順書だけで交換してもらった効果は何か。",
+        "options": [
+          {
+            "text": "設計者には当たり前だった作業上の不足が見つかった",
+            "explanation": "工具の欠落と上下を間違える可能性を、予備知識のない利用者による試行で発見した。"
+          },
+          {
+            "text": "毎年の看板の内容が一切変わらなくなった",
+            "explanation": "日付や協賛などが変わること自体は続く。"
+          },
+          {
+            "text": "新しいメンバーが全ての知識を既に持っていると確認できた",
+            "explanation": "手順書だけを使う試行で設計者の見落としを発見した。"
+          },
+          {
+            "text": "耐久性のある枠も一度で捨てることになった",
+            "explanation": "長期利用のため手順を改善している。"
+          }
+        ],
+        "correctIndex": 0,
+        "quote": "Testing the instructions with new users exposed problems that the original designers had overlooked because they already knew how the sign worked."
+      },
+      {
+        "prompt": "費用と作業時間を記録した段階で、まだ分からないことはどれか。",
+        "options": [
+          {
+            "text": "枠の清掃や保管に時間がかかったかどうか",
+            "explanation": "かかった時間は記録している。"
+          },
+          {
+            "text": "交換にいくらかかったか",
+            "explanation": "交換費用も記録している。"
+          },
+          {
+            "text": "次のグループが比較の材料を得られるかどうか",
+            "explanation": "記録が修理と買替えの比較に役立つと述べている。"
+          },
+          {
+            "text": "枠が実際に何年間もつか",
+            "explanation": "費用と時間の記録だけでは寿命をまだ確定していない。"
+          }
+        ],
+        "correctIndex": 3,
+        "quote": "They did not yet establish how many years the frame would last."
+      },
+      {
+        "prompt": "本文の最後の一文が述べる危険はどれか。",
+        "options": [
+          {
+            "text": "祭りの名前が安定しているため掲示できない",
+            "explanation": "名前の安定は固定枠に載せる根拠である。"
+          },
+          {
+            "text": "交換方法が伝わらず、使える枠まで捨てられてしまうこと",
+            "explanation": "知識を引き継ぐ仕組みがないと、情報の交換が難しく見え、健全な枠まで廃棄する可能性がある。"
+          },
+          {
+            "text": "丈夫な素材を選べば必ず設置できなくなること",
+            "explanation": "素材の強さだけでは十分でないが、丈夫さ自体を問題視していない。"
+          },
+          {
+            "text": "全ての修理は必ず買替えより高額になること",
+            "explanation": "その比較は記録を用いて将来検討するもので、断定していない。"
+          }
+        ],
+        "correctIndex": 1,
+        "quote": "Without that arrangement, a future team might discard a sound frame simply because replacing its information seemed too difficult."
+      }
+    ]
+  }
+]

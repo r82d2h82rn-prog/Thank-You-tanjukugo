@@ -173,7 +173,7 @@ class PipelineTests(unittest.TestCase):
     def test_ordering_continuations_cover_all_paragraphs_and_keep_original_correct_order(self):
         import copy
         project=pathlib.Path(__file__).resolve().parents[1]
-        for passage in read_json(project/'content/readings/enriched-level2-order5.json'):
+        for passage in read_json(project/'content/readings/enriched-level2-order5.json') + read_json(project/'content/readings/enriched-level2-order-next5.json'):
             self.assertEqual(validate_reading(passage),[])
             bad=copy.deepcopy(passage);bad['continuationParagraphIds']=[]
             self.assertIn('paragraph order/continuation coverage invalid',validate_reading(bad))
