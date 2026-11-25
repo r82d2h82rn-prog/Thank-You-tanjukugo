@@ -1,0 +1,694 @@
+[
+  [
+    {
+      "prompt": "Where does the supplied sentence best fit?",
+      "quote": "This distinction led",
+      "options": [
+        [
+          "[C]",
+          "直前の空白は静けさと投稿機会不足の混合を示す。挿入文が未報告と不存在の報告を区別し、直後のThis distinctionがその区別を受けて収集方法を変える。"
+        ],
+        [
+          "[A]",
+          "報告地図を紹介中で、空白の意味を疑う根拠がまだない。次文は委員の誤った解釈であり、This distinctionにつながらない。"
+        ],
+        [
+          "[B]",
+          "夜勤住民の事例の途中に入り、次の高齢者の事例との列挙を分断する。区別の根拠がまだそろっていない。"
+        ],
+        [
+          "[D]",
+          "収集方法の変更と結果が出た後で遅すぎる。次文は日時などの記録の工夫で、未報告と不存在の区別を受ける文ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What was the committee initially inclined to do?",
+      "quote": "concentrating the entire improvement budget on the square",
+      "options": [
+        [
+          "Direct all improvement funding toward the square.",
+          "広場に改善予算すべてを集中する提案だった。"
+        ],
+        [
+          "Inspect every street before collecting reports.",
+          "まず全通りを調べる方針ではない。"
+        ],
+        [
+          "Remove delivery vehicles from the whole town.",
+          "町全体で配送車をなくす提案はない。"
+        ],
+        [
+          "Cancel the shared map because of excessive responses.",
+          "多すぎる回答を理由に中止していない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did the night worker question the map?",
+      "quote": "available only during hours when she was usually asleep",
+      "options": [
+        [
+          "The reporting schedule excluded part of her daily routine.",
+          "フォーム利用時間と本人の睡眠が重なり、投稿機会がなかった。"
+        ],
+        [
+          "She had verified that every blank street was noisy.",
+          "全空白通りの騒音を確認したとはない。"
+        ],
+        [
+          "The map displayed her name without permission.",
+          "個人名公開は行っていない。"
+        ],
+        [
+          "Delivery drivers had altered her submitted report.",
+          "運転手による改変は述べられていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the revised symbols distinguish?",
+      "quote": "reported noise, reported quiet, and locations where too little information",
+      "options": [
+        [
+          "Positive reports, explicit negative reports, and insufficient evidence.",
+          "騒音あり、静かとの回答、情報不足の三状態を分けた。"
+        ],
+        [
+          "Three levels of guaranteed danger.",
+          "危険の三段階ではなく証拠の状態。"
+        ],
+        [
+          "Online users according to their ages.",
+          "年齢区分ではない。"
+        ],
+        [
+          "Permanent problems from all temporary celebrations with certainty.",
+          "日時も記録するが完全に確定するとは述べない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why were observation dates recorded?",
+      "quote": "a single noisy celebration would not automatically be treated",
+      "options": [
+        [
+          "To avoid turning one temporary event into a claim about the whole year.",
+          "一回の騒音を年間の恒常的問題へ広げないため。"
+        ],
+        [
+          "To exclude all reports made during celebrations.",
+          "祝祭中の報告をすべて除外するわけではない。"
+        ],
+        [
+          "To identify the youngest resident of each building.",
+          "年齢特定は目的でない。"
+        ],
+        [
+          "To prove that older reports had always been inaccurate.",
+          "古い報告が常に誤りとは主張しない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Which statement best expresses the passage's main point?",
+      "quote": "show the limits of observation alongside the observations themselves",
+      "options": [
+        [
+          "A map should reveal both observations and gaps in how evidence was obtained.",
+          "観察結果と収集上の不足を併記することが有用な判断を支える。"
+        ],
+        [
+          "Blank areas should always receive the entire budget.",
+          "空白を必ず最優先にはしていない。"
+        ],
+        [
+          "Only online evidence can reliably represent a neighborhood.",
+          "紙・電話・訪問を加えている。"
+        ],
+        [
+          "Uncertainty makes every planning tool useless.",
+          "不確かさを示しつつ地図を使う。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Where does the supplied sentence best fit?",
+      "quote": "That difference changed",
+      "options": [
+        [
+          "[B]",
+          "直前はラベルの歴史情報と中身の発芽能力を区別する。挿入文が素性保存と成長能力保存の差をまとめ、That differenceがそれを受ける。"
+        ],
+        [
+          "[A]",
+          "展示で封筒を成功と数える前で、発芽試験の問題が未提示。結論を支える差がまだない。"
+        ],
+        [
+          "[C]",
+          "試験の方法上の制約の途中で、直後は助言を求める行動。That differenceを受ける本来の位置を通過している。"
+        ],
+        [
+          "[D]",
+          "日付を二つに分ける具体策の説明へ入る位置。収集の定義変更という帰結より後なので論理の順が逆転する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the initial envelope count assume?",
+      "quote": "one more variety successfully protected against disappearance",
+      "options": [
+        [
+          "A sealed labeled packet was enough to count a variety as preserved.",
+          "封筒が存在すれば品種を守れたと数えていた。"
+        ],
+        [
+          "Every variety needed to be planted immediately.",
+          "直ちに全品種を植える考えではない。"
+        ],
+        [
+          "Family histories were unnecessary.",
+          "家族の説明も記録している。"
+        ],
+        [
+          "Every old sample had already failed a test.",
+          "失敗が分かったのは翌春の試験。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the spring tests demonstrate?",
+      "quote": "others produced nothing despite looking almost identical",
+      "options": [
+        [
+          "Similar appearance did not ensure continued germination.",
+          "見た目が同じでも芽が出ない試料があった。"
+        ],
+        [
+          "Every sample had lost its ability to grow.",
+          "健全な芽も出ている。"
+        ],
+        [
+          "The families had supplied incorrect variety names.",
+          "品種名の誤りは示されない。"
+        ],
+        [
+          "The storage cupboard guaranteed healthy plants.",
+          "保証を否定する結果。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why could testing all remaining seeds be a poor choice?",
+      "quote": "would leave none available for a future attempt",
+      "options": [
+        [
+          "It would consume the material needed for later cultivation.",
+          "試験で使い切ると後に育てる種がない。"
+        ],
+        [
+          "It would erase all written family histories.",
+          "書面記録の消去とは無関係。"
+        ],
+        [
+          "It would make every label biologically inaccurate.",
+          "ラベルの生物学的誤りの話ではない。"
+        ],
+        [
+          "It would stop the class from seeking advice.",
+          "助言を求める妨げとは述べない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why were two different dates added to the labels?",
+      "quote": "neither date silently replacing the historical meaning of the other",
+      "options": [
+        [
+          "To distinguish original collection from a later successful cultivation.",
+          "採集の歴史と生育更新を別々に残す。"
+        ],
+        [
+          "To hide how old the original material was.",
+          "元の採集年も維持している。"
+        ],
+        [
+          "To imply that inspection alone renewed the seeds.",
+          "点検日だけの更新印象を避ける。"
+        ],
+        [
+          "To rank varieties solely by packet appearance.",
+          "見た目のみの順位を否定。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What makes the collection valuable in the conclusion?",
+      "quote": "this documented responsibility",
+      "options": [
+        [
+          "Evidence of what is preserved and what still requires future care.",
+          "守れたものと今後の世話に依存するものを記録して責任を引き継ぐ。"
+        ],
+        [
+          "A guarantee that every seed will always germinate.",
+          "永久の発芽保証はしない。"
+        ],
+        [
+          "The replacement of all old records with new labels.",
+          "古い記録も解釈に不可欠。"
+        ],
+        [
+          "Identical packets that never need to be opened.",
+          "外見の整然さより維持管理が中心。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Where does the supplied sentence best fit?",
+      "quote": "This wider requirement prompted",
+      "options": [
+        [
+          "[D]",
+          "直前で予約しても階段しかなければ参加できないと示す。挿入文がシステム利用と催し参加を区別し、This wider requirementが参加全体の点検につなぐ。"
+        ],
+        [
+          "[A]",
+          "予約システム導入前なのでbooking systemの既知対象がない。導入の必要性の説明を不自然に先取りする。"
+        ],
+        [
+          "[B]",
+          "読み上げ対応の説明前。直前は画面の欠陥であり、画面外を含む区別の根拠はまだ示されない。"
+        ],
+        [
+          "[C]",
+          "来場者の階段の具体例より先に入る。次文は予約が無用となる例で、This wider requirementとの直接の受け渡しが切れる。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why was a common seat diagram insufficient?",
+      "quote": "unlabeled buttons made selecting any available seat nearly impossible",
+      "options": [
+        [
+          "An identical display could still be unusable with a screen reader.",
+          "共通表示でもボタン名がなく読み上げ利用者には選択できなかった。"
+        ],
+        [
+          "Every visitor wanted a different lecture topic.",
+          "講義テーマの好みの話ではない。"
+        ],
+        [
+          "The venue had no available seats.",
+          "空席の選択方法の問題。"
+        ],
+        [
+          "All users lacked an internet connection.",
+          "全員の接続不足とはない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why would emailing the side entrance location alone fail?",
+      "quote": "its door was usually locked after office hours",
+      "options": [
+        [
+          "The entrance also needed to be opened at the event time.",
+          "案内だけでなく時間外に開ける運営が必要。"
+        ],
+        [
+          "The side entrance did not exist.",
+          "脇入口は存在する。"
+        ],
+        [
+          "The web team had deleted every confirmation message.",
+          "削除の記述はない。"
+        ],
+        [
+          "The building could never be entered without stairs.",
+          "脇入口という代替があった。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the request for written questions illustrate?",
+      "quote": "follow a discussion that depended entirely on hearing distant voices",
+      "options": [
+        [
+          "Participation includes understanding the discussion after arrival.",
+          "入室だけでなく、その後の討論へのアクセスも含まれる。"
+        ],
+        [
+          "All discussions had to be cancelled.",
+          "討論は続けて改善する。"
+        ],
+        [
+          "Written booking instructions were entirely unnecessary.",
+          "予約案内は依然必要。"
+        ],
+        [
+          "The lecture needed to become an online-only event.",
+          "オンライン限定への変更はない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the trial visit reveal about the emailed directions?",
+      "quote": "technically accurate during ordinary office hours",
+      "options": [
+        [
+          "Instructions could be accurate at one time yet fail at the event time.",
+          "通常時間なら正確でも夜は廊下が閉じて役立たない場合があった。"
+        ],
+        [
+          "Every sentence contained a false address.",
+          "文面は通常時間中には正確。"
+        ],
+        [
+          "Participants needed no route information at all.",
+          "実際に経路の問題を発見した。"
+        ],
+        [
+          "The side entrance had been permanently removed.",
+          "撤去ではなく運用時間の問題。"
+        ]
+      ]
+    },
+    {
+      "prompt": "How did the organizers finally view a completed reservation?",
+      "quote": "one useful checkpoint within a longer chain",
+      "options": [
+        [
+          "As one step within a wider process with assigned responsibilities.",
+          "責任者と報告方法のある参加行程の一段階と考える。"
+        ],
+        [
+          "As conclusive proof that all access needs had been met.",
+          "参加全体の保証にはならない。"
+        ],
+        [
+          "As a feature with no remaining practical value.",
+          "空席が分かる価値は維持する。"
+        ],
+        [
+          "As a substitute for checking the physical venue.",
+          "実際の来訪で確認している。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Where does the supplied sentence best fit?",
+      "quote": "This limitation required",
+      "options": [
+        [
+          "[A]",
+          "直前は記録のない洪水が最高線を超えなかったとは言えないと説明。挿入文が記録と川の可能性の限界を区別し、This limitationが説明文変更へつなぐ。"
+        ],
+        [
+          "[B]",
+          "新看板の具体的内容へ移る途中で、限界を踏まえる変更の説明を通過している。帰結より理由が後になる。"
+        ],
+        [
+          "[C]",
+          "教材上の課題とその発見の間に入るため、The exerciseが指す課題の連続性を弱める。"
+        ],
+        [
+          "[D]",
+          "来場者の追加証言の段落冒頭で、後続は記録の収集方法。This limitationとの直接の連結がない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What mistaken conclusion concerned the teacher?",
+      "quote": "the greatest height that any future flood could possibly reach",
+      "options": [
+        [
+          "The highest displayed water level was a limit for all future floods.",
+          "過去の最高表示を未来の絶対上限と誤解した。"
+        ],
+        [
+          "No serious flood had ever affected the town.",
+          "大洪水の展示自体を見ている。"
+        ],
+        [
+          "The staircase was too low for school groups to use.",
+          "利用の安全や高さではなく解釈が問題。"
+        ],
+        [
+          "All diary accounts had been deliberately falsified.",
+          "捏造を疑った話ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why could the damaged diary not justify an additional plate?",
+      "quote": "without identifying a location precise enough",
+      "options": [
+        [
+          "It lacked a sufficiently precise location for placing a water mark.",
+          "場所が正確でなく水位板を置けなかった。"
+        ],
+        [
+          "It described a flood that happened in the future.",
+          "日記は過去の出来事。"
+        ],
+        [
+          "Its author denied that a flood had occurred.",
+          "大洪水には言及している。"
+        ],
+        [
+          "It had already supplied a modern emergency forecast.",
+          "過去記録であり予報でない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did the new sign refer visitors to current emergency information?",
+      "quote": "changes to bridges, riverbanks, and surrounding land",
+      "options": [
+        [
+          "Present safety decisions require information beyond historical examples.",
+          "地形や構造物も変わるので実例だけで現在の防災を判断できない。"
+        ],
+        [
+          "Historical plates were proven worthless and removed.",
+          "有用性を保って残している。"
+        ],
+        [
+          "Historical flood height always predicts the next storm.",
+          "その予測を明確に否定。"
+        ],
+        [
+          "Personal diaries contain complete evacuation instructions.",
+          "避難情報は現在の別資料を参照。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why was an unfinished scale above the plates not adopted?",
+      "quote": "might itself be mistaken for an estimate",
+      "options": [
+        [
+          "The added graphic could create another unsupported prediction.",
+          "未完の目盛りも将来水位の推定と誤認され得た。"
+        ],
+        [
+          "The historian opposed every question from students.",
+          "生徒の問い自体を拒んでいない。"
+        ],
+        [
+          "The town had measured every past flood precisely.",
+          "未記録・不十分な資料がある。"
+        ],
+        [
+          "The scale would automatically erase the metal plates.",
+          "物理的に消す話ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Under what condition did the historian welcome new accounts?",
+      "quote": "their different origins remained visible",
+      "options": [
+        [
+          "The origins of personal recollections and measured marks remained distinguishable.",
+          "個人の記憶と水位測定の由来の違いを分かるようにする条件。"
+        ],
+        [
+          "They were all converted into precise heights on the stone.",
+          "裏付けのない測定値の追加を避けた。"
+        ],
+        [
+          "All earlier documents were discarded.",
+          "既存記録を拡充する取り組み。"
+        ],
+        [
+          "They guaranteed that uncertainty had disappeared.",
+          "不確かさを保持して備える結論。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Which title best captures the central argument?",
+      "quote": "a reason to prepare for uncertainty",
+      "options": [
+        [
+          "Past Marks, Open Questions.",
+          "過去の水位の有用性と、そこから確定しない問いの双方を示す。"
+        ],
+        [
+          "A River That Can Never Change.",
+          "橋や岸なども変化する。"
+        ],
+        [
+          "Why All Historical Evidence Must Be Removed.",
+          "板を保持して説明を改善した。"
+        ],
+        [
+          "The Final Measurement of Every Future Flood.",
+          "未来の上限測定という誤解を否定する。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Where does the supplied sentence best fit?",
+      "quote": "This loss mattered",
+      "options": [
+        [
+          "[C]",
+          "直前は字幕が本人の認めない確信を付与したと説明。挿入文がためらいと確信情報の関係をまとめ、This lossが消えた確信情報を指す。"
+        ],
+        [
+          "[A]",
+          "一般的な字幕短縮の説明中で、多くの箇所では有益だったという展開を分断する。具体的な確信の損失はまだ示されない。"
+        ],
+        [
+          "[B]",
+          "問題の具体例が始まる位置で、挿入文に必要な削られたためらいと断言化の説明がまだない。"
+        ],
+        [
+          "[D]",
+          "比較実験の二文目の前で、短縮で変わった証拠を検証する段落。This lossを導く位置より遅い。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did interviewees welcome some initial edits?",
+      "quote": "prevented minor difficulties in speech from distracting attention",
+      "options": [
+        [
+          "The edits kept small speaking difficulties from distracting from their experiences.",
+          "些細な話しにくさより経験に注意を向けられた。"
+        ],
+        [
+          "The edits replaced their experiences with official histories.",
+          "体験そのものを置き換えたのではない。"
+        ],
+        [
+          "The edits added years they had never mentioned.",
+          "新しい年を加えたわけではない。"
+        ],
+        [
+          "Every pause was a deliberate historical claim.",
+          "意味の薄い反復と重要な留保を区別する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What was wrong with the factory date subtitle?",
+      "quote": "attributed a degree of confidence to the resident",
+      "options": [
+        [
+          "It made a tentative memory look like a confident assertion.",
+          "概略の記憶を本人の確信ある断言にした。"
+        ],
+        [
+          "It necessarily contained a date known to be false.",
+          "日付は正しかった可能性がある。"
+        ],
+        [
+          "It used a different resident's face.",
+          "顔の取り違えの記述はない。"
+        ],
+        [
+          "It repeated every hesitation too slowly.",
+          "ためらいの削除が問題。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the revised guidelines require?",
+      "quote": "preserve those meaningful qualifications or discuss an accurate shorter equivalent",
+      "options": [
+        [
+          "Keep meaningful qualifications or agree on a faithful shorter expression.",
+          "意味ある留保を残すか、忠実な短縮形を本人と相談する。"
+        ],
+        [
+          "Write a complete transcript of every sound.",
+          "全音を再現する目標は採らない。"
+        ],
+        [
+          "Remove any phrase that expressed uncertainty.",
+          "確信の程度を示す表現は保持する。"
+        ],
+        [
+          "Let editors silently strengthen every factual claim.",
+          "無断の断言化を避ける。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the comparison of two extracts help reveal?",
+      "quote": "neither version had introduced an obviously false name, location, or number",
+      "options": [
+        [
+          "Meaning could change without adding an obviously false factual detail.",
+          "明白な偽の事実を追加せずとも、証拠の見え方を変え得る。"
+        ],
+        [
+          "All editing errors require an invented place name.",
+          "その必要はないと示す。"
+        ],
+        [
+          "Reading speed alone determines faithfulness.",
+          "意味も考慮する必要がある。"
+        ],
+        [
+          "The resident could not recognize her own voice.",
+          "自分の声の認識の問題ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did the resident approve the restored qualification?",
+      "quote": "represented more faithfully how she understood the limits",
+      "options": [
+        [
+          "It represented her understanding of her memory's limits more faithfully.",
+          "記憶の限界に関する本人の認識を忠実に戻した。"
+        ],
+        [
+          "It proved that every other interviewee was wrong.",
+          "他の証言の誤りは示さない。"
+        ],
+        [
+          "It replaced all uncertainty with documented proof.",
+          "不確かさを正直に保持した。"
+        ],
+        [
+          "It made written records unnecessary for comparison.",
+          "必要な箇所は書面などと比較する。"
+        ]
+      ]
+    }
+  ]
+]

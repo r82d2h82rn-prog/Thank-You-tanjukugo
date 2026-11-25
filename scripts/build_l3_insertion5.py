@@ -60,6 +60,8 @@ def compile_batch(next5=False):
  return batch
 VOCAB=[[('possession','所有・所持'),('attributed','筆者・出所が特定された'),('justify','正当化する')],[('displacement','移動・置き換え'),('predictable','予測可能な'),('tradeoff','一方の利益に伴う他方の不利益')],[('occurrence','発生・使用の一例'),('established','定着した'),('inclusion','掲載・収録')],[('endorse','賛同する'),('uniform','一様な'),('overlap','重なり')],[('maintenance','維持管理・手入れ'),('foreseeable','予見可能な'),('continuity','継続性')]]
 
+VOCAB += [[('testimony','証言'),('ventilation','換気'),('observation','観察')],[('germinate','発芽する'),('cultivation','栽培'),('viability','生育可能性')],[('accessible','利用・移動しやすい'),('ambiguous','曖昧な'),('transaction','取引・手続き')],[('recollection','回想・記憶'),('evacuation','避難'),('interchangeable','交換可能な')],[('qualification','限定・留保'),('categorical','断定的な'),('assertion','断言・主張')]]
+
 def main(next5=False):
  suffix='_next5' if next5 else ''
  batch=compile_batch(next5);write_immutable(ROOT/f'content/readings/l3_f07{suffix}.json',batch)

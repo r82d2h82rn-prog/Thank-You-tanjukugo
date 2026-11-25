@@ -1,0 +1,46 @@
+{
+  "batch": "l3-f07_next5-5",
+  "humanReviewed": 0,
+  "passages": [
+    {
+      "id": "reading-l3-f07-06",
+      "words": 499,
+      "completedWords": 508,
+      "paragraphs": 6,
+      "questions": 6,
+      "sentences": 20
+    },
+    {
+      "id": "reading-l3-f07-07",
+      "words": 530,
+      "completedWords": 538,
+      "paragraphs": 6,
+      "questions": 6,
+      "sentences": 21
+    },
+    {
+      "id": "reading-l3-f07-08",
+      "words": 545,
+      "completedWords": 555,
+      "paragraphs": 6,
+      "questions": 6,
+      "sentences": 20
+    },
+    {
+      "id": "reading-l3-f07-09",
+      "words": 551,
+      "completedWords": 563,
+      "paragraphs": 6,
+      "questions": 7,
+      "sentences": 19
+    },
+    {
+      "id": "reading-l3-f07-10",
+      "words": 576,
+      "completedWords": 582,
+      "paragraphs": 6,
+      "questions": 6,
+      "sentences": 19
+    }
+  ]
+}

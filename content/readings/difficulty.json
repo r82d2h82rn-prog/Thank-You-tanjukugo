@@ -4637,6 +4637,116 @@
       "method": "AI rubric, author assessed",
       "status": "ai_assessed_human_pending",
       "rationale": "前後両方向の結束性と段落の展開を統合し、指示対象と説明・帰結の順序から挿入位置を判断する。"
+    },
+    "reading-l3-f07-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "前後両方向の結束性と段落の展開を統合し、指示対象と説明・帰結の順序から挿入位置を判断する。"
+    },
+    "reading-l3-f07-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "前後両方向の結束性と段落の展開を統合し、指示対象と説明・帰結の順序から挿入位置を判断する。"
+    },
+    "reading-l3-f07-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "前後両方向の結束性と段落の展開を統合し、指示対象と説明・帰結の順序から挿入位置を判断する。"
+    },
+    "reading-l3-f07-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "前後両方向の結束性と段落の展開を統合し、指示対象と説明・帰結の順序から挿入位置を判断する。"
+    },
+    "reading-l3-f07-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "前後両方向の結束性と段落の展開を統合し、指示対象と説明・帰結の順序から挿入位置を判断する。"
+    },
+    "reading-l3-f08-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
+    },
+    "reading-l3-f08-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
+    },
+    "reading-l3-f08-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
+    },
+    "reading-l3-f08-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
+    },
+    "reading-l3-f08-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
     }
   }
 }
