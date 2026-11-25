@@ -1,0 +1,672 @@
+[
+  [
+    {
+      "prompt": "本文全体の要約として最も適切な英文を選びなさい。",
+      "quote": "to make the relationship between inheritance and change available for thoughtful judgment",
+      "options": [
+        [
+          "A recipe tradition can continue through explained adaptation. Preserving different versions and the reasons for their changes allows later cooks to judge continuity, without assuming that either the oldest document or every alteration is automatically authoritative.",
+          "各版と変更理由を残して継承と変化の関係を判断する中心主張を、最古だけの権威化と無制限の変化の両方を避けてまとめる。"
+        ],
+        [
+          "A recipe tradition is best preserved by selecting the earliest surviving document. Later versions may explain family memories, but they should be excluded from instructions because changed ingredients necessarily weaken the dish's authentic identity.",
+          "最古の紙だけを正当とする方法では後の版の意味が説明できないと述べる。材料変更が必ず真正性を弱めるという断定もない。"
+        ],
+        [
+          "A recipe tradition remains authentic whenever a cook changes it for practical reasons. Since local circumstances differ, all substitutions should be treated as equally faithful, and historical explanations are unnecessary for future generations.",
+          "実用上の調整でも大切な性質を失う場合があり、全変更を同じく忠実とはしない。変更の説明はむしろ必要である。"
+        ],
+        [
+          "A recipe collection should combine surviving versions into one convenient compromise. Removing disagreements lets future cooks reproduce a common family method without having to consider the preferences or circumstances of earlier cooks.",
+          "誰も実際に使っていない統合版を黙って作ることを避け、各版の事情を見える形にする提案と逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "最古の紙だけを唯一正当な版とすることの問題はどれか。",
+      "quote": "why the later versions were also remembered as family traditions",
+      "options": [
+        [
+          "後の版も家族の伝統と記憶される理由を説明できなくなる。",
+          "編集上は簡単でも、後の実践が伝承に含まれる事実を取りこぼす。"
+        ],
+        [
+          "古い版には必ず材料名が一つも書かれていない。",
+          "量が書かれない版はあるが、最古版の材料名欠如とは述べない。"
+        ],
+        [
+          "最古の紙は新しい版より常に読みやすい。",
+          "紙の読みやすさは評価されていない。"
+        ],
+        [
+          "家族の誰もその料理を作ったことがない。",
+          "代々の実践を基にした例である。"
+        ]
+      ]
+    },
+    {
+      "prompt": "段落2のthey may recordにおけるtheyは何を指すか。",
+      "quote": "they may record the adjustments",
+      "options": [
+        [
+          "レシピ間の違い。",
+          "直前のThe differencesを受け、変化した状況への調整が違いとして記録される。"
+        ],
+        [
+          "若い親族が用意する料理。",
+          "先行詞はdifferencesであり、親族の料理ではない。"
+        ],
+        [
+          "材料横の数字。",
+          "数字は最初の例の一部で、直前の主語ではない。"
+        ],
+        [
+          "一つに統合した版の編集者。",
+          "そのような複数の編集者は提示されていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "本文が全ての変更を同じだけ忠実としない理由はどれか。",
+      "quote": "preserve one valued quality while removing another",
+      "options": [
+        [
+          "一つの大切な性質を保つ一方、別の不可欠な性質を失う場合がある。",
+          "調整が伝承の一部でありうることと、全変更の無条件肯定は別である。"
+        ],
+        [
+          "変更した版はどれも家族に使われていない。",
+          "後の版も伝統として記憶される例であり、逆。"
+        ],
+        [
+          "材料の一致だけで料理の同一性は必ず決まる。",
+          "機会や関係や提供方法も関わり、材料だけでは決まらない。"
+        ],
+        [
+          "古い方法の細部は現在全て完全に回復できる。",
+          "そのような完全回復を装わないと明記する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "各版を並べ変更理由を記す方法の利点として適切なものはどれか。",
+      "quote": "both instructions and reasons for variation",
+      "options": [
+        [
+          "将来の料理人が手順と変化の理由を理解し、変更を明示して判断できる。",
+          "字面通りの反復を装わず、継承と変更の関係を検討できる。"
+        ],
+        [
+          "編集者の折衷案を、全記録に共通する唯一の権威とできる。",
+          "そのような根拠のない権威化を防ぐのが狙い。"
+        ],
+        [
+          "過去の版の違いを読者から完全に隠せる。",
+          "選択肢を見えるまま残す。"
+        ],
+        [
+          "読者が変更の影響を問い直す必要をなくせる。",
+          "問い直せる細部を保持する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "最後の段落で退けられている二つの極端な考えはどれか。",
+      "quote": "neither to freeze the recipe nor to erase its past",
+      "options": [
+        [
+          "レシピを一切変えず固定することと、料理の過去を消すこと。",
+          "neither A nor Bで両極端を避け、継承と変化の関係の判断を目標とする。"
+        ],
+        [
+          "版を比較することと変更理由を説明すること。",
+          "それらは推奨する方法である。"
+        ],
+        [
+          "材料を入手することと調理を続けること。",
+          "日常的な活動であり、ここで排する両極端ではない。"
+        ],
+        [
+          "最古の版を読むこととその価値を認めること。",
+          "最古の形が無意味だとはしていない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "本文全体の要約として最も適切な英文を選びなさい。",
+      "quote": "making the basis of judgment available for examination",
+      "options": [
+        [
+          "Learning a skill requires more than copying visible movements. Imitation and practice become more informative when learners examine how actions respond to changing conditions, using predictions and errors to develop judgments they can explain and revise.",
+          "見える動作の模倣を捨てず、条件・予測・誤りを通じて理由ある調整を学ぶ中心主張をまとめる。"
+        ],
+        [
+          "Learning a skill depends primarily on reproducing an expert's hand positions. Written instructions should exclude explanations of changing conditions, because beginners can develop independent judgment only after they have eliminated every difference from the model.",
+          "手の位置の忠実な反復だけでは解決しないとし、条件と行為を結ぶ説明を重視する本文と逆。"
+        ],
+        [
+          "Learning a skill requires abandoning imitation and written instructions. Since expert adjustments cannot be fully captured in rules, practical experience should be treated as a private talent that teachers are unable to discuss with beginners.",
+          "手順書無用・神秘的才能という解釈を明示的に否定し、判断の根拠を議論できるとする。"
+        ],
+        [
+          "Learning a skill is successful whenever a learner introduces personal variations. Errors matter mainly as departures from a physical pattern, while explanations of why the expert changes that pattern add little to practical independence.",
+          "全ての変化を熟練の証しとはせず、誤りは解釈の証拠となる。理由の説明を軽視する点も逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "手の位置をより正確にまねるだけでは不十分になりうる理由はどれか。",
+      "quote": "the clay placed on the wheel varies from one batch to another",
+      "options": [
+        [
+          "材料などの条件が変わり、師は作業中の反応に合わせて動作を調整するから。",
+          "手だけの固定的記録には、調整に使う情報と判断が入りきらない。"
+        ],
+        [
+          "師がいつも同じ粘土を全く同じ圧力で扱うから。",
+          "材料の差と圧力調整が明示される。"
+        ],
+        [
+          "見習いは手の位置を一度も観察していないから。",
+          "注意深く記録し、極力まねている。"
+        ],
+        [
+          "練習を繰り返すことは必ず判断力を失わせるから。",
+          "練習は引き続き必要であり、内容を見直す。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What the notebook captures is only part of what the master is doingの意味として適切なものはどれか。",
+      "quote": "only part of what the master is doing",
+      "options": [
+        [
+          "記録された動作は師の仕事の一部で、反応を捉えて調整する判断までは全て記せていない。",
+          "二つのwhat節を対応させ、可視動作の記録範囲を限定している。"
+        ],
+        [
+          "ノートには師の仕事が全て含まれている。",
+          "only partと逆。"
+        ],
+        [
+          "記録は間違いなので全て捨てなければならない。",
+          "一部であることは無価値を意味しない。"
+        ],
+        [
+          "師の仕事はノートを書くことだけである。",
+          "陶芸の実演と調整についての文である。"
+        ]
+      ]
+    },
+    {
+      "prompt": "別の教え方で、実演の続きを見る前に予測させる目的はどれか。",
+      "quote": "which features had mattered",
+      "options": [
+        [
+          "予測と結果を比べ、注目すべき特徴や対応が変わる理由を検討するため。",
+          "判断の根拠を可視化する方法である。"
+        ],
+        [
+          "予測が当たらない見習いを練習から除外するため。",
+          "排除の制度は示されていない。"
+        ],
+        [
+          "師が今後は状況に応じて動作を変えなくて済むため。",
+          "条件への応答の理解を学ぶ。"
+        ],
+        [
+          "ノートから手順の順序を全て削除するため。",
+          "reasons and comparisons as well as sequencesで順序も残す。"
+        ]
+      ]
+    },
+    {
+      "prompt": "本文における誤りの積極的な位置づけはどれか。",
+      "quote": "evidence about the learner's interpretation",
+      "options": [
+        [
+          "学び手が条件をどう理解しているかを示す証拠。",
+          "動作の逸脱としてだけ扱わず、解釈を検討する材料とする。"
+        ],
+        [
+          "どんな個人的変化も正しいと証明するもの。",
+          "全変化が熟練を示すとはしていない。"
+        ],
+        [
+          "経験者には一切判断が不要である証明。",
+          "経験者の調整と判断が中心である。"
+        ],
+        [
+          "文章による説明は全て無益だと示すもの。",
+          "理由と比較を含む記録を有用とする。"
+        ]
+      ]
+    },
+    {
+      "prompt": "本文が提案する自立に最も近いものはどれか。",
+      "quote": "making defensible adjustments",
+      "options": [
+        [
+          "状況に応じ、理由を説明できる調整を行うこと。",
+          "exact reproductionと無制限のpersonal variationの両方を避ける。"
+        ],
+        [
+          "一度の実演を全状況でそのまま再現すること。",
+          "同じ外形動作の反復だけでは不十分である。"
+        ],
+        [
+          "全ての教えと手本を捨てること。",
+          "模倣を否定せず、明確なモデルも必要とする。"
+        ],
+        [
+          "理由を問わず、独自性があれば熟練とみなすこと。",
+          "defensibleは理由を支えられることであり、単なる差異ではない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "本文全体の要約として最も適切な英文を選びなさい。",
+      "quote": "an accountable act of interpretation",
+      "options": [
+        [
+          "Translations may preserve different relationships within a poem. Their adequacy should be judged against an explained purpose while remaining answerable to the source; making choices and tradeoffs visible supports comparison without declaring all versions equally defensible.",
+          "目的による重点差、原文への説明責任、変更の可視化を統合し、単一基準と全訳の無条件肯定をともに避ける。"
+        ],
+        [
+          "Translations should be ranked by how easily each word matches the original. A version intended for listening may be enjoyable, but rearranging phrases necessarily makes it less faithful regardless of what the performance is designed to communicate.",
+          "語対応だけで全てを評価する基準を退け、朗読目的と保つ関係を検討する本文に反する。"
+        ],
+        [
+          "Translations are justified whenever their intended audience enjoys them. A stated purpose removes the need to answer to the original, so explanations of missing images or altered relationships should be avoided during a performance.",
+          "目的は全逸脱の免罪符でなく、原文への責任と損失・利得の検討を要する。楽しさだけの基準でもない。"
+        ],
+        [
+          "Translations become accurate when their different priorities are hidden. Printing one definitive version prevents audiences from being distracted by interpretation and allows faithfulness to be measured without reference to a translator's choices.",
+          "異なる優先順位を解釈不在と取り違えさせず、選択と理由を明らかにする提案と逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "一つ目と二つ目の訳がそれぞれ重視したものの組合せはどれか。",
+      "quote": "create a speaking rhythm",
+      "options": [
+        [
+          "前者はイメージ・反復語の順や語句比較、後者は朗読時のリズム。",
+          "原文との対応のしやすさと聞く体験という重点の違い。"
+        ],
+        [
+          "前者は客席の配置、後者は詩の作者の伝記。",
+          "本文が挙げる比較軸ではない。"
+        ],
+        [
+          "前者は朗読リズムのみ、後者は語順の完全一致。",
+          "二つの重点を逆にしている。"
+        ],
+        [
+          "両方とも一語一句の同じ順番だけ。",
+          "後者は一部を並べ替える。"
+        ]
+      ]
+    },
+    {
+      "prompt": "本文が「正確さ対不注意」という二分法を疑う理由はどれか。",
+      "quote": "which relationships to preserve",
+      "options": [
+        [
+          "両者が保つべき関係を意図的に選んだ可能性があるから。",
+          "選択の違いが直ちに不注意の証明とはならない。"
+        ],
+        [
+          "詩には比較できる関係が何もないから。",
+          "音・イメージ・配置などの関係が挙げられる。"
+        ],
+        [
+          "目的があれば訳文を批判することはできないから。",
+          "批判不能にはしないと明示している。"
+        ],
+        [
+          "後者は必ず全ての点で前者より正確だから。",
+          "全側面での優越を断定しない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "どの訳でも批判の対象になりうる例として本文が挙げるものはどれか。",
+      "quote": "claiming an effect that the resulting language does not actually support",
+      "options": [
+        [
+          "訳文が実際には支えない効果を主張すること。",
+          "イメージの誤表現とともに検討可能な欠点として挙げる。"
+        ],
+        [
+          "目的を説明してから提示すること。",
+          "提案する方法である。"
+        ],
+        [
+          "二種類の訳を補完する読みとして示すこと。",
+          "条件付きで可能な提案として挙げる。"
+        ],
+        [
+          "朗読用にリズムを考えること。",
+          "目的に沿う選択として認め、無条件に欠点とはしない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "両方の訳を提供する場合の条件はどれか。",
+      "quote": "provided that the audience is told where they diverge",
+      "options": [
+        [
+          "どこで異なり、なぜ違いを受け入れたか聴衆に説明すること。",
+          "provided thatは両版を補完的に示すための条件。"
+        ],
+        [
+          "どちらの訳も原文に一切関係しないと宣言すること。",
+          "原文への説明責任を保つ。"
+        ],
+        [
+          "全ての来場者に長い専門講義を義務づけること。",
+          "短い目的説明でもよく、講義にする必要はない。"
+        ],
+        [
+          "違いを一切知らせず、解釈していないと主張すること。",
+          "判断を見えるようにする提案と逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "本文の目的と忠実さの関係として適切なものはどれか。",
+      "quote": "while remaining answerable to the source",
+      "options": [
+        [
+          "目的に照らして損失と利得を検討し、同時に原文への責任も保つ。",
+          "目的と原文のどちらかだけで正当化するのではない。"
+        ],
+        [
+          "目的さえ述べればどんな逸脱でも正しい。",
+          "Purpose does not excuse every departureと逆。"
+        ],
+        [
+          "忠実さは見える一特徴だけで常に確定する。",
+          "一つの類似で全側面の同等性を保証できない。"
+        ],
+        [
+          "複数の訳があることは一方の全面的失敗を必ず意味する。",
+          "違いを議論の材料にして関わりを深める。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "本文全体の要約として最も適切な英文を選びなさい。",
+      "quote": "when the rest of the journey is included",
+      "options": [
+        [
+          "A faster train can benefit some travelers without improving every complete journey. Evaluating a timetable requires examining connections, waiting, reliability, and competing constraints, while explaining whose trips gain or lose rather than treating one headline time as a network-wide result.",
+          "速さの部分的価値を残しながら、全行程・接続・確実性・制約と利益配分を評価する主張を統合する。"
+        ],
+        [
+          "A railway improves its whole network whenever its fastest station-to-station time falls. Connection delays should be reported separately, because passengers' waiting time does not affect the value of a timetable once train speed has increased.",
+          "単体の短縮から路線網全体の改善を推論する誤りであり、待機は全行程の価値に関わる。"
+        ],
+        [
+          "Faster services cannot improve regional travel because some connecting passengers may wait longer. Planners should therefore preserve all existing departure times and avoid comparisons among direct trips, transfers, and journeys with fixed arrival deadlines.",
+          "一部の不利益を全ての高速化の無益さへ一般化している。本文は比較を提案しており現状固定ではない。"
+        ],
+        [
+          "The quality of a timetable depends entirely on making every connection possible. Once sample journeys are compared, all disadvantages can be eliminated immediately, and the reasons for choosing among competing improvements no longer need discussion.",
+          "全不利益の即時解消を否定し、制約下のtradeoffsと説明の必要性を述べる。"
+        ]
+      ]
+    },
+    {
+      "prompt": "普通列車から乗り継ぐ乗客の全行程が長くなりうる理由はどれか。",
+      "quote": "before the local train arrives",
+      "options": [
+        [
+          "優等列車の発車に間に合わず、次の便まで待つ可能性があるため。",
+          "優等列車の所要時間短縮と乗客全体の所要時間は同じ尺度ではない。"
+        ],
+        [
+          "短縮した優等列車が途中駅で必ず故障するため。",
+          "故障はこの例の条件ではない。"
+        ],
+        [
+          "普通列車が今後一切運行されなくなるため。",
+          "到着時刻と接続のずれであり、運休の話ではない。"
+        ],
+        [
+          "直通乗客にも必ず同じ待ち時間が発生するため。",
+          "直通乗客は条件が合えば利益を受ける。"
+        ]
+      ]
+    },
+    {
+      "prompt": "段落2のthe firstとthe secondの対応はどれか。",
+      "quote": "Reducing the first does not automatically reduce the second",
+      "options": [
+        [
+          "前者は選んだ地点間の列車単体の移動、後者は待機や乗換えを含む乗客の全体経験。",
+          "直前のpublished figureの対象とpassenger's experienceを比較する。"
+        ],
+        [
+          "前者は普通列車、後者は優等列車そのもの。",
+          "列車の車種の代用ではなく測定範囲の違い。"
+        ],
+        [
+          "前者は線路数、後者は職員数。",
+          "直前にその二つの数の比較はない。"
+        ],
+        [
+          "前者は新ダイヤ、後者は旧ダイヤの名前。",
+          "二つのダイヤではなく、一部区間と全行程の区別。"
+        ]
+      ]
+    },
+    {
+      "prompt": "複数の旅程を両ダイヤで比較する意義はどれか。",
+      "quote": "where time is saved and where waiting increases",
+      "options": [
+        [
+          "どの旅行で短縮し、どこで待機が増えるかを区別して示せる。",
+          "直通や乗換え、到着期限付き旅程で効果が異なる。"
+        ],
+        [
+          "最速値が全乗客の経験を代表すると自動証明できる。",
+          "その代表性を前提としないための比較である。"
+        ],
+        [
+          "どんな設備制約も直ちに無くせる。",
+          "線路・車両・要員制約のtradeoffsを明らかにする。"
+        ],
+        [
+          "最速値に価値が全くないと結論するためだけ。",
+          "一部乗客に有用という限定的価値は保持する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "余裕がほとんどない乗換えを取り上げた理由はどれか。",
+      "quote": "a minor delay regularly forces passengers to wait for a later service",
+      "options": [
+        [
+          "時刻表上は便利でも、小さな遅れで接続できなければ実際の確実性が低くなるから。",
+          "理論的な接続と使える接続の違いを指摘する。"
+        ],
+        [
+          "乗換え余裕が短ければ遅れは必ず解消するから。",
+          "むしろ遅れが待機へ波及する。"
+        ],
+        [
+          "列車の最高速度は乗換え成功だけで決まるから。",
+          "最高速度の決定要因を述べる例ではない。"
+        ],
+        [
+          "乗客には到着期限が存在しないから。",
+          "到着期限付き旅程も評価対象に含める。"
+        ]
+      ]
+    },
+    {
+      "prompt": "計画者に求める姿勢として最も適切なものはどれか。",
+      "quote": "the reasons for a final choice available for discussion",
+      "options": [
+        [
+          "制約と競合する効果を示し、どの改善を選ぶかの理由を議論可能にする。",
+          "全不利益を消せなくても説明と比較は必要である。"
+        ],
+        [
+          "一つでも不利益があればダイヤを一切変更しない。",
+          "現状維持を常に正解とはしていない。"
+        ],
+        [
+          "目立つ区間以外の待機を改善とは無関係として隠す。",
+          "全行程に合う情報を求める主張と逆。"
+        ],
+        [
+          "全乗客が同じ旅行をしていると仮定する。",
+          "異なる種類の利益と不利益を分けて検討する。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "本文全体の要約として最も適切な英文を選びなさい。",
+      "quote": "make a claim proportionate to the evidence available",
+      "options": [
+        [
+          "An imperfect classroom experiment can reveal the difference between observation and explanation. Revising comparisons and documenting conditions can strengthen or limit a claim without erasing earlier results or treating procedural rules as guarantees of truth.",
+          "不完全な結果を捨てず、観察と因果説明を区別し、設計と記録で証拠に見合う主張へ改める中心論点をまとめる。"
+        ],
+        [
+          "An experiment with an unintended difference should be removed from classroom discussion. Replacing it with a correct procedure ensures that the expected explanation is true and prevents students from confusing observations with uncertain interpretations.",
+          "元結果を学びの機会にし、正しい手続きも真実の保証にはならないとする本文と逆。"
+        ],
+        [
+          "More seedlings in one tray prove that its watering schedule is better. Since the total water amount was equal, placement cannot affect the interpretation, and repeating the comparison is useful only for rewarding the successful group.",
+          "置き場所などの複数差があり、どれが結果を生んだか不明。反復の目的も勝者決定ではなく主張の範囲の判断。"
+        ],
+        [
+          "Uncertainty makes experimental results unsuitable as evidence. Students should stop investigating until every possible variable is fully controlled, because revising a conclusion necessarily means admitting that the original observation never happened.",
+          "不確かさは調査停止や元観察の否認の理由ではない。限界を認めながら再設計して学ぶ。"
+        ]
+      ]
+    },
+    {
+      "prompt": "最初の結果から水やり頻度だけの効果を確定できない理由はどれか。",
+      "quote": "The trays differed in more than the planned watering schedule",
+      "options": [
+        [
+          "置き場所など他の条件も異なり、どの違いが差を生んだか分からないから。",
+          "総水量が同じでも他条件を揃えたとは限らない。"
+        ],
+        [
+          "二つの班の総水量が違うと明記されているから。",
+          "同じ総量と明記されている。"
+        ],
+        [
+          "芽の観察そのものが必ず虚偽だから。",
+          "観察は正しい可能性があり、説明の確かさと分ける。"
+        ],
+        [
+          "水やり日程は両班で全く同じだったから。",
+          "一方は毎朝、他方は少ない回数である。"
+        ]
+      ]
+    },
+    {
+      "prompt": "「一つだけ変える」という規則の遵守だけでは足りないとする理由はどれか。",
+      "quote": "why the rule matters",
+      "options": [
+        [
+          "なぜ規則が重要か、新場面で予定外の差をどう見抜くかを理解する必要があるから。",
+          "単なる儀式ではなく、問いに応じた比較の推論を学ぶ。"
+        ],
+        [
+          "規則を守ると観察できる芽が必ず減るから。",
+          "規則が芽を減らすとは述べていない。"
+        ],
+        [
+          "どの条件が変わっても結論は同じだから。",
+          "条件差によって因果解釈が変わる。"
+        ],
+        [
+          "実験設計より期待どおりの結果だけが重要だから。",
+          "最後にその目的観を否定している。"
+        ]
+      ]
+    },
+    {
+      "prompt": "限界を認めることと、最初の説明の誤りについての関係はどれか。",
+      "quote": "has already been proved false",
+      "options": [
+        [
+          "根拠が不十分と認めても、説明が誤りと既に証明されたことにはならない。",
+          "未確定と反証済みを区別する。"
+        ],
+        [
+          "限界が一つあれば観察は全て存在しなかったことになる。",
+          "観察を消す必要はないと述べる。"
+        ],
+        [
+          "説明を支持できなければ逆の説明が必ず正しい。",
+          "どの違いが結果を生んだかは未確定である。"
+        ],
+        [
+          "不確かなら今後の検討は不可能である。",
+          "再設計と反復で判断を改善できる。"
+        ]
+      ]
+    },
+    {
+      "prompt": "再設計で本文が提案したことはどれか。",
+      "quote": "in more than one tray under similar placement conditions",
+      "options": [
+        [
+          "似た設置条件で各日程を複数トレーに試し、観察期間と数え方も事前に決める。",
+          "日程以外の差やばらつきを検討しやすくする。"
+        ],
+        [
+          "各日程を一つの別々の窓だけで試し、出来事は記録しない。",
+          "複数トレーと似た設置、予定外の記録を提案する。"
+        ],
+        [
+          "期待に合わない芽は数える前に全て除く。",
+          "都合のよい除外は提案されていない。"
+        ],
+        [
+          "水やりを忘れた事例を計画どおりと見なす。",
+          "予定と実施を混同せず記録する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "反復比較で結果が安定しなかった場合にも得られるものは何か。",
+      "quote": "Either outcome would help the class judge the scope of its claim",
+      "options": [
+        [
+          "最初の対照の安定性と、主張できる範囲についての判断。",
+          "支持が強まる場合も弱まる場合も証拠と説明の関係を学べる。"
+        ],
+        [
+          "どの条件でも日々の水やりが最善という保証。",
+          "ばらつきはそのような一律保証を支えない。"
+        ],
+        [
+          "実験手続きを守れば全発言が真になる証明。",
+          "自動的な真実の儀式とはしない。"
+        ],
+        [
+          "観察結果を今後一切使わないという義務。",
+          "元結果は保存し、解釈を改められる。"
+        ]
+      ]
+    }
+  ]
+]

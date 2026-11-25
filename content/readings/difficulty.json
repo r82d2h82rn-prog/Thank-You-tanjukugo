@@ -4802,6 +4802,116 @@
       "method": "AI rubric, author assessed",
       "status": "ai_assessed_human_pending",
       "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
+    },
+    "reading-l3-f09-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の中心主張とその条件を統合し、具体例と一般的結論を区別して要約の範囲を判断する。"
+    },
+    "reading-l3-f09-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の中心主張とその条件を統合し、具体例と一般的結論を区別して要約の範囲を判断する。"
+    },
+    "reading-l3-f09-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の中心主張とその条件を統合し、具体例と一般的結論を区別して要約の範囲を判断する。"
+    },
+    "reading-l3-f09-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の中心主張とその条件を統合し、具体例と一般的結論を区別して要約の範囲を判断する。"
+    },
+    "reading-l3-f09-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の中心主張とその条件を統合し、具体例と一般的結論を区別して要約の範囲を判断する。"
+    },
+    "reading-l3-f09-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の中心主張とその条件を統合し、具体例と一般的結論を区別して要約の範囲を判断する。"
+    },
+    "reading-l3-f09-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の中心主張とその条件を統合し、具体例と一般的結論を区別して要約の範囲を判断する。"
+    },
+    "reading-l3-f09-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の中心主張とその条件を統合し、具体例と一般的結論を区別して要約の範囲を判断する。"
+    },
+    "reading-l3-f09-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の中心主張とその条件を統合し、具体例と一般的結論を区別して要約の範囲を判断する。"
+    },
+    "reading-l3-f09-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の中心主張とその条件を統合し、具体例と一般的結論を区別して要約の範囲を判断する。"
     }
   }
 }

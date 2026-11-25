@@ -1,0 +1,716 @@
+[
+  [
+    {
+      "prompt": "本文全体の要約として最も適切な英文を選びなさい。",
+      "quote": "responsible selection and explanation",
+      "options": [
+        [
+          "Maps necessarily select information for particular purposes. Their usefulness depends on making relevant features, limits, and grounds for revision understandable, rather than adding every fact or treating a familiar representation as equally adequate for every traveler.",
+          "目的に応じた必要な選択を認め、用途・限界・確認と修正の根拠を説明する主張を統合する。全情報化と万人向けという断定の両方を避ける。"
+        ],
+        [
+          "Maps become trustworthy only when they contain every available fact about a town. Since different travelers face different obstacles, designers should remove all simplifications and use blank spaces to confirm that every unmarked route has been checked.",
+          "全事実の追加は使いやすさを損ないうる。空白を確認済みと見なす推論も本文が退ける。"
+        ],
+        [
+          "A familiar map is equally useful for all tasks if street names and distances are accurate. Differences in travelers' experiences therefore indicate failures to understand symbols, while additional layers mainly distract users from the basic route.",
+          "記号の読み違いでなく目的や必要条件の違いがあり、追加層を明示的な改善案として挙げる。"
+        ],
+        [
+          "Because maps omit information and conditions change, no feature can be trusted for a stated purpose. Designers should consequently avoid explaining their selections and accept reports from confident contributors without checking the conditions they describe.",
+          "特定用途における信頼は可能とする。選択理由の説明と、提供情報の照合を求める点も逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "正しい住所に着ける地図でも、別の利用者には不十分になる理由はどれか。",
+      "quote": "steps that the map does not show",
+      "options": [
+        [
+          "段差や勾配など、経路の利用条件に重要な情報が載らないことがある。",
+          "行き先の特定と特定の人にとっての通りやすさは別の問い。"
+        ],
+        [
+          "住所が正しければ段差は必ず避けられる。",
+          "同じ経路に未記載の段差がある例を示す。"
+        ],
+        [
+          "困る利用者は全員、記号を読み違えている。",
+          "そのような必然的結論をneed notで否定する。"
+        ],
+        [
+          "距離が一貫していれば全目的に適する。",
+          "表現の一貫性だけでは必要情報の差に対応できない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "情報を全て追加すればよいとはしない理由はどれか。",
+      "quote": "a page crowded with details might make an urgent route harder to follow",
+      "options": [
+        [
+          "細部が増えすぎると、目的の経路をたどりにくくなる場合がある。",
+          "地図は目的に沿った強調と省略で有用になる。"
+        ],
+        [
+          "全ての追加情報は必ず誤っている。",
+          "真偽ではなく選択と使いやすさを論じる。"
+        ],
+        [
+          "地図には道の名前を一切載せるべきでない。",
+          "道の基本配置や名前を捨てる提案ではない。"
+        ],
+        [
+          "用途が異なっても必要な情報は常に同じ。",
+          "複数利用者の目的差を挙げる。"
+        ]
+      ]
+    },
+    {
+      "prompt": "追加の層と確認時期の説明を組み合わせる意義はどれか。",
+      "quote": "when its information was checked",
+      "options": [
+        [
+          "用途に応じた詳しさを与えつつ、情報の確認範囲と変化の可能性も示せる。",
+          "段差や入口の情報だけでなく、その確かさを解釈できるようにする。"
+        ],
+        [
+          "地図公開後は現地状況が変化しないと保証する。",
+          "追加情報でも変化しない保証はできないと述べる。"
+        ],
+        [
+          "全利用者に最も詳しい層だけを常時強制する。",
+          "基本の道を見失わず必要に応じ参照する提案。"
+        ],
+        [
+          "確認していない経路を自動的に安全と認定する。",
+          "未記載と確認済みを分けることを求める。"
+        ]
+      ]
+    },
+    {
+      "prompt": "修正情報の採用に関する筆者の考えはどれか。",
+      "quote": "rather than accepted solely because they arrived from the most confident contributor",
+      "options": [
+        [
+          "提供者の自信の強さだけで決めず、現地状況と照合する。",
+          "反応は役立つが、確認という条件を付ける。"
+        ],
+        [
+          "自信を持って届いた情報は必ず現地確認より正確。",
+          "自信だけを根拠にしない。"
+        ],
+        [
+          "利用者の報告は全て無価値なので捨てる。",
+          "重要な欠落を発見する役割を認める。"
+        ],
+        [
+          "未確認の変更は確認済みと同じ記号にすべきだ。",
+          "暫定的な不確かさの表示を提案する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "本文が想定する地図への信頼として適切なものはどれか。",
+      "quote": "particular features for stated purposes",
+      "options": [
+        [
+          "用途と限界を理解した上で、対応する特徴を信頼すること。",
+          "必要な全てが既に入っているという全面的信頼とは区別する。"
+        ],
+        [
+          "地図の全項目が全利用者の疑問に答えると信じること。",
+          "目的ごとの選択性を無視する。"
+        ],
+        [
+          "省略が一つでもあれば全項目を疑うこと。",
+          "全地図を一律に信用不能とはしない。"
+        ],
+        [
+          "見慣れた見た目だけを確認の代わりにすること。",
+          "見慣れた表現が選択判断を隠す問題を導入している。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "本文全体の要約として最も適切な英文を選びなさい。",
+      "quote": "a supported capacity to act",
+      "options": [
+        [
+          "Repairability depends on more than opening a product. Physical access becomes practically useful through diagnosis, guidance, parts, and continuing support; responsible claims should explain who can perform which repairs under what conditions without dismissing genuine design improvements.",
+          "物理的改善の価値を保ち、診断・部品・案内・継続支援を組み合わせた実行能力として修理可能性をまとめる。"
+        ],
+        [
+          "Repairability is fully demonstrated when an owner can open the case with ordinary tools. Since internal access removes every important barrier, future parts and documentation can be left unspecified without affecting the accuracy of the seller's claim.",
+          "開けても部品がない、原因が分からない例を無視し、物理的アクセスだけで全条件を満たすと誤る。"
+        ],
+        [
+          "Repairable design has no real value unless every owner can fix every fault alone. Products requiring assistance should therefore be treated as worthless, even when removable components and suitable guidance make some repairs substantially easier.",
+          "設計改善を無価値とはせず、全員の専門家化を要しない。支援サービスの情報も有用とする。"
+        ],
+        [
+          "A repair label should focus on how a product is assembled and avoid commitments beyond the first sale. The buyer's confidence is a sufficient substitute for identifying parts, checking repairs, and keeping guidance available to later owners.",
+          "組立てだけでなく診断や検証を重視し、後の所有者も含む継続支援の説明を求める。"
+        ]
+      ]
+    },
+    {
+      "prompt": "二人の所有者の例が示す共通点はどれか。",
+      "quote": "neither yet has a workable path",
+      "options": [
+        [
+          "内部にアクセスできても、動く状態へ戻す一連の手段はまだ整っていない。",
+          "一方は部品不足、他方は原因特定の困難がある。"
+        ],
+        [
+          "両者とも外装を壊さないと開けられない。",
+          "ordinary toolsで開けられる設計である。"
+        ],
+        [
+          "部品を買えれば原因特定は自動的に完了する。",
+          "二人目は部品を入手できても原因が分からない。"
+        ],
+        [
+          "最初の設計改善は存在しなかった。",
+          "The improvement is realと認める。"
+        ]
+      ]
+    },
+    {
+      "prompt": "分解しやすさだけに基づく表示の問題はどれか。",
+      "quote": "a misleading impression of the support available after purchase",
+      "options": [
+        [
+          "購入後に得られる支援や修理の実行範囲まで保証したように受け取られうる。",
+          "一特徴の証明と全修理過程の支援は別である。"
+        ],
+        [
+          "分解のしやすさは修理と全く関係がない。",
+          "一連の機会の一部を支えると述べる。"
+        ],
+        [
+          "所有者は案内を読むことを禁じられる。",
+          "案内の改良と参照可能性を求める。"
+        ],
+        [
+          "密閉型なら交換部品が必ず永久に供給される。",
+          "密閉型の永久供給は述べられていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "元の設計に関わらなかった人と試す理由はどれか。",
+      "quote": "knowledge that an owner lacks",
+      "options": [
+        [
+          "説明書が利用者にない知識を前提としている箇所などを見つけるため。",
+          "設計者の既知の知識を所有者にも当然あると扱わない。"
+        ],
+        [
+          "設計を理解している人の成果を全て否定するため。",
+          "有用性の検証であって否定ではない。"
+        ],
+        [
+          "部品の外見が違えば名前の説明は一切不要だから。",
+          "名前だけでは似た外見を区別できない問題を挙げる。"
+        ],
+        [
+          "最初の購入者以外への支援を廃止するため。",
+          "後の所有者も資料を使えることを重視する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "本文は専門家の助けを必要とする修理をどう扱うか。",
+      "quote": "information about accessible services may be more useful",
+      "options": [
+        [
+          "全員に独力を要求せず、利用できる支援の情報を整えることも修理支援に含める。",
+          "支援された実行能力という結論と一致する。"
+        ],
+        [
+          "外部支援が要る場合は修理とは呼べない。",
+          "そのような定義は取らない。"
+        ],
+        [
+          "全所有者に専門家化を義務づける。",
+          "need not mean requiring every user to become an expertと逆。"
+        ],
+        [
+          "利用者が想像すれば支援供給の説明は不要。",
+          "部品供給期間などを明示する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "現在の実証と継続する約束を区別する意味はどれか。",
+      "quote": "commitments that must continue after the first sale",
+      "options": [
+        [
+          "今確認できる物理的機能だけで、将来の供給や案内まで保証済みとしないため。",
+          "継続条件を示して購入者が判断できるようにする。"
+        ],
+        [
+          "現在実証できた機能も全て虚偽とするため。",
+          "改善の実在を認めている。"
+        ],
+        [
+          "取引が終われば案内を隠すことを勧めるため。",
+          "初回取引を超える支援を提案する。"
+        ],
+        [
+          "外装が開けば全種類の将来損傷を必ず直せると示すため。",
+          "その誤解を避ける説明を求める。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "本文全体の要約として最も適切な英文を選びなさい。",
+      "quote": "the limits of an interface as the limits of a person",
+      "options": [
+        [
+          "Recommendations can help readers while also shaping the choices later interpreted as preferences. A responsible service should preserve convenience, explain its signals, and support redirection and exploration rather than treating repeated responses within limited options as a complete personal identity.",
+          "便利さを認めつつ、提示が行動を作る循環を考慮し、説明・探索・方向転換の可能性を残す論点を統合する。"
+        ],
+        [
+          "Recommendations simply reveal interests that exist independently of what a service displays. Repeated clicks therefore establish the full range of a reader's taste, making opportunities for unfamiliar work unnecessary once enough familiar items have been opened.",
+          "提示範囲が選択を形作る点を無視し、既に選ばれた行動から関心の全範囲を確定できると誤る。"
+        ],
+        [
+          "Personalized suggestions are inherently harmful because enjoyment produced within an interface is never genuine. A responsible service should replace every familiar title with a surprise and prevent readers from requesting stories similar to earlier favorites.",
+          "楽しさが偽物とも全推薦が有害ともせず、なじみの選択の全面的置換も目的ではない。"
+        ],
+        [
+          "The success of a reading service should be measured only by how often recommended titles are opened. A reader's silence reliably identifies an uninteresting subject, so explanations and controls add no useful information about possible alternatives.",
+          "開く頻度だけでは見せなかった候補を評価できず、無反応にも時間不足などの別理由がある。"
+        ]
+      ]
+    },
+    {
+      "prompt": "同じ種類の選択が繰り返されても、関心の全範囲が分からない理由はどれか。",
+      "quote": "what the interface has made easy to encounter",
+      "options": [
+        [
+          "画面が一部を出会いやすくし、その範囲から選ぶ行動が次の推薦に戻るから。",
+          "好みと提示機会が相互に影響する。"
+        ],
+        [
+          "読者の楽しみは必ず偽物だから。",
+          "真正な楽しさは認めている。"
+        ],
+        [
+          "サービスに全蔵書が存在しないから。",
+          "全蔵書よりホーム画面の種類が少ない例である。"
+        ],
+        [
+          "過去に選んだ作品は今後全て嫌いになるから。",
+          "そのような変化は断定していない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "本物の好みと人工的影響の単純な対立ではないとする理由はどれか。",
+      "quote": "Even a thoughtfully arranged shelf guides attention",
+      "options": [
+        [
+          "棚の配置のような通常の提示も注意を導き、楽しさと選択機会の狭さは併存しうる。",
+          "選択への影響があるだけで好みを全否定しない。"
+        ],
+        [
+          "影響がある場合、どの推薦も正しくなるから。",
+          "影響を認識して設計と評価を検討する。"
+        ],
+        [
+          "人間の選択には提示条件が一切関わらないから。",
+          "本文はその相互作用を中心にする。"
+        ],
+        [
+          "推薦の便利さは評価してはいけないから。",
+          "便利さをlegitimate aimと認める。"
+        ]
+      ]
+    },
+    {
+      "prompt": "無反応を完全な好みの答えとしない理由はどれか。",
+      "quote": "because there was no time to read",
+      "options": [
+        [
+          "題材が嫌いなのではなく、読む時間がないなどの理由もありうる。",
+          "silence aloneは曖昧な証拠として扱う。"
+        ],
+        [
+          "全ての無反応は必ず賛同を意味する。",
+          "肯定にも一律変換していない。"
+        ],
+        [
+          "読者に個人事情を詳しく強制的に説明させるべきだから。",
+          "詳細な個人説明を強いずに伝える機能を提案する。"
+        ],
+        [
+          "無反応がある作品は全蔵書から削除すべきだから。",
+          "蔵書削除の提案ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "似た作品を求めることと区別すべき主張はどれか。",
+      "quote": "the reader wants nothing else",
+      "options": [
+        [
+          "その読者はそれ以外を何も望まないという主張。",
+          "一回の類似作品への要求から関心全体の排他性を推論しない。"
+        ],
+        [
+          "一時的に似た作品を読みたいという要求。",
+          "これは区別される前者そのもの。"
+        ],
+        [
+          "題名が同じ作品は区別できないという主張。",
+          "同名作品の問題ではない。"
+        ],
+        [
+          "全読者が常に同じジャンルを好むという観測事実。",
+          "そのような観測はない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "クリック数に加え、評価で調べるべきものとして適切なのはどれか。",
+      "quote": "whether the available controls actually changed what appeared",
+      "options": [
+        [
+          "望んだ時に未知の作品を探せ、操作で提示の方向を変えられたか。",
+          "探索と利用者の方向転換能力も成功の評価対象にする。"
+        ],
+        [
+          "全利用者に毎回意外な作品だけを強制できたか。",
+          "意外さの強制は目的ではない。"
+        ],
+        [
+          "読者像を固定し候補を二度と変えなくできたか。",
+          "関係を検討し直せる状態を保つ。"
+        ],
+        [
+          "個人化機能を消せば評価は不要になるか。",
+          "個人化の全面廃止を求める本文ではない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "本文全体の要約として最も適切な英文を選びなさい。",
+      "quote": "related opportunities rather than rivals forced into a single ranking",
+      "options": [
+        [
+          "A concert and its recording offer related but different ways of attending to music. Judgments should examine the purposes, choices, gains, and losses of each form, without demanding total duplication or using purpose to exempt a presentation from criticism.",
+          "実演と録音の独自の可能性を認め、目的と選択に即した評価を求めつつ批判可能性を残す全体の主張。"
+        ],
+        [
+          "A recording is necessarily inferior because it cannot reproduce every part of a concert evening. Repeated listening adds no distinct value, so the only defensible standard is complete duplication of the circumstances experienced by the original audience.",
+          "再生・比較・来場不能者への機会を独自の価値として認め、全体複製だけの尺度を疑う。"
+        ],
+        [
+          "A recording is always superior because individual notes can be examined repeatedly. The shared situation of a live event is merely a distraction, and a listener should abandon all qualities associated with attending a performance in person.",
+          "一部の細部へのアクセスを全目的の優越へ一般化できず、実演で大切な性質を捨てる必要もない。"
+        ],
+        [
+          "The musicians' stated purpose is sufficient to justify every recording choice. Once that purpose is explained, obscured musical relationships and unsupported descriptions cannot be criticized, because all forms should be considered equally effective for every possible use.",
+          "目的は評価の根拠であって免除ではなく、誤った自己説明などへの批判を明確に残す。"
+        ]
+      ]
+    },
+    {
+      "prompt": "録音を劣る複製とする反応と、実演より優れるとする反応の共通点はどれか。",
+      "quote": "what the listener expects each form to preserve or make possible",
+      "options": [
+        [
+          "各形式に何を残し、何を可能にすることを期待するかに依存する比較をしている。",
+          "一方は当夜の全体、他方は細部と反復を重視する。"
+        ],
+        [
+          "両方とも録音と実演の体験が完全に同じだとしている。",
+          "一方は欠如、他方は追加機能を評価している。"
+        ],
+        [
+          "両方とも全ての聴衆を演奏会から排除したい。",
+          "聴衆の排除を共通目的にしていない。"
+        ],
+        [
+          "両方とも録音は再生不能だと考える。",
+          "反復再生は録音の価値の一つ。"
+        ]
+      ]
+    },
+    {
+      "prompt": "録音の独自の機会として本文が挙げるものはどれか。",
+      "quote": "compared with another performance",
+      "options": [
+        [
+          "部分の再生や別演奏との比較、当日参加できなかった人の聴取。",
+          "実演の小さな欠片以上に、接し方自体を変える。"
+        ],
+        [
+          "会場の全状況を一人残らず同じに再現すること。",
+          "全面的複製は要件にしていない。"
+        ],
+        [
+          "どの目的でもライブより正確と自動証明すること。",
+          "全目的での優越は証明しない。"
+        ],
+        [
+          "誰も選択や強調を行わず提示すること。",
+          "強調の決定自体が解釈を形作る。"
+        ]
+      ]
+    },
+    {
+      "prompt": "音楽的明瞭さを重視する録音に求める説明として適切なのはどれか。",
+      "quote": "this priority leaves some features of the shared evening in the background",
+      "options": [
+        [
+          "明瞭さを優先する一方、共有した晩の一部の特徴が背景に退くと認める。",
+          "得られるものだけでなく選択に伴う損失も説明する。"
+        ],
+        [
+          "明瞭さを重視すれば一切の解釈がなくなると宣言する。",
+          "どちらの選択も解釈不在として提示すべきでない。"
+        ],
+        [
+          "当日の全観客と同じ位置で聞くと保証する。",
+          "録音の聞く位置は個々の観客の位置と異なると説明しうる。"
+        ],
+        [
+          "会場音を残す案は常に誤りとする。",
+          "別の目的として可能な選択である。"
+        ]
+      ]
+    },
+    {
+      "prompt": "録音を聞いた二人の反応が異なっても、直ちに矛盾とならない理由はどれか。",
+      "quote": "perform different tasks",
+      "options": [
+        [
+          "一人は曲の学習、もう一人は会場の感覚など、録音に求める役割が違う場合がある。",
+          "同じ尺度を使っていない可能性を示す。"
+        ],
+        [
+          "二人の聞く録音は必ず別の作品だから。",
+          "同じ作品でも期待の役割は変わりうる。"
+        ],
+        [
+          "録音の品質は一切評価不能だから。",
+          "目的に沿った批判は可能としている。"
+        ],
+        [
+          "反応は全て録音以外の話であるから。",
+          "録音が伝えるものへの評価の違いである。"
+        ]
+      ]
+    },
+    {
+      "prompt": "目的に基づく評価の限界について本文はどう述べるか。",
+      "quote": "not an exemption from it",
+      "options": [
+        [
+          "目的は評価基準を与えるが、関係の不明瞭化や正当化できない自己説明は批判できる。",
+          "目的を述べるだけで全選択が正しくなるのではない。"
+        ],
+        [
+          "目的が説明されれば全批判は禁止される。",
+          "exemptionではないと明記する。"
+        ],
+        [
+          "実演で重視する性質は全て捨てる必要がある。",
+          "need not abandonと逆。"
+        ],
+        [
+          "異なる形式は必ず単一の順位に並べる。",
+          "単一順位の強制を避ける結論。"
+        ]
+      ]
+    },
+    {
+      "prompt": "that of any single audience memberのthatは何を代用しているか。",
+      "quote": "differs from that of any single audience member",
+      "options": [
+        [
+          "position。録音を聞く位置と、一人の観客の位置を比較している。",
+          "直前のthe listener's positionを受ける名詞代用。"
+        ],
+        [
+          "the recording全体。録音と観客本人を比較している。",
+          "比較対象はposition同士である。"
+        ],
+        [
+          "the musicians。奏者の人数を比較している。",
+          "人数の比較はこの節にない。"
+        ],
+        [
+          "a brief note。注記の長さを比較している。",
+          "注記は後の別文である。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "本文全体の要約として最も適切な英文を選びなさい。",
+      "quote": "the meaning assigned to its results",
+      "options": [
+        [
+          "Fair competition requires a defensible connection between purpose, procedures, and results. Consistent rules matter, but identical materials do not ensure equal preparation; support and criteria should match stated aims without demanding equal scores or erasing the value of experience.",
+          "同じ投入と同結果の両極端を退け、目的・一貫手順・機会・結果の意味を対応させる全体の主張をまとめる。"
+        ],
+        [
+          "A contest becomes fair as soon as every team receives identical components and time. Prior experience is irrelevant to how participants can use the materials, so the invitation's purpose and the interpretation of scores require no further explanation.",
+          "同材料でも準備差が残り、初心者入門と最強班選抜では約束が違う。目的との対応を無視している。"
+        ],
+        [
+          "Any unequal score proves that the contest was unfair. Organizers should remove all benefits of experience and adjust criteria after seeing the results so that every participant receives the same evaluation regardless of the event's announced aims.",
+          "同得点を公平の条件とせず、経験価値を認め、結果を見た基準変更も避ける。"
+        ],
+        [
+          "Helping beginners requires arbitrary exceptions to consistent rules. Since introductory teaching removes every background difference, organizers can promise identical preparation and interpret a single ranking as a complete measure of learning and cooperation.",
+          "場当たり的例外は信頼を損ない、短い講習で全差を除けない。単一順位の過大解釈も退ける。"
+        ]
+      ]
+    },
+    {
+      "prompt": "同一の部品を与えても残った差は何か。",
+      "quote": "equally prepared to use those materials",
+      "options": [
+        [
+          "部品を使う準備や過去の経験の差。",
+          "一班は過去計画を応用し、他班は基本の組合せを学ぶ。"
+        ],
+        [
+          "全班が買ってきたモーターの価格差。",
+          "外部の速いモーター購入は禁止される。"
+        ],
+        [
+          "完成機の持込み数の差。",
+          "完成機の持込みも禁止される。"
+        ],
+        [
+          "競技時間を班ごとに変えた差。",
+          "同じ時間を与える設定。"
+        ]
+      ]
+    },
+    {
+      "prompt": "初心者の入門と最強班の選抜を区別する理由はどれか。",
+      "quote": "makes a different promise",
+      "options": [
+        [
+          "参加者に約束する目的が異なり、規則が与える機会の評価も変わるから。",
+          "経験差が何を意味するかは競技目的に関係する。"
+        ],
+        [
+          "どちらの目的でも経験者の練習には一切価値がないから。",
+          "鍛えた技能の評価は妥当な目的と認める。"
+        ],
+        [
+          "目的が違えば全ての結果を同点にするから。",
+          "公平なら同点という結論を否定する。"
+        ],
+        [
+          "規則の一貫性は目的にかかわらず無価値だから。",
+          "一貫性も信頼に重要とする。"
+        ]
+      ]
+    },
+    {
+      "prompt": "任意の例外を加えることにも注意を求める理由はどれか。",
+      "quote": "arbitrary exceptions can undermine trust",
+      "options": [
+        [
+          "助けたい意図があっても、場当たり的な例外は手続きへの信頼を損ないうる。",
+          "目的に合う機会と一貫した運用のどちらも必要とする。"
+        ],
+        [
+          "新参加者への支援は全て禁止すべきだから。",
+          "共通講習や事前の基準説明を提案する。"
+        ],
+        [
+          "経験の差は規則違反の証明だから。",
+          "差は違反でなく経験を反映しうるとする。"
+        ],
+        [
+          "参加者は目的を知る必要がないから。",
+          "事前案内と期待準備の説明を求める。"
+        ]
+      ]
+    },
+    {
+      "prompt": "複数の課題や評価基準を設ける場合、本文が付けた条件はどれか。",
+      "quote": "announced clearly rather than adjusted after the results become visible",
+      "options": [
+        [
+          "基準を明確に事前発表し、結果を見て調整しないこと。",
+          "高度な性能と当日の上達を別に評価する場合も基準を先に示す。"
+        ],
+        [
+          "結果を見て最も都合のよい基準を選ぶこと。",
+          "after the resultsの調整を退ける。"
+        ],
+        [
+          "一順位が全ての学びを測ると保証すること。",
+          "単一順位の範囲を限定する。"
+        ],
+        [
+          "全員に同じ得点を与えるまで発表を遅らせること。",
+          "同得点は目的ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "案内で準備の例や前提を明示することの利点はどれか。",
+      "quote": "before committing time to it",
+      "options": [
+        [
+          "参加前に挑戦の適合度を判断でき、暗黙の前提も問い直せる。",
+          "同じ準備を保証しなくても、案内と実際の条件のずれを減らせる。"
+        ],
+        [
+          "全参加者の経験が完全に同一になる。",
+          "そのような同一性は約束しない。"
+        ],
+        [
+          "初心者には質問を禁止できる。",
+          "事前の質問で隠れた前提を発見する。"
+        ],
+        [
+          "経験者の達成を理由なく無視できる。",
+          "明示基準で解釈されていると分かるようにする。"
+        ]
+      ]
+    },
+    {
+      "prompt": "最後の段落が退けている二つの一般化はどれか。",
+      "quote": "every unequal result proves unfairness",
+      "options": [
+        [
+          "不均等な結果は全て不公平の証明であることと、統一規則一つで機会の全問題が解決すること。",
+          "二つのthat節がwould not assumeの範囲に入る。"
+        ],
+        [
+          "一貫した規則が必要なことと目的を説明すること。",
+          "どちらも本文が重視している。"
+        ],
+        [
+          "得点の意味を問うことと参加機会を調べること。",
+          "どちらも有用な評価の問い。"
+        ],
+        [
+          "準備を例示することと事前質問を受けること。",
+          "どちらも提案する改善方法。"
+        ]
+      ]
+    }
+  ]
+]
