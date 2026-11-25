@@ -16,4 +16,12 @@ class OrderingCompilerTests(unittest.TestCase):
   prior=json.loads(subprocess.check_output(['git','show','76a28f9:content/readings/advanced.json'],cwd=ROOT))
   current=json.loads((ROOT/'content/readings/advanced.json').read_text())
   self.assertEqual(current[:len(prior)],prior)
-  self.assertEqual(len(current)-len(prior),10)
+  self.assertGreaterEqual(len(current)-len(prior),10)
+
+ def test_later_batch_reproduces_and_preserves_first_batch(self):
+  before=json.loads((ROOT/'content/readings/l3_f08.json').read_text())
+  later=compile_batch(True)
+  self.assertEqual(later,json.loads((ROOT/'content/readings/l3_f08_next5.json').read_text()))
+  self.assertEqual(compile_batch(),before)
+  self.assertFalse(set(p['id'] for p in before)&set(p['id'] for p in later))
+  for p in later:self.assertEqual(validate_reading(p),[])

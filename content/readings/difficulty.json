@@ -4747,6 +4747,61 @@
       "method": "AI rubric, author assessed",
       "status": "ai_assessed_human_pending",
       "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
+    },
+    "reading-l3-f08-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
+    },
+    "reading-l3-f08-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
+    },
+    "reading-l3-f08-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
+    },
+    "reading-l3-f08-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
+    },
+    "reading-l3-f08-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "既出情報を受ける指示表現と実験・対策の時系列を照合し、因果・対比の順序を判断する。"
     }
   }
 }

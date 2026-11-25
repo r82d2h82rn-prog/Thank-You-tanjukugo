@@ -10,7 +10,7 @@ def compile_batch(next5=False):
  sources={s['id']:s for s in json.loads((ROOT/'content/sources.json').read_text())};batch=[]
  for i,(a,qs) in enumerate(zip(authored,questions),6 if next5 else 1):
   pid=f'reading-l3-f08-{i:02}';paragraphs=[];syntax=[];sentences=[]
-  assert 4<=len(a['paragraphs'])<=8
+  assert len(a['paragraphs'])==4
   for j,rows in enumerate(a['paragraphs'],1):
    paraid=f'p{ORDERS[i-1][j-1]}';offset=0;ens=[];jps=[]
    for k,(markup,jp,note) in enumerate(rows,1):
@@ -32,8 +32,10 @@ def compile_batch(next5=False):
   assert next(o['text'] for o in p['questions'][0]['options'] if o['id']==p['questions'][0]['correctOptionId'])=='→'.join(str(n) for n in ORDERS[i-1])
   errors=validate_reading(p)+validate_provenance(p['content'],sources,False);assert not errors,(pid,errors);batch.append(p)
  return batch
-ORDERS=[[3,1,4,2],[2,4,1,3],[4,2,3,1],[1,3,2,4],[3,4,2,1]]
+ORDERS=[[3,1,4,2],[2,4,1,3],[4,2,3,1],[1,3,2,4],[3,4,2,1],[2,1,3,4],[4,1,2,3],[1,4,3,2],[2,3,1,4],[3,2,4,1]]
 VOCAB=[[('baseline','比較の基準'),('distribution','分布'),('representative','代表的な')],[('provenance','由来・来歴'),('attribution','出所の特定'),('reconstruction','再構成')],[('insulation','断熱'),('contingency','不測の事態'),('redundancy','代替手段の重複')],[('turnover','入れ替わり'),('stewardship','責任ある管理'),('eligibility','参加資格')],[('equivalence','同等性'),('ambiguity','曖昧さ'),('revision','修正')]]
+
+VOCAB += [[('restoration','修復'),('irreversible','元に戻せない'),('preservation','保存')],[('corridor','生息地をつなぐ回廊'),('coverage','観測範囲'),('consistent with','〜と整合する')],[('deposit','預かり金'),('circulation','循環'),('durability','耐久性')],[('tactile','触覚の'),('spatial','空間の'),('representation','表現・再現')],[('exposure','露光'),('qualified','限定・留保付きの'),('non-detection','未検出')]]
 
 def main(next5=False):
  suffix='_next5' if next5 else ''
