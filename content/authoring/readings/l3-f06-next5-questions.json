@@ -1,0 +1,716 @@
+[
+  [
+    {
+      "prompt": "Why did the contributor leave the sentence untranslated?",
+      "quote": "could not choose a form of address without deciding something the letter itself had left unresolved",
+      "options": [
+        [
+          "A necessary wording choice would settle a relationship the source left uncertain.",
+          "語は分かっているが、訳先の呼び掛け方を選ぶと原文にない関係の確定を伴うため。"
+        ],
+        [
+          "She could not identify the dictionary meanings of its individual words.",
+          "every wordを知っていると述べ、語彙不足という当初の推測を否定する。"
+        ],
+        [
+          "She believed that every farewell should be omitted from a translation.",
+          "別れの言葉一般の削除方針ではなく、この文の関係の曖昧さが問題。"
+        ],
+        [
+          "The editor had asked contributors to leave space for illustrations.",
+          "挿絵用の余白という依頼はない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What risk did the contributor associate with a note placed after the letter?",
+      "quote": "treat the later qualification as an optional technical detail",
+      "options": [
+        [
+          "Readers might form an interpretation before noticing that it was uncertain.",
+          "先に一訳から関係を確定的に受け取り、後の留保を軽く扱う可能性を心配する。"
+        ],
+        [
+          "Readers would necessarily be unable to understand the vocabulary in the note.",
+          "専門用語を必ず理解できないと断定しているわけではない。"
+        ],
+        [
+          "The note would make the source letter longer than the entire booklet.",
+          "分量の具体的比較は述べていない。"
+        ],
+        [
+          "The editor would be required to publish no translation at all.",
+          "後注を付ける案でも訳文の掲載は可能。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why was the outside reader not told who had proposed each version?",
+      "quote": "without being told which member had proposed each one",
+      "options": [
+        [
+          "His response could focus on the alternatives rather than their authors.",
+          "提案者情報を伏せれば、部員への評価や立場に左右されず案自体への反応を得やすい。"
+        ],
+        [
+          "The club wanted him to assume that both versions were written by the original letter writer.",
+          "原著者による二訳と思わせる指示はない。"
+        ],
+        [
+          "His identity had to remain unknown to every member forever.",
+          "伏せたのは提案者で、読者の永久匿名ではない。"
+        ],
+        [
+          "The editor believed that ordinary readers could not compare texts independently.",
+          "実際に案を比較してもらっており反対。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the outside reader reveal about the single fluent translation?",
+      "quote": "built an entire story around the relationship implied by the single fluent translation",
+      "options": [
+        [
+          "A small wording decision could shape his understanding of the whole letter.",
+          "一つの関係の示唆から物語全体を組み立てたため、流暢さだけの小問題でなく解釈を左右することが分かる。"
+        ],
+        [
+          "It prevented him from imagining any relationship between the characters.",
+          "関係を中心に物語を構成したとあるので逆。"
+        ],
+        [
+          "It had reproduced every uncertainty in the source without alteration.",
+          "一関係を選ぶことで原文の不確かさが狭められている。"
+        ],
+        [
+          "It was preferred by all ordinary readers outside the club.",
+          "一人の反応から全員の好みは言えず、この人は並列案を好んだ。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did the editor reject giving parallel versions for every ambiguous expression?",
+      "quote": "depended on what readers might infer from it",
+      "options": [
+        [
+          "The consequences of a choice mattered more than the mere existence of alternatives.",
+          "別の語句を想像できるだけではなく、選択が読者の推論にどんな影響を与えるかを基準とした。"
+        ],
+        [
+          "She concluded that translations should never interrupt fluent reading.",
+          "重要な判断を見えるようにするため、流暢さの中断を認めている。"
+        ],
+        [
+          "The outside reader had withdrawn his preference for the two versions.",
+          "そのような撤回は述べていない。"
+        ],
+        [
+          "Every ambiguous expression was now known to have only one correct translation.",
+          "曖昧さの解消や唯一訳の発見はしていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "How did the editor's view of completeness change?",
+      "quote": "making consequential decisions visible",
+      "options": [
+        [
+          "It came to include exposing important interpretative choices.",
+          "未訳を埋めるだけという発想から、意味を左右する判断自体を読者に見せることも完全さと捉えるようになった。"
+        ],
+        [
+          "It came to mean removing all explanatory material from the booklet.",
+          "両訳と説明を加えた最終構成と矛盾。"
+        ],
+        [
+          "It required deciding that every uncertainty was caused by careless work.",
+          "丁寧な寄稿者の意図を理解した変化と反対。"
+        ],
+        [
+          "It meant allowing the most discussed translation to determine every editorial decision.",
+          "注目量から一律の規則にする案を退けている。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "What did the leading scorer initially assume about the captaincy decision?",
+      "quote": "whether scoring had somehow become less important",
+      "options": [
+        [
+          "Valuing others' participation might mean undervaluing scoring.",
+          "得点と参加を競合する価値として受け取り、自分の得意技が軽視されたのではと考えた。"
+        ],
+        [
+          "The coach had selected the captain by total goals alone.",
+          "自分は最多得点なのに選ばれなかった点が疑問の出発点。"
+        ],
+        [
+          "The captain had asked him to leave the team permanently.",
+          "先発を外れたのは日程上の都合で、退部要求はない。"
+        ],
+        [
+          "He already understood how participation could contribute to an attack.",
+          "二目的のつながりは後の観察で検討する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What does the backward pass suggest when considered with the defender's later actions?",
+      "quote": "called for it more confidently than before",
+      "options": [
+        [
+          "Giving a teammate a meaningful option could affect later participation.",
+          "一度自分で展開できた守備役が後に自信をもって球を求める。参加の機会が次の参加と関わり得る。"
+        ],
+        [
+          "The captain must have predicted every movement that followed.",
+          "全手順を計画したかは不明と明記される。"
+        ],
+        [
+          "Passing away from the goal always produces a better attack.",
+          "コーチがそのような一般化を求めなかったとある。"
+        ],
+        [
+          "The defender had never received a pass before that match.",
+          "以前に一度も受けたことがないとは述べていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What was the coach warning against with another equally flattering picture of leadership?",
+      "quote": "replacing one exaggerated picture of leadership with another equally flattering one",
+      "options": [
+        [
+          "Turning the captain into someone who controls every consequence in advance.",
+          "最多得点だけの像から、全展開を予知する万能主将像へ飛躍するのも誇張だと注意する。"
+        ],
+        [
+          "Allowing the scorer to value any ability to score.",
+          "得点力の価値そのものを否定しない。"
+        ],
+        [
+          "Asking teammates what they could see during the match.",
+          "仲間の見え方を知る会話は学びとして描かれる。"
+        ],
+        [
+          "Admitting that a specific pass created an opportunity.",
+          "観察可能な参加機会の創出は認め、全結果の予見と区別する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did the scorer's question to the defender mark a change?",
+      "quote": "rather than explaining what he believed she should have done",
+      "options": [
+        [
+          "He sought her perspective instead of assuming his own view was complete.",
+          "ベンチから見えない空間を彼女は見ていた。まず尋ねる行為は、自分の見方だけで指導する姿勢からの変化。"
+        ],
+        [
+          "He had decided that no player should ever receive instruction.",
+          "後に自分で練習を指導し調整している。"
+        ],
+        [
+          "He wanted her to admit that his imagined chances were all certain goals.",
+          "想像上の得点を確認させる質問ではなく、彼女の見え方を尋ねた。"
+        ],
+        [
+          "He had been ordered to stop communicating with the captain.",
+          "その命令はない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the imperfect exercise teach him about offering choices?",
+      "quote": "attention to how those choices were understood",
+      "options": [
+        [
+          "Freedom to choose still required communication and adjustment.",
+          "自由を告げるだけでは課題の狭い理解や連携不足が残り、説明を聞いて調整する必要がある。"
+        ],
+        [
+          "A leader should demonstrate one unchangeable sequence in every situation.",
+          "単一手順の模倣に戻す一般則は導いていない。"
+        ],
+        [
+          "Players always perform better when instructions are less clear.",
+          "明確さを求める選手がいて指示を調整するため逆。"
+        ],
+        [
+          "Any failed first attempt proves that participation has no value.",
+          "最初の不成功を改善の契機としており、価値の否定ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What is implied by the coach offering no future title?",
+      "quote": "without promising him a future title",
+      "options": [
+        [
+          "His learning need not depend on a reward of formal leadership.",
+          "最後も役職なしに仲間から学び続けられるとする。成長を次の主将就任と交換条件にしない。"
+        ],
+        [
+          "The scorer was forbidden to lead any exercise.",
+          "実際に短い練習の指導を頼まれている。"
+        ],
+        [
+          "The coach had decided that he would never contribute to the team again.",
+          "貢献の仕方を検討する姿として描かれる。"
+        ],
+        [
+          "The captain was about to lose her position to him.",
+          "役職変更の予定は示されていない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Why does the archivist initially want to remove the quarrel?",
+      "quote": "conflicts with the calm certainty attributed to the travelers",
+      "options": [
+        [
+          "It disrupts the familiar public image of the travelers.",
+          "音の聞き取りにくさでなく、公式説明の確信ある旅人像と衝突することが削除動機。"
+        ],
+        [
+          "The recorded words are too faint for anyone to hear.",
+          "not because it is difficult to hearと明確に否定。"
+        ],
+        [
+          "The crew explicitly ordered all disagreements to be destroyed.",
+          "そのような指示は物語中にない。"
+        ],
+        [
+          "She knows the quarrel has been fabricated by the former teacher.",
+          "作中で教師の捏造とはされず、物語外の作者による創作と混同している。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What is implied by the former teacher's reaction to the navigator's expression?",
+      "quote": "his grandmother had used the same words",
+      "options": [
+        [
+          "Ordinary worry can provide a connection to people treated as distant heroes.",
+          "祖母と同じ表現を聞いて親近感を得る。管理人の評判への脅威という解釈とは異なる。"
+        ],
+        [
+          "His grandmother must have traveled on the spacecraft.",
+          "言葉の共通性から乗船歴を推論できない。"
+        ],
+        [
+          "He considers every official account deliberately fraudulent.",
+          "公式記録全体を故意の偽造と断定していない。"
+        ],
+        [
+          "He cannot distinguish a family memory from the recorded message.",
+          "二つの出所を区別して共通表現を説明している。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why does he resist introducing the message as proof that the crew were just like everyone else?",
+      "quote": "made a decision while disagreeing",
+      "options": [
+        [
+          "That description would replace a complex decision with another simple label.",
+          "重要なのは不一致を抱えた決断で、完全な英雄か凡人かといった新たな単純像へ置換したいのではない。"
+        ],
+        [
+          "He believes that the disagreement proves the journey was entirely foolish.",
+          "either entirely admirable or entirely foolishと決める解釈を退ける。"
+        ],
+        [
+          "He wants the entire recording to remain hidden from the public.",
+          "公開への全面反対はせず、紹介の仕方を拒む。"
+        ],
+        [
+          "He thinks the missing hours of conversation have already been recovered.",
+          "会話の欠落は残っている。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What function does identifying the gap in the introduction serve?",
+      "quote": "rather than presenting the surviving fragment as a complete account",
+      "options": [
+        [
+          "It limits how confidently listeners can infer the crew's full motives.",
+          "残存断片だけでは全動機や文脈を確定できず、欠落の明示は解釈の範囲を伝える。"
+        ],
+        [
+          "It establishes that no surviving sentence has any possible meaning.",
+          "限界の説明は音声全体を無意味とはしない。"
+        ],
+        [
+          "It guarantees that the whole town will react favorably.",
+          "不快な人も残り、反応の保証ではない。"
+        ],
+        [
+          "It proves that the crew had never disagreed before recording the message.",
+          "以前の合意・不合意の全履歴は分からない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What is suggested by the unchanged statue and the changed questions?",
+      "quote": "the carved face has not changed, although the questions she brings to it have",
+      "options": [
+        [
+          "New information can alter an encounter with a familiar object without changing the object.",
+          "物は同じでも管理人の向ける問いが変わったという結末で、見る側の注意の変化を示す。"
+        ],
+        [
+          "The town has secretly replaced the statue with another.",
+          "彫られた顔は変わらないとある。"
+        ],
+        [
+          "The archivist has forgotten everything in the recording.",
+          "新情報を受けた問いの変化として描かれる。"
+        ],
+        [
+          "The travelers' reputation has become completely irrelevant to her.",
+          "像と再び向き合うので無関係とは言えない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why does the author keep the quiet ending rather than add a statement of the lesson?",
+      "quote": "a change of attention rather than receive a replacement slogan",
+      "options": [
+        [
+          "She wants readers to undergo reconsideration rather than adopt a new formula.",
+          "旧来の標語を別の標語に置き換える結論でなく、読者自身の注意の動きを経験させたい。"
+        ],
+        [
+          "She has no idea why the archivist walks past the statue.",
+          "描写に意図があり、それを説明している。"
+        ],
+        [
+          "She wants to conceal that the story contains imagined events.",
+          "別注で創作した設定を明示している。"
+        ],
+        [
+          "She believes that every story must end without explanation.",
+          "この作品での選択を全作品の規則へ一般化できない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why does the accompanying note distinguish fiction from historical evidence?",
+      "quote": "neither should be treated as an independent historical source confirming the other",
+      "options": [
+        [
+          "Invented details can explore a question without verifying claims about real people.",
+          "同一作者が作った音声と伝統を互いの独立証拠にはできず、思考の題材と実在史の実証を分ける。"
+        ],
+        [
+          "The author wants readers to treat the statues as genuine archaeological discoveries.",
+          "創作上の設定として区別する方向と逆。"
+        ],
+        [
+          "The note settles which celebration attendee had the correct reaction.",
+          "好むべき反応を指示しないと末尾で明記する。"
+        ],
+        [
+          "The fiction proves that every admired historical person concealed the same doubts.",
+          "その普遍的主張をしないと説明する。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "What did the chair first infer from the rapid agreement?",
+      "quote": "interests were easier to reconcile than he had assumed",
+      "options": [
+        [
+          "The groups' practical interests were more compatible than expected.",
+          "静かな支持を利益調整の容易さと解釈したが、実際には同意対象が食い違っていた。"
+        ],
+        [
+          "Every representative was waiting for a separate discussion about details.",
+          "それは一部代表の理解で、議長は時間配分まで承認と考えた。"
+        ],
+        [
+          "The printed timetable was irrelevant to the meeting.",
+          "議長は案の実際の内容として扱っていた。"
+        ],
+        [
+          "Equal speaking time had prevented anyone from expressing support.",
+          "支持は即座にあり、阻止とは逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did some representatives remain silent about the hours initially?",
+      "quote": "expected a separate conversation about details",
+      "options": [
+        [
+          "They did not think the specific timetable was yet being approved.",
+          "まず共有原則、次に詳細という想定のため、時間帯への異議をその場で出さなかった。"
+        ],
+        [
+          "They had examined and accepted every listed time.",
+          "後に記載時間の困難を挙げているため逆。"
+        ],
+        [
+          "They were not allowed any speaking time under the rules.",
+          "平等な時間は設けられ、問題は何を決める時間かの理解。"
+        ],
+        [
+          "Their societies no longer wanted to use the room.",
+          "利用上の条件を交渉しており利用希望の消失ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What limitation of equal speaking time does the episode reveal?",
+      "quote": "which decision the available time was supposed to address",
+      "options": [
+        [
+          "Equal opportunity to speak does not by itself establish a shared understanding of the question.",
+          "時間の平等は、原則か実施かという議題の共通理解を保証しなかった。"
+        ],
+        [
+          "Equal time always prevents participants from cooperating.",
+          "常に協力を妨げるという一般化はしない。"
+        ],
+        [
+          "A meeting can be fair only when no one expresses disagreement.",
+          "二回目は不一致を具体化できたことを評価している。"
+        ],
+        [
+          "A chair should avoid telling participants what has been decided.",
+          "決定内容を言い直す手順を導入しており逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why could the noisier second meeting represent progress?",
+      "quote": "differences that had previously remained hidden",
+      "options": [
+        [
+          "Specific disagreements became visible enough to negotiate.",
+          "潜在的な条件差を具体的な問題として表せ、何に同意するのか明確にして妥協できた。"
+        ],
+        [
+          "The chair had eliminated all limits on room use.",
+          "条件や時間配分の調整は残る。"
+        ],
+        [
+          "The younger representative had decided never to compromise.",
+          "最終的に各部は受け入れた妥協を説明できる。"
+        ],
+        [
+          "Every initial preference was now fully satisfied.",
+          "every initial preferenceを満たさなかったとある。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did the chair preserve the original minutes with a correction?",
+      "quote": "rather than rewriting them as if the first meeting had always clearly distinguished",
+      "options": [
+        [
+          "Future chairs could see how apparent efficiency concealed misunderstanding.",
+          "最初から明確だったように改竄せず、効率を急ぐ気持ちが理解を追い越した箇所を学べるようにした。"
+        ],
+        [
+          "He wanted to maintain the first timetable as the only valid agreement.",
+          "改めた最終日程が成立している。"
+        ],
+        [
+          "He believed that the original minutes already explained every representative's position accurately.",
+          "一つの異議なしの文が認識差を隠したと理解している。"
+        ],
+        [
+          "He wanted future chairs to prevent any review of decisions.",
+          "見直し手続きも明示するので逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did publishing a contact route add to the promise of review?",
+      "quote": "a practical route for initiating one",
+      "options": [
+        [
+          "It made it possible to begin reconsideration without first discovering whom to approach.",
+          "受取人を明示し、次の全体会を待って連絡先を知るだけの無駄を避けられる。"
+        ],
+        [
+          "It guaranteed immediate acceptance of every requested change.",
+          "申出経路の確保と要求の必ず承認は別。"
+        ],
+        [
+          "It removed all need for further discussion of constraints.",
+          "未検討の困難が出れば見直すための経路。"
+        ],
+        [
+          "It transferred every scheduling decision to the youngest representative.",
+          "連絡経路の明示であり単独決定権の付与ではない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "What did the questioning judge doubt about the first demonstration?",
+      "quote": "anyone unfamiliar with the design had attempted the same operation",
+      "options": [
+        [
+          "The designer's speed might depend on knowledge unavailable to a new user.",
+          "熟練の実演者には触って分かる部品も、手引きだけの新使用者には不明かもしれない点を問う。"
+        ],
+        [
+          "The designer had actually replaced any component at all.",
+          "交換の事実そのものを疑う発言ではない。"
+        ],
+        [
+          "The clock was intended to be opened without removing its hands.",
+          "それが設計上の特徴として示される。"
+        ],
+        [
+          "No one could ever open the case without professional machinery.",
+          "別の人も文字盤を開くのに成功している。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What does the first visitor's hesitation suggest about the illustrated guide?",
+      "quote": "no indication of which way the opened case should face the reader",
+      "options": [
+        [
+          "A clear-looking drawing can leave its frame of reference unspecified.",
+          "図の整った見た目でも、向きという基準がなければ矢印を二通りに合理的に読める。"
+        ],
+        [
+          "The visitor had deliberately refused to follow any instruction.",
+          "二つの合理的な解釈があるので、故意の不服従とは言えない。"
+        ],
+        [
+          "The mechanism was impossible to access physically.",
+          "開くこと自体には成功している。"
+        ],
+        [
+          "Every component in the clock was identical.",
+          "似た二部品があるのであって全同一ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why was another visitor needed after the orientation mark was added?",
+      "quote": "before describing the problem as solved",
+      "options": [
+        [
+          "Oral clarification had not established that the revised written guide worked alone.",
+          "一人目は彼女の説明で進めた。文書だけで同じ情報が伝わるかは別の確認が要る。"
+        ],
+        [
+          "The first visitor had proved that no written instructions could ever work.",
+          "一文書の不足を全記述の不可能性へ一般化できない。"
+        ],
+        [
+          "The designer wanted a person who already knew the repair by touch.",
+          "試すべきは設計者の暗黙知を持たない人による作業。"
+        ],
+        [
+          "The new mark had removed the need to orient the case.",
+          "向きの基準を伝えるための印で、必要性そのものを消すものではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What further dependency did the second visitor expose?",
+      "quote": "obtaining a replacement component would require a specification",
+      "options": [
+        [
+          "Repair also depended on identifying and obtaining a suitable replacement.",
+          "開け方だけでなく、正しい交換品を特定・入手できることも修理の条件であった。"
+        ],
+        [
+          "The clock had to remain permanently sealed to function.",
+          "開けて交換する設計と試行結果に反する。"
+        ],
+        [
+          "The orientation problem had necessarily returned unchanged.",
+          "二人目はその段階を助けなしに完了した。"
+        ],
+        [
+          "All replacement parts had already been supplied to every future buyer.",
+          "実演用の予備部品を置いていた事実と、将来の買い手への供給は別。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the judge mean by hiding work without removing it?",
+      "quote": "without removing that work from the future owner's experience",
+      "options": [
+        [
+          "An impressive presentation can omit tasks that users will still face later.",
+          "実演では予備品や熟知を前もって用意して省けても、将来の所有者がする特定や入手の作業は残る。"
+        ],
+        [
+          "Every documented procedure makes the mechanism physically more complicated.",
+          "説明の増加と物理機構の複雑さは同一ではない。"
+        ],
+        [
+          "Users should never be shown the work required for repair.",
+          "使用者に分かる資料の価値を示す発言なので逆。"
+        ],
+        [
+          "Winning the competition would automatically solve the documentation problem.",
+          "受賞と使用時の課題解消は関係付けられていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What is suggested by retaining the expanded guide despite not winning the highest prize?",
+      "quote": "retained the expanded guide when preparing a small batch of clocks for actual users",
+      "options": [
+        [
+          "She valued its role in future use beyond its effect on competition results.",
+          "最高賞を逃しても実使用者向けの製品に残したことから、受賞の見栄えだけで評価していないと分かる。"
+        ],
+        [
+          "She had decided that none of the judges' questions were useful.",
+          "審査員の問いを受けた改善を残しているため反対。"
+        ],
+        [
+          "She intended the guide to disappear once the clock was sold.",
+          "一時的説明とは考えなくなったと続く。"
+        ],
+        [
+          "The other entry was awarded the prize because it used her guide.",
+          "他作品の受賞理由は示されていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did the final guide include information for people seeking assistance?",
+      "quote": "offered a choice rather than an obligation",
+      "options": [
+        [
+          "Enabling independent action should not be confused with requiring it.",
+          "自分で可能にする資料は選択肢を増やすが、全員に修理を強制する義務ではないと明確化した。"
+        ],
+        [
+          "The designer had concluded that no owner should ever open the clock.",
+          "自力作業と支援依頼の両方を知識が支えるとする。"
+        ],
+        [
+          "The customer had proved that every possible repair was unsafe.",
+          "安全性全般の実証はこの質問から導けない。"
+        ],
+        [
+          "The detailed procedure was removed from the final package.",
+          "資料を残し、支援を求める人向け情報を追加した。"
+        ]
+      ]
+    }
+  ]
+]

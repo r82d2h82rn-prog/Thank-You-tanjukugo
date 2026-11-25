@@ -4527,6 +4527,61 @@
       "method": "AI rubric, author assessed",
       "status": "ai_assessed_human_pending",
       "rationale": "複数段落の事実と発言意図を統合し、未検証条件と代替説明を区別して推論の範囲を判断する。"
+    },
+    "reading-l3-f06-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の事実と発言意図を統合し、未検証条件と代替説明を区別して推論の範囲を判断する。"
+    },
+    "reading-l3-f06-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の事実と発言意図を統合し、未検証条件と代替説明を区別して推論の範囲を判断する。"
+    },
+    "reading-l3-f06-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の事実と発言意図を統合し、未検証条件と代替説明を区別して推論の範囲を判断する。"
+    },
+    "reading-l3-f06-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の事実と発言意図を統合し、未検証条件と代替説明を区別して推論の範囲を判断する。"
+    },
+    "reading-l3-f06-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の事実と発言意図を統合し、未検証条件と代替説明を区別して推論の範囲を判断する。"
     }
   }
 }
