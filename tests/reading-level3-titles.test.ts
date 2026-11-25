@@ -10,9 +10,9 @@ import {sentenceRanges} from '../src/readingSentences';
 import {emptyState,decodeState} from '../src/model';
 
 test('ten title readings append new identities, obey word bands and contain no gap or solution machinery',()=>{
- assert.equal(readingCatalog.length,250);assert.equal(advanced.length,50);
+ assert.ok(readingCatalog.length>=250);assert.ok(advanced.length>=50);
  assert.deepEqual(advanced.slice(30,40),oldGap);assert.deepEqual(advanced.slice(40,50),batch);
- assert.equal(new Set(readingCatalog.map(p=>p.id)).size,250);
+ assert.equal(new Set(readingCatalog.map(p=>p.id)).size,readingCatalog.length);
  for(const [i,p] of batch.entries()){
   assert.equal(p.id,`reading-l3-f04-${String(i+1).padStart(2,'0')}`);
   assert.deepEqual(readingCatalog.find(x=>x.id===p.id),p);assert.equal(p.format,4);
