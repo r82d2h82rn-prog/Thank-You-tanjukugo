@@ -41,9 +41,9 @@ def parse_sentence(markup):
     assert all(e['to'] in {n['id'] for n in nodes} for e in edges)
     return text,nodes,edges,gaps
 
-def read_authored(form=2):
+def read_authored(form=2,suffix=""):
     readings=[];current=None;para=None
-    for line in (AUTHOR/f'l3-f{form:02}.tsv').read_text().splitlines():
+    for line in (AUTHOR/f'l3-f{form:02}{suffix}.tsv').read_text().splitlines():
         if line.startswith('# '):
             current={'title':line.split(' ',2)[2],'paragraphs':[]};readings.append(current);para=None
         elif not line.strip():para=None

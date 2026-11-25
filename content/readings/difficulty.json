@@ -4417,6 +4417,61 @@
       "method": "AI rubric, author assessed",
       "status": "ai_assessed_human_pending",
       "rationale": "単複・文法上の役割と前後の因果・対比を照合し、指示対象を正確に特定する。"
+    },
+    "reading-l3-f05-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "単複・文法上の役割と前後の因果・対比を照合し、指示対象を正確に特定する。"
+    },
+    "reading-l3-f05-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "単複・文法上の役割と前後の因果・対比を照合し、指示対象を正確に特定する。"
+    },
+    "reading-l3-f05-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "単複・文法上の役割と前後の因果・対比を照合し、指示対象を正確に特定する。"
+    },
+    "reading-l3-f05-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "単複・文法上の役割と前後の因果・対比を照合し、指示対象を正確に特定する。"
+    },
+    "reading-l3-f05-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "単複・文法上の役割と前後の因果・対比を照合し、指示対象を正確に特定する。"
     }
   }
 }

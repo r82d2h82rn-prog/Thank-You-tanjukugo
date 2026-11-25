@@ -1,14 +1,16 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import batch from '../content/readings/l3_f05.json';
+import first from '../content/readings/l3_f05.json';
+import next from '../content/readings/l3_f05_next5.json';
+const batch=[...first,...next];
 import prior from '../content/readings/l3_f04.json';
 import {readingCatalog} from '../src/readingCatalog';
 import {sentenceRanges} from '../src/readingSentences';
 import {gradeReading,recordReading,unlockReading} from '../src/readings';
 import {emptyState,decodeState} from '../src/model';
 import policy from '../content/authoring/readings/level3-word-policy.json';
-test('five new reference passages meet within-format bands and all sentence offsets align',()=>{
- assert.equal(batch.length,5);assert.equal(readingCatalog.length,255);
+test('ten reference passages meet within-format bands and all sentence offsets align',()=>{
+ assert.equal(batch.length,10);assert.ok(readingCatalog.length>=260);
  for(const [i,p] of batch.entries()){
   assert.deepEqual(readingCatalog.find(x=>x.id===p.id),p);assert.equal(p.format,5);
   const n=p.paragraphs.map(x=>x.english).join(' ').match(/[A-Za-z]+(?:['-][A-Za-z]+)*/g)!.length;
