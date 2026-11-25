@@ -1,0 +1,672 @@
+[
+  [
+    {
+      "prompt": "Where does the supplied sentence best fit?",
+      "quote": "To answer that different question",
+      "options": [
+        [
+          "[C]",
+          "直前で写真と記録が所有を示す一方、筆跡は特定しないと対比する。挿入文が所有者と筆者の違いをまとめ、直後のthat different questionを筆者の特定へつなぐ。"
+        ],
+        [
+          "[A]",
+          "冒頭で品物も所有者も未導入なのでthe postcardや所有の既知情報が唐突。後のA local museumは別の問いに答える展開でもない。"
+        ],
+        [
+          "[B]",
+          "これから保管の証拠を述べる位置で、所有と筆者を区別する説明がまだ整わない。後続も所有の確認へ戻るため、別の問いを受ける接続が切れる。"
+        ],
+        [
+          "[D]",
+          "すでに札で両役を区別した後。次のHer nameは表示内容の説明で、that different questionへつなぐ本来の位置より遅い。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the family photograph help establish?",
+      "quote": "the postcard appeared on a shelf behind several relatives",
+      "options": [
+        [
+          "A connection between the object and a particular household.",
+          "家族と棚のはがきが同じ写真に写るため、その家との結び付きが得られる。筆者の特定とは別。"
+        ],
+        [
+          "The identity of the person who wrote every word.",
+          "筆跡の書き手は特定されていない。"
+        ],
+        [
+          "The exact date on which the station disappeared.",
+          "駅消失の日付は写真から論じていない。"
+        ],
+        [
+          "That the aunt had sent the postcard to herself.",
+          "保管者が自分へ送ったとする根拠はない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did the curator hesitate over the first label?",
+      "quote": "the proposed label made a further claim",
+      "options": [
+        [
+          "It moved from evidence of possession to a claim of authorship.",
+          "長年保管したことから書いたことへ飛躍していた。家族記憶全体への不信とは区別される。"
+        ],
+        [
+          "She wanted to exclude all contributions from relatives.",
+          "写真も名前も展示に残しているので逆。"
+        ],
+        [
+          "The museum already knew that the handwriting belonged to someone else.",
+          "別の筆者が確定したのでなく未特定である。"
+        ],
+        [
+          "The wording failed to mention the postcard at all.",
+          "はがきを便りとして紹介する札であり不言及ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What does no such material refer to?",
+      "quote": "The volunteer found no such material",
+      "options": [
+        [
+          "Additional evidence capable of identifying the writer.",
+          "直前の筆跡見本や到達経緯の独立資料を受ける。"
+        ],
+        [
+          "Any record connecting the aunt with the object.",
+          "保管記録と家族写真は既に見つかっている。"
+        ],
+        [
+          "Any photograph of the town's station.",
+          "駅写真一般の有無がsuchの対象ではない。"
+        ],
+        [
+          "Every draft of the museum's display label.",
+          "両草稿は後で保存される。"
+        ]
+      ]
+    },
+    {
+      "prompt": "How did the revised label treat the aunt?",
+      "quote": "named the aunt as the known keeper",
+      "options": [
+        [
+          "It acknowledged her documented role without assigning an undocumented one.",
+          "確認済みの保管者として名を残し、未立証の筆者役までは与えない。"
+        ],
+        [
+          "It removed her name because family memories were considered worthless.",
+          "名前が残ったと明記される。"
+        ],
+        [
+          "It declared her to be both the writer and the recipient.",
+          "二役の結合を避け、受取人まで確定していない。"
+        ],
+        [
+          "It stated that she had never seen the postcard.",
+          "保管の記録と写真に反する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why might an explicit uncertainty help further inquiry?",
+      "quote": "recognizing the unidentified handwriting",
+      "options": [
+        [
+          "It leaves room for someone to supply information the museum still lacks.",
+          "既知と未知を分ければ、来訪者が未知の筆跡に気づき新情報を寄せる可能性を閉ざさない。"
+        ],
+        [
+          "It proves that no answer to the question can ever exist.",
+          "未解決と永久に解決不能は異なる。"
+        ],
+        [
+          "It removes the need to keep any evidence.",
+          "写真や記録、草稿を保持している。"
+        ],
+        [
+          "It guarantees that every visitor will identify the handwriting correctly.",
+          "可能性を残すだけで全員の正答を保証しない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Where does the supplied sentence best fit?",
+      "quote": "That displacement was hard to see",
+      "options": [
+        [
+          "[A]",
+          "前段で広場待機と予約画面の確認を示す。挿入文が待機の移動と総括し、直後のThat displacementに明確な先行内容を与える。"
+        ],
+        [
+          "[B]",
+          "直前のThat displacementが受ける総括を後置してしまう。次は受付係の要請で、移動の可視性を説明する文ではない。"
+        ],
+        [
+          "[C]",
+          "既に問題の定義と調査方法まで進んでいる。次のThe answersは回答の分析へ入り、That displacementとの直接接続もない。"
+        ],
+        [
+          "[D]",
+          "発表改訂の後の結論部で、既に展開した論点を遅れて導入する位置になる。次は写真の条件付き価値を論じる。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did the clear doorway initially seem encouraging?",
+      "quote": "the line almost disappeared",
+      "options": [
+        [
+          "It showed that the visible entrance queue had become shorter.",
+          "写真は入口の列の減少という一結果を示した。体験全体の負担減少までは示さない。"
+        ],
+        [
+          "It proved that no visitor spent time on reservations.",
+          "予約の確認に時間を費やした人もいた。"
+        ],
+        [
+          "It established that every visitor arrived exactly at the reserved time.",
+          "早着して広場で待つ例が述べられる。"
+        ],
+        [
+          "It showed that the exhibition had become unpopular.",
+          "人気がなくなったとの記述はない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What was missing from the original measure?",
+      "quote": "had not counted either of these other demands on their time",
+      "options": [
+        [
+          "Time spent waiting elsewhere and trying to obtain a reservation.",
+          "入口の立ち時間以外に、広場待機と予約ページ反復確認が数えられていなかった。"
+        ],
+        [
+          "The number of objects in the exhibition.",
+          "待機負担の指標の不足であり展示物数ではない。"
+        ],
+        [
+          "The names of the exhibition's organizers.",
+          "人名の未記録が問題なのではない。"
+        ],
+        [
+          "The exact height of the entrance doorway.",
+          "高さを測る必要性は論じていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the receptionist recommend?",
+      "quote": "define which burdens the new system was intended to reduce",
+      "options": [
+        [
+          "Clarifying the burdens being evaluated rather than immediately restoring the old system.",
+          "新制度の目的と測る負担を定義し直す要請で、古い列への即時回帰を求めてはいない。"
+        ],
+        [
+          "Ending every form of reservation without further discussion.",
+          "即時の撤回は提案していない。"
+        ],
+        [
+          "Ignoring visitors whose schedules changed.",
+          "勤務日程に合わせにくい人の負担も調べる。"
+        ],
+        [
+          "Using only entrance photographs in future reports.",
+          "調査回答も一緒に残すので逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the survey reveal about predictable entry times?",
+      "quote": "some visitors valued a predictable entry time",
+      "options": [
+        [
+          "Their value depended partly on visitors' different circumstances.",
+          "事前計画をしても予測を評価する人と、変動勤務に合わない人を対比している。"
+        ],
+        [
+          "Every visitor preferred the old queue.",
+          "新制度を評価する回答がある。"
+        ],
+        [
+          "They eliminated all advance planning.",
+          "even when it required advance planningとあり逆。"
+        ],
+        [
+          "No visitor cared about when entry would occur.",
+          "予測可能性を価値とする人がいた。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Under what condition were the photographs still useful?",
+      "quote": "parts of the experience that the camera had never observed",
+      "options": [
+        [
+          "They were used as evidence of the visible queue rather than the whole experience.",
+          "観察した入口列の結果として用い、写っていない予約や場外待機まで代表させない条件。"
+        ],
+        [
+          "They were assumed to measure booking effort directly.",
+          "予約の手間はカメラで観察されていない。"
+        ],
+        [
+          "All survey responses were discarded.",
+          "両記録を一緒に保存したとある。"
+        ],
+        [
+          "They guaranteed that no future revision would be necessary.",
+          "比較は見直しに開かれたままとしている。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Where does the supplied sentence best fit?",
+      "quote": "Keeping those claims separate",
+      "options": [
+        [
+          "[D]",
+          "前段の二人が掲載を使用の発生と意味の定着に分けて考える。挿入文が両主張を明示し、直後のthose claimsを受けられる二項として確定する。"
+        ],
+        [
+          "[A]",
+          "思考実験の導入前でa usageやwidely understoodを対比する文脈がない。次は発明設定の説明で主張の区別を引き継がない。"
+        ],
+        [
+          "[B]",
+          "第二班の懸念がまだ出ておらず、掲載の二機能の対比より早い。次は反対意見の導入でthose claimsへの連鎖もない。"
+        ],
+        [
+          "[C]",
+          "教師が掲載の意味を問うた直後で、まだ二人がそれぞれの機能を述べていない。後続の説明を先取りし、前段末と次段頭の連結を弱める。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What advantage did the first group see in the imagined dictionary?",
+      "quote": "prevent dictionaries from falling behind living language",
+      "options": [
+        [
+          "It could register changes without depending on one editor noticing them.",
+          "多共同体の全変化を一編集者が捉えられないという問題への自動更新の利点。"
+        ],
+        [
+          "It would prevent anyone from inventing a new use.",
+          "新用法を追加する仕組みなので反対。"
+        ],
+        [
+          "It would guarantee that all recorded meanings were widely shared.",
+          "自動記録と定着の保証は区別される。"
+        ],
+        [
+          "It would permanently remove every old definition.",
+          "旧定義全削除という設定はない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What concerned the second group?",
+      "quote": "so crowded with isolated inventions",
+      "options": [
+        [
+          "A record of every occurrence might not tell users which meanings others recognize.",
+          "一度きりの発明が並ぶと、共有される意味か判断しにくいという懸念。"
+        ],
+        [
+          "The editor would never permit any additions.",
+          "承認不要で更新する設定と逆。"
+        ],
+        [
+          "The dictionary would have no place to record a new expression.",
+          "追加余地ではなく過多が懸念される。"
+        ],
+        [
+          "Every familiar word would disappear immediately.",
+          "そのような消失は述べていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What was the main purpose of the teacher's question?",
+      "quote": "what being included in a dictionary was supposed to communicate",
+      "options": [
+        [
+          "To clarify what readers were entitled to infer from inclusion.",
+          "速度や管理の賛否の前に、掲載が読者に何を伝える表示かを考えさせた。"
+        ],
+        [
+          "To prove that all dictionary editing was pointless.",
+          "より情報ある項目を設計している。"
+        ],
+        [
+          "To select a single student as the permanent editor.",
+          "人物の任命は行っていない。"
+        ],
+        [
+          "To require that every new word receive an identical recommendation.",
+          "観察と全員への推奨を区別する方向と逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why was a context note proposed instead of a simple correct badge?",
+      "quote": "the setting in which the usage had been documented",
+      "options": [
+        [
+          "Recognition could differ between communities.",
+          "共同体によって普通か戸惑うかが異なるため、場面情報が単一の正誤印より具体的な案内になる。"
+        ],
+        [
+          "The class had found that no reader ever needed practical guidance.",
+          "実用案内は残したとある。"
+        ],
+        [
+          "Every usage was known to be equally acceptable everywhere.",
+          "共同体差を想定している。"
+        ],
+        [
+          "The students wanted to hide where the usage had occurred.",
+          "観察場面を表示するので逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did writing two sample entries help the class understand?",
+      "quote": "they offered different grounds for trusting it",
+      "options": [
+        [
+          "Entries could contain information while supporting different kinds of confidence.",
+          "初出記録と定着の裏付けでは、どちらも情報でも信頼の根拠と主張の射程が異なる。"
+        ],
+        [
+          "An occurrence entry and an established-meaning entry made identical promises.",
+          "両方の約束を掲載だけでは担えないと結ぶ。"
+        ],
+        [
+          "Only a working automated dictionary could reveal any assumptions.",
+          "辞書は作らなくても項目を書く演習で前提を特定した。"
+        ],
+        [
+          "Speed was the only remaining editorial value.",
+          "速度は価値あるが主張内容の説明に代わらない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Where does the supplied sentence best fit?",
+      "quote": "To recover some of that missing context",
+      "options": [
+        [
+          "[B]",
+          "直前の主張が得票は価値の完全説明でないと限定する。挿入文が票から分からない理由・検討候補を示し、次のmissing contextを回収する説明募集へつなぐ。"
+        ],
+        [
+          "[A]",
+          "まだ一覧や投票の手続きが導入されていない。次は投票募集なので、欠けた文脈を補う段階へ進まない。"
+        ],
+        [
+          "[C]",
+          "すでに説明を集めて個別動機を分析した後で、次は両群の非一様性。文脈不足の導入として遅い。"
+        ],
+        [
+          "[D]",
+          "報告の結論の後で、次は演習の終わり。説明を募るTo recoverとの直接のつながりがない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did organizers initially expect a vote to help?",
+      "quote": "a clear numerical result would make the final choice easy to explain",
+      "options": [
+        [
+          "A numerical outcome could provide an understandable basis for the choice.",
+          "明確な数値で選定を説明しやすくしたいという期待。あらゆる動機を数で読むという保証ではない。"
+        ],
+        [
+          "It would ensure that every resident chose the same name.",
+          "全員一致を保証する制度とはしていない。"
+        ],
+        [
+          "It would remove the need to publish any suggestions.",
+          "候補一覧を公表したとある。"
+        ],
+        [
+          "It would prove that no publicity had influenced the result.",
+          "宣伝の影響を除外する設計とは述べていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "How did the report organizer respond to criticism of the result?",
+      "quote": "refused to dismiss the voters' choices",
+      "options": [
+        [
+          "She respected the choices while limiting what the totals could explain.",
+          "票を切り捨てず、共同体全価値の完全説明とも扱わない二重の区別。"
+        ],
+        [
+          "She immediately replaced the vote with quotations from critics.",
+          "回答はひそかに投票を置換しないと明示する。"
+        ],
+        [
+          "She concluded that publicity was known to be the only reason for every vote.",
+          "複数理由が後に判明し、全票の一原因は断定しない。"
+        ],
+        [
+          "She declared that the losing name had received no genuine support.",
+          "工房への親族の記憶など実際の支持理由を扱っている。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did the supporters' explanations reveal?",
+      "quote": "Neither group was as uniform in its motives",
+      "options": [
+        [
+          "People choosing the same name could have different reasons.",
+          "新名にも絵、発音、独自性、旧名にも記憶や響きなど複数動機があった。"
+        ],
+        [
+          "All supporters of the older name knew its full history.",
+          "歴史をほぼ知らず響きを好んだ人もいた。"
+        ],
+        [
+          "Everyone choosing the newer name wanted to erase local history.",
+          "消去を共通意図とする根拠はない。"
+        ],
+        [
+          "Every vote had been cast by someone outside the community.",
+          "そのような参加者構成は述べていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why was the separate information board not equivalent to a second vote?",
+      "quote": "did not mean every voter had endorsed that particular historical interpretation",
+      "options": [
+        [
+          "It addressed a related historical question without assigning that interpretation to all voters.",
+          "命名結果は保持し、工房説明は別の決定と明確化した。全投票者に歴史解釈への賛同を転嫁しない。"
+        ],
+        [
+          "It removed the winning name from the bridge.",
+          "winning nameを残している。"
+        ],
+        [
+          "It proved that the comments were a more exact measure than the vote in every respect.",
+          "両資料の限界を記録し、普遍的優劣をつけていない。"
+        ],
+        [
+          "It required every resident to accept one common motive.",
+          "動機の多様性を認めており逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What distinction did the later class examine?",
+      "quote": "which local histories deserved further investigation",
+      "options": [
+        [
+          "Choosing a sign name and deciding which histories deserve attention.",
+          "一つの名称選定と、歴史を調べて注目する問いは重なるが一致しないと論じる。"
+        ],
+        [
+          "Allowing all publicity and banning every public drawing.",
+          "広告規制の二択としては扱っていない。"
+        ],
+        [
+          "Counting online votes and ignoring every numerical result.",
+          "結果を尊重しつつ解釈の範囲を限定する。"
+        ],
+        [
+          "Finishing the bridge and abandoning its construction.",
+          "建設するかどうかは課題でない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Where does the supplied sentence best fit?",
+      "quote": "That additional work had to be considered",
+      "options": [
+        [
+          "[C]",
+          "前段で道具の往復と想定超過時間を示す。挿入文がそれを図に描かれないcostと位置付け、次のThat additional workへ内容と評価の両方をつなぐ。"
+        ],
+        [
+          "[A]",
+          "まだ手入れの往復が説明されずThose extra journeysの指示対象がない。次は展示模型の説明で追加作業の評価に進まない。"
+        ],
+        [
+          "[B]",
+          "列挙と試行に先立つ位置で、追加の往復が未導入。thoseが受ける実績も時間増加もない。"
+        ],
+        [
+          "[D]",
+          "改訂で保守手順を加えた後の反応部。次は同級生の閉鎖への不満で、追加作業を定義する前段との結び付きが切れる。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What assumption in the first plan did the tutor's question expose?",
+      "quote": "volunteers whose names had not yet been requested",
+      "options": [
+        [
+          "Necessary continuing work had been assigned to people who had not agreed to do it.",
+          "仕事は列挙したが、名も募っていない人に割り当てていた。見栄え以外の日常の担い手が未確保。"
+        ],
+        [
+          "Every resident had already refused to enter the garden.",
+          "全住民の拒否は述べられていない。"
+        ],
+        [
+          "The roof had already been used as a permanent store.",
+          "近隣の保管場所は改訂で追加され、屋上の既使用ではない。"
+        ],
+        [
+          "The team had never drawn any planted containers.",
+          "最終図に多くの容器を描いていた。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why was the small trial significant?",
+      "quote": "only a fraction of the containers shown in the final drawing",
+      "options": [
+        [
+          "Even a reduced version required more work than the original schedule allowed.",
+          "小規模でも見込んだ時間を超え、完成図の規模ならなお検討すべき日常負担が見えた。"
+        ],
+        [
+          "It established that every possible roof garden must fail.",
+          "一試行から全ての庭の不可能性は導かない。"
+        ],
+        [
+          "It eliminated all journeys between the store and the garden.",
+          "往復が必要なことを明らかにした。"
+        ],
+        [
+          "It showed that no maintenance would be needed after opening.",
+          "手入れ作業の継続性を検討する契機になった。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did the revised plan include a temporary closure procedure?",
+      "quote": "if no one could undertake essential tasks",
+      "options": [
+        [
+          "It specified a response when essential support was unavailable.",
+          "不足時の対応を明示する仕組みであり、永久の支援を保証したふりをしない。"
+        ],
+        [
+          "It guaranteed that the garden would never open.",
+          "条件付き閉鎖であって常時閉鎖ではない。"
+        ],
+        [
+          "It made all maintenance unnecessary.",
+          "手入れ日程や収納を同時に追加し、必要を残す。"
+        ],
+        [
+          "It transferred every task to unnamed volunteers automatically.",
+          "名のない人が差を引き受ける想定こそ避ける。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why did some classmates dislike mentioning closure?",
+      "quote": "weakened the confident promise made by the original presentation",
+      "options": [
+        [
+          "It made the proposal sound less certain and less robust.",
+          "初案の自信ある印象が弱まり、もろい実験のように聞こえると感じた。"
+        ],
+        [
+          "It prevented the model from showing any benches.",
+          "ベンチの描写を消す効果ではない。"
+        ],
+        [
+          "It proved that the team had promised perfect continuity.",
+          "班は完全保証と対応説明を区別する。"
+        ],
+        [
+          "It required them personally to water every container.",
+          "その同級生に全作業を義務付けたとはない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What distinction did the team make in the review?",
+      "quote": "a guarantee of perfect continuity from an explanation",
+      "options": [
+        [
+          "Guaranteeing uninterrupted support is different from planning for insufficient support.",
+          "永久に手があるという保証と、不足したときの手順を示すことを分け、後者で困難を扱う。"
+        ],
+        [
+          "Any uncertainty is sufficient reason to reject every ambitious plan.",
+          "末尾で不確かさを不作為の理由としないと結ぶ。"
+        ],
+        [
+          "An empty roof creates no obligations once people begin using it.",
+          "空き面と利用に伴う義務の不在を混同しなくなったと述べる。"
+        ],
+        [
+          "An attractive opening-day picture proves long-term maintenance is solved.",
+          "そのようなふりをしないための手順である。"
+        ]
+      ]
+    }
+  ]
+]
