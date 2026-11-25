@@ -1,0 +1,41 @@
+{
+  "batch": "l3-f06-5",
+  "humanReviewed": 0,
+  "passages": [
+    {
+      "id": "reading-l3-f06-01",
+      "words": 420,
+      "paragraphs": 5,
+      "questions": 6,
+      "sentences": 18
+    },
+    {
+      "id": "reading-l3-f06-02",
+      "words": 433,
+      "paragraphs": 5,
+      "questions": 6,
+      "sentences": 18
+    },
+    {
+      "id": "reading-l3-f06-03",
+      "words": 447,
+      "paragraphs": 5,
+      "questions": 6,
+      "sentences": 17
+    },
+    {
+      "id": "reading-l3-f06-04",
+      "words": 467,
+      "paragraphs": 5,
+      "questions": 6,
+      "sentences": 17
+    },
+    {
+      "id": "reading-l3-f06-05",
+      "words": 498,
+      "paragraphs": 5,
+      "questions": 6,
+      "sentences": 20
+    }
+  ]
+}

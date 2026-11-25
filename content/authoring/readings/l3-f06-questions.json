@@ -1,0 +1,672 @@
+[
+  [
+    {
+      "prompt": "What can be inferred about the applause during the open rehearsal?",
+      "quote": "the players' movements during the pause resembled those normally seen after a finished performance",
+      "options": [
+        [
+          "The audience may have interpreted the available signals reasonably.",
+          "終演後に似た奏者の動きと事前説明の不在を合わせると、拍手は与えられた合図への理解可能な反応と推論できる。"
+        ],
+        [
+          "The audience deliberately ignored instructions in the program.",
+          "プログラムに特殊な終わり方の説明はなく、指示を故意に無視したとは言えない。"
+        ],
+        [
+          "The younger players had been told to relax during the pause.",
+          "指揮者は手を下ろすまで静止するよう求めており逆。"
+        ],
+        [
+          "The visitors knew that another chord would follow the silence.",
+          "その知識を示す証拠はなく、終演と解釈した可能性がある。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why might the second proposal have appealed to a player concerned about surprise?",
+      "quote": "could preserve the musical surprise without requiring an explanation in advance",
+      "options": [
+        [
+          "It could guide behavior without revealing the unusual ending beforehand.",
+          "事前説明をせず、演奏姿勢という合図で終わっていないことを伝えられるため、驚きを残す案として理解できる。"
+        ],
+        [
+          "It would remove the pause that had caused the problem.",
+          "間を消す提案ではなく、間の最中の姿勢を保つ提案。"
+        ],
+        [
+          "It would allow listeners to decide when the last chord should occur.",
+          "和音の時点を聴衆に委ねるとは書かれていない。"
+        ],
+        [
+          "It would replace the conductor's gestures with written instructions.",
+          "指揮者の手を上げておく合図を利用しており逆。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What does the invited audience's later admission suggest?",
+      "quote": "they had initially thought something had gone wrong",
+      "options": [
+        [
+          "Waiting for the correct moment did not prove complete understanding.",
+          "行動としては手が下がるまで待てたが、内心では失敗を疑った人もいた。反応と理解の同一視はできない。"
+        ],
+        [
+          "The revised gestures failed to influence when anyone applauded.",
+          "観客は手が下がるまで待っており、影響がなかったとは言えない。"
+        ],
+        [
+          "Every listener recognized the pause as part of the composition.",
+          "数人が何か失敗したと思ったとの説明と矛盾。"
+        ],
+        [
+          "The conductor had lowered her hands before the music ended.",
+          "最後の和音が消えるまで上げていたとある。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Which comparison would be least justified by the two rehearsals?",
+      "quote": "The groups had encountered different signals",
+      "options": [
+        [
+          "The second audience possessed greater musical knowledge.",
+          "二群が受けた合図が違うため、行動差から音楽知識の優劣を判定するのは不適切。"
+        ],
+        [
+          "The ensemble changed its visible behavior during the pause.",
+          "演奏姿勢の維持は直接述べられ、十分に比較できる。"
+        ],
+        [
+          "The second group waited until the conductor lowered her hands.",
+          "二回目の実際の行動として記されている。"
+        ],
+        [
+          "The first performance provided no printed explanation of the pause.",
+          "最初のプログラムに説明がないことは記述されている。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What change in the diary writer's thinking is implied?",
+      "quote": "an ending whose meaning had not yet been shared",
+      "options": [
+        [
+          "She began examining communication rather than assigning blame to listeners.",
+          "せっかちな聴衆という人物評価から、意味が共有されなかった終わり方へと焦点を移している。"
+        ],
+        [
+          "She concluded that audience reactions should never be recorded.",
+          "後で聞き手の感想を日誌に載せているため逆。"
+        ],
+        [
+          "She decided that musical pauses had no place in public concerts.",
+          "本番でも間を練習し続けている。"
+        ],
+        [
+          "She became certain that all confusion was caused by the program.",
+          "奏者の動きも合図として挙げられ、一原因だけと確定していない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why were listeners' comments useful in addition to the musicians' observations?",
+      "quote": "another perspective on the same event",
+      "options": [
+        [
+          "They could reveal interpretations not apparent from outward behavior.",
+          "待つ行動だけでは内心の失敗への疑念は分からない例があり、聞き手の説明が奏者側だけでは得られない視点を補う。"
+        ],
+        [
+          "They established that every visitor understood the ending identically.",
+          "感想は複数の認識を示すもので、全員の同一理解を証明しない。"
+        ],
+        [
+          "They removed the need to prepare visible signals in future.",
+          "合図を練習する方針は維持されている。"
+        ],
+        [
+          "They showed that the musicians' account contained no useful information.",
+          "二つの視点を併記しており、奏者の記録を無価値とはしていない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "What assumption underlay the owner's initial proposal?",
+      "quote": "increasing the deposit for the latter group to encourage more responsible behavior",
+      "options": [
+        [
+          "Lower return rates mainly reflected insufficient motivation to return boxes.",
+          "責任ある行動を促すための増額という判断は、返さない原因を動機・態度側に置いている。助手は返却機会という別説明を示す。"
+        ],
+        [
+          "Occasional visitors had fewer practical opportunities to return boxes.",
+          "それは助手が示す別説明であり、店主の当初案の前提ではない。"
+        ],
+        [
+          "Refunds were already available outside lunchtime.",
+          "窓口は昼だけ開くと説明されている。"
+        ],
+        [
+          "Regular customers should pay more than occasional visitors.",
+          "増額の対象はthe latter groupで、たまに来る客。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why might a larger deposit fail to solve the original problem for some visitors?",
+      "quote": "it would not by itself create an opportunity to return one",
+      "options": [
+        [
+          "The accepted return hours might still conflict with their circumstances.",
+          "昼は別の場所にいる客には、金銭的動機が変わっても受け付け時間という障壁が残る。"
+        ],
+        [
+          "The shop had promised never to accept used containers.",
+          "返却を促す仕組みであり本文と反対。"
+        ],
+        [
+          "All visitors valued the deposit more than their working time.",
+          "価値判断の共通性や大小は示されていない。"
+        ],
+        [
+          "A larger deposit would necessarily reduce the number of containers available.",
+          "容器の供給数が必ず減るという根拠はない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What does keeping the deposit unchanged make less plausible as an explanation of the increase?",
+      "quote": "The deposit remained unchanged throughout the trial",
+      "options": [
+        [
+          "Customers returned more boxes because the financial penalty had increased.",
+          "預かり金が変わらないため、増額した金銭的不利益が原因という説明は今回の前後差には使えない。"
+        ],
+        [
+          "The cabinet gave some customers an easier opportunity to return boxes.",
+          "返却機会の拡大は変更点であり除外されない。"
+        ],
+        [
+          "Clearer publicity made some customers aware of the return arrangements.",
+          "宣伝改善も同時にあり得る説明として残る。"
+        ],
+        [
+          "The combined changes affected the usefulness of the scheme.",
+          "仕組み全体の変更の効果は結果と整合し、除外できない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Which conclusion goes beyond what the trial established?",
+      "quote": "did not show exactly how much of the increase came from easier access",
+      "options": [
+        [
+          "The cabinet alone caused the entire improvement in returns.",
+          "宣伝も改善されており、返却しやすさだけの効果量は分離できない。"
+        ],
+        [
+          "More occasional visitors returned containers after the changes.",
+          "本文で実際に記した結果。"
+        ],
+        [
+          "The initial judgment about occasional customers deserved reconsideration.",
+          "結果は当初判断を見直す理由と明示される。"
+        ],
+        [
+          "Information about the old return procedure had been less clear.",
+          "旧手順より明確に宣伝したと説明されている。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why was retaining the original counter consistent with the trial's findings?",
+      "quote": "they could immediately confirm that the refund had been registered correctly",
+      "options": [
+        [
+          "Some customers valued immediate confirmation as part of convenience.",
+          "棚を歓迎しつつ窓口を選ぶ客がいる。便利さには返却時刻以外に返金をその場で確認できる面もある。"
+        ],
+        [
+          "No customer had used the cabinet during the trial.",
+          "棚導入後に返却が増え、未使用とは述べていない。"
+        ],
+        [
+          "The shop had demonstrated that the cabinet was less useful for everyone.",
+          "一部の選好から全員に拡張できない。"
+        ],
+        [
+          "The original counter had been open for more hours than the cabinet.",
+          "棚は出勤前にも使える新たな機会を提供している。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What would information about how customers learned of the scheme help the shop investigate?",
+      "quote": "began recording how customers had learned about them",
+      "options": [
+        [
+          "The contribution of communication to the observed improvement.",
+          "利便性と宣伝の効果が未分離なので、認知経路の記録は情報提供がどのように関与したかの検討を助ける。"
+        ],
+        [
+          "Whether every unreturned container had been deliberately stolen.",
+          "意図的な盗難は示されず、認知経路だけからも判定できない。"
+        ],
+        [
+          "The exact deposit amount that every customer would accept.",
+          "価格実験はしておらず、情報経路は受容価格そのものを測らない。"
+        ],
+        [
+          "Whether environmental attitudes had become identical among all visitors.",
+          "態度の同一化はこの記録で測定できない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Why was the first volunteer's success an incomplete test of the map?",
+      "quote": "she had recognized the passage from an earlier visit",
+      "options": [
+        [
+          "Prior knowledge may have supplied guidance that the map did not provide.",
+          "通路を知っていたため、地図を頼って初めて道を特定できるかを十分には試せない。"
+        ],
+        [
+          "She had refused to use any of the printed photographs.",
+          "写真を使わなかったとは述べていない。"
+        ],
+        [
+          "The authors had accompanied her and explained every turn.",
+          "作成者と話さず進む条件であり、同行説明は根拠がない。"
+        ],
+        [
+          "She had arrived too late for the result to be meaningful.",
+          "時間どおり到着したと書かれている。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What was the likely purpose of observing the second visitor silently?",
+      "quote": "rather than intervene whenever the walker hesitated",
+      "options": [
+        [
+          "To see where the instructions alone left a newcomer uncertain.",
+          "迷いのたびに助ければ案内の不足を観察できない。黙って見る条件で地図単独の限界を検討する。"
+        ],
+        [
+          "To ensure that the visitor would choose the main road.",
+          "特定経路へ誘導するためではない。"
+        ],
+        [
+          "To prevent the visitor from using the map at all.",
+          "地図の使用を妨げる条件ではない。"
+        ],
+        [
+          "To establish that hesitation always indicates an inaccurate distance.",
+          "迷いと距離誤差は同一ではなく、最後でも距離の正確さと案内を区別する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why would a larger photograph not necessarily have prevented the missed entrance?",
+      "quote": "the real landmark had disappeared from view",
+      "options": [
+        [
+          "It would not make the sign visible behind the vehicle in the real setting.",
+          "原因は画像の小ささではなく現地での遮蔽であり、写真拡大だけでは現物を見つけられない状況は変わらない。"
+        ],
+        [
+          "The visitor had already memorized the entire route.",
+          "二人目は地域に初めて来た人。"
+        ],
+        [
+          "The passage had been closed to all walkers.",
+          "通路自体は開いていて使えたと明記する。"
+        ],
+        [
+          "The printed map had placed the entrance on the wrong street.",
+          "位置を誤記したという説明はなく、目印が隠れたことが原因。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What did adding another landmark and a relation to the corner accomplish?",
+      "quote": "not only to the sign",
+      "options": [
+        [
+          "It reduced dependence on a single feature that might be concealed.",
+          "元の標識だけに頼らず、別の目印と角との位置関係を使えるため、一情報の見えなさに耐えやすくなる。"
+        ],
+        [
+          "It proved that the shortcut was usable at every time of day.",
+          "夜の試験は未実施であり、全時間の適合を証明しない。"
+        ],
+        [
+          "It made the longer alternative route unnecessary for all visitors.",
+          "長い経路も残している。"
+        ],
+        [
+          "It established that delivery vehicles would no longer stop there.",
+          "車両の行動が変わるとは述べていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Which statement about nighttime use is best supported?",
+      "quote": "could not complete that trial before printing",
+      "options": [
+        [
+          "The daytime tests did not establish how well the directions would work after dark.",
+          "昼の確認を夜に一般化できない一方、夜に使えないとも断定しない。検証範囲の限界が適切な推論。"
+        ],
+        [
+          "The route was known to be impossible to use after dark.",
+          "未確認と使用不能は異なり、本文もその断定を避ける。"
+        ],
+        [
+          "The second landmark was invisible at night.",
+          "その具体的な夜の結果は得られていない。"
+        ],
+        [
+          "The map was designed exclusively for visitors arriving before noon.",
+          "午後に確認したとあるが午前専用との制限はない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why might removing apparently redundant directions recreate the original difficulty?",
+      "quote": "a description that seemed redundant to a local resident",
+      "options": [
+        [
+          "Local familiarity can conceal the guidance a stranger needs.",
+          "地元の人には重複でも、未知の人は補足された目印や位置説明を必要とし得る。削除で同じ迷いを再現し得る。"
+        ],
+        [
+          "The shortest route necessarily requires the longest possible description.",
+          "経路長と説明長の普遍的関係は示されない。"
+        ],
+        [
+          "All visitors preferred a more crowded printed page.",
+          "全員の見た目の好みは測定していない。"
+        ],
+        [
+          "The observer had been instructed to make the visitor hesitate.",
+          "観察者は黙って見る役であり迷いを誘発する指示はない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "What limitation of the initial vote does the teacher's question draw attention to?",
+      "quote": "how closely that setting resembled the comfortable viewing conditions",
+      "options": [
+        [
+          "The evaluation setting differed from the intended use of the poster.",
+          "座って大きな画像を見る教室と、入口で通り過ぎる掲示環境の差を問うている。"
+        ],
+        [
+          "The club had failed to create two genuinely different designs.",
+          "二案は文字と背景の明暗が異なると示される。"
+        ],
+        [
+          "The voters had never been allowed to see the first design.",
+          "最初の案を好んだ投票であり逆。"
+        ],
+        [
+          "The exhibition date had not yet been decided.",
+          "開催日の未決定は述べられていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "How can the two people's preference and their reading results be reconciled?",
+      "quote": "choosing a favorite image and locating a date while moving were different tasks",
+      "options": [
+        [
+          "They could prefer one image while extracting information more easily from another.",
+          "好みと短時間の日付読み取りは別課題であり、同一人物の異なる結果も矛盾しない。"
+        ],
+        [
+          "They must have forgotten which design they had voted for.",
+          "記憶違いの証拠はなく、異なる課題で説明できる。"
+        ],
+        [
+          "Their preference proved that the printed test had been recorded incorrectly.",
+          "好みから読み取り結果の誤記を結論できない。"
+        ],
+        [
+          "They had been asked to select the same poster in both situations.",
+          "一回目は好み、次は日付特定で、同じ選択課題ではない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What reason is suggested for using a fresh group in the repeated viewing task?",
+      "quote": "repeated the brief viewing task with a fresh group of volunteers",
+      "options": [
+        [
+          "Earlier participants might already know which date to look for.",
+          "初回課題で日付や位置を覚えた人を使うと、修正版そのものの分かりやすさと既有知識が混ざる。新たな協力者はその懸念を減らす。"
+        ],
+        [
+          "Only people unfamiliar with art could judge the revised poster.",
+          "芸術の知識を排除する基準は示されていない。"
+        ],
+        [
+          "The first group had unanimously rejected every possible revision.",
+          "そのような拒否の記述はない。"
+        ],
+        [
+          "A fresh group would guarantee identical preferences and eyesight.",
+          "新しい集団が全特性で同一になる保証はない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Which conclusion is most directly supported by the repeated test?",
+      "quote": "More volunteers identified the date correctly",
+      "options": [
+        [
+          "The revision helped communicate the date under the tested conditions.",
+          "確認したのは短時間での日付特定で、その改善に結論を限定するのが適切。"
+        ],
+        [
+          "The revision improved every artistic quality of the poster.",
+          "一機能の結果を全芸術的価値へ一般化できない。"
+        ],
+        [
+          "The original image had never appealed to any club member.",
+          "最初の投票では好まれていた。"
+        ],
+        [
+          "The revised poster would be the best choice in every future location.",
+          "環境が変われば見直す必要があると末尾で説明する。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why was using the original image online not necessarily inconsistent?",
+      "quote": "visitors could examine it at their own pace",
+      "options": [
+        [
+          "The online setting allowed a different manner of viewing.",
+          "ウェブでは自分のペースで見られ、通りすがりの素早い情報取得とは要求が異なる。"
+        ],
+        [
+          "The online page had no connection with the exhibition.",
+          "展覧会のウェブページと明示されている。"
+        ],
+        [
+          "The club had decided that the test results were entirely false.",
+          "改訂版を入口で採用しており試験を否定していない。"
+        ],
+        [
+          "Visitors had to approve the original design before entering.",
+          "そのような承認条件は述べられていない。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Why would the test notes be more useful than a copy of the final poster alone?",
+      "quote": "could reconsider the choices if the display moved",
+      "options": [
+        [
+          "They explained purposes that could be reassessed when circumstances changed.",
+          "変更理由があれば掲示場所や必要情報が変わったとき判断を再検討でき、完成形の丸写しを避けられる。"
+        ],
+        [
+          "They ensured that later designers would never need to conduct another test.",
+          "方法を保存するのであって、再検証を不要にする保証ではない。"
+        ],
+        [
+          "They required all future members to repeat the same design without alteration.",
+          "最後にそのような無条件の規則化と対比している。"
+        ],
+        [
+          "They proved that simpler designs always communicate better.",
+          "一例の日付特定を普遍的な単純化の法則にはできない。"
+        ]
+      ]
+    }
+  ],
+  [
+    {
+      "prompt": "Why did first-attempt completion provide limited evidence of independent planning?",
+      "quote": "the game had supplied information normally associated with understanding",
+      "options": [
+        [
+          "Players could succeed by following suggestions supplied by the game.",
+          "次の有用な命令を強調するため、独力で命令順序を考えなくても成功できた可能性がある。"
+        ],
+        [
+          "The robot had not moved when players entered commands.",
+          "ロボットが倉庫を進むゲームであり、動かなかったとはない。"
+        ],
+        [
+          "Every tester had played the same game before.",
+          "全員の既経験は示されていない。"
+        ],
+        [
+          "Players had been required to explain every move to the developer.",
+          "開発者の助けを求めず完了し、逐次説明も後で避けている。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What was the likely value of using a different obstacle arrangement with the same commands?",
+      "quote": "the same commands but a different arrangement of obstacles",
+      "options": [
+        [
+          "It could test whether players applied the command system beyond the taught route.",
+          "命令を保ち配置を変えると、最初の経路の再現を超えて仕組みを使えるか調べられる。"
+        ],
+        [
+          "It would make success depend entirely on learning new command meanings.",
+          "同じ命令なので新語義の学習だけに依存させる設計ではない。"
+        ],
+        [
+          "It would guarantee that every player needed exactly one hint.",
+          "ヒント必要量の同一性は保証されず、実際は複数パターンが出る。"
+        ],
+        [
+          "It would remove the need to record when hints were used.",
+          "支援使用と初期選択を記録することが重要な設計に含まれる。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What does separating teaching from checking allow the designer to do?",
+      "quote": "keeping hints available while making their use visible",
+      "options": [
+        [
+          "Support beginners while distinguishing assisted success from independent success.",
+          "ヒントを残して支えつつ、記録で使用が分かるため、支援の有無を同じ証拠として扱わずに済む。"
+        ],
+        [
+          "Treat all completions as proof of exactly the same ability.",
+          "まさにその同一視を避けると続く。"
+        ],
+        [
+          "Conclude that players who use hints have made no progress.",
+          "そのような否定の理由ではないと述べている。"
+        ],
+        [
+          "Measure independent planning by public scores alone.",
+          "公開スコアと非公開診断の目的を分けている。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What is suggested by the players who improved after comparing movements with predictions?",
+      "quote": "improved after comparing the robot's actual movement",
+      "options": [
+        [
+          "Learning could occur through examining the consequences of an initial plan.",
+          "実際の動作と予想順序の差を比較して改善するため、初めの計画の結果を検討する過程が学びとなり得る。"
+        ],
+        [
+          "The highlighted commands prevented every form of learning.",
+          "一群の改善から支援全体が学習を妨げるとは言えない。"
+        ],
+        [
+          "These players had already demonstrated perfect planning before playing.",
+          "予想と結果の比較で改善したので、事前の完全性は証明しない。"
+        ],
+        [
+          "The warehouse layout had remained identical to the first level.",
+          "二面目は障害物配置を変えている。"
+        ]
+      ]
+    },
+    {
+      "prompt": "What remained unestablished when the tutorial explanation was revised?",
+      "quote": "a promising teaching idea rather than a demonstrated improvement in learning",
+      "options": [
+        [
+          "Whether the revision helped players on a later unfamiliar layout.",
+          "次の試行でその効果を調べる予定なので、独立した後の課題への効果はまだ実証されていない。"
+        ],
+        [
+          "Whether the game could display highlighted commands.",
+          "導入面で既に強調表示を利用していた。"
+        ],
+        [
+          "Whether some players could finish the introductory level.",
+          "ほぼ全員が初回で終えたという結果は得られている。"
+        ],
+        [
+          "Whether the designer could record assistance separately from completion.",
+          "支援使用を見える記録にする仕組みは導入されている。"
+        ]
+      ]
+    },
+    {
+      "prompt": "Under what condition could the two kinds of record serve different purposes honestly?",
+      "quote": "provided neither was advertised as measuring abilities it had never actually tested",
+      "options": [
+        [
+          "Their claims stayed within what each record had actually measured.",
+          "provided以下の条件は、未検証能力を測ると宣伝しないこと。目的の異なる記録は測定範囲を守れば共存できる。"
+        ],
+        [
+          "The public score was described as a complete measure of independent ability.",
+          "未検証の独立能力を完全に測るとの表示は条件に反する。"
+        ],
+        [
+          "All private information about hint use was deleted immediately.",
+          "診断記録を消すという条件はなく、残して調べている。"
+        ],
+        [
+          "Only players who never requested assistance were allowed to finish.",
+          "初心者の支援と完了を両立する設計に反する。"
+        ]
+      ]
+    }
+  ]
+]
