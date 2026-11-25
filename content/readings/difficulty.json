@@ -4142,6 +4142,116 @@
       "method": "AI rubric, author assessed",
       "status": "ai_assessed_human_pending",
       "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f03-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f03-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f03-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f03-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f03-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f03-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f03-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f03-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f03-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f03-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 3,
+        "questions": 3
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
     }
   }
 }

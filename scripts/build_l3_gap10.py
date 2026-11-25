@@ -1,4 +1,4 @@
-"""Compile explicitly annotated original L3/format2. No automatic syntax guessing."""
+"""Compile explicitly annotated original L3 sentence/phrase gaps. No automatic syntax guessing."""
 import copy, json, re, xml.etree.ElementTree as ET
 from pathlib import Path
 from level3_word_policy import validate_level3_word_count
@@ -41,9 +41,9 @@ def parse_sentence(markup):
     assert all(e['to'] in {n['id'] for n in nodes} for e in edges)
     return text,nodes,edges,gaps
 
-def read_authored():
+def read_authored(form=2):
     readings=[];current=None;para=None
-    for line in (AUTHOR/'l3-f02.tsv').read_text().splitlines():
+    for line in (AUTHOR/f'l3-f{form:02}.tsv').read_text().splitlines():
         if line.startswith('# '):
             current={'title':line.split(' ',2)[2],'paragraphs':[]};readings.append(current);para=None
         elif not line.strip():para=None
@@ -54,12 +54,13 @@ def read_authored():
             para.append(fields)
     return readings
 
-def compile_batch():
-    authored=read_authored();questions=json.loads((AUTHOR/'l3-f02-questions.json').read_text())
+def compile_batch(form=2):
+    assert form in (2,3),'Supported authored gap formats are 2 and 3'
+    authored=read_authored(form);questions=json.loads((AUTHOR/f'l3-f{form:02}-questions.json').read_text())
     assert len(authored)==len(questions)==10
     batch=[]
     for i,(a,qs) in enumerate(zip(authored,questions),1):
-        pid=f'reading-l3-f02-{i:02}';review=[];source=[];syntax=[];sentences=[];gap=None
+        pid=f'reading-l3-f{form:02}-{i:02}';review=[];source=[];syntax=[];sentences=[];gap=None
         assert 4<=len(a['paragraphs'])<=8
         for j,rows in enumerate(a['paragraphs'],1):
             paraid=f'p{j}';english=[];translations=[];para_gap=None;offset=0
@@ -77,6 +78,10 @@ def compile_batch():
             review.append({'id':paraid,'english':full,'translation':''.join(translations)})
             source.append({'id':paraid,'english':original,'translation':''.join(translations)})
         assert gap is not None
+        if form==3:
+            row=next(s for s in sentences if s['paragraphId']==gap['paragraphId'] and s['start']<=gap['start']<s['end'])
+            assert gap['start']==row['start'] and gap['end']==row['end']-1,'Format 3 must omit the complete assertion, retaining terminal punctuation'
+            assert len(gap['answer'].split())>=8
         for s in sentences:
             delta=len(gap['answer'])-3 if s['paragraphId']==gap['paragraphId'] else 0
             def source_pos(pos):
@@ -86,7 +91,7 @@ def compile_batch():
             s['sourceStart']=source_pos(s['start']);s['sourceEnd']=source_pos(s['end'])
             para=next(p for p in source if p['id']==s['paragraphId'])
             s['sourceEnglish']=para['english'][s['sourceStart']:s['sourceEnd']]
-        count=words(' '.join(p['english'] for p in review));validate_level3_word_count(2,i,count)
+        count=words(' '.join(p['english'] for p in review));validate_level3_word_count(form,i,count)
         built=[]
         assert 5<=len(qs)<=8
         for j,q in enumerate(qs):
@@ -94,7 +99,7 @@ def compile_batch():
             if j==0:assert q['options'][q.get('correctIndex',0)][0]==gap['answer']
             order=list(range(4));shift=(i+2*j)%4;order=order[shift:]+order[:shift]
             built.append({'id':f'q{j+1}','prompt':q['prompt'],'options':[{'id':'abcd'[k],'text':q['options'][n][0],'explanation':q['options'][n][1]} for k,n in enumerate(order)],'correctOptionId':'abcd'[order.index(q.get('correctIndex',0))],'explanation':q['options'][q.get('correctIndex',0)][1],'evidence':{'paragraphId':next(p['id'] for p in source if q['quote'] in p['english']),'quote':q['quote']}})
-        p={'id':pid,'level':3,'format':2,'title':a['title'],'paragraphs':source,'reviewParagraphs':review,'wordCount':words(' '.join(p['english'] for p in source)),'reviewWordCount':count,'syntaxOffsetBasis':'reviewParagraphs','gapSolutions':{'[1]':{'questionId':'q1','answer':gap['answer']}},'sentences':sentences,'syntax':syntax,'questions':built,'recommendedSeconds':round((count/75*60+len(built)*55)/15)*15,'vocabulary':[{'english':gap['answer'],'meaning':qs[0]['meaning']}],'content':{'sourceIds':['original-reading-l3-v1'],'sourceUsage':[{'sourceId':'original-reading-l3-v1','fields':['title','paragraphs','questions','syntax','vocabulary']}],'contentVersion':2,'standardVersion':2,'qualityStatus':'review_required','autoChecked':True,'humanReviewed':False,'productionApproved':False,'examFrequency':None,'selectionReason':'独自の仮想事例によるLEVEL3語句空所補充。形式内の番号別完成語数・全英文の和訳と明示的構文を適用。人間の正式校閲は未実施。'},'difficulty':{'scores':{'vocabulary':3,'syntax':4,'logic':3,'questions':3},'method':'AI rubric, author assessed','status':'ai_assessed_human_pending','rationale':'複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。'},'editorialReview':{'status':'author_checked','reviewer':'AI author; not independent human review','independentHumanReviewed':False},'review':{k:'ai_checked_human_pending' for k in ['fullTranslation','fullSyntax','questionUniqueness','englishNaturalness']}}
+        p={'id':pid,'level':3,'format':form,'title':a['title'],'paragraphs':source,'reviewParagraphs':review,'wordCount':words(' '.join(p['english'] for p in source)),'reviewWordCount':count,'syntaxOffsetBasis':'reviewParagraphs','gapSolutions':{'[1]':{'questionId':'q1','answer':gap['answer']}},'sentences':sentences,'syntax':syntax,'questions':built,'recommendedSeconds':round((count/75*60+len(built)*55)/15)*15,'vocabulary':[{'english':gap['answer'],'meaning':qs[0]['meaning']}],'content':{'sourceIds':['original-reading-l3-v1'],'sourceUsage':[{'sourceId':'original-reading-l3-v1','fields':['title','paragraphs','questions','syntax','vocabulary']}],'contentVersion':2,'standardVersion':2,'qualityStatus':'review_required','autoChecked':True,'humanReviewed':False,'productionApproved':False,'examFrequency':None,'selectionReason':('独自の仮想事例によるLEVEL3語句空所補充。形式内の番号別完成語数・全英文の和訳と明示的構文を適用。人間の正式校閲は未実施。' if form==2 else '独自の仮想事例によるLEVEL3文・節の空所補充。前後の論理・照応・条件を統合し、完成語数・全文和訳・明示的構文を検証。独立人間校閲は未実施。')},'difficulty':{'scores':{'vocabulary':3,'syntax':4,'logic':3,'questions':3},'method':'AI rubric, author assessed','status':'ai_assessed_human_pending','rationale':'複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。'},'editorialReview':{'status':'author_checked','reviewer':'AI author; not independent human review','independentHumanReviewed':False},'review':{k:'ai_checked_human_pending' for k in ['fullTranslation','fullSyntax','questionUniqueness','englishNaturalness']}}
         errors=validate_reading(p)+validate_provenance(p['content'],{s['id']:s for s in json.loads((ROOT/'content/sources.json').read_text())},False);assert not errors,(pid,errors)
         batch.append(p)
     return batch
@@ -103,8 +108,8 @@ def write_immutable(path,value):
     if path.exists():assert json.loads(path.read_text())==value,('Refuse different saved batch',str(path))
     path.write_text(json.dumps(value,ensure_ascii=False,indent=2)+'\n')
 
-def main():
-    batch=compile_batch();write_immutable(ROOT/'content/readings/l3_f02.json',batch)
+def main(form=2):
+    batch=compile_batch(form);write_immutable(ROOT/f'content/readings/l3_f{form:02}.json',batch)
     path=ROOT/'content/readings/advanced.json';old=json.loads(path.read_text());byid={p['id']:p for p in old}
     for p in batch:
         if p['id'] in byid:assert byid[p['id']]==p
@@ -114,6 +119,8 @@ def main():
     raw=json.loads((ROOT/'content/readings/drafts.json').read_text())+old
     checkpoint={'authoredPassages':len(raw),'totalQuestions':sum(len(p['questions']) for p in raw),'totalWords':sum(p.get('reviewWordCount',p['wordCount']) for p in raw),'complete':len(raw)==400,'levels':{str(l):{'authoredPassages':sum(p['level']==l for p in raw),'countsByFormat':[sum(p['level']==l and p['format']==f for p in raw) for f in range(1,11)],'complete':all(sum(p['level']==l and p['format']==f for p in raw)==10 for f in range(1,11))} for l in range(1,5)},'humanReviewed':False,'productionApproved':False}
     (ROOT/'analysis/reading_checkpoint.json').write_text(json.dumps(checkpoint,ensure_ascii=False,indent=2)+'\n')
-    manifest={'batch':'l3-f02-10','humanReviewed':0,'passages':[{'id':p['id'],'words':p['wordCount'],'completedWords':p['reviewWordCount'],'paragraphs':len(p['paragraphs']),'questions':len(p['questions']),'sentences':len(p['sentences'])} for p in batch]}
-    (ROOT/'analysis/reading_l3_f02_batch.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n');print(json.dumps(manifest,ensure_ascii=False))
-if __name__=='__main__':main()
+    manifest={'batch':f'l3-f{form:02}-10','humanReviewed':0,'passages':[{'id':p['id'],'words':p['wordCount'],'completedWords':p['reviewWordCount'],'paragraphs':len(p['paragraphs']),'questions':len(p['questions']),'sentences':len(p['sentences'])} for p in batch]}
+    (ROOT/f'analysis/reading_l3_f{form:02}_batch.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n');print(json.dumps(manifest,ensure_ascii=False))
+if __name__=='__main__':
+    import sys
+    main(int(sys.argv[1]) if len(sys.argv)>1 else 2)

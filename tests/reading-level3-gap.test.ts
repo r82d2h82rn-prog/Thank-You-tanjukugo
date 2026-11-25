@@ -13,7 +13,7 @@ import {emptyState,decodeState} from '../src/model';
 
 test('ten new L3 gap readings append independent identities and obey within-format word bands',()=>{
  assert.deepEqual(advanced.slice(0,20),[...original3,...original4]);
- assert.equal(advanced.length,30);assert.equal(readingCatalog.length,230);
+ assert.deepEqual(advanced.slice(20,30),batch);assert.ok(readingCatalog.length>=230);
  assert.deepEqual(batch.map(p=>p.id),Array.from({length:10},(_,i)=>`reading-l3-f02-${String(i+1).padStart(2,'0')}`));
  assert.equal(new Set(readingRevisions.map(p=>p.id)).size,readingRevisions.length);
  for(const [i,p] of batch.entries()){

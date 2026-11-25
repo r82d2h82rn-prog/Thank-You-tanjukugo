@@ -1,0 +1,314 @@
+# 1 地図から消えた通路
+<S>A fictional town council</S> <V>asked</V> <O>students</O> <phrase k="不定詞句">to update a walking map that had guided visitors between the station and the public library for several years</phrase>.	架空の町議会は、数年間、駅と公立図書館の間で来訪者を案内してきた歩行地図を更新するよう生徒に頼んだ。	ask O to do。that以下はmapを限定し、過去完了で依頼以前の継続を表す。
+<S>The existing map</S> <V>showed</V> <O>a narrow passage behind a row of shops</O>, <clause k="関係節">which <S>residents</S> <V>often used</V> <M>as a convenient shortcut</M></clause>.	既存の地図には商店の並びの裏の細い通路が描かれ、住民はそこを便利な近道としてよく使っていた。	whichはpassageを受ける目的格。asは通路の用途。
+<S>The students</S> <V>measured</V> <O>its width</O> and <V>photographed</V> <O>the entrance</O>, <M>expecting that accurate measurements would be enough to justify keeping it on the new version</M>.	生徒は幅を測り入口を撮影し、正確な測定値があれば新版に残す根拠として十分だと考えた。	二つの動詞は主語共通。expectingは生徒の期待を補足する分詞句。
+
+<S>A shopkeeper</S> <V>pointed out</V> <O><clause k="内容節">that <S>the gate</S> <V>was locked</V> <M>after deliveries ended</M></clause></O>.	店主は配達が終わると門が施錠されると指摘した。	that節が指摘の内容。after節は施錠の時を示す。
+<S>A route</S> <V>could therefore be</V> <C>physically present</C> <M>without being available whenever a visitor needed it</M>.	したがって道は物理的に存在しても、訪問者が必要とする時にいつでも利用できるとは限らなかった。	without doingとwheneverにより、存在と随時利用可能性を区別する。
+<g><S>The missing information</S> <V>concerned</V> <O>access rather than location</O></g>.	欠けていた情報は場所ではなく利用可能性に関するものだった。	rather thanが同じ前置詞の対象となる二つの名詞を対比する。
+<S>This distinction</S> <V>changed</V> <O><clause k="間接疑問節">what <S>the students</S> <V>decided to investigate</V> <M>during their next visit</M></clause></O>.	この区別は生徒が次の訪問時に何を調べると決めたかを変えた。	what節はchangedの目的語。This distinctionは存在と利用可能性の違い。
+
+<S>They</S> <V>returned</V> <M>on an evening when the library remained open but most shops had already closed</M>.	生徒は図書館は開いているが大半の店が既に閉まった夜に再訪した。	whenはeveningを修飾し、butが施設間の営業時間の違いを示す。
+<S>The gate</S> <V>was shut</V>, and <S>a visitor following the old map</S> <V>would have had to turn back</V> <M>near the end of the journey</M>.	門は閉まり、旧地図に従う来訪者なら行程の終わり近くで引き返すことになっただろう。	followingはvisitorを限定。would have had toは仮想の過去の必要性。
+<S>Merely adding opening hours</S> <V>seemed</V> <C>insufficient</C> <clause k="理由節">because <S>the council</S> <V>could not guarantee</V> <O><clause k="内容節">that the shops would maintain the same arrangements</clause></O></clause>.	営業時間を加えるだけでは不十分と思われた。議会には店が同じ取り決めを維持すると保証できなかったからだ。	動名詞句が主語。because節のthat節は保証の内容。
+
+<S>The revised map</S> <V>marked</V> <O>the passage</O> <C>as a conditional alternative</C> and <V>highlighted</V> <O>a longer public route</O>.	改訂地図は通路を条件付きの代替路として表示し、より長い公道の道順を強調した。	mark O as C。二つの動詞で条件付き表示と標準経路を分ける。
+<S>A brief note</S> <V>explained</V> <O><clause k="間接疑問節">why <S>the shorter line</S> <V>was not</V> <C>the recommended default</C></clause></O>, <M>instead of leaving readers to interpret an unexplained symbol</M>.	短い注記は、説明のない記号の解釈を読み手任せにせず、短い線が推奨の標準経路でない理由を説明した。	why節が説明内容。instead of以下は回避した対応。
+<S>The council</S> <V>also named</V> <O>an office</O> <phrase k="関係節相当">responsible for reviewing the note if access conditions changed</phrase>.	議会は利用条件が変わった場合に注記を見直す担当部署も指定した。	responsible以下はofficeを後置修飾。ifは見直しの条件。
+<S>That responsibility</S> <V>mattered</V> <clause k="理由節">because <S>even a carefully checked map</S> <V>could become</V> <C>misleading</C> <M>over time</M></clause>.	注意深く確認した地図も時がたてば誤解を招き得るので、その責任が重要だった。	become C。evenは十分確認しても変化を免れない点を強調。
+
+<S>A second test</S> <V>involved</V> <O>a visitor unfamiliar with the area</O>, <M>who was asked to describe each decision made while following the proposed public route</M>.	二回目の確認では土地になじみのない来訪者に、公道の提案経路を歩きながら各判断を説明してもらった。	whoはvisitorを受ける関係節。madeはdecisionを修飾。
+<M>At one junction</M>, <S>two signs</S> <V>pointed</V> <M>toward different entrances to the same building</M>.	ある交差点では二つの標識が同じ建物の別々の入口を指していた。	At one junctionは場所の修飾句。towardは向き。
+<S>Only one entrance</S> <V>remained</V> <C>open during evening library hours</C>.	図書館の夜間開館中に開いていたのは片方の入口だけだった。	Onlyは利用できる入口を限定。remain C。
+<S>The map</S> <V>was adjusted</V> <phrase k="不定詞句">to identify that entrance</phrase>, <M>demonstrating that checking a route required following it through to the visitor's intended destination</M>.	地図はその入口を特定するよう調整され、経路確認には来訪者の目的地までたどる必要があると分かった。	toは調整の目的。demonstratingは結果を補足する。
+<S>The line on paper</S> <V>had to correspond</V> <M>to a usable sequence of choices on the ground</M>.	紙上の線は、現地で実行可能な選択の連続に対応する必要があった。	have toは必要性。correspond toは対応すること。
+<S>A route that appeared correct from above</S> <V>could still fail</V> <M>at its final entrance</M>, <M>where the visitor's actual purpose had to be successfully fulfilled</M>.	上から見ると正しい経路でも、来訪者が実際の目的を無事果たすべき最後の入口で役に立たなくなる可能性があった。	that節はrouteを修飾。where節は入口での目的達成を補足。
+
+<S>The students</S> <V>had not discovered</V> <O>a new street or corrected a geographical error</O>.	生徒は新しい道路を発見したわけでも地理的な誤りを直したわけでもなかった。	notとorで二つの成果をともに否定する。
+<S>Their final explanation</S> <V>focused</V> <M>instead on a different meaning of accuracy</M>.	代わりに最後の説明は、正確さの別の意味に焦点を当てた。	focus on。insteadは地理的訂正から別の正確さへの転換。
+<S>They</S> <V>had learned</V> <O><clause k="内容節">that <S>useful accuracy</S> <V>depends</V> <M>on the decisions a document is intended to support</M></clause></O>, <M>not simply on whether every visible feature has been recorded</M>.	生徒は、役立つ正確さは目に見える特徴を全て記録したかだけでなく、文書が支えるべき判断によると学んだ。	depend on。not simply以下は正確さを可視情報だけに限定しない。
+# 2 予約枠と空いている机
+<S>A fictional college library</S> <V>introduced</V> <O>an online booking system for study desks</O> <M>after students complained that they could never predict whether a seat would be available</M>.	架空の大学図書館は、席があるか予測できないと学生が訴えたため、学習机のオンライン予約制度を導入した。	afterは経緯。whether節がpredictの内容。
+<S>The screen</S> <V>displayed</V> <O>reservations in bright colors</O>, and <S>staff</S> <V>initially welcomed</V> <O>the apparent certainty created by a timetable with almost no empty spaces</O>.	画面には予約が鮮やかな色で表示され、職員は当初、空きのほぼない予定表が生む確実さを歓迎した。	created以下はcertaintyを修飾する過去分詞句。
+<M>However</M>, <S>a student assistant checking the room itself</S> <V>submitted</V> <O>a report that challenged this comfortable interpretation of the colorful display</O>.	しかし実際の部屋を確認した学生補助員は、色彩豊かな表示に対するこの楽観的解釈に疑問を呈する報告を出した。	checkingはassistantを修飾。that節はreportを修飾し、howeverが転換を示す。
+
+<S>The assistant</S> <V>had counted</V> <O>several unused desks during periods that the system described as fully booked</O>.	補助員はシステム上満席の時間帯に、使われていない机をいくつか数えていた。	過去完了で報告以前の観察。that節はperiodsを修飾する。
+<S>Some students</S> <V>had reserved</V> <O>long sessions</O> <M>as a precaution</M> but <V>arrived</V> <M>only for the final hour</M>.	一部の学生は念のため長い時間を予約したが、最後の一時間にしか来なかった。	butが予約時間と実利用時間のずれを示す。
+<S>Others</S> <V>had changed</V> <O>their plans</O> <M>without cancelling reservations that no longer served any purpose</M>.	別の学生は、役に立たなくなった予約を取り消さずに予定を変えていた。	Othersは別の学生。without doingは変更に伴わなかった行為。
+<g><S>A reserved desk</S> <V>was not necessarily</V> <C>an occupied desk</C></g>.	予約された机が必ずしも使用中の机とは限らなかった。	not necessarilyは部分否定。予約と利用の区別が次の実利用確認につながる。
+
+<S>The library</S> <V>considered</V> <O>requiring students to confirm their arrival within a short period</O>.	図書館は学生に短時間のうちに到着を確認してもらう案を検討した。	consider doing、require O to doの入れ子。
+<clause k="条件節">If <S>they</S> <V>failed to do</V> <O>so</O></clause>, <S>their desks</S> <V>would become</V> <C>available to other users waiting outside</C>.	そうしなければ、その机は外で待つ別の利用者が使えるようになる予定だった。	If節は開放の条件。do soは到着確認、waitingはusersを修飾。
+<S>Students travelling on unreliable buses</S> <V>objected</V> <O><clause k="内容節">that <S>the rule</S> <V>could punish</V> <O>people whose delays were beyond their control</O></clause></O>.	時刻が不安定なバスで通う学生は、この規則は自分で防げない遅延を被った人を罰しかねないと反対した。	travellingはStudentsを修飾。whoseはpeopleとdelaysの所有関係。
+<S>The objection</S> <V>did not remove</V> <O>the original problem</O>, but <S>it</S> <V>revealed</V> <O>a cost that the first proposal had overlooked</O>.	反対意見で元の問題はなくならなかったが、最初の提案が見落とした負担は明らかになった。	itはobjection。that節はcostを限定。
+
+<M>During a trial</M>, <S>every notice</S> <V>explained</V> <O><clause k="内容節">that <S>the arrangement</S> <V>would remain</V> <C>open to revision after comments from users</C></clause></O>.	試行期間中は全ての掲示が、利用者の意見を受けて取り決めを修正できると説明した。	that節はexplainedの目的語。remain Cで修正可能な状態を維持。
+<S>Staff</S> <V>allowed</V> <O>a brief extension</O> <M>when students reported a travel delay before their booking began</M>.	職員は予約開始前に交通機関の遅れを報告した学生に短い猶予を認めた。	when節は猶予を認める条件。beforeは報告の期限。
+<S>They</S> <V>recorded</V> <O>both released desks and complaints</O>, <M>rather than treating the number of cancelled reservations as the sole measure of success</M>.	職員は取り消し件数だけを成功尺度とせず、開放された机と苦情の両方を記録した。	both A and B。rather than doingは退ける評価方法。
+<S>The records</S> <V>helped</V> <O>them</O> <phrase k="原形不定詞句">distinguish reduced waste from inconvenience merely transferred to another group</phrase>.	記録は、無駄の削減と、別の集団に不便を移しただけの場合を区別する助けになった。	help O do、distinguish A from B。transferredはinconvenienceを修飾。
+
+<S>Students</S> <V>were shown</V> <O>both the initial proposal and the revised rule</O> <M>before the trial began</M>.	試行前に学生には最初の提案と修正版の両方が示された。	show O Oの受動態。beforeは提示の時期。
+<S>This explanation</S> <V>made</V> <O>the reason for checking arrival</O> <C>clear</C> <M>without suggesting that every late student had acted irresponsibly</M>.	この説明は、遅れた学生全員が無責任だと示唆せず、到着確認の理由を明確にした。	make O C。without doingは避ける含意。
+<S>An appeal</S> <V>could be made</V> <M>at the desk</M> <clause k="条件節">if <S>the electronic record</S> <V>did not match</V> <O>what had happened</O></clause>.	電子記録が実際と違う場合は窓口で異議を申し立てられた。	if節は異議の条件。what節は一致しない対象。
+<S>The library</S> <V>kept</V> <O>these disputed cases</O> <C>separate from confirmed absences</C> <M>when evaluating whether the new system was working fairly</M>.	図書館は新制度の公平性を評価する際、争いのある事例を確認済みの不在と区別した。	keep O C。when doingは評価時の扱い。
+<S>Each appeal</S> <V>included</V> <O>the booking time and the reported arrival</O>, <M>allowing staff to investigate a particular failure instead of arguing about whether students were generally trustworthy</M>.	異議ごとに予約時刻と報告された到着時刻を記し、学生全般の信頼性を議論するのでなく、個別の不具合を調べられるようにした。	allow O to do。instead ofで個別調査と一般的評価を対比。
+
+<S>The final policy</S> <V>retained</V> <O>reservations</O> <M>while making unused capacity easier to reclaim</M>.	最終の方針は予約を残しつつ、使われない収容力を回収しやすくした。	while doingは両立。make O Cのeasier to reclaimに注意。
+<S>It</S> <V>also required</V> <O>an explanation whenever a desk was released</O>, <M>so that users could challenge a mistake</M>.	机が開放された際は説明も求め、利用者が誤りを申し立てられるようにした。	wheneverは都度の条件。so thatは説明を設ける目的。
+<S>The project</S> <V>showed</V> <O><clause k="内容節">that <S>a system</S> <V>can represent</V> <O>an intention</O> <M>very clearly</M> <M>while still giving an incomplete account of what is happening</M></clause></O>.	この取り組みは、システムが意図をとても明確に表しても、実際に起きていることの説明は不完全になり得ると示した。	that節が示した内容。while stillは明確さと不完全さの両立。
+<S>Improvement</S> <V>required</V> <O>checking the relationship between those two things</O>, <M>not simply making the screen look more precise</M>.	改善には、単に画面を精密に見せるのでなく、その二つの関係を確認する必要があった。	those two thingsは意図と実際の利用。not simply doingで手段を限定しない。
+# 3 解説のない展示物
+<S>A fictional local museum</S> <V>received</V> <O>a collection of household objects from a family whose former home was being rebuilt</O>.	架空の郷土博物館は、以前の家を建て替え中の家族から家庭用品の一群を受け取った。	whoseはfamilyとhomeの関係。was being rebuiltは進行形の受動態。
+<S>The objects</S> <V>included</V> <O>a wooden box with small compartments</O>, <clause k="関係節">which <S>the family</S> <V>remembered seeing</V> <M>near the kitchen door</M></clause>.	品々には小さな仕切りのある木箱が含まれ、家族にはそれを台所の戸口近くで見た記憶があった。	whichはboxを受ける目的格。remember doingは過去の経験の記憶。
+<S>No one</S> <V>could recall</V> <O>its exact purpose</O>, <M>although several relatives offered plausible suggestions based on its shape</M>.	形からもっともらしい用途を提案する親族は数人いたものの、正確な用途を思い出せる人はいなかった。	No oneで全面否定。although節は譲歩。
+<S>The museum</S> <V>wanted to display</V> <O>the collection</O> <M>without turning an attractive guess into an established fact</M>.	博物館は魅力的な推測を確定した事実に変えてしまわずに、その一群を展示したかった。	without doingは展示時に避ける結果。turn A into B。
+
+<S>A volunteer</S> <V>found</V> <O>a photograph of a similar box</O> <M>in a trade catalogue printed decades earlier</M>.	ボランティアは数十年前に印刷された業者用カタログで、似た箱の写真を見つけた。	printed以下はcatalogueを修飾する過去分詞句。
+<S>The caption</S> <V>identified</V> <O>that model</O> <C>as a container for sorting small tools</C>.	写真の説明は、その型を小さな道具の仕分け容器と特定していた。	identify O as C。that modelは写真にある型。
+<g><S>The resemblance</S> <V>supported</V> <O>a possibility</O> <M>without establishing how this particular family had used its box</M></g>.	類似性は一つの可能性を裏付けたが、この家族が実際に自分たちの箱をどう使ったかまでは確定しなかった。	without以下のhow節はestablishingの内容。一般的用途と個別の使用を区別する。
+<S>This limit</S> <V>remained</V> <C>important</C> <M>even after the volunteer discovered that the manufacturer had sold the model in the same region</M>.	製造業者が同じ地域でその型を販売していたと判明しても、この限界は重要だった。	This limitは個別の使用を確定できない点。even afterで追加証拠の限界を示す。
+
+<S>The curator</S> <V>prepared</V> <O>a label that separated the catalogue evidence from the family's memories</O>.	学芸員は、カタログの証拠と家族の記憶を分ける説明札を作った。	that節はlabelの構成を説明。separate A from B。
+<S>It</S> <V>described</V> <O>the published purpose</O> and <V>stated</V> <O><clause k="内容節">that <S>the actual household use</S> <V>was</V> <C>unknown</C></clause></O>.	札は出版物に示された用途を説明し、実際の家庭内での使用は不明だと明記した。	itはlabel。二つの動詞が既知と未知を並べる。
+<S>Visitors</S> <V>were invited</V> <phrase k="不定詞句">to suggest comparisons</phrase>, but <S>the invitation</S> <V>asked for</V> <O>supporting details rather than confident conclusions alone</O>.	来館者には比較例の提案を呼びかけたが、確信ある結論だけでなく裏付けとなる詳細を求めた。	invite O to doの受動態。rather thanは求める資料の対比。
+<S>A story</S> <V>could be</V> <C>interesting</C> <M>without being sufficiently documented to replace the cautious label</M>.	話は面白くても、慎重な説明札を書き換えられるほど記録で裏付けられているとは限らなかった。	sufficiently ... toは必要な程度。withoutは両者が同一でないことを示す。
+
+<S>One visitor</S> <V>later supplied</V> <O>a dated photograph showing the box beside a sewing machine in the family's old house</O>.	後日一人の来館者が、家族の旧宅で箱がミシンの横に置かれた日付入りの写真を提供した。	showing以下はphotographを修飾し、場所と時期の証拠を加える。
+<S>The photograph</S> <V>narrowed</V> <O>the range of reasonable interpretations</O>, yet <S>it</S> <V>did not reveal</V> <O>the contents of the closed compartments</O>.	写真は妥当な解釈の範囲を狭めたが、閉じた仕切りの中身は示さなかった。	yetが証拠の価値と限界を対比。itはphotograph。
+<S>Staff</S> <V>added</V> <O>the new evidence and its limitation</O> <M>to the exhibition record</M>.	職員は新しい証拠とその限界を展示記録に加えた。	add A to B。証拠と限界をともに目的語にする。
+<S>They</S> <V>did not assume</V> <O><clause k="内容節">that <S>proximity to sewing equipment</S> <V>proved</V> <O>a single permanent function</O></clause></O>.	裁縫用具の近くにあったことが単一で不変の用途を証明するとは決めつけなかった。	not assume that。proximityがthat節の主語。
+
+<S>The museum</S> <V>kept</V> <O>the original catalogue reference and the date on which the photograph had been received</O> <M>in its internal record</M>.	博物館は元のカタログの参照情報と写真を受け取った日付を内部記録に残した。	on whichはdateを修飾。keep A in B。
+<S>A later researcher</S> <V>could therefore examine</V> <O>the evidence</O> <M>without relying entirely on the confidence of the person who had written the public label</M>.	後の研究者は公開札を書いた人の確信だけに頼らず、証拠を検討できた。	thereforeは記録保存の帰結。who節はpersonを修飾。
+<S>Staff</S> <V>also preserved</V> <O>the relatives' competing suggestions</O>, <M>identifying each as a recollection or a hypothesis rather than silently selecting the most appealing story</M>.	職員は親族の競合する案も残し、魅力的な話を黙って選ばず、各案が記憶か仮説かを示した。	identifyingは付帯行動。eachは各suggestion、identify O as C。
+<S>The purpose</S> <V>was not</V> <C>to give every suggestion equal authority</C>, <M>but to make the path from evidence to interpretation available for examination</M>.	目的は全ての案に同じ権威を与えることでなく、証拠から解釈への道筋を検討できるようにすることだった。	not ... butは補語の不定詞句を対比。make O C。
+<S>The record</S> <V>could show</V> <O>why an earlier interpretation had seemed reasonable</O> <M>even if new evidence eventually displaced it</M>.	新証拠で以前の解釈が覆されても、記録はそれがなぜ妥当に思えたかを示せた。	why節は目的語。even ifは譲歩条件。
+<S>Changing the label</S> <V>would not erase</V> <O>the history of that investigation or the reasons behind previous revisions</O>.	札を変えても、その調査の歴史や過去の改訂の理由は消えないことになる。	動名詞句が主語。wouldは改訂時の帰結。
+
+<S>The updated display</S> <V>offered</V> <O>a richer account than the original label</O>, <M>but also made the remaining uncertainty more visible</M>.	更新した展示は元の札より豊かな説明を与え、同時に残る不確かさも目立たせた。	thanの比較。but alsoは情報追加と不確実性の可視化の両立。
+<M>For the curator</M>, <S>incomplete knowledge</S> <V>was not</V> <C>equivalent to careless investigation</C>.	学芸員にとって、不完全な知識は不注意な調査と同じではなかった。	be equivalent toは同等であること。否定により不確実性と調査不備を分ける。
+<S>Careful research</S> <V>might increase</V> <O>what could responsibly be said</O> <M>without eliminating every unanswered question</M>.	注意深い調査は全ての未解答の問いを消さなくても、責任をもって述べられる内容を増やし得た。	what節が目的語。mightとwithoutが成果の限界を示す。
+<S>The museum</S> <V>therefore treated</V> <O>its label</O> <C>as an account of the evidence currently available</C>, <M>not as a promise that no future visitor could change the interpretation</M>.	そのため博物館は札を、将来の来館者が解釈を変えられないという約束ではなく、現時点で得られる証拠の説明として扱った。	treat O as C。not as以下のthat節はpromiseを説明する。
+# 4 静かになった相談窓口
+<S>A fictional housing association</S> <V>replaced</V> <O>its weekly advice desk</O> <M>with an online form intended to make requests easier to organize and distribute among the appropriate members of staff</M>.	架空の住宅組合は、依頼の整理と適切な担当職員への配分を容易にするため、週一回の相談窓口をオンラインフォームに置き換えた。	intended以下はformを修飾。make O Cとto不定詞の目的。
+<S>The old desk</S> <V>had attracted</V> <O>long queues</O>, and <S>people with straightforward questions</S> <V>sometimes waited</V> <M>behind residents whose problems required an extended private conversation</M>.	旧窓口には長い列ができ、簡単な質問の人が長い個別相談を必要とする住民の後ろで待つこともあった。	whoseはresidentsとproblemsの関係。過去完了が変更前の状況を示す。
+<S>Managers</S> <V>hoped</V> <O><clause k="内容節">that <S>the new arrangement</S> <V>would reduce</V> <O>both delays and the frustration caused by having to repeat the same account to different employees</O></clause></O>.	管理者は新方式で、待ち時間と、別の職員に同じ説明を繰り返す苛立ちの両方が減ることを期待した。	that節が期待の内容。caused以下はfrustrationを修飾。
+<M>In its first month</M>, <S>the website</S> <V>appeared to deliver</V> <O>an impressive reduction in demand for personal advice</O>.	最初の一か月に、サイトは個別相談の需要を大幅に減らしたように見えた。	appear toは外見上の判断で、後続の反証への伏線。
+
+<S>The first monthly report</S> <V>showed</V> <O>a substantial fall in recorded requests</O>, <M>which some managers interpreted as evidence that residents were now solving more problems independently</M>.	最初の月次報告は記録された依頼の大幅減を示し、一部の管理者はそれを住民がより多くの問題を自力解決している証拠と解釈した。	whichは依頼減少という内容を受ける。interpret A as B。
+<S>A caretaker</S> <V>offered</V> <O>a less reassuring explanation</O> <M>after several residents asked him to submit forms on their behalf</M>.	管理人は、数人の住民にフォームの代理提出を頼まれた後、もっと安心できない説明を示した。	after節が説明のきっかけ。on their behalfは代理で。
+<S>Some</S> <V>lacked</V> <O>reliable internet access</O>, <M>while others could use the website but struggled to choose the category under which their complicated situation belonged</M>.	安定した通信環境がない人もいれば、サイトは使えても複雑な状況に合う分類を選べない人もいた。	Someとothersの対比。under whichはcategoryとの関係。
+<g><S>Fewer recorded requests</S> <V>could reflect</V> <O>a harder route to assistance rather than a smaller need for it</O></g>.	記録上の依頼減少は、援助の必要性の減少ではなく、援助にたどり着く難しさを反映する可能性があった。	couldは可能性。rather thanで二つの説明を対比し、itはassistance。
+
+<S>The association</S> <V>could not infer</V> <O>the size of either group</O> <M>from the caretaker's conversations alone</M>.	組合は管理人の会話だけからどちらの集団の人数も推定できなかった。	either groupは通信環境のない人と分類に困る人。aloneが証拠の限界。
+<S>Nevertheless</S>, <S>those conversations</S> <V>were</V> <C>sufficient reason to question a conclusion that had initially appeared obvious</C>.	それでも会話は、当初明白に見えた結論を疑う十分な理由になった。	that節はconclusionを修飾。sufficient ... toは疑うだけの十分さ。
+<S>Staff</S> <V>contacted</V> <O>a varied sample of households</O>, <M>including people who had not used either service during the previous year</M>.	職員は、前年にどちらの窓口も使わなかった人を含む、多様な世帯の標本に連絡した。	includingは標本の範囲を補足。either serviceは旧窓口とフォーム。
+<S>They</S> <V>asked</V> <O>about unresolved concerns and attempted requests</O>, <M>rather than asking only whether respondents liked the new website</M>.	新サイトを好むかだけでなく、未解決の心配や試みた依頼について尋ねた。	ask about。rather thanで満足度だけの調査と区別。
+
+<S>The responses</S> <V>revealed</V> <O>both genuine improvements and obstacles that the monthly totals had concealed</O>.	回答は本当の改善と、月次総数では見えなかった障壁の両方を明らかにした。	both A and B。that節はobstaclesを修飾。
+<S>Residents with simple requests</S> <V>often appreciated</V> <O>being able to write at any hour</O>, <M>whereas some people with overlapping problems wanted help describing their situation before it was assigned a category</M>.	簡単な依頼の住民はいつでも書ける点を評価しがちだったが、問題が重なる人には分類される前に状況を説明する援助を求める人もいた。	appreciate doing。whereasは集団間の対比、beforeは希望する順序。
+<S>The revised service</S> <V>kept</V> <O>the form</O> but <V>added</V> <O>a telephone option and a short appointment period</O> <M>for residents needing personal assistance</M>.	改訂した仕組みはフォームを残し、個別援助が必要な住民向けに電話と短い予約面談時間を加えた。	keptとaddedは主語共通。needingはresidentsを修飾。
+<S>Staff</S> <V>entered</V> <O>requests from all three routes</O> <M>into the same system</M>, <M>so that later comparisons would not confuse a change of channel with a disappearance of need</M>.	職員は三経路の依頼を同じシステムに入力し、後の比較で連絡方法の変化を必要性の消滅と混同しないようにした。	so thatは入力統一の目的。confuse A with B。
+
+<S>A resident with a broken kitchen fitting</S> <V>had selected</V> <O>a general category</O> <M>because none of the available labels seemed to describe both the repair and the difficulty arranging access</M>.	台所設備が壊れた住民は、修理と立ち入り調整の困難の両方に合う項目がなく、一般分類を選んでいた。	becauseは分類選択の理由。both A and B。
+<S>Her request</S> <V>had reached</V> <O>the wrong team</O> <M>without appearing as a rejected submission</M>.	その依頼は、提出拒否として記録されないまま別の担当班へ届いていた。	without doingは記録に出なかった状態。
+<S>The association</S> <V>added</V> <O>an option for uncertain cases</O> <M>and assigned a person to redirect them</M>.	組合は分類不明の事例の選択肢を加え、振り分け直す担当者を置いた。	addedとassignedの並列。to redirectはpersonの担当役割。
+<S>This adjustment</S> <V>addressed</V> <O>a specific obstacle</O>, <M>rather than assuming that everyone needed the same kind of digital training</M>.	この調整は全員に同じデジタル訓練が必要と決めつけず、特定の障壁に対応した。	rather than doingで解決策の違いを示す。
+<S>The change</S> <V>could be evaluated</V> <M>by checking whether uncertain requests reached a suitable employee</M>, <M>rather than simply counting how often the new option was selected</M>.	変更は新項目の選択回数だけでなく、分類不明の依頼が適切な職員に届いたかを調べて評価できた。	by doingは評価方法。whether節はcheckingの対象。
+
+<S>Managers</S> <V>continued to monitor</V> <O>waiting times</O>, but <V>stopped presenting</V> <O>a falling request count</O> <C>as an achievement by itself</C>.	管理者は待ち時間の監視を続けたが、依頼件数の減少自体を成果とするのはやめた。	stop doingは行為の中止。present O as C。
+<S>The quieter desk</S> <V>had been</V> <C>easy to notice</C>, <M>while the people unable to reach it had been easy to overlook</M>.	静かな窓口は気づきやすかった一方、そこに届かない人々は見落としやすかった。	主語が不定詞の意味上の目的語となるeasy to構文。whileは対比。
+<S>A useful evaluation</S> <V>required</V> <O>evidence about both</O>.	有用な評価には両方についての証拠が必要だった。	bothは窓口で見える状況と窓口に届かない人の状況。
+# 5 正解までの遠回り
+<S>A fictional science teacher</S> <V>asked</V> <O>two groups of students</O> <phrase k="不定詞句">to explain why the same amount of water disappeared more quickly from one open container than from another</phrase>.	架空の理科教員は二組の生徒に、同量の水が一方の開いた容器から他方より速くなくなる理由を説明するよう求めた。	ask O to do。why節はexplainの内容、more quickly ... thanは速さの比較。
+<S>Both groups</S> <V>had studied</V> <O>evaporation</O>, but <S>only one</S> <V>received</V> <O>a diagram suggesting which features of the containers might be relevant</O>.	両組とも蒸発を学習済みだったが、容器のどの特徴が関係しそうかを示す図を受け取ったのは一組だけだった。	only oneは一方の組。suggestingはdiagramを修飾。
+<S>The other group</S> <V>was given</V> <O>time to develop its own explanation before receiving any additional guidance</O>.	他方の組には追加の指導を受ける前に、自分たちの説明を組み立てる時間が与えられた。	受動態be given。before doingが指導の順序を示す。
+<S>The teacher</S> <V>was interested</V> <M>in how the groups reasoned</M>, <M>not merely in which group produced the expected answer first</M>.	教員の関心は、どの組が最初に期待された答えを出すかだけでなく、どう推論するかにあった。	inの対象のhow節とwhich節を対比。
+
+<S>The diagram group</S> <V>quickly mentioned</V> <O>the width of the exposed water surface</O> and <V>wrote</V> <O>a concise explanation consistent with the lesson</O>.	図を受け取った組はすぐ水面の幅に触れ、授業内容に合う簡潔な説明を書いた。	consistent以下はexplanationを後置修飾。二つの動詞は主語共通。
+<S>The unguided group</S> <V>first discussed</V> <O>several possibilities that did not survive closer examination</O>, <M>including differences in the color of containers that were otherwise identical</M>.	指導を受けない組はまず、他は同じ容器の色の違いなど、詳しく検討すると成り立たない複数の可能性を話し合った。	that節はpossibilitiesを限定。including以下が具体例。
+<S>One student</S> <V>suggested</V> <O>measuring the water again</O>, <M>while another asked whether the containers had been left in equally warm places</M>.	一人は水を再測定するよう提案し、別の生徒は容器が同じ暖かさの場所に置かれていたか尋ねた。	suggest doing。whether節はaskedの内容、過去完了受動態に注意。
+<g><S>Their early mistakes</S> <V>made</V> <O>the need to compare conditions</O> <C>visible</C></g>.	初期の誤りによって、条件を比較する必要性が見えるようになった。	make O C。誤りの役割を次の条件検討へつなぐ。
+
+<S>This discussion</S> <V>eventually led</V> <O>the group</O> <phrase k="不定詞句">to examine surface area</phrase>, <M>but only after its members had stated which alternative explanations needed to be controlled</M>.	話し合いは最終的に表面積の検討へ組を導いたが、それは抑える必要がある別の説明を各員が述べた後だった。	lead O to do。only afterは到達前に必要だった過程を強調。
+<S>The teacher</S> <V>did not conclude</V> <O><clause k="内容節">that <S>withholding guidance</S> <V>was always</V> <C>the better method</C></clause></O>.	教員は、指導を控えることが常に優れた方法だとは結論しなかった。	not conclude thatは結論の否定。動名詞句が節内主語。
+<S>Without a later explanation</S>, <S>students</S> <V>might retain</V> <O>an attractive but incorrect idea</O>, <M>especially when no one in the group notices a weakness in it</M>.	後の説明がなければ、特に組の誰も弱点に気づかない場合、魅力的でも誤った考えが残り得た。	Without句は仮定。mightは可能性、itはidea。
+<S>Discussion time</S> <V>was also</V> <C>limited</C>, and <S>some tasks</S> <V>required</V> <O>knowledge that could not reasonably be reconstructed during a single lesson</O>.	話し合い時間にも限りがあり、一回の授業中に再構成するのは無理な知識を必要とする課題もあった。	that節はknowledgeを修飾。could notは再構成の限界。
+
+<M>In a later activity</M>, <S>the diagram group</S> <V>remembered</V> <O>the earlier answer</O> <M>but initially failed to consider whether the new comparison controlled other relevant variables</M>.	後の活動で図を受け取った組は以前の答えを覚えていたが、新しい比較が他の関係する変数をそろえているかを最初は検討しなかった。	rememberedとfailedは主語共通。whether節はconsiderの目的語。
+<S>Several members of the other group</S> <V>asked</V> <O>about temperature and location</O> <M>before accepting surface area as a sufficient explanation for the new result</M>.	他方の組の数人は、新しい結果を表面積だけで十分説明できると認める前に、温度や場所について尋ねた。	before doingは結論の前提確認。accept A as B。
+<S>The teacher</S> <V>therefore combined</V> <O>an initial attempt with explicit feedback</O>, <M>asking students to explain which earlier ideas the feedback supported or ruled out</M>.	そこで教員は最初の試みと明示的なフィードバックを組み合わせ、それが以前のどの考えを支持し、どれを排除するか説明させた。	askingは付帯行為。which節はexplainの目的語。
+<S>Success</S> <V>was assessed</V> <M>partly through a different problem in which students had to identify an unfair comparison before calculating anything</M>.	成功の一部は、計算前に不公平な比較を見つける必要がある別の問題で評価した。	in whichはproblemを修飾。before doingで評価の順序を示す。
+<S>This</S> <V>tested</V> <O>whether they could use the underlying principle beyond the example that had originally introduced it</O>.	これは原理を、それを最初に紹介した例の外でも使えるかを試すものだった。	whether節はtestedの内容。itはunderlying principle。
+
+<S>Students</S> <V>also compared</V> <O>their written explanations before and after receiving feedback</O>.	生徒はフィードバック前後の自分の説明文も比べた。	before and afterは比較する時点。
+<S>They</S> <V>marked</V> <O>sentences that had changed</O> <M>and stated the evidence or principle that justified each change</M>.	変化した文に印を付け、各変更の根拠となる証拠や原理を述べた。	二つのthat節はsentencesとevidence or principleをそれぞれ修飾。
+<S>A correct final answer</S> <V>was</V> <C>insufficient</C> <clause k="条件節">if <S>the explanation</S> <V>still relied</V> <M>on an assumption the activity had shown to be false</M></clause>.	活動で誤りと分かった仮定に説明がなお依存していれば、最後の答えが正しいだけでは不十分だった。	ifは不十分となる条件。show O to be Cの関係節。
+<S>This comparison</S> <V>made</V> <O>revision</O> <C>an explicit part of the lesson rather than a private task left entirely to individual students</C>.	この比較で修正は、個人任せの私的作業でなく授業の明示的な一部となった。	make O C。leftはtaskを修飾。
+<S>The teacher</S> <V>could then distinguish</V> <O>students who had changed their reasoning from those who had merely copied the answer</O>.	教員はその上で、推論を変えた生徒と単に答えを写した生徒を区別できた。	distinguish A from B。二つのwho節が生徒を区別する。
+
+<S>The exercise</S> <V>did not show</V> <O>that confusion itself was valuable</O> <M>regardless of what happened afterward</M>.	この演習は、その後に何が起きるかと無関係に、混乱そのものに価値があると示したわけではなかった。	regardless of what節は無条件の価値を否定する範囲。
+<S>Rather</S>, <S>a mistaken attempt</S> <V>could provide</V> <O>material for learning</O> <M>when students were helped to compare it with a better explanation</M>.	むしろ、よりよい説明と比較する援助があれば、誤った試みは学習材料になり得た。	when節は価値が生じる条件。help O to doの受動態。
+<S>The decisive question</S> <V>was</V> <C>how an activity connected an initial response to later understanding</C>, <M>not whether the first response had been produced quickly or without difficulty</M>.	決め手となる問いは、最初の答えが速く苦労なく出たかでなく、活動がそれを後の理解にどうつなぐかだった。	補語となるhow節とwhether節を対比。過去完了受動態は最初の応答。
+# 6 集計されない発電量
+<S>A fictional town</S> <V>installed</V> <O>solar panels on three public buildings</O> <M>and published a dashboard showing how much electricity each roof generated during the previous day</M>.	架空の町は公共施設三棟に太陽光パネルを設け、前日に各屋根がどれだけ発電したかを示す画面を公開した。	installedとpublishedは主語共通。showingはdashboardを修飾。
+<S>The display</S> <V>was designed</V> <phrase k="不定詞句">to make an otherwise invisible process understandable to residents who had helped finance the installation through local taxes</phrase>.	画面は、地方税で設置費を負担した住民に、それまで見えにくかった過程を理解できるものにするため設計された。	make O C。who節はresidentsを修飾し、過去完了が先行する負担を示す。
+<S>Within weeks</S>, <S>people</S> <V>were comparing</V> <O>the buildings</O> <M>as though the roof with the largest daily total necessarily represented the most successful investment</M>.	数週間以内に人々は、日々の合計が最大の屋根が必ず最も成功した投資を意味するかのように、建物を比較していた。	as though節は比較の前提。necessarilyは必然性。
+<S>The school roof</S> <V>usually led</V> <O>the ranking</O>, <M>while the library appeared to perform less impressively even on clear days when both sites received considerable sunlight</M>.	学校の屋根はたいてい首位で、両地点に十分日光が届く晴天の日でも図書館の成績は見劣りするように見えた。	whileは対比。when節はclear daysを修飾。
+
+<S>An engineer</S> <V>asked</V> <O>residents</O> <phrase k="不定詞句">to look at the number of panels and the amount of roof space available at each site before drawing conclusions about performance</phrase>.	技術者は性能を結論づける前に、各地点のパネル数と利用可能な屋根面積を見るよう住民に求めた。	ask O to do。before doingは比較に先立つ確認。
+<S>The library</S> <V>had</V> <O>fewer panels</O> <clause k="理由節">because <S>part of its roof</S> <V>could not support</V> <O>the additional weight without expensive structural work</O></clause>.	図書館は屋根の一部が高価な構造工事なしには追加の重量に耐えられず、パネルが少なかった。	because節が枚数差の理由。withoutは重量支持の条件。
+<g><S>A smaller total</S> <V>did not by itself indicate</V> <O>that the installed equipment was working less efficiently</O></g>.	合計が小さいこと自体は、設置済みの設備がより非効率に動いていることを意味しなかった。	by itselfは単独の根拠としての限界。that節はindicateの目的語。
+<S>That distinction</S> <V>was</V> <C>difficult to recover from a chart that supplied totals but omitted the scale of each installation</C>.	合計は示すが各設備の規模を省くグラフから、その区別を読み取るのは難しかった。	difficult to構文。that節はchartを限定しbutが掲載情報の偏りを示す。
+
+<S>The engineer</S> <V>suggested adding</V> <O>a comparison relative to installed capacity</O>, <M>with an explanation of what the adjusted measure could and could not establish</M>.	技術者は、設備容量に対する比較と、調整後の尺度で何が分かり何が分からないかの説明を加えるよう提案した。	suggest doing。relative toは比較基準、what節はexplanationの内容。
+<S>Even this measure</S> <V>would require</V> <O>careful interpretation</O>, <clause k="理由節">since <S>orientation and temporary shade</S> <V>could affect</V> <O>output</O> <M>without indicating a mechanical fault</M></clause>.	この尺度でさえ、向きや一時的な日陰が故障を意味せずに出力に影響し得るため、慎重な解釈を要した。	sinceは理由。without doingで出力低下と故障を区別。
+<S>Residents</S> <V>also wanted to know</V> <O>whether electricity was being produced at times when the buildings could use it</O>, <M>rather than only how much was produced</M>.	住民は総発電量だけでなく、建物が電気を使える時間帯に発電しているかも知りたがった。	whether節とhow much節を対比。was being producedは進行受動態。
+<S>Answering that question</S> <V>required</V> <O>information about consumption and storage that the original dashboard had never been intended to provide</O>.	その問いには、元の画面では提供を予定していなかった消費や蓄電の情報が必要だった。	動名詞句が主語。that節はinformationを修飾。
+
+<S>The council</S> <V>revised</V> <O>the display</O> <M>to show capacity beside daily output</M> and <V>removed</V> <O>the automatic ranking</O>.	議会は日々の出力の隣に容量を示すよう画面を改め、自動順位を撤去した。	toは改訂の目的。revisedとremovedの主語は共通。
+<S>A separate page</S> <V>explained</V> <O>why a sunny day could still produce different results at different sites</O>, <M>using photographs of the roofs rather than a long list of technical terms</M>.	別ページは技術用語の羅列でなく屋根の写真を使い、晴天でも地点によって結果が異なる理由を説明した。	why節が説明内容。usingは説明手段。
+<S>The revision</S> <V>did not make</V> <O>every resident</O> <C>an expert in energy systems</C>, <M>nor did it settle whether the original spending decisions had been wise</M>.	改訂で全住民がエネルギー設備の専門家になったわけでも、元の支出判断が賢明だったか決着したわけでもなかった。	make O C。nor didは否定の追加による倒置。
+<S>It</S> <V>did make</V> <O>one tempting but unjustified comparison</O> <C>less likely</C>.	ただし、魅力的だが根拠のない比較の一つは生じにくくした。	didは強調。make O Cで改訂の限定的成果。
+
+<S>A maintenance worker</S> <V>contributed</V> <O>another explanation for an unusual fall in output</O> <M>after the school roof briefly disappeared from the daily display</M>.	保守担当者は、学校の屋根が一時的に日々の表示から消えた後、異常な出力減少への別の説明を加えた。	after節は説明の契機。anotherは設備性能以外の説明。
+<S>The panels</S> <V>had continued generating</V> <O>electricity</O>, but <S>the connection transmitting measurements</S> <V>had stopped working</V> <M>during a scheduled network change which interrupted transmission rather than generation</M>.	パネルは発電を続けていたが、測定値を送る接続が発電でなく送信を中断する予定されたネットワーク変更中に止まっていた。	butが発電とデータ送信を対比。transmittingはconnectionを修飾。
+<S>A blank space</S> <V>therefore meant</V> <O>missing information rather than confirmed zero production</O>.	したがって空欄は、確認済みの発電ゼロでなく、情報欠損を意味した。	meanの二つの目的語をrather thanで対比。
+<S>The revised display</S> <V>distinguished</V> <O>these states</O> <M>and recorded interruptions so that a later comparison would not count a communication failure as evidence about the panels themselves</M>.	改訂表示は両状態を区別し中断を記録して、後の比較で通信障害をパネル自体の証拠に数えないようにした。	so thatは中断記録の目的。count A as B。
+<S>Residents</S> <V>could still compare</V> <O>daily totals</O>, <M>but now had a way to identify when a comparison lacked the information needed to support it</M>.	住民は日々の合計を引き続き比べられたが、今度は比較に必要な情報が欠ける場合を特定する方法があった。	butは比較の禁止でなく解釈支援の追加。neededはinformationを修飾。
+<S>The numbers</S> <V>became</V> <C>more informative</C> <M>through context rather than through an increase in their apparent precision</M>.	数値は見かけの精密さを増すのでなく、文脈によってより多くを伝えるものになった。	become C。throughの対象をrather thanで対比。
+
+<S>The town</S> <V>continued publishing</V> <O>the numbers</O>, <M>recognizing that accessible information can invite a misleading inference when the relevant conditions are missing</M>.	町は、分かりやすい情報でも必要条件が欠ければ誤った推論を招くと認識しつつ、数値公開を続けた。	continue doing。recognizingは付帯する認識、whenは誤推論の条件。
+<S>Transparency</S> <V>depended</V> <M>on giving readers a reasonable basis for comparison</M>, <M>not simply on placing more measurements on a public screen</M>.	透明性は単に公共の画面に測定値を増やすことでなく、読み手に妥当な比較基盤を与えることにかかっていた。	depend onの二つの動名詞句をnot simplyで対比。
+# 7 誰の声が残るのか
+<S>A fictional community radio station</S> <V>invited</V> <O>residents</O> <phrase k="不定詞句">to record memories of a shopping street whose older buildings were due to be replaced during the following year</phrase>.	架空の地域ラジオ局は、翌年古い建物が建て替えられる予定の商店街の思い出を録音するよう、住民に呼びかけた。	invite O to do。whoseはstreetとbuildingsの関係、be due toは予定。
+<S>Producers</S> <V>hoped to preserve</V> <O>details that official records rarely captured</O>, <M>such as the sounds of deliveries, informal meeting places, and the ways neighbors helped one another</M>.	制作者は配達の音、気軽な集会場所、近所の助け合い方など、公的記録に残りにくい細部を保存したかった。	that節はdetailsを修飾。such asは具体例の列挙。
+<S>The first recordings</S> <V>were</V> <C>lively and detailed</C>, and <S>the station</S> <V>received</V> <O>more material than could possibly fit into the planned series of short broadcasts</O>.	最初の録音は生き生きとして詳しく、局には予定の短い放送シリーズに収まらないほど多くの素材が集まった。	more ... thanは容量超過の比較。could possiblyで収録可能量を示す。
+<S>Selecting among the stories</S> <V>seemed at first</V> <C>the main editorial challenge</C>.	当初、主な編集上の課題は話を選ぶことに思えた。	動名詞句が主語。at firstは後の見直しを予告。
+
+<S>During a planning meeting</S>, <S>a volunteer</S> <V>noticed</V> <O>that most contributors had owned shops or lived nearby for a long time</O>.	企画会議でボランティアは、提供者の多くが店主か長年の近隣住民だったと気づいた。	notice that。had ownedとhad livedの先行する経歴。
+<S>People who had worked in the street briefly</S> <V>were</V> <C>almost absent</C>, <M>as were former residents who had moved away and no longer followed local announcements</M>.	短期間働いた人はほぼ不在で、転居して地域のお知らせをもう見ていない元住民も同様だった。	who節はPeopleを限定。as wereは同様の状態を表す倒置。
+<g><S>The collection</S> <V>reflected</V> <O>who had heard the invitation and felt able to respond</O>, <M>not everyone whose life had intersected with the street</M></g>.	記録の集まりは、商店街に人生が関わった全員でなく、呼びかけを知り応じられると感じた人を反映していた。	who節がreflectedの目的語。not以下で母集団との違いを示す。
+<S>This</S> <V>did not make</V> <O>the recordings</O> <C>false</C>, but <S>it</S> <V>limited</V> <O>the claims that could responsibly be made about their coverage</O>.	これは録音を虚偽にするものではなかったが、その網羅範囲について責任をもって言えることを制限した。	make O C。that節はclaimsを限定し、真偽と網羅性を分ける。
+
+<S>The station</S> <V>asked</V> <O>contributors</O> <phrase k="不定詞句">to help circulate a second invitation beyond the people who already attended neighborhood events</phrase>.	局は、既に地域行事に参加する人以外にも二度目の募集を広げる手助けをするよう、提供者に頼んだ。	ask O to do。beyondは募集範囲の拡張。
+<S>A former delivery worker</S> <V>responded</V> <M>with an account of early morning activity that many shop owners had never witnessed because they arrived later</M>.	元配達員は、多くの店主が遅く来るため見たことのなかった早朝の活動を語って応じた。	that節はactivityを修飾。becauseは目撃しなかった理由。
+<S>Another speaker</S> <V>described</V> <O>feeling unwelcome in a place that earlier contributors had remembered primarily as friendly and supportive</O>.	別の話し手は、それまでの提供者が主に親切で支え合う場所と記憶していた場所で、歓迎されないと感じた経験を説明した。	describe doing。that節で同じ場所への異なる経験を対比。
+<S>The producers</S> <V>could not resolve</V> <O>this difference</O> <M>by simply counting how many speakers preferred each description</M>.	制作者は、どちらの説明を好む話し手が何人かを数えるだけでこの違いを解消できなかった。	by doingは退ける方法。how many節はcountingの対象。
+
+<S>Memories</S> <V>were shaped</V> <M>by different positions and experiences</M>, <M>so agreement among frequent contributors did not automatically invalidate an account from someone outside their circle</M>.	記憶は異なる立場や経験に形づくられ、常連提供者の一致がその輪の外の人の話を自動的に無効にするわけではなかった。	受動態とsoによる帰結。did not automaticallyは部分否定。
+<S>The final program</S> <V>placed</V> <O>contrasting accounts</O> <M>beside one another</M> <M>and identified the circumstances from which each speaker was remembering</M>.	最終番組は対照的な話を並べ、各話し手がどんな状況から記憶しているかを示した。	placedとidentifiedは主語共通。from whichはcircumstancesとの関係。
+<S>It</S> <V>also explained</V> <O>how the invitation had been circulated</O>, <M>instead of presenting the recordings as a complete portrait of community life</M>.	録音を地域生活の完全な肖像として示すのでなく、募集をどう広めたかも説明した。	how節が目的語。instead of doingは退ける提示方法。
+<S>Some contributors</S> <V>worried</V> <O>that mentioning gaps would weaken the value of the entire project</O>.	提供者の一部は、欠落に触れると取り組み全体の価値が弱まると心配した。	that節が心配の内容。mentioning gapsが節内の主語。
+
+<M>Before broadcasting a recording</M>, <S>producers</S> <V>sent</V> <O>the selected extract</O> <M>to its speaker</M> <M>with a description of the surrounding program</M>.	放送前に制作者は、番組全体の説明とともに選んだ抜粋を話し手に送った。	Before doingは主節と主語共通。send A to B。
+<S>This check</S> <V>allowed</V> <O>contributors</O> <phrase k="不定詞句">to notice omissions that might make an accurate quotation convey an unintended meaning</phrase>.	この確認で、正確な引用でも意図しない意味を伝えてしまう省略に提供者が気づけた。	allow O to do。make O 原形は結果を生む使役。
+<S>One speaker</S> <V>requested</V> <O>the restoration of a sentence explaining that a disagreement had later been resolved</O>.	一人は、不和が後に解消したと説明する文の復元を求めた。	explainingはsentenceを修飾。過去完了は解消済みの過去。
+<S>The editors</S> <V>accepted</V> <O>the request</O> <M>and invited speakers to flag similar problems</M> <clause k="理由節">because <S>the shortened version</S> <V>had preserved</V> <O>the words</O> <M>while distorting the relationship between the events</M></clause>.	短縮版は語を残しても出来事の関係を歪めていたので、編集者は要望を受け入れ、話し手に同様の問題の指摘を求めた。	because節は復元の理由。whileは字句の正確さと意味の歪みの対比。
+<S>The restored sentence</S> <V>changed</V> <O>the listener's likely understanding</O> <M>without changing the speaker's account of the original disagreement</M>.	復元した文は、元の不和についての話し手の説明を変えずに、聴取者の理解を変えた。	without doingは過去の出来事の改変と区別。
+<S>Editorial responsibility</S> <V>therefore extended</V> <M>beyond selecting memorable words to preserving the relationships that gave those words their significance</M>.	編集責任は印象的な言葉の選択を越え、その言葉に意味を与える関係の保持に及んだ。	extend beyond A to B。that節はrelationshipsを修飾。
+
+<S>The editor</S> <V>argued</V> <O>that describing the limits would help listeners understand what kind of evidence they were hearing</O>.	編集者は、限界を説明すれば聴取者がどんな種類の証拠を聞いているか理解しやすいと論じた。	that節の主語はdescribing the limits。what節はunderstandの対象。
+<S>A personal memory</S> <V>could illuminate</V> <O>an experience</O> <M>without proving that everyone shared it or that every detail had occurred exactly as remembered</M>.	個人の記憶は、全員が共有したことや全細部が記憶どおり起きたことを証明せずとも、一つの経験を照らせた。	without provingの後に二つのthat節。as rememberedは省略を含む。
+<S>The collection</S> <V>remained</V> <C>open to further contributions</C>, <M>with a record of revisions so that later listeners could distinguish new material from changes to earlier accounts</M>.	記録は引き続き提供を受け付け、後の聴取者が新素材と過去の話の変更を区別できるよう改訂履歴を付けた。	remain C。so thatは履歴保存の目的、distinguish A from B。
+<S>Preserving the street</S> <V>therefore meant</V> <O>keeping a conversation possible</O>, <M>rather than freezing a single voice into the role of speaking for everyone</M>.	商店街を残すとは、一つの声を全員の代弁者として固定するのでなく、対話の可能性を残すことだった。	mean doing。keep O Cとrather than doingの対比。
+# 8 翻訳ボタンの先にある仕事
+<S>A fictional city office</S> <V>added</V> <O>an automatic translation button to its website</O> <M>after a survey revealed that some residents depended on friends to understand notices about waste collection and public facilities</M>.	架空の市役所は、一部の住民がごみ収集や公共施設の通知を理解する際に友人に頼っていると調査で分かり、サイトに自動翻訳ボタンを加えた。	after節は導入の経緯。that節はrevealedの内容。
+<S>The button</S> <V>made</V> <O>the same page</O> <C>available in several languages</C>, <M>without requiring each department to commission a separate translation every time it changed a sentence</M>.	ボタンにより、各部署が文を変えるたびに個別翻訳を依頼しなくても、同じページを複数言語で読めるようになった。	make O C。require O to do、every timeは変更のたびを示す。
+<S>Staff</S> <V>expected</V> <O>the change</O> <phrase k="不定詞句">to reduce routine inquiries</phrase> <M>and give residents greater independence when dealing with ordinary administrative tasks</M>.	職員はこの変更で日常的な問い合わせが減り、普通の行政手続きを住民がより自立して行えると期待した。	expect O to do。reduceとgiveは同じ不定詞の枠を共有。
+<S>Initial responses</S> <V>were</V> <C>positive</C>, <M>particularly among people who wanted a quick explanation of a familiar procedure rather than a detailed discussion with an official</M>.	初期の反応は、特に職員との詳しい相談より、なじみの手続きの簡単な説明を求める人に好評だった。	who節はpeopleを限定。rather thanは求める説明の対比。
+
+<S>A bilingual volunteer</S> <V>then noticed</V> <O>that a notice about the temporary closure of a sports hall translated the phrase for a postponed application as though the application had been rejected</O>.	その後、二言語を使うボランティアは、体育館の一時休館通知で、延期された申請が却下されたかのように訳されていると気づいた。	that節が目的語。as though節は誤訳によって生じる意味。
+<S>The sentence</S> <V>was</V> <C>grammatically smooth</C>, <M>which made the error harder to notice than a visibly broken translation would have been</M>.	文は文法的に滑らかで、そのため明らかに崩れた翻訳の場合より誤りに気づきにくかった。	whichは前節を受ける。than節は仮定の比較。
+<g><S>Readable language</S> <V>did not guarantee</V> <O>a reliable account of what the reader was expected to do next</O></g>.	読みやすい言葉が、読み手が次に何をすべきかの信頼できる説明を保証するわけではなかった。	guaranteeの目的語内のwhat節は行動内容。次の行動の違いが問題。
+<S>The volunteer</S> <V>asked</V> <O>whether the office had a process for checking such differences before residents acted on them</O>.	ボランティアは、住民がその違いに基づき行動する前に確認する手順があるか尋ねた。	whether節がaskedの内容。beforeは確認すべき時点。
+
+<S>Simply removing the button</S> <V>would have restored</V> <O>the original barrier</O> <M>for people who could not read the main language of the website</M>.	ボタンを取り去るだけなら、サイトの主言語を読めない人に元の障壁を戻すことになっただろう。	動名詞句が主語。would haveは選ばなかった対応の結果。
+<S>Nor</S> <V>could</V> <S>the office</S> <V>immediately arrange</V> <O>expert review of every page in every available language</O> <M>with its existing staff and budget</M>.	かといって、現在の人員と予算で全ページの全言語を即座に専門家に確認してもらうこともできなかった。	Norによる倒置で否定を追加。withは利用できる資源。
+<S>A working group</S> <V>therefore classified</V> <O>information</O> <M>according to the consequences of a misunderstanding</M>, <M>rather than treating all pages as equally urgent</M>.	そこで作業部会は全ページを同じ緊急度と扱わず、誤解した際の結果に応じて情報を分類した。	according toは分類基準。treat O as C。
+<S>Notices involving deadlines or eligibility</S> <V>received</V> <O>priority for reviewed translations</O>, <M>while descriptions of facilities could continue using automatic output with an explanation of its limitations</M>.	期限や資格に関わる通知は確認済み翻訳を優先し、施設紹介は限界の説明付きで自動翻訳を続けられた。	involvingはNoticesを修飾。whileは対応の使い分け。
+
+<S>The revised website</S> <V>identified</V> <O>which translations had been checked</O> <M>and offered a clear way to ask for clarification without having to identify the technical cause of an error</M>.	改訂サイトは確認済みの翻訳を示し、誤りの技術的原因を特定しなくても説明を求められる明確な方法を用意した。	which節がidentifiedの目的語。without having toで利用者の負担を除く。
+<S>Staff</S> <V>were trained</V> <phrase k="不定詞句">to record confusing passages</phrase> <M>and check whether the problem existed in the original wording as well as in the translated version</M>.	職員は混乱する箇所を記録し、問題が翻訳版だけでなく原文にもあるか確認する訓練を受けた。	be trained to do。as well asで原文も確認対象に加える。
+<S>One heavily reported page</S> <V>used</V> <O>a local abbreviation that many native speakers also failed to understand</O>.	報告が多かったあるページは、母語話者にも分からない地域固有の略語を使っていた。	that節はabbreviationを限定。alsoは母語話者にも及ぶこと。
+<S>Rewriting that page</S> <V>improved</V> <O>both the source text and the translations derived from it</O>.	そのページの書き直しは原文とそれに基づく翻訳の両方を改善した。	動名詞句が主語。derivedはtranslationsを修飾。
+<S>The translation project</S> <V>had exposed</V> <O>a communication problem that had previously been mistaken for a difficulty belonging only to foreign residents</O>.	翻訳事業は、それまで外国人住民だけの困難と誤認されていた意思疎通の問題を明らかにした。	that節はproblemを修飾。mistake A for Bの受動態。
+
+<S>Testing the revised pages</S> <V>involved</V> <O>asking readers to explain their next step in their own words</O>, <M>rather than asking only whether the language seemed natural</M>.	改訂ページの試験では、言葉が自然かだけを尋ねず、次の行動を自分の言葉で説明してもらった。	involve doing。rather thanは読みやすさだけの評価との対比。
+<S>One reader</S> <V>understood</V> <O>every sentence</O> <M>but could not find the office responsible for receiving the required document</M>.	一人は全ての文を理解したが、必要書類を受け取る担当部署を見つけられなかった。	butが文理解と手続き完了を対比。responsibleはofficeを修飾。
+<S>The contact link</S> <V>had remained</V> <C>on an untranslated page reached through a separate menu</C>.	連絡用リンクは、別メニューから進む未翻訳のページに残っていた。	remain C。reachedはpageを修飾する過去分詞。
+<S>Staff</S> <V>changed</V> <O>the route to that information</O> <M>as well as the wording</M>, <M>recognizing that a successful translation could still be part of an unsuccessful user journey</M>.	職員は翻訳が成功しても利用手順全体は失敗し得ると認識し、文言だけでなく情報への経路も変えた。	as well asで変更対象を追加。recognizingは変更に伴う認識。
+<S>Another reader</S> <V>could find</V> <O>the contact page</O> <M>but hesitated because it did not say which languages could be used when asking a question</M>.	別の読み手は連絡ページを見つけられたが、質問時に使える言語が書かれていなかったのでためらった。	becauseはためらいの理由。which節がsayの内容。
+<S>The office</S> <V>added</V> <O>that information</O> <M>so that the invitation to seek help was matched by a usable service with clearly stated conditions for access</M>.	援助を求める呼びかけに利用条件を明示した実際に使える対応が伴うよう、役所はその情報を加えた。	so thatは追加目的。be matched byは対応物が伴うこと。
+
+<S>The office</S> <V>continued using</V> <O>automatic translation</O> <M>within this broader process</M>.	役所はこの広い仕組みの中で自動翻訳を使い続けた。	continue doing。this broader processは優先確認・照会・原文改善を含む。
+<S>Its aim</S> <V>was not</V> <C>to make every sentence appear equally polished</C>, <M>but to help readers reach a correct understanding and obtain assistance when the text remained uncertain</M>.	目的は全ての文を同じように洗練して見せることではなく、読み手が正しく理解し、文が不確かな時に援助を得るのを支えることだった。	not ... butで不定詞句を対比。whenは援助が必要な条件。
+<S>The button</S> <V>was</V> <C>a useful entrance</C>, <M>provided that someone remained responsible for what lay beyond it</M>.	その先にあるものに誰かが責任を持ち続けるなら、ボタンは有用な入口だった。	provided thatは条件。what lay beyond itは入口の先の情報や対応。
+# 9 繰り返し使える容器の条件
+<S>A fictional market</S> <V>introduced</V> <O>reusable containers at its takeaway food stalls</O> <M>in an attempt to reduce the piles of disposable packaging collected after every weekend event</M>.	架空の市場は、毎週末の催事後に集まる大量の使い捨て包装を減らそうと、持ち帰り屋台に再利用容器を導入した。	in an attempt toは目的。collectedはpackagingを修飾。
+<S>Customers</S> <V>paid</V> <O>a small deposit</O> <M>when collecting a meal</M> <M>and received it back when they returned the empty container to any participating stall</M>.	客は食事を受け取る際に少額の預かり金を払い、参加屋台のどこかに空容器を返せば返金された。	when doingは主語共通の省略。itはdeposit。
+<S>Organizers</S> <V>described</V> <O>the scheme</O> <C>as a practical way to replace a disposable habit with a circular system</C>.	主催者はこの仕組みを、使い捨て習慣を循環型の仕組みに置き換える実用的方法と説明した。	describe O as C。replace A with B。
+<S>The phrase</S> <V>appealed</V> <M>to visitors who wanted an alternative that did not require them to carry their own containers throughout the day</M>.	この表現は、一日中自分の容器を持ち歩く必要のない代替策を求める来訪者に魅力的だった。	who節はvisitors、that節はalternativeを修飾。
+
+<S>At the end of the first month</S>, <S>the market</S> <V>reported</V> <O>how many meals had been served in reusable containers</O> <M>and compared that number with the disposable boxes previously purchased</M>.	最初の月末、市場は再利用容器で提供した食事数を報告し、以前購入した使い捨て箱の数と比較した。	how many節がreportedの目的語。previously purchasedはboxesを修飾。
+<S>A waste contractor</S> <V>asked</V> <O>for a different set of figures</O>, <M>including return rates, washing arrangements, and the number of damaged containers removed from circulation</M>.	廃棄物業者は返却率、洗浄の仕組み、破損して循環から外れた容器数など、別の数値を求めた。	includingは求める数値の例。removedはcontainersを修飾。
+<g><S>Calling an object reusable</S> <V>did not establish</V> <O>how often it was actually reused</O></g>.	物を再利用可能と呼ぶことは、実際に何回再利用されたかを確定するものではなかった。	動名詞句内のcall O C。how often節がestablishの目的語。
+<S>The environmental result</S> <V>would depend</V> <M>on the whole process</M>, <M>not merely on the material from which the container had been made</M>.	環境上の結果は、容器の原材料だけでなく全過程によることになる。	depend on。from whichはmaterialを修飾。
+
+<S>The organizers</S> <V>discovered</V> <O>that many visitors were willing to return containers but found the collection point difficult to reach after the stalls began closing</O>.	主催者は、多くの客に返す意思はあるが屋台が閉まり始めると回収場所に行きにくいことを知った。	that節が発見内容。found O Cで到達の難しさを示す。
+<S>A larger deposit</S> <V>might have encouraged</V> <O>some returns</O>, <M>but could also have discouraged customers who could not comfortably leave that amount of money temporarily unavailable</M>.	預かり金を上げれば一部の返却は促せたかもしれないが、その額を一時的に使えなくする余裕のない客を遠ざける恐れもあった。	might haveとcould haveは未実施策の可能性。leave O C。
+<S>Organizers</S> <V>therefore investigated</V> <O>the practical barriers to returning a container</O> <M>before changing the financial incentive</M>.	そこで主催者は金銭的動機を変える前に、返却への実務的障壁を調べた。	thereforeは両面の負担を受けた対応。before doingは実施順序。
+<S>They</S> <V>first extended</V> <O>the hours of two collection points</O> <M>and placed one near the station where visitors usually ended their journey through the market</M>.	彼らはまず回収所二か所の開設時間を延ばし、一つを客が市場巡りを終えることの多い駅の近くに置いた。	extendedとplacedは主語共通。whereはstationを修飾。
+<S>The return rate</S> <V>rose</V>, <M>although the trial was too short to show whether the improvement would persist across seasons</M>.	返却率は上がったが、試行は短すぎて季節を越えて改善が続くかは分からなかった。	althoughは譲歩。too ... toとwhether節で証拠の限界。
+
+<S>The market</S> <V>also changed</V> <O>its washing arrangement</O> <M>after staff noticed that small batches were being transported considerable distances several times a day</M>.	市場は少量ずつ日に数回かなりの距離を運んでいると職員が気づき、洗浄の仕組みも変更した。	afterが変更の契機。were being transportedは進行受動態。
+<S>Combining collections</S> <V>reduced</V> <O>the number of trips</O>, but <S>it</S> <V>required</V> <O>more storage space and a reliable method for keeping clean containers separate from used ones</O>.	回収をまとめると運搬回数は減ったが、より広い保管場所と清潔な容器と使用済み容器を確実に分ける方法が必要になった。	動名詞句が主語。keep A separate from B。
+<S>These changes</S> <V>were</V> <C>less visible than replacing a disposable box at the counter</C>, <M>yet they were essential to making repeated use possible</M>.	変更は店頭で使い捨て箱を替えるより見えにくかったが、繰り返し使うことを可能にする上で不可欠だった。	less ... thanの比較。essential toのtoは前置詞で後ろは動名詞。
+<S>Participating stalls</S> <V>needed</V> <O>clear responsibilities for counting, storing, and reporting losses</O>, <M>rather than a general promise to support sustainability</M>.	参加屋台には持続可能性を支持する一般的約束より、計数、保管、紛失報告について明確な責任が必要だった。	for以下は責任の内容。rather thanが実務と抽象的約束を対比。
+
+<S>Customers</S> <V>were asked</V> <phrase k="不定詞句">to describe their route after eating</phrase> <M>so that organizers could distinguish forgetting to return a container from being unable to find a convenient return point</M>.	客には食後の経路を説明してもらい、主催者が返却忘れと便利な返却所を見つけられない場合を区別できるようにした。	ask O to doの受動態。distinguish A from B。
+<S>Some visitors</S> <V>had left</V> <M>by a side entrance not covered by the original collection plan</M>.	一部の客は元の回収計画に含まれない脇の出口から出ていた。	not coveredはentranceを修飾する過去分詞。
+<S>A temporary collection box</S> <V>was tested</V> <M>there</M>, <M>with staff counting returns separately to see whether it recovered containers that would otherwise have been lost</M>.	そこで臨時回収箱を試し、それがなければ失われた容器を回収できるか分かるよう、職員は返却を別に数えた。	with O doingは付帯状況。otherwise haveは代替状況の帰結。
+<S>The result</S> <V>helped</V> <O>organizers</O> <phrase k="不定詞句">to prioritize collection changes instead of increasing the deposit immediately</phrase>.	結果は、預かり金を即座に上げる代わりに回収方法の変更を優先する助けになった。	help O to do。instead of doingは選ばなかった対応。
+<S>A return point</S> <V>could be</V> <C>close on a map</C> <M>yet inconvenient for someone carrying food, accompanying children, or trying to catch a departing train</M>.	地図上では近い返却所でも、食べ物を持つ人、子ども連れ、出発する列車に乗ろうとする人には不便な場合があった。	yetは距離と実際の利便性の対比。三つの分詞句がsomeoneを修飾。
+<S>Following actual journeys</S> <V>helped explain</V> <O>why good intentions alone had not produced the expected pattern of returns under the original collection point arrangement</O>.	実際の行動経路をたどることで、善意だけでは元の回収場所の配置で想定どおりの返却にならない理由を説明しやすくなった。	動名詞句が主語。why節はexplainの目的語。
+
+<S>The final public report</S> <V>listed</V> <O>returns and losses alongside the number of meals served</O> <M>and explained which costs and resource demands had not yet been measured</M>.	最終公開報告は食事数に返却と紛失を併記し、まだ測定していない費用や資源需要を説明した。	listedとexplainedは主語共通。which節は説明内容。
+<S>It</S> <V>did not claim</V> <O>that every reusable option was automatically better than every disposable one</O>.	全ての再利用の選択肢が全ての使い捨ての選択肢より自動的に優れているとは主張しなかった。	that節は否定された主張。everyによる一般化を避ける。
+<S>Instead</S>, <S>the project</S> <V>identified</V> <O>the conditions under which its own system might deliver the improvement it promised</O>.	代わりに、自分たちの仕組みが約束した改善を生む可能性のある条件を特定した。	under whichはconditionsを修飾。it promisedはimprovementを修飾。
+<S>A circular system</S> <V>had to be organized</V> <M>through repeated actions</M>, <M>not simply announced through the choice of an object</M>.	循環型の仕組みは、物を選んで宣言するだけでなく、繰り返す行動を通じ組み立てなければならなかった。	had to beは必要性の受動態。not simplyで宣言と運用を対比。
+# 10 予測を使うための練習
+<S>A fictional river town</S> <V>organized</V> <O>a public exercise using a computer simulation of heavy rainfall</O> <M>after residents asked how a proposed warning system would affect decisions about leaving their homes</M>.	架空の川沿いの町は、新しい警報制度が避難判断にどう影響するか住民に尋ねられ、豪雨の計算機シミュレーションを使う公開訓練を開いた。	usingはexerciseを修飾。how節はaskedの内容。
+<S>The simulation</S> <V>displayed</V> <O>possible water levels at several locations</O>, <M>allowing participants to explore a developing situation without being exposed to an actual emergency</M>.	模擬計算は各地の想定水位を示し、実際の緊急事態にさらされずに状況の進行を調べられるようにした。	allow O to do。without being exposedは受動態の動名詞。
+<S>Organizers</S> <V>emphasized</V> <O>that the exercise was intended to support discussion of decisions and responsibilities</O>, <M>rather than provide personal instructions for a future event</M>.	主催者は、この訓練は将来の出来事に個人向けの指示を与えるのでなく、判断と責任の議論を支えるものだと強調した。	that節は強調内容。rather thanで目的を限定。
+<S>Real emergencies</S> <V>would require</V> <O>residents to follow current guidance from the responsible authorities</O> <M>and consider the conditions actually present at the time</M>.	実際の緊急時には、住民は担当当局の最新の指示に従い、その時点で実在する条件を考慮する必要がある。	require O to do。followとconsiderは並列。
+
+<S>In the first scenario</S>, <S>a forecast line</S> <V>rose steadily</V> <M>toward a marked threshold</M> <M>before turning downward just short of it</M>.	最初の場面で予測線は基準値に向かい着実に上昇し、直前で下向きに転じた。	before doingは予測線の動きの順序。just short ofはわずかに届かない位置。
+<S>Some participants</S> <V>interpreted</V> <O>the ending</O> <C>as proof that waiting had been the correct response throughout the scenario</C>.	一部の参加者は、最後の状態を、その場面の間ずっと待機が正しかった証拠と解釈した。	interpret O as C。that節はproofの内容。
+<S>A facilitator</S> <V>asked</V> <O>them</O> <phrase k="不定詞句">to return to an earlier point when the direction of later rainfall had not yet been known</phrase>.	進行役は、後の降雨の方向がまだ分かっていなかった前の時点に戻るよう求めた。	ask O to do。when節はpointを修飾し、過去完了は情報の未確定。
+<g><S>A favorable outcome</S> <V>could not establish</V> <O>that the earlier decision had been reasonable on the information available then</O></g>.	好ましい結果だけでは、それ以前の判断が当時利用できた情報から見て妥当だったとは確定できなかった。	that節がestablishの内容。thenが結果を知る前の時点を指す。
+
+<S>The facilitator</S> <V>presented</V> <O>another version with the same early measurements</O> <M>but a different pattern of later rainfall</M>.	進行役は、初期の測定値は同じだが後の降雨パターンが異なる別版を示した。	withとbutで初期条件の共通性と後の違いを対比。
+<S>In that version</S>, <S>the line</S> <V>crossed</V> <O>the threshold</O>, <M>and a delayed response left less time for carrying out an organized plan</M>.	その版では線が基準値を越え、対応の遅れで計画的に行動する時間が減った。	andは二つの節を接続。for doingは残された時間の用途。
+<S>The exercise</S> <V>did not prove</V> <O>that leaving early was always the right answer</O>, <M>since moving people could itself involve costs and difficulties that varied among households</M>.	世帯によって人の移動自体に費用や困難があるため、早い避難が常に正解だと証明したわけではなかった。	sinceは理由。that節はdifficultiesを限定。
+<S>It</S> <V>showed</V> <O>why evaluating a process required more than judging it by the single outcome that happened to occur</O>.	訓練は、判断過程の評価には実際にたまたま起きた一つの結果で採点する以上のことが必要な理由を示した。	why節がshowedの内容。happen toは偶然の発生。
+
+<S>Participants</S> <V>then discussed</V> <O>what information should accompany a warning</O> <M>so that people could understand both its purpose and the uncertainty that remained</M>.	参加者は、人々が警報の目的と残る不確実性をともに理解するため、どんな情報を添えるべきか話し合った。	what節はdiscussedの目的語。so thatは情報提示の目的。
+<S>A number without an explanation</S> <V>might seem</V> <C>precise</C>, <M>yet leave residents unsure about when it would be updated or which office could answer a question</M>.	説明のない数値は精密に見えても、更新時期や質問に答える部署が住民には分からないままになり得た。	seem Cとleave O C。when節とwhich節が不確かな内容。
+<S>Several residents</S> <V>pointed out</V> <O>that receiving a warning was different from being able to act on it</O>.	数人の住民は、警報を受け取ることと行動できることは別だと指摘した。	that節の主語はreceiving。be different fromの後も動名詞。
+<S>Someone caring for a dependent relative</S> <V>might need</V> <O>help making arrangements long before a message became urgent</O>.	介助が必要な親族の世話をする人には、通知が切迫するずっと前から準備の援助が必要かもしれなかった。	caringはSomeoneを修飾。help doingとlong before。
+
+<S>The town</S> <V>used</V> <O>these comments</O> <phrase k="不定詞句">to revise the communication plan</phrase>, <M>including contact responsibilities and routes for requesting assistance</M>.	町はその意見を用い、連絡責任や援助を求める経路を含む伝達計画を見直した。	use O to do。includingは改訂内容の補足。
+<S>It</S> <V>also recorded</V> <O>which assumptions had been built into each scenario</O>, <M>so that later participants would not mistake a simplified exercise for a complete representation of the town</M>.	後の参加者が単純化した訓練を町の完全な再現と誤認しないよう、各場面に組み込んだ仮定も記録した。	which節は目的語。so thatは仮定記録の目的、mistake A for B。
+<S>The simulation</S> <V>could not predict</V> <O>every combination of rainfall, infrastructure problems, and individual circumstances</O>.	模擬計算では、降雨、基盤設備の問題、個人の事情の全組み合わせは予測できなかった。	could notとeveryで網羅的予測の限界を示す。
+<S>Making those limits explicit</S> <V>helped</V> <O>participants</O> <phrase k="不定詞句">to use the exercise for its intended purpose</phrase> <M>without treating its omissions as evidence that omitted problems did not matter</M>.	限界の明示は、省略された問題が重要でない証拠として省略を扱うことなく、本来の目的に訓練を使う助けになった。	動名詞句が主語。help O to doとtreat A as B。
+
+<S>At a second session</S>, <S>participants</S> <V>were asked</V> <phrase k="不定詞句">to write down the reason for each choice before seeing how the scenario ended</phrase>.	二回目の会合では、場面の結末を見る前に各選択の理由を書き留めるよう参加者に求めた。	before doingは結果を知らない時点の記録。
+<S>They</S> <V>later compared</V> <O>those notes</O> <M>with their memories of what they had believed at the time</M>.	後で、そのメモと当時何を信じていたかの記憶を比較した。	compare A with B。what節はmemoriesの内容。
+<S>Several people</S> <V>found</V> <O>that knowing the ending made their earlier uncertainty difficult to recall accurately</O>.	数人は、結末を知ると以前の不確実さを正確に思い出しにくくなると気づいた。	that節内の主語はknowing。make O C。
+<S>The written reasons</S> <V>provided</V> <O>a basis for reviewing the decision</O> <M>without silently replacing the information available earlier with knowledge acquired only afterward</M>.	理由の記録は、以前の情報を後から得た知識に黙って置き換えることなく、判断を検討する基盤になった。	without doingは検討時に避ける偏り。replace A with B。
+<S>The notes</S> <V>also identified</V> <O>questions that participants had wanted answered before choosing</O>.	メモは選ぶ前に参加者が答えを欲しかった問いも特定した。	that節はquestionsを修飾。before choosingは意思決定前。
+<S>Organizers</S> <V>used</V> <O>these questions</O> <phrase k="不定詞句">to improve later explanations about responsibilities and timing</phrase>, <M>rather than treating uncertainty as a personal failure that more confident language would automatically remove</M>.	主催者は不確実さを、自信ある言葉で自動的に消える個人的失敗と扱わず、その問いを後の責任と時機についての説明の改善に使った。	use O to do。that節はfailureを修飾。
+
+<S>The most useful result</S> <V>was not</V> <C>a shared confidence that the computer would always give the right answer</C>.	最も有用な成果は、計算機が常に正解を出すという共通の確信ではなかった。	that節はconfidenceを説明する同格節。
+<S>It</S> <V>was</V> <C>a clearer understanding of which decisions needed support, who should provide it, and how the process could be reviewed after new information arrived</C>.	それは、どの判断に支援が要り、誰が支援を提供し、新情報の後にどう過程を見直せるかについて、より明確な理解だった。	三つの間接疑問がunderstandingの内容を並列に示す。

@@ -1,0 +1,86 @@
+{
+  "batch": "l3-f03-10",
+  "humanReviewed": 0,
+  "passages": [
+    {
+      "id": "reading-l3-f03-01",
+      "words": 393,
+      "completedWords": 401,
+      "paragraphs": 6,
+      "questions": 6,
+      "sentences": 23
+    },
+    {
+      "id": "reading-l3-f03-02",
+      "words": 413,
+      "completedWords": 422,
+      "paragraphs": 6,
+      "questions": 6,
+      "sentences": 24
+    },
+    {
+      "id": "reading-l3-f03-03",
+      "words": 436,
+      "completedWords": 451,
+      "paragraphs": 6,
+      "questions": 7,
+      "sentences": 26
+    },
+    {
+      "id": "reading-l3-f03-04",
+      "words": 462,
+      "completedWords": 479,
+      "paragraphs": 6,
+      "questions": 6,
+      "sentences": 24
+    },
+    {
+      "id": "reading-l3-f03-05",
+      "words": 483,
+      "completedWords": 493,
+      "paragraphs": 6,
+      "questions": 5,
+      "sentences": 25
+    },
+    {
+      "id": "reading-l3-f03-06",
+      "words": 490,
+      "completedWords": 506,
+      "paragraphs": 6,
+      "questions": 7,
+      "sentences": 24
+    },
+    {
+      "id": "reading-l3-f03-07",
+      "words": 506,
+      "completedWords": 528,
+      "paragraphs": 6,
+      "questions": 6,
+      "sentences": 26
+    },
+    {
+      "id": "reading-l3-f03-08",
+      "words": 541,
+      "completedWords": 558,
+      "paragraphs": 6,
+      "questions": 8,
+      "sentences": 26
+    },
+    {
+      "id": "reading-l3-f03-09",
+      "words": 562,
+      "completedWords": 575,
+      "paragraphs": 6,
+      "questions": 7,
+      "sentences": 27
+    },
+    {
+      "id": "reading-l3-f03-10",
+      "words": 562,
+      "completedWords": 580,
+      "paragraphs": 7,
+      "questions": 8,
+      "sentences": 28
+    }
+  ]
+}

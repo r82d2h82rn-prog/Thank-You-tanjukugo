@@ -18,8 +18,7 @@
         10,
         10,
         10
-      ],
-      "sentenceAlignedTranslationAndSyntaxEnriched": 15
+      ]
     },
     "2": {
       "authored": 100,
@@ -39,17 +38,18 @@
         10,
         10,
         10
-      ],
-      "sentenceAlignedTranslationAndSyntaxEnriched": 10
+      ]
     },
     "3": {
-      "authored": 10,
-      "structurallyVerified": 10,
-      "difficultyRated": 10,
-      "aiEditoriallyChecked": 10,
+      "authored": 30,
+      "structurallyVerified": 30,
+      "difficultyRated": 30,
+      "aiEditoriallyChecked": 30,
       "independentlyHumanReviewed": 0,
       "target": 100,
       "formats": [
+        10,
+        10,
         10,
         0,
         0,
@@ -57,11 +57,8 @@
         0,
         0,
         0,
-        0,
-        0,
         0
-      ],
-      "sentenceAlignedTranslationAndSyntaxEnriched": 10
+      ]
     },
     "4": {
       "authored": 10,
@@ -81,12 +78,10 @@
         0,
         0,
         0
-      ],
-      "sentenceAlignedTranslationAndSyntaxEnriched": 10
+      ]
     }
   },
   "protectedExistingRecords": 200,
   "complete": false,
-  "note": "構造検証と意味・難易度の編集確認は別工程。既存200題の評価は自動一次評価、確定品質確認は未完了。",
-  "currentPriority": "LEVEL2/3/4の06〜10、計15題の補完と検証が完了。累計45題937文。保存と本番反映を確認する。正式人間校閲・全端末実機確認は未完了。"
+  "note": "構造検証と意味・難易度の編集確認は別工程。既存200題の評価は自動一次評価、確定品質確認は未完了。"
 }
