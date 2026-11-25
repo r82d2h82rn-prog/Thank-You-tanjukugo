@@ -41,17 +41,17 @@
       ]
     },
     "3": {
-      "authored": 30,
-      "structurallyVerified": 30,
-      "difficultyRated": 30,
-      "aiEditoriallyChecked": 30,
+      "authored": 40,
+      "structurallyVerified": 40,
+      "difficultyRated": 40,
+      "aiEditoriallyChecked": 40,
       "independentlyHumanReviewed": 0,
       "target": 100,
       "formats": [
         10,
         10,
         10,
-        0,
+        10,
         0,
         0,
         0,

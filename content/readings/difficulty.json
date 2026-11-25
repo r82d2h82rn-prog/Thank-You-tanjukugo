@@ -4252,6 +4252,116 @@
       "method": "AI rubric, author assessed",
       "status": "ai_assessed_human_pending",
       "rationale": "複数段落の主張・条件・反論を統合し、文脈に合う語句と推論範囲を判断する。"
+    },
+    "reading-l3-f04-01": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "事例の展開と結論を統合し、部分的な題名・過大な一般化・論旨の逆転を区別する。"
+    },
+    "reading-l3-f04-02": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "事例の展開と結論を統合し、部分的な題名・過大な一般化・論旨の逆転を区別する。"
+    },
+    "reading-l3-f04-03": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "事例の展開と結論を統合し、部分的な題名・過大な一般化・論旨の逆転を区別する。"
+    },
+    "reading-l3-f04-04": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "事例の展開と結論を統合し、部分的な題名・過大な一般化・論旨の逆転を区別する。"
+    },
+    "reading-l3-f04-05": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "事例の展開と結論を統合し、部分的な題名・過大な一般化・論旨の逆転を区別する。"
+    },
+    "reading-l3-f04-06": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "事例の展開と結論を統合し、部分的な題名・過大な一般化・論旨の逆転を区別する。"
+    },
+    "reading-l3-f04-07": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "事例の展開と結論を統合し、部分的な題名・過大な一般化・論旨の逆転を区別する。"
+    },
+    "reading-l3-f04-08": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "事例の展開と結論を統合し、部分的な題名・過大な一般化・論旨の逆転を区別する。"
+    },
+    "reading-l3-f04-09": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "事例の展開と結論を統合し、部分的な題名・過大な一般化・論旨の逆転を区別する。"
+    },
+    "reading-l3-f04-10": {
+      "scores": {
+        "vocabulary": 3,
+        "syntax": 4,
+        "logic": 4,
+        "questions": 4
+      },
+      "method": "AI rubric, author assessed",
+      "status": "ai_assessed_human_pending",
+      "rationale": "事例の展開と結論を統合し、部分的な題名・過大な一般化・論旨の逆転を区別する。"
     }
   }
 }
